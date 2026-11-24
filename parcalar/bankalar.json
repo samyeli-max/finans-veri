@@ -1,0 +1,90 @@
+{
+ "alan": "bankalar",
+ "tarih": "2026-11-23",
+ "kampanyalar": [
+  {
+   "kurum": "İş Bankası",
+   "kampanya": "Size özel otomatik fatura ödemelerinde aylık 1.000 TL'ye varan iade",
+   "tur": "cashback",
+   "fayda": "Aylık 1.000 TL'ye varan iade (başlıktan)",
+   "baslangic": null,
+   "bitis": null,
+   "kosul": "(teyitsiz) Resmi sayfa okunamadı (WebFetch onayı alınamadı); bilgi arama sonucu başlığından. Başlıkta 'size özel' geçiyor: kişiye/hedef kitleye özel olabilir; otomatik fatura ödeme talimatı şartı. Tarih, tutar ve şartları sayfadan kontrol et.",
+   "teyitsiz": true,
+   "uygunluk": "kontrol",
+   "link": "https://www.isbank.com.tr/kampanyalar/size-ozel-otomatik-fatura-odemelerinizde-aylik-bin-turk-lirasina-varan-iade",
+   "oneCikan": false,
+   "kaynak": "resmi",
+   "etiketler": [
+    "fatura"
+   ]
+  },
+  {
+   "kurum": "İş Bankası",
+   "kampanya": "Bir fatura talimatı daha verene 3 ay ücretsiz Pazarama Plus üyeliği",
+   "tur": "ücretsiz hizmet",
+   "fayda": "3 ay ücretsiz Pazarama Plus üyeliği (başlıktan)",
+   "baslangic": null,
+   "bitis": null,
+   "kosul": "(teyitsiz) Resmi sayfa okunamadı (WebFetch onayı alınamadı); bilgi arama sonucu başlığından. Ek bir fatura talimatı verme şartı; tarih ve diğer koşullar doğrulanamadı.",
+   "teyitsiz": true,
+   "uygunluk": "kontrol",
+   "link": "https://www.isbank.com.tr/kampanyalar/bir-fatura-talimati-daha-verin-3-ay-ucretsiz-pazarama-plus-uyeligi-kazanin",
+   "oneCikan": false,
+   "kaynak": "resmi",
+   "etiketler": [
+    "abonelik",
+    "fatura",
+    "pazarama"
+   ]
+  },
+  {
+   "kurum": "İş Bankası",
+   "kampanya": "Fatura talimatlarına 750 TL ödül (altı ödeme şartı)",
+   "tur": "diğer",
+   "fayda": "750 TL ödül (başlıktan; ödül türü doğrulanamadı)",
+   "baslangic": null,
+   "bitis": null,
+   "kosul": "(teyitsiz) Haber başlığına göre iki talimat yetmiyor, altı ödeme şartı var; resmi sayfa okunamadı, ödül türü ve tarih doğrulanamadı.",
+   "teyitsiz": true,
+   "uygunluk": "kontrol",
+   "link": "https://www.isinolsa.com/?p=74319",
+   "oneCikan": false,
+   "kaynak": "derleme",
+   "etiketler": [
+    "fatura"
+   ]
+  },
+  {
+   "kurum": "QNB",
+   "kampanya": "Fatura talimatlarına 1.000 TL ParaPuan (5 talimat yetmiyor, 2027 şartı var)",
+   "tur": "puan",
+   "fayda": "1.000 TL ParaPuan (başlıktan)",
+   "baslangic": null,
+   "bitis": null,
+   "kosul": "(teyitsiz) Haber başlığına göre 5 fatura talimatı yeterli değil, 2027'ye uzanan ek şart var; resmi sayfa okunamadı, tarih ve tam koşullar doğrulanamadı.",
+   "teyitsiz": true,
+   "uygunluk": "kontrol",
+   "link": "https://www.isinolsa.com/qnbden-1000-tl-parapuan-5-fatura-talimati-yetmiyor-2027-sarti-var/",
+   "oneCikan": false,
+   "kaynak": "derleme",
+   "etiketler": [
+    "fatura"
+   ]
+  },
+  {
+   "kurum": "Albaraka",
+   "kampanya": "QR kodlu ödemelerde 300 TL'ye varan Worldpuan",
+   "tur": "puan",
+   "fayda": "300 TL'ye varan Worldpuan (başlıktan)",
+   "baslangic": null,
+   "bitis": null,
+   "kosul": "(teyitsiz) Resmi sayfa okunamadı (WebFetch onayı alınamadı); bilgi arama sonucu başlığından. Worldpuan genelde Albaraka kredi kartıyla kazanılır; banka kartıyla geçerli mi, tarih ve şartlar doğrulanamadı.",
+   "teyitsiz": true,
+   "uygunluk": "kontrol",
+   "link": "https://www.albaraka.com.tr/en/campaigns/detail/earn-up-to-300-tl-in-world-points-on-your-qr-code-payments",
+   "oneCikan": false,
+   "kaynak": "resmi"
+  }
+ ]
+}

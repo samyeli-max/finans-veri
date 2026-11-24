@@ -1,0 +1,1372 @@
+{
+ "alan": "ekgelir",
+ "tarih": "2026-11-24",
+ "kaynaklar": [
+  {
+   "ad": "Arkadaşını getir (tüm bankalar / fintech / kripto)",
+   "url": null,
+   "durum": "ok",
+   "bulunan": 22
+  },
+  {
+   "ad": "Yeni müşteri / hoş geldin bonusları (faizsiz)",
+   "url": null,
+   "durum": "ok",
+   "bulunan": 35
+  },
+  {
+   "ad": "Anket uygulamaları (Toluna, YouGov, i-Say, Ankettime vb.)",
+   "url": null,
+   "durum": "ok",
+   "bulunan": 10
+  },
+  {
+   "ad": "Görev yap kazan uygulamaları",
+   "url": null,
+   "durum": "ok",
+   "bulunan": 4
+  },
+  {
+   "ad": "Fiş / fatura yükle kazan",
+   "url": null,
+   "durum": "ok",
+   "bulunan": 7
+  },
+  {
+   "ad": "Trendyol satıcı / ikinci el",
+   "url": "https://partner.trendyol.com",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Bionluk / Armut (freelance)",
+   "url": "https://bionluk.com",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Getir / Trendyol Go kuryelik ve kazanç",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Banka / fintech oyunları ve çekilişler",
+   "url": null,
+   "durum": "ok",
+   "bulunan": 10
+  },
+  {
+   "ad": "Akbank",
+   "url": "https://www.akbank.com/kampanyalar/davet-et-kazan",
+   "durum": "ok",
+   "bulunan": 6
+  },
+  {
+   "ad": "Albaraka",
+   "url": "https://www.albaraka.com.tr/tr/kampanyalar/detay/yakinini-davet-et-kampanyasi",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Allianz",
+   "url": "https://www.allianz.com.tr/tr_TR/faaliyetlerimiz/kampanyalar/davet-et-kazan.html",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Amazon TR",
+   "url": "https://indigodergisi.com/2026/11/e-ticaret-kasim-indirimleri-2026/",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Amazon TR (satıcı)",
+   "url": "https://www.foreks.com/haber/detay/6ac608c195016b5817e669d9/FRKS/tr/amazon-turkiye-yeni-saticilara-avantajli-firsatlar-sundugunu-duyurdu-07-10-26/",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Bana Bak",
+   "url": "https://www.sikayetvar.com/banabak",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Binance TR",
+   "url": "https://www.binance.tr/tr/blog",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "BtcTurk",
+   "url": "https://www.dha.com.tr/ekonomi/btcturkten-yeni-yatirimcilara-hediye-ceki-kampanyasi-2833621",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "BtcTurk Hisse",
+   "url": "https://www.dha.com.tr/ekonomi/btcturkten-yeni-yatirimcilara-hediye-ceki-kampanyasi-2833621",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Çek Kazan (Justsnap)",
+   "url": "https://apps.apple.com/tr/app/%C3%A7ek-kazan/id1175448426",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "DenizBank",
+   "url": "https://www.denizbank.com",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Dünya Katılım",
+   "url": "https://dunyakatilim.com.tr/kampanyalar/davetetkazan",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Easycep",
+   "url": "https://turkishairlines.com/ar-bh/miles-and-smiles/program-partners/shopping-and-living/easycep",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Fiverr",
+   "url": "https://www.fiverr.com/partnerships/affiliates",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Garanti BBVA",
+   "url": "https://www.garantibbva.com.tr/kampanyalar",
+   "durum": "ok",
+   "bulunan": 6
+  },
+  {
+   "ad": "Gate TR",
+   "url": "https://www.gate.tr/announcements/activity",
+   "durum": "ok",
+   "bulunan": 5
+  },
+  {
+   "ad": "Google Opinion Rewards",
+   "url": "https://support.google.com/opinionrewards/answer/6322283",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Hayat Finans",
+   "url": "https://forum.donanimhaber.com/hayat-finans-davet-kodu-250-tl-hediye--162003555",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Hayat Pay (fiş yükleme)",
+   "url": "https://www.posta.com.tr/galeri/sirket-ve-bankalarin-cep-dostu-uygulamalari-kampanyalari-yakalayan-kazaniyor-2960188",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Hepsiburada (satıcı / Eskiyi Kapında Yenile)",
+   "url": "https://www.cnbce.com/sirket-haberleri/75-bin-kadin-girisimciye-ulasti-hepsiburadadan-dikkat-ceken-bilanco-h42188",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Hopi",
+   "url": "https://hopi.com.tr/kampanya/150-hediye-paracik-3-e-varan-paracik/1685605",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "HSBC",
+   "url": "https://www.hsbc.com.tr/medium/document-file-8304.vsf",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "ING",
+   "url": "https://hesap.com/bankalar/ing-bank",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "İş Bankası",
+   "url": "https://www.isbank.com.tr/kampanyalar/is-bankasini-arkadasiniza-onerin-maxipuan-kazanin",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "İş Bankası (pazaryeri hak ediş)",
+   "url": "https://www.isbank.com.tr/kampanyalar/n11-hak-edis-odemesine-maxipuan-kampanyasi",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Kuveyt Türk",
+   "url": "https://www.kuveytturk.com.tr/en/campaigns/campaign-individual/become-a-customer-campaign",
+   "durum": "ok",
+   "bulunan": 4
+  },
+  {
+   "ad": "LifePoints",
+   "url": "https://paidfromsurveys.com/best-paid-survey-sites-for-turkey",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "MediaMarkt",
+   "url": "https://www.mediamarkt.com.tr/tr/specials/kasim-puan-cekilis-kampanyasi",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Midas",
+   "url": "https://www.getmidas.com/ayricaliklar/",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Migros Money",
+   "url": "https://www.migros.com.tr/migros-sanal-markete-hos-geldin-x-1fac",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "n11 (satıcı)",
+   "url": "https://birfatura.com/n11-is-ortagim-kampanyasi/",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Obilet",
+   "url": "https://www.obilet.com/kampanyalar/15inci-yila-ozel-cekilis",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "OKX TR",
+   "url": "https://tr.okx.com/en/help/new-user-bonus-program-terms-and-conditions-tr",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "ON Dijital",
+   "url": "https://hesap.com/bankalar/on",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Opinion World",
+   "url": "https://paidfromsurveys.com/best-paid-survey-sites-for-turkey",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Papara",
+   "url": "https://www.papara.com/en/invitation-friends-lp",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Pazarama",
+   "url": "https://indigodergisi.com/2026/11/e-ticaret-kasim-indirimleri-2026/",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Prime Opinion",
+   "url": "https://paidfromsurveys.com/best-paid-survey-sites-for-turkey",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Qumpara",
+   "url": "https://www.qumpara.com/kampanyalar",
+   "durum": "ok",
+   "bulunan": 3
+  },
+  {
+   "ad": "Qumpara (DonanımHaber başlığı)",
+   "url": "https://forum.donanimhaber.com/qumpara-kampanyalari--157946672-35",
+   "durum": "ok",
+   "bulunan": 3
+  },
+  {
+   "ad": "Roamler",
+   "url": "https://apps.apple.com/tr/app/roamler-earn-money/id440588804?l=tr",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Samsung (takas desteği)",
+   "url": "https://images.samsung.com/is/content/samsung/assets/tr/terms-and-conditions/12295_D2C_FF8_All_Legal_Nov_2.pdf",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Şekerbank",
+   "url": null,
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Shell ClubSmart",
+   "url": "https://www.shell.com.tr/suruculer/shellden-avantajli-kampanyalar/shell-mobil-uygulamamiz-ile-200-tl-degerinde-yakit-puan-hediye.html",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Stablex",
+   "url": "https://stablex.com.tr/kampanyalar",
+   "durum": "ok",
+   "bulunan": 3
+  },
+  {
+   "ad": "Surveyeah",
+   "url": "https://paidfromsurveys.com/best-paid-survey-sites-for-turkey",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Teklifimgelsin (TG Para banka kampanyaları)",
+   "url": "https://teklifimgelsin.com/tg-para-kazan",
+   "durum": "ok",
+   "bulunan": 3
+  },
+  {
+   "ad": "Toluna (Şikayetvar)",
+   "url": "https://www.sikayetvar.com/toluna",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Tosla",
+   "url": "https://tosla.com",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Trendyol",
+   "url": "https://indigodergisi.com/2026/11/e-ticaret-kasim-indirimleri-2026/",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Trendyol (satıcı)",
+   "url": "https://www.haberturk.com/e-ticarete-gireceklere-ozel-destek-3875651-teknoloji",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Türk Telekom",
+   "url": "https://bireysel.turktelekom.com.tr/mobil/basvuru-suresi-bitenkampanyalar/Sayfalar/ArkadasiniGetirKampanyasi.aspx",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Turkcell",
+   "url": "https://www.turkcell.com.tr/kampanyalar",
+   "durum": "ok",
+   "bulunan": 3
+  },
+  {
+   "ad": "Turkcell / Pasaj",
+   "url": "https://www.turkcell.com.tr/kampanya/arkadasini-davet-et-kazan/",
+   "durum": "ok",
+   "bulunan": 3
+  },
+  {
+   "ad": "Türkiye Finans",
+   "url": "https://www.enuygunfinans.com/kampanyalar/yeni-musterilere-ozel/turkiyefinans-kampanya/",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Vakıf Katılım",
+   "url": "https://forum.donanimhaber.com/vakif-katilim-kampayalar--161473509-3",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Yandex Tasks",
+   "url": "https://yandex.com/support/global-tasks/en/money/papara",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Yapı Kredi",
+   "url": "https://www.yapikredi.com.tr/kampanyalar",
+   "durum": "ok",
+   "bulunan": 7
+  },
+  {
+   "ad": "YouGov (Şikayetvar)",
+   "url": "https://www.sikayetvar.com/yougov",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Alternatif Bank",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Anadolubank",
+   "url": "https://forum.donanimhaber.com/anadolubank-li-ol-mudi-degil-mutlu-ol--161229427",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Anket Cepte",
+   "url": "https://apps.apple.com/app/id1529805127",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "AnketimGelsin / TG Para (Teklifimgelsin)",
+   "url": "https://teklifimgelsin.com/anketimgelsin",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "AttaPoll",
+   "url": "https://www.sikayetvar.com/attapoll",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Bionluk",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "BiTaksi (sürücü)",
+   "url": "https://bitaksi.com/en/become-a-driver",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Burgan Bank",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Chippin",
+   "url": "https://www.opet.com.tr/chippin-yeni-uyelik-kampanyasi",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Çiçeksepeti (satıcı)",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "CoinTR",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Colendi Bank",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "DahaDaha",
+   "url": "https://forum.donanimhaber.com/daha-daha-davet-kodu--161960820",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Dolap",
+   "url": "https://dolap-help.freshdesk.com/support/solutions/articles/150000041487-dolap-ta-al-c-hizmet-bedeli-sat-c-komisyonu",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "DonanımHaber (para kazanma siteleri 2026)",
+   "url": "https://forum.donanimhaber.com/sadece-oturarak-para-kazanmanin-yollari-turk-para-kazanma-siteleri-2026--160979362",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Enuygun Finans banka müşterisi ol",
+   "url": "https://www.enuygunfinans.com/mevduat/banka-musterisi-ol/",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Fibabanka",
+   "url": "https://teklifimgelsin.com/ayin-urunleri/kiraz-hesap-tg-para",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Fups Bank",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Gardrops",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Getir",
+   "url": "https://forum.donanimarsivi.com/posts/11570783/",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Getir (esnek kurye)",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Getir / Getir Finans",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Getmobil",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Gizli müşteri programları",
+   "url": "https://www.eleman.net/is-rehberi/nedir/gizli-musteri-nedir-ve-nasil-olunur-h19608",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Halkbank",
+   "url": "https://www.halkbank.com.tr/tr/dijital-bankacilik/mobil-bankacilik/halkbank-kampuste/kampanyalar",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Hayat Pay",
+   "url": "https://hayatpay.com.tr/kampanya/arkadasini-getir-hem-sen-hem-arkadasin-500-hayatpara-kazanin",
+   "durum": "kampanya-yok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Hepsiburada",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Hepsipay",
+   "url": "https://www.hepsiburada.com/staticpage/868643015010421",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Hesapkurdu uzaktan müşteri edinimi",
+   "url": "https://www.hesapkurdu.com/uzaktan-musteri-edinimi",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "ICBC Turkey",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Icrypex",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "ininal",
+   "url": "https://www.ininal.com/en/invite-your-friend-to-ininal-earn-15-tl-and-your-friend-earns-15-tl-too",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Ipsos Panelist Türkiye / i-Say",
+   "url": "https://www.ipsos.com/tr-tr/topic/paneller",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "İşin Olsa",
+   "url": "https://www.isinolsa.com",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "karekod.org fatura talimatı derlemesi",
+   "url": "https://www.karekod.org/blog/?p=62540",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Letgo",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Macellan",
+   "url": "https://macellan.app/en/for-you",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Macellan / Paraşüt",
+   "url": "https://macellan.app/en",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Martı TAG (sürücü)",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "MediaMarkt (Eski Cihazını Yenile)",
+   "url": "https://www.mediamarkt.com.tr/tr/shop/eski-cihazini-yenile.html",
+   "durum": "kampanya-yok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Midas Kripto",
+   "url": "https://www.getmidas.com/ayricaliklar/",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Migros Hemen (kurye)",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "MoneyPay",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "n11",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Odeabank",
+   "url": "https://www.odeabank.com.tr/en/campaigns/invite-your-friends-and-earn-up-to-30000-tl-in-cash-rewards-28415",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Opet / Opet Puan",
+   "url": "https://www.opet.com.tr/opet-payli-olan-herkes-kazaniyor",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Özel Ders Alanı",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Param",
+   "url": "https://param.com.tr",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Paribu",
+   "url": "https://destek.paribu.com/hc/tr/articles/7963842122138-Referans-Program%C4%B1-Ko%C5%9Fullar%C4%B1",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Paycell",
+   "url": "https://paycell.com.tr/kampanyalar/daha-cok-davet-et-daha-cok-kazan",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Pazarama (satıcı)",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Premise",
+   "url": "https://www.sikayetvar.com/premise",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Pttcell / PTT",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "QNB",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "SağlamPay",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Sahibinden",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Superprof",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Tami",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "TEB",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Teknosa (değiş tokuş)",
+   "url": "https://www.teknosa.com/iphone-degis-tokus-c-5786",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "TGM Panel",
+   "url": "https://tgm.helpscoutdocs.com/article/2753-arastirmam-icin-nasil-odeme-alacagim",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "TOM Katılım",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Trendyol Go (kurye)",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Triaba",
+   "url": "https://ca.trustpilot.com/review/www.triaba.com",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Türk Telekom Kazandıran Adımlar (Chip haber)",
+   "url": "https://www.chip.com.tr/haber/turk-telekom-adim-hedeflerini-odule-donusturuyor_184177.html",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Turkcell BiP Kullan Kazan",
+   "url": "https://www.turkcell.com.tr/kampanyalar/mobil-hat-data-hatti-kampanyalari/diger-kampanyalarimiz/bip-yukle-kazan-kampanyasi",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Turkcell (Eski Telefonunu Sat / Eskisini Getir Yenisini Götür)",
+   "url": "https://www.turkcell.com.tr/kampanya/eski-telefonunu-sat/",
+   "durum": "kampanya-yok",
+   "bulunan": 3
+  },
+  {
+   "ad": "Uber (sürücü tavsiye programı)",
+   "url": "https://www.uber.com/tr/tr/drive/basics/how-referrals-work/",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "VakıfBank",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "WhiteBIT TR",
+   "url": "https://www.dha.com.tr/ekonomi/whitebit-trde-kripto-isleminin-yuzde-20si-hediye-2942696",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Yemeksepeti",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Yemeksepeti (kurye)",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Youthall",
+   "url": "https://www.youthall.com/tr/is-ilanlari/part-time/",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Ziraat Bankası",
+   "url": "https://www.ziraatbank.com.tr/tr/kampanyalar/ziraat-mobil-musteri-avantajlar",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Ziraat Katılım",
+   "url": "https://forum.donanimhaber.com/ziraat-katilim-bankkart-troy-kart-google-play-kampanyasi--161944250",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "ZiraatPay",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Anadolu Hayat Emeklilik",
+   "url": "https://www.anadoluhayat.com.tr/kampanyalar/detay/cekilisle-pazarama-hediye-ceki-odullu-ek-katki-payi-kampanyasi",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Ankettime",
+   "url": null,
+   "durum": "ulasilamadi",
+   "sebep": "arama-sonucsuz",
+   "bulunan": 0
+  },
+  {
+   "ad": "Armut",
+   "url": "https://armut.com/profesyonel-uye-ol-29011",
+   "durum": "ulasilamadi",
+   "sebep": "site-hatasi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Bitlo",
+   "url": "https://www.bitlo.com/kampanya/yeni-uyelere-1000-tl-kampanyasi",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi",
+   "bulunan": 0
+  },
+  {
+   "ad": "BNP Paribas Cardif Emeklilik",
+   "url": "https://www.sigortamnews.com/bnp-paribas-cardif-bes-kampanyasi-31-aralika-uzaniyor",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Bybit TR",
+   "url": "https://www.bybit.tr/en-TR/referral",
+   "durum": "ulasilamadi",
+   "sebep": "site-hatasi",
+   "bulunan": 1
+  },
+  {
+   "ad": "Ekşi Sözlük",
+   "url": "https://eksisozluk.com/entry/172079710",
+   "durum": "ulasilamadi",
+   "sebep": "site-hatasi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Emlak Katılım",
+   "url": null,
+   "durum": "ulasilamadi",
+   "sebep": "arama-sonucsuz",
+   "bulunan": 0
+  },
+  {
+   "ad": "Enpara",
+   "url": "https://www.enuygunfinans.com/kampanyalar/kredi-karti/enparacom-tavsiyelerinizle-buyuyoruz/",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi",
+   "bulunan": 0
+  },
+  {
+   "ad": "HDI Fiba Emeklilik",
+   "url": "https://www.hdifibaemeklilik.com.tr/kampanya/carrefoursa",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi",
+   "bulunan": 0
+  },
+  {
+   "ad": "kartavantaj.com (Kazandıran Adımlar)",
+   "url": "https://kartavantaj.com/kampanya/turk-telekom-kazandiran-adimlar-kampanyasi",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi",
+   "bulunan": 0
+  },
+  {
+   "ad": "kimkazandi.com (derleme)",
+   "url": "https://www.kimkazandi.com/cekilisler",
+   "durum": "ulasilamadi",
+   "sebep": "robots",
+   "bulunan": 0
+  },
+  {
+   "ad": "MetLife Emeklilik",
+   "url": "https://www.metlife.com.tr/kampanya-kosullari/BES_A101/",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Poll Pay",
+   "url": null,
+   "durum": "ulasilamadi",
+   "sebep": "arama-sonucsuz",
+   "bulunan": 0
+  },
+  {
+   "ad": "r10.net (ON davet konusu)",
+   "url": "https://www.r10.net/hediye-promosyon-kazanimi/4934579-500-tl-nakit-500-tl-migros-ceki-kazan.html",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Şikayetvar (ING davet)",
+   "url": "https://www.sikayetvar.com/ing/promosyon/davet-et",
+   "durum": "ulasilamadi",
+   "sebep": "robots",
+   "bulunan": 0
+  },
+  {
+   "ad": "Türkiye Hayat Emeklilik",
+   "url": "https://www.turkiyesigorta.com.tr/aktif-kampanyalar/3500-tl-ek-fayda-kampanyasi",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi",
+   "bulunan": 0
+  },
+  {
+   "ad": "UPT",
+   "url": "https://www.uption.com.tr/en/en-son-kampanyalar/arkadasini-davet-et",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi",
+   "bulunan": 1
+  },
+  {
+   "ad": "Yapı Kredi kampanya 257241 / 255891",
+   "url": "https://www.yapikredi.com.tr/kampanyalar/detay/257241",
+   "durum": "ulasilamadi",
+   "sebep": "site-hatasi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Yapı Kredi / Worldcard",
+   "url": "https://www.yapikredi.com.tr/kampanyalar",
+   "durum": "ulasilamadi",
+   "sebep": "site-hatasi",
+   "bulunan": 1
+  },
+  {
+   "ad": "Ziraat Dinamik",
+   "url": "https://hesap.com/bankalar/ziraat-dinamik",
+   "durum": "ulasilamadi",
+   "sebep": "arama-sonucsuz",
+   "bulunan": 0
+  },
+  {
+   "ad": "A1 Capital",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "AgeSA",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "AHL Pay",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Alternatif Menkul",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Ata Yatırım",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Banka/telekom uygulamalarındaki görev programları",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Bilendi / Meinungsort",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Bilira",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Bitexen",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "CarrefourSA Kart",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Colendi",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "DenizPay",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Dyor",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Fişmatik",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Fups / Fupscard",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Garanti BBVA Emeklilik",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Garanti BBVA Kripto",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Garanti BBVA Yatırım",
+   "url": "https://www.garantibbvayatirim.com.tr",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Gedik Yatırım",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Getir Finans",
+   "url": "https://www.getirfinans.com/kampanyalar/ssport/",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Halkbank / Paraf",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Hayhay",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Hopi (fiş yükleme)",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 1
+  },
+  {
+   "ad": "İnfo Yatırım / Tacirler / Osmanlı / Halk Yatırım / Yapı Kredi Yatırım / Deniz Yatırım / Ak Yatırım / Colendi Menkul",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "İş Yatırım",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "iyzico",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Jüzdan",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Katılım Emeklilik",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Kripto platformları (BtcTurk, Binance TR, Paribu, OKX TR, Bybit TR vb.) yarışmaları",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Kriptrade",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Kuantist",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "KuCoin TR",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Kuveyt Türk Yatırım",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Marka 'fişini yükle / kodu gönder / para iade garantisi' kampanyaları (P&G, Unilever, Ülker, Eti, Coca-Cola, Nestlé, Henkel, Danone, Algida)",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "MARS",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "MEXC TR",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Mobrog",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "MoneyPay / Migros Money",
+   "url": "https://www.money.com.tr",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Moneytolia",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "N Kolay",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "OldubiL",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Oliz",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Panel Station",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Paratim",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Payfour",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Paym",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Phillip Capital",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Pokus",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "QNB Yatırım",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Sipay",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Swagbucks",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Sweatcoin / adım-say-kazan uygulamaları",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Trexo",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "ÜNLÜ & Co",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Upwork",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Vodafone Pay",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Ziraat Bankası / Bankkart",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Ziraat Yatırım",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Zubizu",
+   "url": null,
+   "durum": "taranmadi",
+   "bulunan": 0
+  }
+ ],
+ "not": "İLK ekgelir taraması (önceki parça/kapsama yoktu). 7 paralel küme tarandı: mevduat bankaları (hesap olmayan), katılım + hesabı olan bankalar (davet/görev), fintech + sadakat + telekom, kripto + aracı kurum + BES, anket/görev/fiş, ikinci el + freelance + kurye, oyun/çark/çekiliş. BÜTÇE: Oturum genelindeki ortak WebSearch sınırı (200 arama) tarama ortasında doldu; 'taranmadi' satırları bir sonraki ekgelir taramasında ÖNCE ele alınmalı. Öncelik: QNB, N Kolay, Hayhay davet/görev bonusları; iyzico, AHL Pay, Jüzdan, DenizPay, Payfour, Vodafone Pay, Moneytolia, Paratim, MARS, Oliz, Pokus, OldubiL, Getir Finans, Colendi, Zubizu, CarrefourSA, Sipay, Paym, Fups davet programları; Garanti BBVA Kripto, Bitexen, Kuantist, Bilira, KuCoin TR, MEXC TR, Kriptrade, Dyor yeni üye/davet bonusları; aracı kurum ve BES 'arkadaşını getir' programları; marka 'fiş yükle / kod gönder / para iade' kampanyaları, DahaDaha, Hopi fiş, Fişmatik, Mobrog, Bilendi, Swagbucks, Panel Station; banka/fintech oyun ve çekilişleri (Ziraat, Halkbank, VakıfBank, Enpara, Kuveyt Türk, DenizBank, TEB, ON, Papara, Tosla, Tami, UPT, Trendyol, Hepsiburada, kripto yarışmaları); Upwork. Alternatif Bank, Burgan Bank, ICBC Turkey, Colendi Bank, Fups Bank, VakıfBank, Halkbank ve TEB için yalnız 1–2 arama yapılabildi ('kampanya-yok' kesin değil). YÖNTEM: WebFetch yalnız arama sonucunda çıkan adresleri açabildi; mevcut kayıtlardaki elle yazılmış adresler onay zaman aşımına düştü. YENİDEN DOĞRULANAMAYAN MEVCUT KAYITLAR bu parçaya alınmadı, kendi parçalarında duruyor: 14 Qumpara fiş kampanyası, Enpara 'Tavsiyeler sizden, 1.000 TL ödül bizden', Ziraat Dinamik davet, Emlak Katılım Paraf Para, Garanti BBVA Pasaj / Enuygun / Genç Kasım / THY, Yapı Kredi KAFT1500 ve World 35. yıl çekilişi, UPT 200 TL Hesaba Al, PASAJ500, Hopi TotalEnergies, Getir Finans S Sport, Tami Netflix, HDI Fiba / MetLife / Türkiye Hayat / BNP Cardif / Garanti BBVA Emeklilik / Anadolu Hayat / AgeSA BES bonus ve çekilişleri, Gedik, ÜNLÜ & Co, Bitlo, Allianz BES çekilişi, Garanti BBVA Yatırım ve BtcTurk Hisse çekilişleri, MoneyPay KitKat çekilişi. DÜZELTME / UYARI: (1) Enpara tavsiye programı mevcut veride iki kayıt ('Tavsiyeler sizden, 1.000 TL ödül bizden' bitiş 2027-06-30 ve 'Tavsiyelerinizle büyüyoruz' bitiş 2026-12-31); aynı program olabilir, derleme bitişi 31.12.2026 diyor, resmi sayfa açılamadı. (2) Kuveyt Türk 'toplam 6.000 TL' kaydının sayfası artık 7.250 TL, 'Kampüs 7.250 TL' kaydınınki 13.500 TL diyor (adlar birleşme için korundu, fayda güncellendi). (3) Akbank Axess davet kaydı kontrol → uygun (davet edene banka kartı yeterli). (4) ON Dijital davet, PLUS150 ve Trendyol Plus 'ilk kez' şartlı → yeni-musteri. (5) Yapı Kredi dizi-film 3 ay iade kaydı (DIZIFILMYKB) yeni müşteri + kredi kartı şartlı → kredi-karti. (6) Stablex Hoş Geldin bitişi detay sayfasında 31.12.2026; Genç Akbanklı Stablex 18–26 yaş → kontrol. (7) Allianz davet yalnız Tamamlayıcı Sağlık için (BES müşteriliği yetmez) → kontrol. (8) ON Dijital davet tutarları kaynaklar arasında çelişkili (250 / 500 / 1.000 TL nakit ve/veya 500 TL Migros çeki). (9) UPT davet tutarı (100 / 500 TL) teyitsiz. (10) Türkiye Finans 'Kazancı Bol Hoş Geldin Paketi' haber tarihi belirsiz (muhtemelen 2025), teyitsiz. (11) Diğer parçalarda 'TOM Bank' → 'TOM Katılım', 'Hayhay (Aktif Bank)' → 'Hayhay' yazımı kullanılmalı (kaynaklar.json diger_adlar'a eklendi). (12) Garanti BBVA 'Müşterimiz Olun' kodlarından (MYEMEK26, MGRS2000, PETIMO26, KING2026, Pasaj, ENUYGUN1) büyük olasılıkla yalnız biri kullanılabilir; Vakıf Katılım'da da kayıtta tek kod (HB500 / BİM / KAHVE) girilebiliyor. BİTENLER (eklenmedi): Türk Telekom Arkadaşını Getir; Hayat Pay davet (19.08.2026); Paycell davet yarışması; ininal davet; Opet Pay ve Chippin-Opet yeni üyelik; Hepsipay yeni kullanıcı; Migros 500 Money (27.09); Akbank Eylül davet ve QR çekilişi; Albaraka Tavsiye Et Kazan ve 'Albaraka ile Uç'; Vakıf Katılım Tamamla Kazan; Hayat Finans 25.250 TL davet; Dünya Katılım TOD davet; Türkiye Finans %0 kâr paylı finansman (31.10); Garanti CarrefourSA / Boyner / A101 / Getir kodları; Yapı Kredi ve Fibabanka TG Para; Odeabank davet (31.12.2025); CEPTETEB davet; WhiteBIT TR %20 hediye (04.10); Binance TR Sonbahar (31.10) ve Tek Cümlede Anlat (12.11); Bybit TR Eylül görevleri; Garanti Gençlik Günü ve BonusFlaş çekilişleri; İş Bankası İmece; Getir Finans Mini Countryman; idefix çekilişi; Turkcell BiP Challenge, Dijital Kasım Şenliği, Eskisini Getir Yenisini Götür. EKLENMEYEN (ödeme sorunu / kanıtsız): AttaPoll, Triaba, Premise, ikiyengec.com, Anket Cepte, TGM Panel. DİKKAT: PayPal Türkiye'de çalışmıyor; anket panellerinde hediye çeki / IBAN seçilmeli. YouGov adına IBAN / TC kimlik isteyen sahte 'gizli müşteri' mesajları var. Papara kayyım yönetiminde (Papara ve Yandex Tasks kayıtları teyitsiz). Kurye/sürücü platformlarında (Getir, Trendyol Go, Yemeksepeti, Migros Hemen, BiTaksi, Martı TAG, Uber) kamuya açık somut bonus bulunamadı; pazaryeri satıcı kampanyaları şahıs şirketi / vergi levhası gerektiriyor."
+}

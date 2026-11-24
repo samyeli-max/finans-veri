@@ -1,0 +1,231 @@
+{
+ "alan": "alisveris",
+ "tarih": "2026-11-23",
+ "kaynaklar": [
+  {
+   "ad": "Hopi",
+   "url": "https://www.hopi.com.tr",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi — hopi.com.tr için alan adı onayı zamanında verilemedi; carrefoursa.com/kampanya/hopi 2025 tarihli (bitmiş). Mevcut Hopi kayıtları önceki parçalarda duruyor, yeniden doğrulanamadı",
+   "bulunan": 0
+  },
+  {
+   "ad": "Qumpara",
+   "url": "https://www.qumpara.com/kampanyalar",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi — qumpara.com onayı verilemedi; DonanımHaber forum sayfa 35 (21 Eylül–5 Ekim) okundu, eski ve tarihsiz, listeye alınmadı. Forumun son sayfası (40) okunamadı — sonraki taramada ilk bunlar",
+   "bulunan": 0
+  },
+  {
+   "ad": "Zubizu",
+   "url": "https://www.zubizu.com/kampanyalar",
+   "durum": "ok",
+   "sebep": "zubizu.com onayı verilemedi; Samsung'un resmi Zubizu sayfasından 1 kampanya alındı",
+   "bulunan": 1
+  },
+  {
+   "ad": "DahaDaha",
+   "url": null,
+   "durum": "taranmadi",
+   "sebep": "Yalnız arama denendi, sonuç yok; resmi sayfa adresi bilinmiyor — sonraki taramada önce buna bak",
+   "bulunan": 0
+  },
+  {
+   "ad": "Bana Bak",
+   "url": "https://forum.donanimhaber.com/banabak-nakit-iade-kampanyalari--161492019-24",
+   "durum": "kampanya-yok",
+   "sebep": "Forum sayfa 22–24 okundu; son mesaj 11 Ekim 2026, güncel kampanya listesi yok (30.06.2026 / 30.06.2027 çelişkili tarih)",
+   "bulunan": 0
+  },
+  {
+   "ad": "Chippin",
+   "url": null,
+   "durum": "taranmadi",
+   "sebep": "Yalnız arama denendi; sonuçlar alakasız. Resmi sayfa/uygulama kampanyaları okunmadı",
+   "bulunan": 0
+  },
+  {
+   "ad": "Macellan / Paraşüt",
+   "url": null,
+   "durum": "taranmadi",
+   "sebep": "Denenmedi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Shell ClubSmart",
+   "url": "https://www.sigortam.net/shell-clubsmart-uyelerine-sigortam-net-ten-800-tl-degerine-varan-yakit-puan-hediye",
+   "durum": "ok",
+   "sebep": "Shell'in kendi sayfası değil, Sigortam.net iş birliği sayfasından 1 kampanya",
+   "bulunan": 1
+  },
+  {
+   "ad": "Opet / Opet Puan",
+   "url": "https://www.flypgs.com/sana-ozel-kampanyalar/pegasus-bolbol-opet-is-birligi-kampanyasi",
+   "durum": "ok",
+   "sebep": "Pegasus BolBol x Opet Doldur Kazan; TotalEnergies/Petrol Ofisi kampanyası hiçbir sayfada geçmedi",
+   "bulunan": 1
+  },
+  {
+   "ad": "Migros Money",
+   "url": "https://www.migros.com.tr/money-puanlarin-artik-migros-yemekte-de-seninle-x-2131",
+   "durum": "ulasilamadi",
+   "sebep": "site-hatasi — 2 Migros kampanya sayfası boş geldi (içerik JS ile yükleniyor); Garanti BBVA ve 'Sana' Money kampanyaları bitmiş; QNB'li Ol %50 yeni başvuruya kapalı. Obilet ortaklı Migros Money kampanyası Obilet altında alındı",
+   "bulunan": 0
+  },
+  {
+   "ad": "CarrefourSA Kart",
+   "url": null,
+   "durum": "taranmadi",
+   "sebep": "Denenmedi",
+   "bulunan": 0
+  },
+  {
+   "ad": "A101 Kapıda / A101 uygulama",
+   "url": null,
+   "durum": "taranmadi",
+   "sebep": "Yalnız arama denendi (sonuçlar haftalık aktüel katalog haberleri); resmi kampanya sayfası okunmadı",
+   "bulunan": 0
+  },
+  {
+   "ad": "Trendyol",
+   "url": "https://indigodergisi.com/2026/11/e-ticaret-kasim-indirimleri-2026/",
+   "durum": "ok",
+   "sebep": "Resmi sayfa açılmadı; İndigo Dergisi derlemesinden (4 Kasım) alındı, teyitsiz. Efsane Günler tarihleri doğrulanamadı (Türkiye Gazetesi haberi 2025'e ait)",
+   "bulunan": 3
+  },
+  {
+   "ad": "Hepsiburada",
+   "url": "https://indigodergisi.com/2026/10/kasim-indirimleri-2026/",
+   "durum": "ok",
+   "sebep": "Resmi sayfa açılmadı (dunya.com 11.11 haberi client_error); İndigo Dergisi derlemesinden alındı, teyitsiz",
+   "bulunan": 3
+  },
+  {
+   "ad": "Amazon TR",
+   "url": "https://indigodergisi.com/2026/10/kasim-indirimleri-2026/",
+   "durum": "ok",
+   "sebep": "Resmi sayfa açılmadı; teknoblog sayfası client_error; İndigo derlemelerinden alındı (bitiş tarihi iki sayfada çelişkili)",
+   "bulunan": 4
+  },
+  {
+   "ad": "n11",
+   "url": "https://www.obilet.com/kampanyalar/n11-indirim-kodu-kampanyasi",
+   "durum": "ok",
+   "sebep": "n11 resmi sayfası açılmadı; teknoblog client_error; İndigo derlemesi + Obilet ortak kampanyası",
+   "bulunan": 2
+  },
+  {
+   "ad": "Pazarama",
+   "url": "https://indigodergisi.com/2026/11/e-ticaret-kasim-indirimleri-2026/",
+   "durum": "ok",
+   "sebep": "PLUS150 (İndigo derlemesi)",
+   "bulunan": 1
+  },
+  {
+   "ad": "Getir",
+   "url": "https://www.sigortam.net/sigortam-net-getir-market-kuponu-hediye",
+   "durum": "ok",
+   "sebep": "Sigortam.net x Getir Market + forum: kişiye özel 1.000 TL kupon. Getir'in kendi sayfası okunmadı",
+   "bulunan": 2
+  },
+  {
+   "ad": "Yemeksepeti",
+   "url": "https://forum.donanimhaber.com/yemek-sepeti-pro--163389786-6",
+   "durum": "kampanya-yok",
+   "sebep": "Forum son mesajı 22 Eylül 2026; Akbank-Mastercard Yemeksepeti sayfası client_error. Obilet/Enuygun ortaklı Yemeksepeti kuponları o kurumların altında alındı",
+   "bulunan": 0
+  },
+  {
+   "ad": "Turkcell / Pasaj",
+   "url": "https://www.turkcell.com.tr/pasaj/kampanyalar",
+   "durum": "ok",
+   "sebep": "Platinum, Garanti BBVA x Pasaj, Arkadaşını Getir; 11.11 Fırsatlar Pasajı ve Petrol Ofisi bitmiş, Dijital Kasım Şenliği 'Kampanya Bitti'; birçok hat kampanyası detaysız/tarihsiz olduğundan alınmadı",
+   "bulunan": 3
+  },
+  {
+   "ad": "Türk Telekom",
+   "url": "https://bireysel.turktelekom.com.tr/prime/turk-telekom-prime-ayricaliklari/yeni-nesil-tarifelere-ozel-dijital-hediye-ceki-kampanyasi",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi — Resmi sayfa ve haber7 (Pokus %20 nakit iade, client_error) okunamadı; forumdaki Prime 500 TL hediye çeki 31 Temmuz 2026'da bitmiş",
+   "bulunan": 0
+  },
+  {
+   "ad": "Vodafone",
+   "url": "https://www.vodafone.com.tr",
+   "durum": "taranmadi",
+   "sebep": "Kullanıcı Vodafone müşterisi değil; öncelik verilmedi, denenmedi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Pegasus",
+   "url": "https://www.flypgs.com/sana-ozel-kampanyalar",
+   "durum": "ok",
+   "sebep": "Yalnız Opet BolPuan iş birliği aktif; diğer 6 Sana Özel/Genç BolBol sayfasının satışı bitmiş",
+   "bulunan": 1
+  },
+  {
+   "ad": "THY / Miles&Smiles",
+   "url": "https://www.turkishairlines.com/tr-tr/kampanyalar/",
+   "durum": "ok",
+   "sebep": "Hub sayfası okundu (ödeme/kod ayrıntıları yok); 5 detay sayfası onay-zaman-asimi nedeniyle açılamadı",
+   "bulunan": 7
+  },
+  {
+   "ad": "Enuygun",
+   "url": "https://www.enuygun.com/kampanyalar/",
+   "durum": "ok",
+   "sebep": "Liste + 3 detay sayfası okundu; çoğu partner kampanyasının tarih/koşulu liste sayfasında yok",
+   "bulunan": 6
+  },
+  {
+   "ad": "Obilet",
+   "url": "https://www.obilet.com/kampanyalar",
+   "durum": "ok",
+   "sebep": "44 kampanyalık liste + detaylar okundu; Ziraat 'Jest Lira' (30 Eylül) ve çekiliş-1 (31 Ekim) bitmiş",
+   "bulunan": 16
+  },
+  {
+   "ad": "ETS Tur",
+   "url": null,
+   "durum": "taranmadi",
+   "sebep": "Denenmedi (Hopi/İş Bankası ETS kampanyaları önceki parçalarda)",
+   "bulunan": 0
+  },
+  {
+   "ad": "İndigo Dergisi (derleme)",
+   "url": "https://indigodergisi.com/2026/11/e-ticaret-kasim-indirimleri-2026/",
+   "durum": "ok",
+   "sebep": "Kasım indirimleri derlemesi (4 Kasım ve 30–31 Ekim); tutar/tarihler eski olabilir",
+   "bulunan": 14
+  },
+  {
+   "ad": "Akakçe 11.11 sayfası",
+   "url": "https://www.akakce.com/11-11-indirimi/",
+   "durum": "kampanya-yok",
+   "sebep": "Yalnız bitmiş n11 11.11 kuponları",
+   "bulunan": 0
+  },
+  {
+   "ad": "Cimri Kasım indirimleri",
+   "url": "https://www.cimri.com/kasim-indirimleri",
+   "durum": "ulasilamadi",
+   "sebep": "site-hatasi — client_error",
+   "bulunan": 0
+  },
+  {
+   "ad": "Hesapkurdu akaryakıt/otomotiv listesi",
+   "url": "https://www.hesapkurdu.com/kredi-karti/kampanyalar/akaryakit-otomotiv",
+   "durum": "kampanya-yok",
+   "sebep": "Yalnız kredi kartı programı kampanyaları (banka kartıyla yararlanılamaz)",
+   "bulunan": 0
+  },
+  {
+   "ad": "Ziraat Süper Platform (Obilet)",
+   "url": "https://www.ziraatbank.com.tr/tr/super-platform/obilet-indirim-kampanyasi",
+   "durum": "ok",
+   "sebep": "Pazarama, Pazarama Tatil, İdefix ortak sayfaları açılmadı; Akbank'ın Yemeksepeti/Bilet.com kampanya sayfaları da bir sonraki taramada denenebilir",
+   "bulunan": 2
+  }
+ ],
+ "not": "İlk alisveris taraması. Çoğu resmi e-ticaret/market sayfası açılamadı ya da JS ile boş döndü; bu yüzden e-ticaret kampanyaları büyük ölçüde İndigo Dergisi derlemesine (haber, teyitsiz) dayanıyor. Hopi/Qumpara/Zubizu/Türk Telekom resmi sayfaları alan adı onayı alınamadığı için okunamadı (onay-zaman-asimi) — bu kurumların önceki parçalardaki kayıtları yeniden doğrulanmadı. Obilet, Enuygun, THY ve Pegasus sayfaları okundu. Faizli/kredi ürünleri (İş Bankası İşPay Trendyol kredisi) ve yalnız kredi kartı gerektiren kampanyalar alınmadı. Bir sonraki taramada önce: DahaDaha, Chippin, Macellan/Paraşüt, CarrefourSA, A101, ETS Tur, Hopi, Qumpara, Türk Telekom."
+}

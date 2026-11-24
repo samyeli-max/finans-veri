@@ -1,0 +1,1247 @@
+{
+ "surum": 1,
+ "guncellendi": "2026-11-24",
+ "not": "Tarama görevleri bu listeyi kullanır; çalışmayan URL bulunursa düzeltilir, yeni kurum bulunursa eklenir.",
+ "alanlar": {
+  "bankalar": [
+   {
+    "kurum": "Kuveyt Türk",
+    "tip": "katilim",
+    "url": "https://www.kuveytturk.com.tr/kampanyalar",
+    "instagram": "kuveytturk"
+   },
+   {
+    "kurum": "Albaraka",
+    "tip": "katilim",
+    "url": "https://www.albaraka.com.tr/tr/kampanyalar",
+    "diger_adlar": [
+     "Albaraka Türk"
+    ]
+   },
+   {
+    "kurum": "Türkiye Finans",
+    "tip": "katilim",
+    "url": "https://www.turkiyefinans.com.tr/tr-tr/kampanyalar/Sayfalar/default.aspx"
+   },
+   {
+    "kurum": "Vakıf Katılım",
+    "tip": "katilim",
+    "url": "https://www.vakifkatilim.com.tr/tr/kendim-icin/kampanyalar"
+   },
+   {
+    "kurum": "Ziraat Katılım",
+    "tip": "katilim",
+    "url": "https://www.ziraatkatilim.com.tr/kampanyalar"
+   },
+   {
+    "kurum": "Emlak Katılım",
+    "tip": "katilim",
+    "url": "https://www.emlakkatilim.com.tr/kampanyalar"
+   },
+   {
+    "kurum": "Dünya Katılım",
+    "tip": "katilim",
+    "url": "https://dunyakatilim.com.tr/kampanyalar"
+   },
+   {
+    "kurum": "Hayat Finans",
+    "tip": "katilim",
+    "url": "https://www.hayatfinans.com.tr"
+   },
+   {
+    "kurum": "TOM Katılım",
+    "tip": "katilim",
+    "url": null,
+    "diger_adlar": [
+     "TOM Bank"
+    ]
+   },
+   {
+    "kurum": "Ziraat Bankası",
+    "tip": "mevduat",
+    "url": "https://www.bankkart.com.tr/kampanyalar",
+    "diger_adlar": [
+     "Bankkart",
+     "Ziraat Bankası / Bankkart"
+    ]
+   },
+   {
+    "kurum": "Ziraat Dinamik",
+    "tip": "mevduat",
+    "url": "https://www.ziraatdinamik.com.tr"
+   },
+   {
+    "kurum": "İş Bankası",
+    "tip": "mevduat",
+    "url": "https://www.maximum.com.tr/kampanyalar",
+    "diger_adlar": [
+     "Maximum",
+     "İş Bankası / Maximum",
+     "Maximum Mobil",
+     "İşCep"
+    ]
+   },
+   {
+    "kurum": "Akbank",
+    "tip": "mevduat",
+    "url": "https://www.axess.com.tr/kampanyalar",
+    "diger_adlar": [
+     "Axess",
+     "Akbank / Axess",
+     "Wings"
+    ]
+   },
+   {
+    "kurum": "Garanti BBVA",
+    "tip": "mevduat",
+    "url": "https://www.bonus.com.tr/kampanyalar",
+    "diger_adlar": [
+     "Bonus",
+     "Garanti"
+    ]
+   },
+   {
+    "kurum": "Yapı Kredi",
+    "tip": "mevduat",
+    "url": "https://www.worldcard.com.tr/kampanyalar",
+    "diger_adlar": [
+     "World",
+     "Worldcard"
+    ]
+   },
+   {
+    "kurum": "QNB",
+    "tip": "mevduat",
+    "url": "https://www.qnbcard.com.tr/kampanyalar",
+    "diger_adlar": [
+     "QNB Finansbank",
+     "CardFinans"
+    ]
+   },
+   {
+    "kurum": "Enpara",
+    "tip": "mevduat",
+    "url": "https://www.enpara.com"
+   },
+   {
+    "kurum": "Halkbank",
+    "tip": "mevduat",
+    "url": "https://www.paraf.com.tr/kampanyalar",
+    "diger_adlar": [
+     "Paraf"
+    ]
+   },
+   {
+    "kurum": "VakıfBank",
+    "tip": "mevduat",
+    "url": "https://www.vakifkart.com.tr/kampanyalar",
+    "diger_adlar": [
+     "Vakıfkart"
+    ]
+   },
+   {
+    "kurum": "DenizBank",
+    "tip": "mevduat",
+    "url": "https://www.denizbank.com/kampanyalar",
+    "diger_adlar": [
+     "Bonus Flexi"
+    ]
+   },
+   {
+    "kurum": "TEB",
+    "tip": "mevduat",
+    "url": "https://www.teb.com.tr/kampanyalar",
+    "diger_adlar": [
+     "CEPTETEB"
+    ]
+   },
+   {
+    "kurum": "ING",
+    "tip": "mevduat",
+    "url": "https://www.ing.com.tr/tr/kampanyalar"
+   },
+   {
+    "kurum": "Şekerbank",
+    "tip": "mevduat",
+    "url": null
+   },
+   {
+    "kurum": "Anadolubank",
+    "tip": "mevduat",
+    "url": "https://www.anadolubank.com.tr/kampanya"
+   },
+   {
+    "kurum": "Fibabanka",
+    "tip": "mevduat",
+    "url": null
+   },
+   {
+    "kurum": "Odeabank",
+    "tip": "mevduat",
+    "url": null
+   },
+   {
+    "kurum": "Alternatif Bank",
+    "tip": "mevduat",
+    "url": null
+   },
+   {
+    "kurum": "Burgan Bank",
+    "tip": "mevduat",
+    "url": null
+   },
+   {
+    "kurum": "ICBC Turkey",
+    "tip": "mevduat",
+    "url": null
+   },
+   {
+    "kurum": "HSBC",
+    "tip": "mevduat",
+    "url": null
+   },
+   {
+    "kurum": "ON Dijital",
+    "tip": "mevduat",
+    "url": "https://on.com.tr",
+    "diger_adlar": [
+     "ON Dijital Bankacılık"
+    ]
+   },
+   {
+    "kurum": "N Kolay",
+    "tip": "mevduat",
+    "url": "https://www.nkolay.com/kampanyalar",
+    "diger_adlar": [
+     "Aktif Bank",
+     "N Kolay (Aktif Bank)"
+    ]
+   },
+   {
+    "kurum": "Hayhay",
+    "tip": "mevduat",
+    "url": "https://www.hayhay.com/kampanyalar",
+    "diger_adlar": [
+     "Hahay",
+     "Hayhay (Aktif Bank)"
+    ]
+   },
+   {
+    "kurum": "Colendi Bank",
+    "tip": "mevduat",
+    "url": null
+   },
+   {
+    "kurum": "Fups Bank",
+    "tip": "mevduat",
+    "url": null
+   }
+  ],
+  "fintech": [
+   {
+    "kurum": "Papara",
+    "tip": "fintech",
+    "url": "https://www.papara.com/kampanyalar",
+    "not": "TCMB iznini 30.10.2025'te iptal etti (RG 31.10.2025); Ankara 25. İdare Mahkemesi 09.12.2025'te yürütmeyi durdurdu; şirket TMSF kayyımı altında. Milli Gazete (17.09.2026) 15.09.2026'da Papara Card/para yatırma/transfer hizmetlerinin yeniden açıldığını yazıyor (tek kaynak, resmi duyuru okunamadı). Kampanyalar teyitsiz; /kampanyalar sayfası onay zaman aşımı, https://www.papara.com/en/cashback-lp okunabildi."
+   },
+   {
+    "kurum": "Paycell",
+    "tip": "fintech",
+    "url": "https://www.paycell.com.tr/kampanyalar"
+   },
+   {
+    "kurum": "Tosla",
+    "tip": "fintech",
+    "url": "https://tosla.com"
+   },
+   {
+    "kurum": "Param",
+    "tip": "fintech",
+    "url": "https://param.com.tr/avantajlar",
+    "not": "TMSF KAYYIM: TCMB 30.04.2026'da izinleri geçici durdurdu; mahkeme yürütmeyi durdurunca 04.05.2026'da hizmetler açıldı; 13.07.2026'da yürütmeyi durdurma kalktı ve PARAM ve grup şirketlerine TMSF kayyım atandı (7145 sayılı Kanun Geç. 2). Bireysel Param Cüzdan bakiye ödemeleri 27.10.2026'da başladı (TMSF duyurusuna atfen, dolaylı kaynak). Avantajlar sayfası JS ile yükleniyor, metin alınamadı."
+   },
+   {
+    "kurum": "Papel",
+    "tip": "fintech",
+    "url": "https://papel.com.tr",
+    "not": "LİSANS İPTAL: TCMB 18.09.2026 tarihli kararla (RG 23.09.2026) faaliyet iznini iptal etti. Kampanya aranmaz; bakiye varsa şirket/TCMB duyurularına bakılmalı."
+   },
+   {
+    "kurum": "MoneyPay",
+    "tip": "fintech",
+    "url": "https://www.migros.com.tr/moneypay"
+   },
+   {
+    "kurum": "Hepsipay",
+    "tip": "fintech",
+    "url": null,
+    "not": "Resmi kampanya sayfası bulunamadı; forum (DonanımHaber Hepsipay konusu) Temmuz 2026'ya kadar tarihli kampanya göstermiyor."
+   },
+   {
+    "kurum": "ZiraatPay",
+    "tip": "fintech",
+    "url": "https://www.ziraatpay.com.tr",
+    "not": "Bakiye yükleme ödülü forum alıntısından biliniyor; resmi Ziraat sayfasında bulunamadı."
+   },
+   {
+    "kurum": "UPT",
+    "tip": "fintech",
+    "url": "https://www.uption.com.tr/en/campaigns",
+    "diger_adlar": [
+     "UPTION",
+     "Uption"
+    ],
+    "not": "Kampanya detay sayfaları /en/en-son-kampanyalar/<ad> adresinde; sayfalarda yayın tarihi yok, bitiş tarihi kampanya metninde."
+   },
+   {
+    "kurum": "iyzico",
+    "tip": "fintech",
+    "url": null
+   },
+   {
+    "kurum": "Tami",
+    "tip": "fintech",
+    "url": null
+   },
+   {
+    "kurum": "AHL Pay",
+    "tip": "fintech",
+    "url": null
+   },
+   {
+    "kurum": "Jüzdan",
+    "tip": "fintech",
+    "url": null
+   },
+   {
+    "kurum": "Hayat Pay",
+    "tip": "fintech",
+    "url": "https://hayatfinans.com.tr/en/application-market/hayatpay",
+    "not": "Ürün sayfasında kampanya yok; forumda (DonanımHaber 'Hayat Pay Fırsatları') Ekim 2026'da %5 cashback'in kalktığı yazılıyor. /campaigns/bring-your-friend adresi 404."
+   },
+   {
+    "kurum": "DenizPay",
+    "tip": "fintech",
+    "url": null
+   },
+   {
+    "kurum": "Payfour",
+    "tip": "fintech",
+    "url": "https://apps.apple.com/tr/app/payfour/id6651841329",
+    "not": "Resmi kampanya sayfası yok; kampanyalar forumdan (DonanımHaber CarrefourSA Payfour konusu) izleniyor."
+   },
+   {
+    "kurum": "Vodafone Pay",
+    "tip": "fintech",
+    "url": null
+   },
+   {
+    "kurum": "Moneytolia",
+    "tip": "fintech",
+    "url": null
+   },
+   {
+    "kurum": "Paratim",
+    "tip": "fintech",
+    "url": null
+   },
+   {
+    "kurum": "MARS",
+    "tip": "fintech",
+    "url": "https://marsneo.com"
+   },
+   {
+    "kurum": "MorPara",
+    "tip": "fintech",
+    "url": "https://www.morpara.com/en/campaigns/",
+    "not": "LİSANS İPTAL: MorPara kampanya sayfaları TCMB'nin 10.11.2026 tarihli kararıyla iznin iptal edildiğini ve tüm ödeme/e-para hizmetlerinin durduğunu duyuruyor (şirketin kendi notu; TCMB kararındaki unvanla eşleşmesi teyitsiz). Aktif kampanya yok."
+   },
+   {
+    "kurum": "Zip Finansman",
+    "tip": "fintech",
+    "url": "https://tr.zip.co"
+   },
+   {
+    "kurum": "Oliz",
+    "tip": "fintech",
+    "url": null
+   },
+   {
+    "kurum": "Pokus",
+    "tip": "fintech",
+    "url": null
+   },
+   {
+    "kurum": "OldubiL",
+    "tip": "fintech",
+    "url": null
+   },
+   {
+    "kurum": "Getir Finans",
+    "tip": "fintech",
+    "url": "https://www.getirfinans.com/kampanyalar"
+   },
+   {
+    "kurum": "Midas",
+    "tip": "fintech",
+    "url": "https://www.getmidas.com"
+   },
+   {
+    "kurum": "Colendi",
+    "tip": "fintech",
+    "url": null
+   },
+   {
+    "kurum": "Pttcell / PTT",
+    "tip": "fintech",
+    "url": null
+   },
+   {
+    "kurum": "TROY",
+    "tip": "fintech",
+    "url": "https://www.troyodeme.com/en/personal/campaigns-and-offers"
+   },
+   {
+    "kurum": "SağlamPay",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Sağlam Ödeme ve Elektronik Para Hizmetleri"
+    ],
+    "not": "YENİ LİSANS: Kuveyt Türk iştiraki; TCMB 12.06.2026 kararı, RG 18.06.2026 (e-para kuruluşu). Haberde saglampay.com.tr adresi geçiyor (okunmadı). Henüz kampanya bulunmadı."
+   },
+   {
+    "kurum": "NXT Elektronik Para",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "NXT Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "YENİ LİSANS: TCMB 29.09.2026 kararı, RG 03.10.2026. Marka/uygulama adı ve bağlı grup haberlerde yok; teyit edilmeli."
+   },
+   {
+    "kurum": "Hangipara",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Hangipara Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "YENİ LİSANS: RG 25.02.2026 (e-para kuruluşu). Tüketici ürünü/kampanyası henüz bulunmadı."
+   },
+   {
+    "kurum": "Logo Ödeme",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Logo Ödeme Hizmetleri"
+    ],
+    "not": "YENİ LİSANS: RG 25.02.2026 (ödeme kuruluşu); büyük olasılıkla kurumsal odaklı. Tüketici kampanyası beklenmez."
+   },
+   {
+    "kurum": "Parakolay",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Parakolay Elektronik Para"
+    ],
+    "not": "LİSANS İPTAL: TCMB, Parakolay Elektronik Para A.Ş. iznini iptal etti (RG 10.10.2026). Kampanya aranmaz."
+   },
+   {
+    "kurum": "A Ödeme ve Elektronik Para Hizmetleri",
+    "tip": "fintech",
+    "url": null,
+    "not": "LİSANS İPTAL: TCMB 10.11.2026 kararı, RG 11.11.2026. Marka adı haberlerde yok (MorPara ile ilişkisi teyitsiz). Kampanya aranmaz."
+   },
+   {
+    "kurum": "Ozan Elektronik Para",
+    "tip": "fintech",
+    "url": null,
+    "not": "LİSANS İPTAL: izin iptali RG 11.11.2026'da yayımlandı. Kampanya aranmaz."
+   },
+   {
+    "kurum": "Payco",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Payco Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "LİSANS İPTAL: TCMB 21.08.2026 kararı, RG 26.08.2026. Kampanya aranmaz."
+   },
+   {
+    "kurum": "Junomoney",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Junomoney Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "LİSANS İPTAL: TCMB 21.08.2026 kararı, RG 26.08.2026. Kampanya aranmaz."
+   }
+  ],
+  "yatirim": [
+   {
+    "kurum": "Stablex",
+    "tip": "kripto",
+    "url": "https://stablex.com.tr/kampanyalar",
+    "diger_adlar": [
+     "Stablex Kripto Varlık Alım Satım Platformu AŞ"
+    ]
+   },
+   {
+    "kurum": "Paribu",
+    "tip": "kripto",
+    "url": "https://www.paribu.com/blog/haberler/",
+    "diger_adlar": [
+     "Paribu Kripto Varlık Alım Satım Platformu AŞ"
+    ]
+   },
+   {
+    "kurum": "BtcTurk",
+    "tip": "kripto",
+    "url": "https://ayricaliklar.btcturk.com",
+    "diger_adlar": [
+     "Btcturk Kripto Varlık Alım Satım Platformu AŞ",
+     "BtcTurk | Kripto"
+    ]
+   },
+   {
+    "kurum": "Binance TR",
+    "tip": "kripto",
+    "url": "https://www.binance.tr/tr/blog",
+    "diger_adlar": [
+     "Binance Turkey Kripto Varlık Alım Satım Platformu AŞ"
+    ]
+   },
+   {
+    "kurum": "OKX TR",
+    "tip": "kripto",
+    "url": "https://tr.okx.com/en/help/section/announcements-trading-updates",
+    "diger_adlar": [
+     "OKX TR Kripto Varlık Alım Satım Platformu AŞ"
+    ]
+   },
+   {
+    "kurum": "Bybit TR",
+    "tip": "kripto",
+    "url": "https://www.bybit.tr",
+    "diger_adlar": [
+     "Bybit Kripto Varlık Alım Satım Platformu AŞ"
+    ],
+    "not": "Site bybit.tr alan adına taşındı; sayfalar JS ile yükleniyor, okunamadı (24.11.2026)."
+   },
+   {
+    "kurum": "Bitlo",
+    "tip": "kripto",
+    "url": "https://www.bitlo.com/duyurular",
+    "diger_adlar": [
+     "Bitlo Kripto Varlık Alım Satım Platformu AŞ"
+    ]
+   },
+   {
+    "kurum": "Icrypex",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Icrypex Kripto Varlık Alım Satım Platformu AŞ"
+    ],
+    "not": "SPK 'Tasfiye Sürecinde Olanlar' listesinde (2026-11); faaliyetini sonlandırıyor"
+   },
+   {
+    "kurum": "Anadolu Hayat Emeklilik",
+    "tip": "bes",
+    "url": "https://www.anadoluhayat.com.tr"
+   },
+   {
+    "kurum": "HDI Fiba Emeklilik",
+    "tip": "bes",
+    "url": null
+   },
+   {
+    "kurum": "Allianz",
+    "tip": "bes",
+    "url": "https://www.allianz.com.tr"
+   },
+   {
+    "kurum": "Katılım Emeklilik",
+    "tip": "bes",
+    "url": "https://www.katilimemeklilik.com.tr/hakkimizda/haber-ve-duyurular",
+    "diger_adlar": [
+     "Katılım Emeklilik ve Hayat"
+    ]
+   },
+   {
+    "kurum": "Türkiye Hayat Emeklilik",
+    "tip": "bes",
+    "url": "https://www.turkiyehayatemeklilik.com.tr"
+   },
+   {
+    "kurum": "Garanti BBVA Emeklilik",
+    "tip": "bes",
+    "url": "https://www.garantibbvaemeklilik.com.tr/kampanyalarimiz",
+    "diger_adlar": [
+     "Garanti BBVA Emeklilik ve Hayat"
+    ]
+   },
+   {
+    "kurum": "AgeSA",
+    "tip": "bes",
+    "url": "https://www.agesa.com.tr/bes-kampanyasi",
+    "diger_adlar": [
+     "AgeSA Hayat ve Emeklilik"
+    ]
+   },
+   {
+    "kurum": "Türkiye Sigorta",
+    "tip": "sigorta",
+    "url": null
+   },
+   {
+    "kurum": "Anadolu Sigorta",
+    "tip": "sigorta",
+    "url": "https://www.anadolusigorta.com.tr/kampanyalar-firsatlar"
+   },
+   {
+    "kurum": "Gedik Yatırım",
+    "tip": "aracikurum",
+    "url": null
+   },
+   {
+    "kurum": "İş Yatırım",
+    "tip": "aracikurum",
+    "url": "https://www.isbank.com.tr/kampanyalar/iscepten-is-bankali-olanlara-avantajli-hisse-senedi-komisyon-ayricaligi",
+    "diger_adlar": [
+     "Herkese Borsa",
+     "TradeMaster"
+    ]
+   },
+   {
+    "kurum": "Ziraat Yatırım",
+    "tip": "aracikurum",
+    "url": "https://www.ziraatbank.com.tr/tr/super-platform/ziraat-yatirim-kampanyasi"
+   },
+   {
+    "kurum": "A1 Capital",
+    "tip": "aracikurum",
+    "url": "https://a1capital.com.tr/kampanyalar/",
+    "diger_adlar": [
+     "A1Cap"
+    ]
+   },
+   {
+    "kurum": "Kuveyt Türk Yatırım",
+    "tip": "aracikurum",
+    "url": "https://kuveytturkyatirim.com.tr/kampanyalar/"
+   },
+   {
+    "kurum": "QNB Yatırım",
+    "tip": "aracikurum",
+    "url": "https://www.qnbinvest.com.tr/tr-TR",
+    "diger_adlar": [
+     "QNB Invest"
+    ]
+   },
+   {
+    "kurum": "Trexo",
+    "tip": "aracikurum",
+    "url": null,
+    "not": "Bu adla aracı kurum/yatırım uygulaması bulunamadı (2026-11-21); doğru ad teyit edilmeli"
+   },
+   {
+    "kurum": "BtcTurk Hisse",
+    "tip": "aracikurum",
+    "url": "https://hisse.btcturk.com/duyurular/",
+    "diger_adlar": [
+     "BtcTurk Yatırım Menkul Değerler AŞ",
+     "BtcTurk Yatırım Menkul Değerler"
+    ]
+   },
+   {
+    "kurum": "Gate TR",
+    "tip": "kripto",
+    "url": "https://www.gate.tr/announcements/activity",
+    "diger_adlar": [
+     "Gate.TR",
+     "GateTR",
+     "Gate Kripto Varlık Alım Satım Platformu AŞ"
+    ]
+   },
+   {
+    "kurum": "CoinTR",
+    "tip": "kripto",
+    "url": "https://www.cointr.com/tr/events/newactivities/e4e975a041bd57c788b7de09053c7ab1?sectionId=kampanyalar",
+    "diger_adlar": [
+     "Cointr Kripto Varlık Alım Satım Platformu AŞ"
+    ]
+   },
+   {
+    "kurum": "Garanti BBVA Kripto",
+    "tip": "kripto",
+    "url": "https://www.garantibbvakripto.com.tr/kampanyalar",
+    "diger_adlar": [
+     "Garanti BBVA Kripto Varlık Alım Satım Platformu AŞ"
+    ],
+    "not": "Sayfa JS ile yükleniyor"
+   },
+   {
+    "kurum": "WhiteBIT TR",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Whitebit Kripto Varlık Alım Satım Platformu AŞ"
+    ]
+   },
+   {
+    "kurum": "Midas Kripto",
+    "tip": "kripto",
+    "url": "https://www.getmidas.com/ayricaliklar/",
+    "diger_adlar": [
+     "Midas Kripto Varlık Alım Satım Platformu AŞ"
+    ]
+   },
+   {
+    "kurum": "Bitexen",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Bitexen Kripto Varlık Alım Satım Platformu AŞ"
+    ],
+    "not": "SPK 23.09.2026 kararıyla yeni müşteri kabul edemiyor"
+   },
+   {
+    "kurum": "Kuantist",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Kuantist Kripto Varlık Alım Satım Platformu AŞ"
+    ]
+   },
+   {
+    "kurum": "Bilira",
+    "tip": "kripto",
+    "url": "https://www.bilira.co/en",
+    "diger_adlar": [
+     "Bilira Kripto Varlık Alım Satım Platformu AŞ"
+    ]
+   },
+   {
+    "kurum": "KuCoin TR",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Kucoın TR Kripto Varlık Alım Satım Platformu AŞ"
+    ]
+   },
+   {
+    "kurum": "MEXC TR",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Mexc Kripto Varlık Alım Satım Platformu AŞ"
+    ]
+   },
+   {
+    "kurum": "Kriptrade",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Kriptrade Kripto Varlık Alım Satım Platformu AŞ"
+    ]
+   },
+   {
+    "kurum": "Dyor",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Dyor Kripto Varlık Alım Satım Platformu AŞ",
+     "DyorEX"
+    ]
+   },
+   {
+    "kurum": "MetLife Emeklilik",
+    "tip": "bes",
+    "url": "https://www.metlife.com.tr/kampanya-kosullari/BES_A101/",
+    "diger_adlar": [
+     "MetLife Emeklilik ve Hayat"
+    ]
+   },
+   {
+    "kurum": "BNP Paribas Cardif Emeklilik",
+    "tip": "bes",
+    "url": null,
+    "diger_adlar": [
+     "BNP Paribas Cardif",
+     "Cardif Emeklilik"
+    ],
+    "not": "Resmi kampanya sayfası bulunamadı; kampanyalar haberlerden izleniyor"
+   },
+   {
+    "kurum": "Alternatif Menkul",
+    "tip": "aracikurum",
+    "url": "https://www.alternatifmenkul.com.tr/",
+    "diger_adlar": [
+     "Alternatif Yatırım"
+    ]
+   },
+   {
+    "kurum": "Garanti BBVA Yatırım",
+    "tip": "aracikurum",
+    "url": "https://www.garantibbvayatirim.com.tr/duyurular",
+    "diger_adlar": [
+     "Garanti Yatırım"
+    ]
+   },
+   {
+    "kurum": "Phillip Capital",
+    "tip": "aracikurum",
+    "url": "https://www.phillipcapital.com.tr/bist-hisse-sifir-komisyon",
+    "diger_adlar": [
+     "PhillipCapital Menkul"
+    ]
+   },
+   {
+    "kurum": "Ata Yatırım",
+    "tip": "aracikurum",
+    "url": "https://atayatirim.com.tr/landingpages/yurt-disi-borsalar",
+    "diger_adlar": [
+     "AtaOnline"
+    ]
+   },
+   {
+    "kurum": "ÜNLÜ & Co",
+    "tip": "aracikurum",
+    "url": "https://www.piapiri.com/kampanyalar/aktif-kampanyalar/",
+    "diger_adlar": [
+     "Piapiri",
+     "ÜNLÜ Menkul Değerler"
+    ]
+   }
+  ],
+  "alisveris": [
+   {
+    "kurum": "Hopi",
+    "tip": "sadakat",
+    "url": "https://www.hopi.com.tr"
+   },
+   {
+    "kurum": "Qumpara",
+    "tip": "sadakat",
+    "url": "https://www.qumpara.com/kampanyalar"
+   },
+   {
+    "kurum": "Zubizu",
+    "tip": "sadakat",
+    "url": "https://www.zubizu.com/kampanyalar"
+   },
+   {
+    "kurum": "DahaDaha",
+    "tip": "sadakat",
+    "url": null
+   },
+   {
+    "kurum": "Bana Bak",
+    "tip": "sadakat",
+    "url": null
+   },
+   {
+    "kurum": "Chippin",
+    "tip": "sadakat",
+    "url": null
+   },
+   {
+    "kurum": "Macellan / Paraşüt",
+    "tip": "sadakat",
+    "url": null
+   },
+   {
+    "kurum": "Shell ClubSmart",
+    "tip": "sadakat",
+    "url": null
+   },
+   {
+    "kurum": "Opet / Opet Puan",
+    "tip": "sadakat",
+    "url": null
+   },
+   {
+    "kurum": "Migros Money",
+    "tip": "sadakat",
+    "url": null
+   },
+   {
+    "kurum": "CarrefourSA Kart",
+    "tip": "sadakat",
+    "url": null
+   },
+   {
+    "kurum": "A101 Kapıda / A101 uygulama",
+    "tip": "sadakat",
+    "url": null
+   },
+   {
+    "kurum": "Trendyol",
+    "tip": "eticaret",
+    "url": null
+   },
+   {
+    "kurum": "Hepsiburada",
+    "tip": "eticaret",
+    "url": null
+   },
+   {
+    "kurum": "Amazon TR",
+    "tip": "eticaret",
+    "url": null
+   },
+   {
+    "kurum": "n11",
+    "tip": "eticaret",
+    "url": null
+   },
+   {
+    "kurum": "Pazarama",
+    "tip": "eticaret",
+    "url": null
+   },
+   {
+    "kurum": "Getir",
+    "tip": "eticaret",
+    "url": null
+   },
+   {
+    "kurum": "Yemeksepeti",
+    "tip": "eticaret",
+    "url": null
+   },
+   {
+    "kurum": "Turkcell / Pasaj",
+    "tip": "telco",
+    "url": "https://www.turkcell.com.tr/pasaj/kampanyalar"
+   },
+   {
+    "kurum": "Türk Telekom",
+    "tip": "telco",
+    "url": null
+   },
+   {
+    "kurum": "Vodafone",
+    "tip": "telco",
+    "url": "https://www.vodafone.com.tr"
+   },
+   {
+    "kurum": "Pegasus",
+    "tip": "seyahat",
+    "url": "https://www.flypgs.com/sana-ozel-kampanyalar"
+   },
+   {
+    "kurum": "THY / Miles&Smiles",
+    "tip": "seyahat",
+    "url": "https://www.turkishairlines.com/tr-tr/kampanyalar/",
+    "diger_adlar": [
+     "THY",
+     "Türk Hava Yolları",
+     "TKPAY"
+    ]
+   },
+   {
+    "kurum": "Enuygun",
+    "tip": "seyahat",
+    "url": "https://www.enuygun.com/kampanyalar/"
+   },
+   {
+    "kurum": "Obilet",
+    "tip": "seyahat",
+    "url": "https://www.obilet.com/kampanyalar"
+   },
+   {
+    "kurum": "ETS Tur",
+    "tip": "seyahat",
+    "url": null
+   },
+   {
+    "kurum": "MediaMarkt",
+    "tip": "eticaret",
+    "url": "https://www.mediamarkt.com.tr",
+    "diger_adlar": [
+     "Media Markt",
+     "MediaMarkt CLUB"
+    ]
+   }
+  ],
+  "ekgelir": [
+   {
+    "kurum": "Arkadaşını getir (tüm bankalar / fintech / kripto)",
+    "tip": "ekgelir",
+    "url": null
+   },
+   {
+    "kurum": "Yeni müşteri / hoş geldin bonusları (faizsiz)",
+    "tip": "ekgelir",
+    "url": null
+   },
+   {
+    "kurum": "Anket uygulamaları (Toluna, YouGov, i-Say, Ankettime vb.)",
+    "tip": "ekgelir",
+    "url": "https://teklifimgelsin.com/anketimgelsin"
+   },
+   {
+    "kurum": "Görev yap kazan uygulamaları",
+    "tip": "ekgelir",
+    "url": null
+   },
+   {
+    "kurum": "Fiş / fatura yükle kazan",
+    "tip": "ekgelir",
+    "url": null
+   },
+   {
+    "kurum": "Dolap",
+    "tip": "satis",
+    "url": "https://dolap.com"
+   },
+   {
+    "kurum": "Gardrops",
+    "tip": "satis",
+    "url": null
+   },
+   {
+    "kurum": "Letgo",
+    "tip": "satis",
+    "url": null
+   },
+   {
+    "kurum": "Sahibinden",
+    "tip": "satis",
+    "url": null
+   },
+   {
+    "kurum": "Trendyol satıcı / ikinci el",
+    "tip": "satis",
+    "url": null
+   },
+   {
+    "kurum": "Bionluk / Armut (freelance)",
+    "tip": "freelance",
+    "url": "https://armut.com/profesyonel-uye-ol-29011",
+    "diger_adlar": [
+     "Bionluk",
+     "Armut"
+    ]
+   },
+   {
+    "kurum": "Getir / Trendyol Go kuryelik ve kazanç",
+    "tip": "freelance",
+    "url": null
+   },
+   {
+    "kurum": "Banka / fintech oyunları ve çekilişler",
+    "tip": "ekgelir",
+    "url": null
+   },
+   {
+    "kurum": "Google Opinion Rewards",
+    "tip": "anket",
+    "url": "https://support.google.com/opinionrewards/answer/6322283",
+    "diger_adlar": [
+     "Google Ödüllü Anketler"
+    ]
+   },
+   {
+    "kurum": "YouGov",
+    "tip": "anket",
+    "url": "https://yougov.com"
+   },
+   {
+    "kurum": "Toluna",
+    "tip": "anket",
+    "url": "https://www.toluna.com",
+    "diger_adlar": [
+     "Toluna Influencers"
+    ]
+   },
+   {
+    "kurum": "Ipsos",
+    "tip": "anket",
+    "url": "https://www.ipsos.com/tr-tr/topic/paneller",
+    "diger_adlar": [
+     "i-Say",
+     "Ipsos Panelist"
+    ]
+   },
+   {
+    "kurum": "LifePoints",
+    "tip": "anket",
+    "url": "https://www.lifepointspanel.com"
+   },
+   {
+    "kurum": "Prime Opinion",
+    "tip": "anket",
+    "url": "https://www.primeopinion.com"
+   },
+   {
+    "kurum": "Surveyeah",
+    "tip": "anket",
+    "url": "https://www.surveyeah.com"
+   },
+   {
+    "kurum": "Opinion World",
+    "tip": "anket",
+    "url": null
+   },
+   {
+    "kurum": "Roamler",
+    "tip": "gorev",
+    "url": "https://apps.apple.com/tr/app/roamler-earn-money/id440588804?l=tr"
+   },
+   {
+    "kurum": "Yandex Tasks",
+    "tip": "gorev",
+    "url": "https://yandex.com/support/global-tasks/",
+    "not": "Ödeme yalnız Papara'ya (Papara kayyım yönetiminde)."
+   },
+   {
+    "kurum": "Gizli Müşteri Ajansları",
+    "tip": "gorev",
+    "url": null,
+    "not": "Genel kategori: Kariyer.net vb. ilan veren araştırma şirketleri. Ücret/IBAN/TC isteyen sahte ilanlara dikkat."
+   },
+   {
+    "kurum": "Çek Kazan",
+    "tip": "fis",
+    "url": "https://apps.apple.com/tr/app/%C3%A7ek-kazan/id1175448426",
+    "diger_adlar": [
+     "Justsnap"
+    ]
+   },
+   {
+    "kurum": "Easycep",
+    "tip": "satis",
+    "url": "https://easycep.com"
+   },
+   {
+    "kurum": "Samsung",
+    "tip": "satis",
+    "url": "https://www.samsung.com/tr/",
+    "not": "Takas desteği kampanyaları (yeni telefon alımına bağlı)."
+   },
+   {
+    "kurum": "Fiverr",
+    "tip": "freelance",
+    "url": "https://www.fiverr.com/partnerships/affiliates"
+   }
+  ]
+ },
+ "derleme": [
+  {
+   "ad": "Hesap.com",
+   "url": "https://hesap.com"
+  },
+  {
+   "ad": "Hesapkurdu",
+   "url": "https://www.hesapkurdu.com"
+  },
+  {
+   "ad": "HangiKredi",
+   "url": "https://www.hangikredi.com"
+  },
+  {
+   "ad": "Teklifimgelsin",
+   "url": "https://www.teklifimgelsin.com"
+  },
+  {
+   "ad": "Enuygun Finans",
+   "url": "https://www.enuygunfinans.com"
+  },
+  {
+   "ad": "Avantaj Radar",
+   "url": "https://avantajradar.com"
+  },
+  {
+   "ad": "Kartcini",
+   "url": "https://kartcini.com"
+  },
+  {
+   "ad": "Kart Asistanım",
+   "url": "https://kartasistanim.com"
+  },
+  {
+   "ad": "Kart Avantaj",
+   "url": "https://kartavantaj.com"
+  },
+  {
+   "ad": "Kartsever",
+   "url": "https://kartsever.com"
+  },
+  {
+   "ad": "Bi Kod Vardı",
+   "url": "https://bikodvardi.com"
+  },
+  {
+   "ad": "Memur365",
+   "url": "https://memur365.com"
+  },
+  {
+   "ad": "Youthall",
+   "url": "https://www.youthall.com"
+  },
+  {
+   "ad": "İndigo Dergisi",
+   "url": "https://indigodergisi.com"
+  },
+  {
+   "ad": "Ekonomi Politikası",
+   "url": "https://www.ekonomipolitikasi.com.tr"
+  },
+  {
+   "ad": "Haber Dijital",
+   "url": "https://haberdijital.com.tr"
+  },
+  {
+   "ad": "Cashback Verenler",
+   "url": "https://www.cashbackverenler.com"
+  },
+  {
+   "ad": "İşin Olsa",
+   "url": "https://www.isinolsa.com"
+  }
+ ],
+ "forum": [
+  {
+   "ad": "DonanımHaber Forum",
+   "url": "https://forum.donanimhaber.com",
+   "not": "Kampanyalar/Fırsatlar, Bankacılık ve Kredi Kartları"
+  },
+  {
+   "ad": "Technopat Sosyal",
+   "url": "https://www.technopat.net/sosyal"
+  },
+  {
+   "ad": "ShiftDelete.Net Forum",
+   "url": "https://shiftdelete.net/forum"
+  },
+  {
+   "ad": "R10.net",
+   "url": "https://www.r10.net"
+  },
+  {
+   "ad": "Ekşi Sözlük",
+   "url": "https://eksisozluk.com"
+  },
+  {
+   "ad": "DonanımArşivi Forum",
+   "url": "https://forum.donanimarsivi.com"
+  },
+  {
+   "ad": "Reddit (Türkçe finans/kampanya)",
+   "url": "https://www.reddit.com"
+  }
+ ],
+ "sosyal": {
+  "not": "Instagram/X/Telegram/YouTube içerikleri arama motoru üzerinden bulunur (site:x.com, site:instagram.com, kampanya derleyen hesaplar). Giriş gerektiren içerik okunamaz; bulunan bilgi resmi sayfadan teyit edilir, edilemezse teyitsiz.",
+  "aramalar": [
+   "site:x.com <kurum> kampanya",
+   "site:instagram.com <kurum> kampanya",
+   "\"kampanya\" \"son gün\" <ay yıl> banka",
+   "telegram kampanya kanalı banka fırsat",
+   "youtube banka kampanyaları <ay yıl>"
+  ]
+ }
+}

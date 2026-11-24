@@ -1,0 +1,505 @@
+{
+ "alan": "yatirim",
+ "tarih": "2026-11-21",
+ "kaynaklar": [
+  {
+   "ad": "Stablex kampanyalar sayfası",
+   "url": "https://stablex.com.tr/kampanyalar",
+   "durum": "ulasilamadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Stablex duyurular",
+   "url": "https://stablex.com.tr/yardim/duyurular",
+   "durum": "ok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Akbank kampanyaları (Stablex)",
+   "url": "https://www.akbank.com/kampanyalar/genc-akbankli-stablex-kampanyasi",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "hesap.com Stablex",
+   "url": "https://hesap.com/bankalar/stablex",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Paribu blog (kripto kampanyaları)",
+   "url": "https://www.paribu.com/blog/haberler/",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Paribu Pass",
+   "url": "https://pass.paribu.com/en",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Paribu Cineverse kampanyalar",
+   "url": "https://www.paribucineverse.com/kampanyalar",
+   "durum": "ok",
+   "bulunan": 3
+  },
+  {
+   "ad": "BtcTurk Ayrıcalıklar",
+   "url": "https://ayricaliklar.btcturk.com",
+   "durum": "ulasilamadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "BtcTurk haberleri (DHA/AA/Mynet)",
+   "url": "https://www.dha.com.tr/haberleri/btcturk",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Binance TR blog (Gelişmeler)",
+   "url": "https://www.binance.tr/tr/blog",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Binance TR duyurular",
+   "url": "https://www.binance.tr/tr/support/duyurular",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "OKX TR kampanyalar",
+   "url": "https://tr.okx.com/en/help/section/announcements-trading-updates",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Bybit TR",
+   "url": "https://www.bybit.tr/tr-TUR/promo/campaign/BybitTR_LiteAPP_Yayinda",
+   "durum": "ulasilamadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Bitlo",
+   "url": "https://www.bitlo.com/duyurular",
+   "durum": "ulasilamadi",
+   "bulunan": 2
+  },
+  {
+   "ad": "Icrypex",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Gate TR etkinlikler",
+   "url": "https://www.gate.tr/announcements/activity",
+   "durum": "ok",
+   "bulunan": 5
+  },
+  {
+   "ad": "CoinTR kampanyalar",
+   "url": "https://www.cointr.com/tr/events/newactivities/e4e975a041bd57c788b7de09053c7ab1?sectionId=kampanyalar",
+   "durum": "ulasilamadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Garanti BBVA Kripto kampanyalar",
+   "url": "https://www.garantibbvakripto.com.tr/kampanyalar",
+   "durum": "ulasilamadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Midas ayrıcalıklar (Midas Kripto)",
+   "url": "https://www.getmidas.com/ayricaliklar/",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "WhiteBIT TR (haberler)",
+   "url": "https://www.dha.com.tr/ekonomi/whitebit-trde-kripto-isleminin-yuzde-20si-hediye-2942696",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Kuantist / Bilira / KuCoin TR / MEXC TR (arama)",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "DHA kripto haberleri",
+   "url": "https://www.dha.com.tr/haberleri/kripto",
+   "durum": "ok",
+   "bulunan": 0
+  },
+  {
+   "ad": "DonanımHaber forum (kripto kampanya başlıkları)",
+   "url": "https://forum.donanimhaber.com/stablex-5000-kazan-akbank--163899559",
+   "durum": "ok",
+   "bulunan": 0
+  },
+  {
+   "ad": "SPK Faaliyette Bulunanlar Listesi (geçici)",
+   "url": "https://spk.gov.tr/kurumlar/kripto-varlik-hizmet-saglayicilar/faaliyette-bulunanlar-listesi",
+   "durum": "ok",
+   "bulunan": 0
+  },
+  {
+   "ad": "SPK Tasfiye Sürecinde Olanlar Listesi",
+   "url": "https://spk.gov.tr/kurumlar/kripto-varlik-hizmet-saglayicilar/tasfiye-surecinde-olanlar-listesi",
+   "durum": "ok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Allianz",
+   "url": "https://www.allianz.com.tr/tr_TR/faaliyetlerimiz/kampanyalar.html",
+   "durum": "ok",
+   "bulunan": 7
+  },
+  {
+   "ad": "Anadolu Hayat Emeklilik",
+   "url": "https://www.anadoluhayat.com.tr/kampanyalar",
+   "durum": "ok",
+   "bulunan": 7
+  },
+  {
+   "ad": "HDI Fiba Emeklilik",
+   "url": "https://www.hdifibaemeklilik.com.tr/hakkimizda/kampanyalar",
+   "durum": "ok",
+   "bulunan": 5
+  },
+  {
+   "ad": "Katılım Emeklilik",
+   "url": "https://www.katilimemeklilik.com.tr/hakkimizda/haber-ve-duyurular",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Türkiye Hayat Emeklilik",
+   "url": "https://www.turkiyesigorta.com.tr/aktif-kampanyalar",
+   "durum": "ok",
+   "bulunan": 3
+  },
+  {
+   "ad": "Garanti BBVA Emeklilik",
+   "url": "https://www.garantibbvaemeklilik.com.tr/kampanyalarimiz",
+   "durum": "ok",
+   "bulunan": 6
+  },
+  {
+   "ad": "AgeSA",
+   "url": "https://www.agesa.com.tr/bes-kampanyasi",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "MetLife Emeklilik",
+   "url": "https://www.metlife.com.tr/kampanya-kosullari/BES_A101/",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Türkiye Sigorta",
+   "url": "https://www.turkiyesigorta.com.tr/aktif-kampanyalar",
+   "durum": "ok",
+   "bulunan": 4
+  },
+  {
+   "ad": "Anadolu Sigorta",
+   "url": "https://www.anadolusigorta.com.tr/kampanyalar-firsatlar",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "BNP Paribas Cardif Emeklilik",
+   "url": "https://www.sigortamnews.com/bnp-paribas-cardif-bes-kampanyasi-31-aralika-uzaniyor",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "AXA Hayat ve Emeklilik",
+   "url": "https://www.axahayatemeklilik.com.tr/?pageID=88",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Zurich Yaşam ve Emeklilik (NN dahil)",
+   "url": "https://www.zurichyasam.com.tr/",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Viennalife / Bereket Emeklilik / Cigna / Groupama",
+   "url": "https://www.seddk.gov.tr/tr/kuruluslar/sigorta-reasurans-ve-bes-sirketleri",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "İş Bankası (AHE/Anadolu Sigorta ortak kampanyaları)",
+   "url": "https://www.isbank.com.tr/kampanyalar",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Akbank (AgeSA ortak)",
+   "url": "https://www.akbank.com/kampanyalar",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Kuveyt Türk (Katılım Emeklilik ortak)",
+   "url": "https://www.kuveytturk.com.tr",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Pazarama (BES Prime planı hediye çeki)",
+   "url": "https://www.pazarama.com/kampanya/bes-prime-emeklilik-planinda-30000-tlye-varan-hediye-ceki",
+   "durum": "ulasilamadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Forumlar (DonanımHaber vb.)",
+   "url": "https://forum.donanimhaber.com",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Midas",
+   "url": "https://www.getmidas.com/ayricaliklar/",
+   "durum": "ok",
+   "bulunan": 4
+  },
+  {
+   "ad": "Gedik Yatırım",
+   "url": "https://gedik.com/duyurular-ve-kampanyalar/kampanyalar",
+   "durum": "ok",
+   "bulunan": 3
+  },
+  {
+   "ad": "İş Yatırım",
+   "url": "https://www.isyatirim.com.tr/",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Ziraat Yatırım",
+   "url": "https://www.ziraatbank.com.tr/tr/super-platform/ziraat-yatirim-kampanyasi",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "A1 Capital",
+   "url": "https://a1capital.com.tr/kampanyalar/",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Kuveyt Türk Yatırım",
+   "url": "https://kuveytturkyatirim.com.tr/kampanyalar/",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "QNB Yatırım",
+   "url": "https://www.qnbinvest.com.tr/tr-TR",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Trexo",
+   "url": null,
+   "durum": "ulasilamadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Alternatif Menkul",
+   "url": "https://www.alternatifmenkul.com.tr/",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Garanti BBVA Yatırım",
+   "url": "https://www.garantibbvayatirim.com.tr/duyurular",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Yapı Kredi Yatırım",
+   "url": "https://www.yapikredi.com.tr/bireysel-bankacilik/yatirim-urunleri/hisse-senetleri/hisse-senedi-kampanyasi",
+   "durum": "ulasilamadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Ak Yatırım / Akbank",
+   "url": "https://www.akbank.com/kampanyalar/mobilden-akbankli-olanlar-hisse-senedi-islemlerinde-komisyon-odemiyor",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "İş Bankası (İşCep yatırım)",
+   "url": "https://www.isbank.com.tr/kampanyalar/iscepten-is-bankali-olanlara-avantajli-hisse-senedi-komisyon-ayricaligi",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Halk Yatırım",
+   "url": "https://halkyatirim.com.tr/",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Vakıf Yatırım",
+   "url": "https://www.vakifyatirim.com.tr/",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Deniz Yatırım",
+   "url": "https://www.denizyatirim.com/",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "İnfo Yatırım",
+   "url": "https://infoyatirim.com/kampanyalar",
+   "durum": "ulasilamadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Osmanlı Yatırım",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Tacirler Yatırım",
+   "url": "https://tacirler.com.tr/",
+   "durum": "ulasilamadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Bulls Yatırım",
+   "url": "https://bullsyatirim.com/duyurular",
+   "durum": "ulasilamadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Colendi Menkul",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "InvestAZ",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Destek Yatırım",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Global Menkul",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Phillip Capital",
+   "url": "https://www.phillipcapital.com.tr/bist-hisse-sifir-komisyon",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Marbaş",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Şeker Yatırım",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "İntegral Yatırım",
+   "url": "https://lp2.integralyatirim.com.tr/egnjwjjgmr/",
+   "durum": "ulasilamadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Pusula Yatırım",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "ÜNLÜ & Co (Piapiri)",
+   "url": "https://www.piapiri.com/kampanyalar/aktif-kampanyalar/",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "GCM Yatırım",
+   "url": "https://www.gcmyatirim.com.tr/borsa",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "BtcTurk Hisse",
+   "url": "https://hisse.btcturk.com/duyurular/",
+   "durum": "ok",
+   "bulunan": 2
+  },
+  {
+   "ad": "Ata Yatırım",
+   "url": "https://atayatirim.com.tr/landingpages/yurt-disi-borsalar",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Yatırım Finansman",
+   "url": "https://www.yf.com.tr/kampanyalar",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Enpara (yatırım hesabı)",
+   "url": "https://www.enpara.com/yatirim-hesabi/hisse-senedi",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Türkiye Finans (yatırım hesabı)",
+   "url": "https://www.turkiyefinans.com.tr/tr-tr/kampanyalar/Sayfalar/yeni-yatirim-hesabiniza-sifir-komisyon.aspx",
+   "durum": "ulasilamadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Hayat Finans",
+   "url": null,
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "borsaningundemi.com / yatirimx.com.tr (derleme-haber)",
+   "url": "https://www.yatirimx.com.tr/piyasa/komisyon-oranlari-dusuk-olan-araci-kurumlar-2026/20916",
+   "durum": "ok",
+   "bulunan": 0
+  },
+  {
+   "ad": "DonanımHaber / kuponla (Midas davet)",
+   "url": "https://forum.donanimhaber.com/midas-davet-et-kazan--153906042",
+   "durum": "ok",
+   "bulunan": 0
+  }
+ ],
+ "not": "Üç grup tarandı: kripto platformları (SPK geçici listesi dahil), BES/hayat/sigorta, aracı kurumlar. Varsayımlar: sabit getirili earn/staking/lending, kredili işlem faizi, repo ve para piyasası fonu getirisi kampanyaları faize dayalı sayılıp alınmadı; kaldıraçlı/vadeli kripto bonusları alınmadı. BES'te yalnız yeni sözleşme isteyen (mevcut müşteriye açık) kampanyalar 'uygun', şirkete yeni müşteri şartı olanlar 'yeni-musteri' yazıldı. Kuveyt Türk/Katılım Emeklilik Pratik BES kaydı mevcut 'Kuveyt Türk' kaydıyla birleştirildi (kredi kartı + 2026'da yeni banka müşterisi şartı). Gate TR detay sayfaları ve OKX X Drops okunamadığı için 'kontrol' + teyitsiz. SPK: Icrypex tasfiye listesinde; Bitexen 23.09.2026 kararıyla yeni müşteri alamıyor; Trexo adlı aracı kurum bulunamadı. Bitmiş olup eklenmeyenler: Binance TR Sonbahar ve 'Tek Cümlede Anlat', OKX TR Yatır Kazan, WhiteBIT TR %20, Bitlo RLUSD, Allianz BES ek katkı (27.10) ve 365 çekilişi, Allianz–Turkcell BES (25.03), AgeSA bahar çekilişleri, MetLife %10 ek katkı, Kuveyt Türk Yatırım virman, A1 Capital canlı veri, Ata Starbucks, İnfo TradingView, İş Bankası–Pazarama BES çeki (2025). Teyit edilemeyen/okunamayan: stablex.com.tr/kampanyalar, ayricaliklar.btcturk.com, bybit.tr, bitlo.com, garantibbvakripto, cointr, Garanti BBVA Emeklilik Kasım PDF'leri, HDI/AHE bazı detay sayfaları, Yapı Kredi, İnfo, Tacirler, Bulls, İntegral, Türkiye Finans yatırım hesabı. Doğrulama örneklemi (Midas iki iPhone çekilişi, Kuveyt Türk Yatırım sıfır komisyon, HDI Payfour) resmi sayfalarla tutarlı."
+}
