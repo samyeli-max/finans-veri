@@ -3,10 +3,10 @@
  "tarih": "2026-11-25",
  "kaynaklar": [
   {
-   "ad": "DonanımHaber Forum (Sıcak Fırsatlar f2118, Banka-Kredi Kartı Fırsatları f2119, banka ana konuları)",
+   "ad": "DonanımHaber Forum (f2119 bölüm listesi, f2118, Diğer Sıcak Fırsatlar s.342, Worldcard s.160, Odeabank, Albaraka, CEPTETEB s.569, Fibabanka, Fatura ana konu, BanaBak, Bybit TR konuları)",
    "url": "https://forum.donanimhaber.com/banka-kredi-karti-firsatlari--f2119",
    "durum": "ok",
-   "bulunan": 2
+   "bulunan": 3
   },
   {
    "ad": "Technopat Sosyal",
@@ -18,26 +18,28 @@
   {
    "ad": "ShiftDelete.Net Forum",
    "url": "https://shiftdelete.net/forum",
-   "durum": "kampanya-yok",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi",
    "bulunan": 0
   },
   {
    "ad": "R10.net (Hediye & Promosyon Kazanımı)",
    "url": "https://www.r10.net/hediye-promosyon-kazanimi/",
-   "durum": "ok",
-   "bulunan": 2
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi",
+   "bulunan": 0
   },
   {
-   "ad": "DonanımArşivi Forum (Sıcak Fırsatlar)",
+   "ad": "DonanımArşivi Forum",
    "url": "https://forum.donanimarsivi.com",
-   "durum": "ok",
-   "bulunan": 1
+   "durum": "kampanya-yok",
+   "bulunan": 0
   },
   {
    "ad": "Ekşi Sözlük",
    "url": "https://eksisozluk.com",
    "durum": "ulasilamadi",
-   "sebep": "site-hatasi",
+   "sebep": "onay-zaman-asimi",
    "bulunan": 0
   },
   {
@@ -76,166 +78,15 @@
    "bulunan": 0
   },
   {
-   "ad": "Serbest aramalar (son gün / yeni kampanya / Efsane Cuma / Aralık / kripto / BES)",
-   "url": null,
-   "durum": "ok",
-   "bulunan": 9
-  },
-  {
-   "ad": "Kart Asistanım",
-   "url": "https://kartasistanim.com",
-   "durum": "ok",
-   "bulunan": 1
-  },
-  {
-   "ad": "Kartcini",
-   "url": "https://kartcini.com",
-   "durum": "ok",
-   "bulunan": 4
-  },
-  {
-   "ad": "Kartsever",
-   "url": "https://kartsever.com",
-   "durum": "ok",
-   "bulunan": 5
-  },
-  {
-   "ad": "Kart Avantaj",
-   "url": "https://kartavantaj.com",
-   "durum": "ok",
-   "bulunan": 1
-  },
-  {
-   "ad": "Avantaj Radar",
-   "url": "https://avantajradar.com",
-   "durum": "ok",
-   "bulunan": 4
-  },
-  {
-   "ad": "Bi Kod Vardı",
-   "url": "https://bikodvardi.com",
-   "durum": "ok",
-   "bulunan": 6
-  },
-  {
-   "ad": "Hesap.com",
-   "url": "https://hesap.com",
-   "durum": "ok",
-   "bulunan": 1
-  },
-  {
-   "ad": "HangiKredi",
-   "url": "https://www.hangikredi.com/kredi-karti/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "site-hatasi",
-   "bulunan": 0
-  },
-  {
-   "ad": "Hesapkurdu (Kasım fırsatları)",
-   "url": "https://www.hesapkurdu.com/kasim-firsatlari",
-   "durum": "kampanya-yok",
-   "bulunan": 0
-  },
-  {
-   "ad": "Teklifimgelsin",
-   "url": "https://www.teklifimgelsin.com",
-   "durum": "ok",
-   "bulunan": 1
-  },
-  {
-   "ad": "Enuygun Finans",
-   "url": "https://www.enuygunfinans.com",
-   "durum": "kampanya-yok",
-   "bulunan": 0
-  },
-  {
-   "ad": "Memur365",
-   "url": "https://memur365.com",
-   "durum": "kampanya-yok",
-   "bulunan": 0
-  },
-  {
-   "ad": "Cashback Verenler (Black Friday kart kampanyaları)",
-   "url": "https://www.cashbackverenler.com/black-friday-kart-kampanyalari",
-   "durum": "ok",
-   "bulunan": 4
-  },
-  {
-   "ad": "İşin Olsa",
-   "url": "https://www.isinolsa.com",
-   "durum": "kampanya-yok",
-   "bulunan": 0
-  },
-  {
-   "ad": "İndigo Dergisi",
-   "url": "https://indigodergisi.com",
-   "durum": "kampanya-yok",
-   "bulunan": 0
-  },
-  {
-   "ad": "Youthall",
-   "url": "https://www.youthall.com/tr/ayricaliklar/finans/",
-   "durum": "kampanya-yok",
-   "bulunan": 0
-  },
-  {
-   "ad": "Kuponmanya (banka kampanyaları)",
-   "url": "https://www.kuponmanya.com/kupon-kategori/banka-kampanyalari/",
-   "durum": "ok",
-   "bulunan": 4
-  },
-  {
-   "ad": "Haber Dijital / Ekonomi Politikası (24–25.11)",
-   "url": "https://haberdijital.com.tr",
-   "durum": "ok",
-   "bulunan": 3
-  },
-  {
-   "ad": "Haber siteleri (son 48 saat: Yeni Asır, dunya, ekonomim, haberturk, ntv vb.)",
-   "url": "https://www.yeniasir.com.tr",
-   "durum": "ok",
-   "bulunan": 2
-  },
-  {
-   "ad": "Garanti BBVA kampanyalar + Müşterimiz Olun sayfaları",
-   "url": "https://www.garantibbva.com.tr/kampanyalar",
-   "durum": "ok",
-   "bulunan": 9
-  },
-  {
-   "ad": "Yapı Kredi kampanya detay sayfaları",
-   "url": "https://www.yapikredi.com.tr/kampanyalar",
-   "durum": "ok",
-   "bulunan": 2
-  },
-  {
-   "ad": "MediaMarkt banka kampanyaları",
-   "url": "https://www.mediamarkt.com.tr/tr/campaign/banka-kampanyalari",
-   "durum": "ok",
-   "bulunan": 2
-  },
-  {
-   "ad": "İş Bankası kampanya sayfası (taksitli e-ticaret)",
-   "url": "https://www.isbank.com.tr/kampanyalar/taksitli-e-ticaret-alisverislerinizde-maxipuan-kampanyasi",
-   "durum": "ok",
-   "bulunan": 1
-  },
-  {
-   "ad": "Halkbank bireysel kampanyalar",
-   "url": "https://www.halkbank.com.tr/tr/bireysel/kampanyalar",
-   "durum": "kampanya-yok",
-   "bulunan": 0
-  },
-  {
-   "ad": "Papara kampanyalar",
-   "url": "https://www.papara.com/kampanyalar",
+   "ad": "Bybit TR duyurular",
+   "url": "https://announcements.bybit.tr/tr-TUR/",
    "durum": "ulasilamadi",
    "sebep": "onay-zaman-asimi",
    "bulunan": 0
   },
   {
-   "ad": "Paycell kampanyalar",
-   "url": "https://www.paycell.com.tr/kampanyalar",
+   "ad": "Tami resmi kampanya listesi",
+   "url": "https://www.tami.com.tr/kampanyalar/tami-kart",
    "durum": "ulasilamadi",
    "sebep": "onay-zaman-asimi",
    "bulunan": 0
@@ -297,43 +148,219 @@
    "bulunan": 0
   },
   {
-   "ad": "Trendyol Efsane Cuma banka kampanyaları sayfası",
-   "url": "https://www.trendyol.com",
+   "ad": "Papara kampanyalar",
+   "url": "https://www.papara.com/kampanyalar",
    "durum": "ulasilamadi",
-   "sebep": "arama-sonucsuz",
+   "sebep": "onay-zaman-asimi",
    "bulunan": 0
   },
   {
-   "ad": "Hepsiburada Efsane Cuma banka kampanyaları sayfası",
-   "url": "https://www.hepsiburada.com",
+   "ad": "Paycell kampanyalar",
+   "url": "https://www.paycell.com.tr/kampanyalar",
    "durum": "ulasilamadi",
-   "sebep": "arama-sonucsuz",
+   "sebep": "onay-zaman-asimi",
    "bulunan": 0
   },
   {
-   "ad": "Kripto platformları aramaları (Binance TR, Paribu, BtcTurk, OKX TR, WhiteBIT TR)",
+   "ad": "HangiKredi",
+   "url": "https://www.hangikredi.com/kredi-karti/kampanyalar",
+   "durum": "ulasilamadi",
+   "sebep": "site-hatasi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Yapı Kredi kampanya detay sayfaları (257004, 253665, 257577, 257655, 254998)",
+   "url": "https://www.yapikredi.com.tr/kampanyalar",
+   "durum": "ok",
+   "bulunan": 3
+  },
+  {
+   "ad": "Akbank kampanya sayfaları (TOD, YouTube, IN Street, TikTak, Kadınlar Platformu)",
+   "url": "https://www.akbank.com/kampanyalar",
+   "durum": "ok",
+   "bulunan": 6
+  },
+  {
+   "ad": "İş Bankası kampanya sayfaları (e-ticaret çatı, İşPay, otomatik fatura)",
+   "url": "https://www.isbank.com.tr/kampanyalar",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Garanti BBVA Müşteri Ol sayfaları (Tıkla Gelsin, Gençlik)",
+   "url": "https://www.garantibbva.com.tr/kampanyalar",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Ziraat Süper Platform",
+   "url": "https://www.ziraatbank.com.tr/tr/super-platform/otomate-indirim-kampanyasi",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Haber Dijital",
+   "url": "https://haberdijital.com.tr",
+   "durum": "ok",
+   "bulunan": 9
+  },
+  {
+   "ad": "Ekonomi Politikası",
+   "url": "https://ekonomipolitikasi.com.tr",
+   "durum": "ok",
+   "bulunan": 3
+  },
+  {
+   "ad": "Haber siteleri (ShiftDelete haber, Yeni Çağ, Haber7)",
+   "url": "https://shiftdelete.net/hepsiburada-efsane-cuma-indirimleri-2026",
+   "durum": "ok",
+   "bulunan": 1
+  },
+  {
+   "ad": "Kart Avantaj (Kasım 2026 üyelik iadeleri rehberi)",
+   "url": "https://kartavantaj.com/blog/ucretsiz-amazon-prime-hepsiburada-premium-trendyol-plus-veren-kartlar-kasim-2026",
+   "durum": "ok",
+   "bulunan": 4
+  },
+  {
+   "ad": "MediaMarkt Şahane Kasım 3 kat Club puan",
+   "url": "https://www.mediamarkt.com.tr/tr/specials/sahane-kasima-ozel-3-kat-club-puan",
+   "durum": "ulasilamadi",
+   "sebep": "site-hatasi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Param avantajlar",
+   "url": "https://param.com.tr",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Serbest aramalar (son gün, Efsane Cuma, yeni kampanya, kripto Black Friday)",
+   "url": null,
+   "durum": "ok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Kripto platformları aramaları (Black Friday / Kasım)",
    "url": null,
    "durum": "kampanya-yok",
    "bulunan": 0
   },
   {
-   "ad": "Midas ayrıcalıklar aramaları",
-   "url": "https://www.getmidas.com",
-   "durum": "kampanya-yok",
-   "bulunan": 0
-  },
-  {
-   "ad": "Bybit TR duyurular",
-   "url": "https://announcements.bybit.tr/tr-TUR/",
+   "ad": "Kart Asistanım",
+   "url": "https://kartasistanim.com",
    "durum": "taranmadi",
    "bulunan": 0
   },
   {
-   "ad": "Tami resmi kampanya listesi",
-   "url": "https://www.tami.com.tr/kampanyalar/tami-kart",
+   "ad": "Kartcini",
+   "url": "https://kartcini.com",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Kartsever",
+   "url": "https://kartsever.com",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Avantaj Radar",
+   "url": "https://avantajradar.com",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Bi Kod Vardı",
+   "url": "https://bikodvardi.com",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Hesap.com",
+   "url": "https://hesap.com",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Hesapkurdu (Kasım fırsatları)",
+   "url": "https://www.hesapkurdu.com/kasim-firsatlari",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Teklifimgelsin",
+   "url": "https://www.teklifimgelsin.com",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Enuygun Finans",
+   "url": "https://www.enuygunfinans.com",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Memur365",
+   "url": "https://memur365.com",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Cashback Verenler (Black Friday kart kampanyaları)",
+   "url": "https://www.cashbackverenler.com/black-friday-kart-kampanyalari",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "İşin Olsa",
+   "url": "https://www.isinolsa.com",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "İndigo Dergisi",
+   "url": "https://indigodergisi.com",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Youthall",
+   "url": "https://www.youthall.com/tr/ayricaliklar/finans/",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Kuponmanya (banka kampanyaları)",
+   "url": "https://www.kuponmanya.com/kupon-kategori/banka-kampanyalari/",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "MediaMarkt banka kampanyaları",
+   "url": "https://www.mediamarkt.com.tr/tr/campaign/banka-kampanyalari",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Halkbank bireysel kampanyalar",
+   "url": "https://www.halkbank.com.tr/tr/bireysel/kampanyalar",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Trendyol Efsane Cuma banka kampanyaları sayfası",
+   "url": "https://www.trendyol.com",
+   "durum": "taranmadi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Midas ayrıcalıklar",
+   "url": "https://www.getmidas.com",
    "durum": "taranmadi",
    "bulunan": 0
   }
  ],
- "not": "Sosyal taraması 25.11.2026 (kullanım sınırı nedeniyle yarıda kalan forum ve derleme bölümleri aynı gün yeniden çalıştırıldı). kampanyalar.json'daki 563 kayıtla karşılaştırıldı: 47 yeni kayıt, 8 güncelleme (Garanti %0 50+50 bin TL: resmi + 1–30.11; Yapı Kredi MediaMarkt 2.035 Worldpuan: resmi + 21–29.11; İş Bankası taksitli e-ticaret MaxiPuan: resmi tutar 1.000/2.500 TL + bitiş 30.11 — başlık birleştirme çakışmasını önlemek için değiştirildi, aynı resmi bağlantıyla eski kayda katılıyor; DenizBank e-ticaret 1.000 TL: bitiş 30.11 + ECOM SMS; TEB market 125 TL: üst limit 1.250 TL + bitiş 30.11; ON Dijital davet: Migros çeki ek ödülü yalnız 24–27.11 davetlerinde; Yapı Kredi ve İş Bankası emekli promosyonu: Yeni Asır 24.11'e göre bitiş 30.11, teyitsiz). Birleştirme çakışmaları düzeltildi: Garanti 'Müşterimiz Olun' kod kayıtları kod-önce kısa başlıklarla yazıldı (aksi hâlde betik aynı bitişli benzer başlıkları birleştiriyordu); kuponmanya kaynaklı Garanti kayıtlarına ayrı bağlantı parçası (#...) eklendi; TEB kredi kartı sektör indirimleri tek kayıtta toplandı; Amazon HEDIYE75 bağlantısına #hediye75 eklendi (ekgelir'deki 'İlk kez Prime' kaydıyla aynı bağlantıyı paylaştığı için o kayıt yok oluyordu). 7 günden eski olup başka parçada da bulunan 4 kayıt (Akbank Taksitli Artı Para, Paycell Sticker Kart, Tami dijital platform, QNB %0 paket) korundu: sosyal parçasındaki hâlleri resmi sayfadan sonradan teyit edilmiş/düzeltilmiş bilgi taşıyor; çıkarılırlarsa birleşik listede eski ya da yanlış bilgi kalıyor. Alınmayanlar: Akbank 125.000 TL %0 paket (mevcut Taksitli Artı Para kaydında var), Kuveyt Türk emekli 14.000 TL (Eylül haberi, zayıf), Paraf e-ticaret 8.000 TL ve Maximum e-ticaret 5.500 TL (mevcut kampanyaların parçası/toplamı), Axess Renault/Dacia taksit ve sıradan taksit fırsatları, Vodafone KoçAilem (çalışana özel), Stablex (yeni değil; forumda ödemelerin ertelendiği bildirildi), kişisel davet kodları. Engeller: arama sonucunda çıkmayan adresleri doğrudan açma izin isteği zaman aşımına uğradı (resmi kart programı listeleri, Reddit, DonanımHaber'in birçok konu son sayfası); Technopat ve Ekşi istemci hatası verdi; X/Instagram/Telegram/YouTube için site: aramaları sonuç döndürmedi. Bybit TR ve Tami resmi listesi bu taramada denenmedi (taranmadi)."
+ "not": "Sosyal taraması 25.11.2026, akşam çalıştırması (aynı gün öğlen taramasının üzerine; kampanyalar.json'daki 610 kayıtla karşılaştırıldı). Yeni eklenen 29 kayıt: Yapı Kredi SANSLIKASIM / PLAY2026 / SUPERKART (resmi), TEB Gelirini Getir 6.000 TL, TROY200 D&R (25.11'de başladı), HSBC Premier ZARA %10 (25–30.11), Hepsiburada Efsane Cuma Axess 12 taksit (26.11 biter), Akbank TOD SUPERLIG / YouTube Premium 120 TL / IN Street 700 TL / TikTak / Kadınlar Platformu e-ticaret (resmi), Odeabank KASIM e-ticaret 1.500 TL, abonelik iadeleri (Paycell Kart Amazon Prime %50, Uption Hepsiburada Premium %100, Enpara Trendyol Plus, Maximum Pazarama Plus, Paraf tabii Premium, Fibabanka Hızlı Kart dijital platform %25), Fibabanka Hızlı Kart yemek %25, Paraf: faizsiz taksitli nakit avans, EMLAK1 aidat %20, mobilya 6.000 / yurt dışı 750 / Tarım Kredi 1.000 / veteriner 600 TL ParafPara; VakıfBank MediaMarkt 2.035 ve mobil temassız 300 Worldpuan; Ziraat Süper Platform Otomate 1.500 TL. Güncelleme: TROY Pazarama 250 TL indirimi 22.11.2026'da bitti (Kart Avantaj) → bitiş yazıldı. 7 günden eski olup başka parçada da bulunan 7 kayıt (Akbank Taksitli Artı Para, QNB %0 paket, Paycell Sticker Kart, Tami dijital platform, İş Bankası emekli promosyonu, TEB market 125 TL, İş Bankası taksitli e-ticaret MaxiPuan) yalnız 'baslangic' tohum parçasında tekrar ediyor; o parça hiçbir zamanlanmış görevce yenilenmediği ve sosyal'deki hâlleri resmi sayfadan teyit edilmiş tutar/bitiş taşıdığı için korundu (çıkarılsa birleşik listede eski/yanlış bilgi kalıyor). Taranan alanların (bankalar/fintech/yatirim/alisveris/ekgelir) parçalarıyla 7 günden eski ortak kayıt yok. Alınmayanlar: İşPay bakiye %5 iade (İhtiyaç Kredisi/Taksitli Ek Hesapla yükleme şartı, faizli kredi), Halkbank n11/Karaca peşin fiyatına 3 taksit ve Özdilek 6 taksit (sıradan taksit), TEB 'HARCA' e-ticaret (kişiye özel, tutar yok), Ziraat Katılım 500 TL market iadesi (yalnız sayfa özetinde, ham metinde doğrulanamadı), Avantajix tekil ürün iadeleri, VakıfBank Öğretmenler Günü (24.11'de bitti), Pazarama değerli puan aktarımı (22.11'de bitti), Akbank QR çekilişi ve Davet Et Kazan (Eylül'de bitti), Garanti Tıkla Gelsin/Gençlik Müşteri Ol (bitmiş), Bybit TR airdrop konuları (2025, bitmiş), QNB maaş 10.000 TL (2025 konusu). Bilgi: Param'ın sitesinde TMSF'nin kayyım olarak atandığı duyurusu görüldü (tek kaynak; Param kampanyası eklenmedi). Engeller: arama sonucunda çıkmayan adresleri doğrudan açma izni zaman aşımına uğradı (kart programı listeleri, Tami, Bybit TR, Ekşi, Reddit, R10, ShiftDelete forum, DonanımHaber Bonus/Denizbank/Paraf/emekli ana konularının son sayfaları); Technopat, HangiKredi, Yeni Çağ, Haber7, MediaMarkt özel sayfası istemci hatası verdi; X/Instagram/Telegram/YouTube için site: aramaları platform içeriği döndürmedi. Derleme sitelerinin çoğu aynı gün öğlen taramasında tarandığı için bu çalıştırmada denenmedi (taranmadi)."
 }

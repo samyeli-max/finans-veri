@@ -2997,8 +2997,8 @@
    "tur": "indirim",
    "fayda": "1.250 TL+ alışverişe 250 TL indirim + Pazarama Plus avantajı",
    "baslangic": null,
-   "bitis": null,
-   "kosul": "TROY logolu kart (TEB Bonus, Vakıf, World, Paraf); min. 1.250 TL. Bitiş derlemede yok; resmi sayfa açılamadı. Kaynak: Kartcini, Kasım 2026",
+   "bitis": "2026-11-22",
+   "kosul": "TROY logolu kart (TEB Bonus, Vakıf, World, Paraf); min. 1.250 TL. Bitiş derlemede yok; resmi sayfa açılamadı. Kaynak: Kartcini, Kasım 2026 Güncelleme (25.11): Kart Avantaj rehberine göre kampanya 22.11.2026'da sona erdi.",
    "teyitsiz": true,
    "uygunluk": "kontrol",
    "link": "https://www.teb.com.tr/sizin-icin/pazarama-indirim/",
@@ -3367,6 +3367,501 @@
    "etiketler": [
     "eticaret"
    ]
+  },
+  {
+   "kurum": "Yapı Kredi",
+   "kampanya": "SANSLIKASIM: Kasım doğumlu olup mobilden ilk kez müşteri olana ilk online alışverişte 2.000 TL'ye kadar iade",
+   "tur": "yeni müşteri bonusu",
+   "fayda": "İlk online alışverişin 2.000 TL'ye kadarı iade (2.000 TL altı alışveriş tamamen)",
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "kosul": "Kimlikte doğum ayı Kasım olan, Yapı Kredi'de hesabı/kartı olmayan kişi; Yapı Kredi Mobil'den müşteri olurken referans kodu alanına SANSLIKASIM; kredi kartı onaylanıp aktive edilmeli; ilk online alışveriş 30.11'e kadar; iade 10.12.2026'ya kadar; kişi başı bir kez, diğer banka kampanyalarıyla birleşmez.",
+   "teyitsiz": false,
+   "uygunluk": "yeni-musteri",
+   "link": "https://www.yapikredi.com.tr/kampanyalar/detay/257577",
+   "oneCikan": true,
+   "kaynak": "resmi",
+   "etiketler": [
+    "eticaret"
+   ]
+  },
+  {
+   "kurum": "Yapı Kredi",
+   "kampanya": "PLAY2026: 18–26 yaş, mobilden ilk kez Yapı Kredili olana 15.000 TL'ye varan Play fırsatları",
+   "tur": "yeni müşteri bonusu",
+   "fayda": "Toplam 15.000 TL'ye varan: Play kart harcamasına 5 ayda 6.000 TL'ye kadar puan (600 TL+ harcamaya 300 TL, aylık 1.200 TL), yakınını getir ödülleri, kafe-restoranda %20 (5 ayda 1.500 TL), dijital platformda %50, e-ticaret ve dijital yayın iadeleri, ücretsiz EFT/havale",
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "kosul": "18–26 yaş, ilk kez Yapı Kredi müşterisi; Yapı Kredi Mobil'den hesap açarken PLAY2026 kodu; Play kredi kartı veya Play TLcard onaylı; açık TL vadesiz hesap; kafe-restoran ve yayın iadeleri için World Mobil kaydı. Alt kalem tutarları resmi sayfadan özetlendi, uygulamada kontrol et.",
+   "teyitsiz": false,
+   "uygunluk": "yeni-musteri",
+   "link": "https://www.yapikredi.com.tr/kampanyalar/detay/254998",
+   "oneCikan": true,
+   "kaynak": "resmi",
+   "etiketler": [
+    "yeme",
+    "abonelik",
+    "eticaret"
+   ]
+  },
+  {
+   "kurum": "Yapı Kredi",
+   "kampanya": "SUPERKART: yakınını Yapı Kredili yap, davet başına 500 TL, 20.000 TL'ye kadar kart borcuna iade",
+   "tur": "arkadaşını getir",
+   "fayda": "Davetle müşteri olan her kişi için 500 TL, toplam en fazla 20.000 TL (kredi kartı ekstresine)",
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "kosul": "Davet Yapı Kredi Mobil'den; davetli ilk kez müşteri olmalı, Mobil'de kayıt olurken SUPERKART kodunu girmeli ve bireysel kredi kartı onaylanıp aktive edilmeli (ek ve ön ödemeli kart hariç). 'Yakınını Getir' puanlarına ek kazanılır. Yükleme 10.12.2026.",
+   "teyitsiz": false,
+   "uygunluk": "uygun",
+   "link": "https://www.yapikredi.com.tr/kampanyalar/detay/253665",
+   "oneCikan": true,
+   "kaynak": "resmi"
+  },
+  {
+   "kurum": "TEB / CEPTETEB",
+   "kampanya": "Gelirini Getir: CEPTETEB'e ayda 100.000 TL gelir transferi + 2.000 TL banka kartı harcamasına 6 ay 1.000 TL nakit iade",
+   "tur": "cashback",
+   "fayda": "Koşul sağlanan her ay 1.000 TL, 6 ayda en fazla 6.000 TL nakit iade",
+   "bitis": "2026-11-30",
+   "kosul": "Son katılım 30.11.2026 (CEPTETEB Mobil'den katıl). Her ay başka bankadaki kendi hesabından CEPTETEB'e en az 100.000 TL EFT/FAST + aynı ay TEB banka kartıyla (Bireysel/Platinum/CEPTETEB) en az 2.000 TL yurt içi harcama; kredi ve sanal kart hariç. İade izleyen ayın 15'ine kadar vadesiz hesaba. Mevcut 'Varlık 6000' kaydından ayrı kampanya. Resmi sayfa: teb.com.tr/sizin-icin/debit-6000/ (açılmadı). Kaynak: Haber Dijital, 25.11.2026",
+   "teyitsiz": true,
+   "uygunluk": "kontrol",
+   "link": "https://www.teb.com.tr/sizin-icin/debit-6000/",
+   "kaynak": "haber",
+   "etiketler": [
+    "tum-harcamalar"
+   ],
+   "baslangic": null,
+   "oneCikan": false
+  },
+  {
+   "kurum": "TROY",
+   "kampanya": "TROY200: TROY logolu kartla D&R'da her 1.000 TL'ye 200 TL, toplam 1.000 TL indirim",
+   "tur": "indirim",
+   "fayda": "Tek seferde 1.000 TL+ alışverişe 200 TL, kart başına en fazla 5 kez (1.000 TL)",
+   "baslangic": "2026-11-25",
+   "bitis": "2026-12-31",
+   "kosul": "Bireysel/ticari TROY logolu banka ve kredi kartları (TEB ve VakıfBank duyurdu). Mağazada kart POS'a takılıp şifre girilmeli (temassız/QR hariç); dr.com.tr ve uygulamada üye girişi + sepette TROY200 kodu. D&R Cafe, havalimanı, outlet ve fuar mağazaları ile dijital cüzdan hariç. Kaynak: Ekonomi Politikası, 25.11.2026 (resmi sayfalar açılmadı)",
+   "teyitsiz": true,
+   "uygunluk": "kontrol",
+   "link": "https://www.teb.com.tr/sizin-icin/dr-1000/",
+   "kaynak": "haber",
+   "etiketler": [
+    "eglence",
+    "dr"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "HSBC",
+   "kampanya": "HSBC Premier kredi kartıyla ZARA mağazalarında %10 indirim (1.500 TL'ye kadar)",
+   "tur": "indirim",
+   "fayda": "%10, en fazla 1.500 TL (müşteri başına bir kez)",
+   "baslangic": "2026-11-25",
+   "bitis": "2026-11-30",
+   "kosul": "Yalnız HSBC Premier kredi kartı ve Premier segment; ZARA fiziki mağazalarında tek seferde 5.500 TL+ ilk alışveriş (online hariç); katılım gerekmez, indirim ertesi gün. Advantage, banka ve ticari kartlar hariç. Kaynak: Haber Dijital, 25.11.2026",
+   "teyitsiz": true,
+   "uygunluk": "kredi-karti",
+   "link": "https://haberdijital.com.tr/hsbc-premier-kredi-kartina-zara-magazalarinda-yuzde-10-indirim/",
+   "kaynak": "haber",
+   "etiketler": [
+    "giyim",
+    "zara"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "Akbank",
+   "kampanya": "Hepsiburada Efsane Cuma: Axess ile 30.000 TL+ alışverişe peşin fiyatına 12 taksit",
+   "tur": "faizsiz taksit",
+   "fayda": "Peşin fiyatına 12 taksit",
+   "baslangic": "2026-11-22",
+   "bitis": "2026-11-26",
+   "kosul": "Axess kredi kartıyla 30.000 TL+ alışveriş; seçili satıcı ve ürünler, stokla sınırlı; 26.11.2026 16:59'a kadar. Kaynak: ShiftDelete, 23.11.2026",
+   "teyitsiz": true,
+   "uygunluk": "kredi-karti",
+   "link": "https://promotion.hepsiburada.com/shop/lp/efsane-cuma-indirimleri",
+   "kaynak": "haber",
+   "etiketler": [
+    "eticaret",
+    "hepsiburada"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "Akbank",
+   "kampanya": "SUPERLIG koduyla mobilden Akbanklı olup QR ödeme yapana 1 ay TOD Süper Lig paketi hediye",
+   "tur": "ücretsiz hizmet",
+   "fayda": "1 aylık TOD Süper Lig paketi (ilk 500 kişi)",
+   "baslangic": "2026-11-04",
+   "bitis": "2026-12-20",
+   "kosul": "Akbank'ta hesabı olmayan ya da pasif kişi; Akbank Mobil'de 'Akbanklı olmak istiyorum' adımında davet kodu alanına SUPERLIG, ardından Akbank Mobil ile QR ödeme; kupon todtv.com.tr'de kullanılır.",
+   "teyitsiz": false,
+   "uygunluk": "yeni-musteri",
+   "link": "https://www.akbank.com/kampanyalar/mobilden-akbankli-olanlara-1-aylik-tod-superlig-paketi-hediye-kampanyasi",
+   "oneCikan": true,
+   "kaynak": "resmi",
+   "etiketler": [
+    "abonelik",
+    "tod"
+   ]
+  },
+  {
+   "kurum": "Akbank",
+   "kampanya": "Mobilin Akbanklısı Altın: YouTube Premium ödemesine 120 TL chip-para",
+   "tur": "cashback",
+   "fayda": "120 TL chip-para (YouTube Premium ödemesi kadar)",
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "kosul": "Yalnız Mobilin Akbanklısı Altın seviye; ödemeden önce Akbank Mobil > Kampanyalar'dan katıl; tek seferde 119,99 TL+ YouTube Premium ödemesi; Akbank Kart (banka kartı), Axess, Wings, Free, sanal/ek kartlar geçerli. Chip-para 10.12'de.",
+   "teyitsiz": false,
+   "uygunluk": "kontrol",
+   "link": "https://www.akbank.com/kampanyalar/mobilin-akbanklisi-ile-youtube-kampanyasi",
+   "kaynak": "resmi",
+   "etiketler": [
+    "abonelik",
+    "youtube"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "Akbank",
+   "kampanya": "Mobilin Akbanklısı: IN Street'te 4.500 TL+ alışverişe 700 TL indirim kodu",
+   "tur": "indirim",
+   "fayda": "4.500 TL+ alışverişe 700 TL",
+   "bitis": "2026-12-31",
+   "kosul": "Yalnız Gümüş ve Altın seviye Mobilin Akbanklısı; kod Akbank Mobil'den alınır, kişiye özel ve tek kullanımlık, sınırlı sayıda; yalnız IN Street web/uygulama (mağazada geçmez).",
+   "teyitsiz": false,
+   "uygunluk": "kontrol",
+   "link": "https://www.akbank.com/kampanyalar/mobilin-akbanklisi-in-street",
+   "kaynak": "resmi",
+   "etiketler": [
+    "giyim"
+   ],
+   "baslangic": null,
+   "oneCikan": false
+  },
+  {
+   "kurum": "Akbank",
+   "kampanya": "TikTak'ta ilk araç kiralamaya Akbank Mobil indirim kodu",
+   "tur": "indirim",
+   "fayda": "İlk kiralamada süre ücretine indirim (oran resmi sayfada yazmıyor)",
+   "baslangic": "2026-09-22",
+   "bitis": "2026-11-30",
+   "kosul": "Akbank Mobil > Kampanyalar'dan tek kullanımlık kod al, kiralama provizyon ekranında gir; yalnız ilk TikTak kiralaması (dakikalık, anlık, rezervasyonlu günlük); km ücretleri, paketler, Fun/Star araçlar hariç.",
+   "teyitsiz": false,
+   "uygunluk": "uygun",
+   "link": "https://www.akbank.com/kampanyalar/tiktak-arac-kiralama-kampanyasi",
+   "kaynak": "resmi",
+   "etiketler": [
+    "ulasim"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "Akbank",
+   "kampanya": "Akbanklı Kadınlar Platformu: e-ticarete %2, ayda 250 TL'ye kadar indirim",
+   "tur": "indirim",
+   "fayda": "%2, tek alışverişte en az 3.000 TL, toplam en fazla 250 TL",
+   "baslangic": "2026-11-18",
+   "bitis": "2026-11-30",
+   "kosul": "Akbank Mobil > Senin için > Akbanklı Kadınlar Platformu'ndan önce katıl; Axess, Wings, Free, Akbank Kart ve ek/sanal kartlar; yalnız online; ayda bir kez.",
+   "teyitsiz": false,
+   "uygunluk": "kontrol",
+   "link": "https://www.akbank.com/kampanyalar/akbankli-kadinlar-platformuna-ozel-e-ticaret-indirimi",
+   "kaynak": "resmi",
+   "etiketler": [
+    "eticaret"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "Odeabank",
+   "kampanya": "KASIM: e-ticarette her 3.500 TL'ye 300 TL, toplam 1.500 TL indirim",
+   "tur": "indirim",
+   "fayda": "Tek seferde 3.500 TL+ her e-ticaret harcamasına 300 TL, en fazla 1.500 TL",
+   "baslangic": "2026-11-09",
+   "bitis": "2026-11-30",
+   "kosul": "Kredi kartı (asıl, ek, sanal); 8444'e KASIM SMS'i ya da Odea uygulamasından katıl; yalnız e-ticaret, aynı gün aynı işyerinde ilk işlem; indirim 04.12.2026'da. Kaynak: DonanımHaber Odeabank konusu (13.11.2026 paylaşımı), resmi sayfa açılmadı",
+   "teyitsiz": true,
+   "uygunluk": "kredi-karti",
+   "link": "https://www.odeabank.com.tr/kampanyalar/e-ticaret-harcamalariniza-ozel-1500-tl-indirim-31077",
+   "kaynak": "forum",
+   "etiketler": [
+    "eticaret"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "Paycell",
+   "kampanya": "Paycell Kart ile Amazon Prime üyeliğine %50 nakit iade",
+   "tur": "cashback",
+   "fayda": "%50, en fazla 34,95 TL (her ay)",
+   "bitis": "2026-12-31",
+   "kosul": "Üyelik ödemesi fiziksel ya da sanal Paycell Kart ile. Kaynak: Kart Avantaj Kasım 2026 rehberi (19.11 güncellemesi)",
+   "teyitsiz": true,
+   "uygunluk": "uygun",
+   "link": "https://kartavantaj.com/kampanya/amazon-prime-uyeliginin-yarisi-bizden-amazon",
+   "kaynak": "derleme",
+   "etiketler": [
+    "abonelik",
+    "amazon"
+   ],
+   "baslangic": null,
+   "oneCikan": false
+  },
+  {
+   "kurum": "UPT",
+   "kampanya": "Uption Kart ile Hepsiburada Premium üyeliğine %100 nakit iade",
+   "tur": "cashback",
+   "fayda": "Üyelik bedelinin tamamı (aylık 69,90 TL)",
+   "bitis": "2026-12-31",
+   "kosul": "Son 90 günde en az bir yurt dışı para gönder/al işlemi ya da toplam 30.000 TL+ giden EFT/FAST. Kaynak: Kart Avantaj Kasım 2026 rehberi",
+   "teyitsiz": true,
+   "uygunluk": "kontrol",
+   "link": "https://kartavantaj.com/kampanya/hepsiburada-premiumda-100-nakit-iade",
+   "kaynak": "derleme",
+   "etiketler": [
+    "abonelik",
+    "hepsiburada"
+   ],
+   "baslangic": null,
+   "oneCikan": false
+  },
+  {
+   "kurum": "Enpara",
+   "kampanya": "Enpara kredi kartıyla Trendyol Plus üyelik ücreti iadesi",
+   "tur": "cashback",
+   "fayda": "Trendyol Plus aylık üyelik ücreti (75 TL) iade",
+   "baslangic": "2026-10-01",
+   "bitis": "2026-12-31",
+   "kosul": "Enpara kredi kartı ya da sanal kartla ödeme; ödeme ayının sonuna kadar 'Ayın Enparalısı' olmak; iade ertesi ayın 7'sinde vadesiz hesaba; 1 TL'lik ilk tahsilat hariç. Kaynak: Kart Avantaj Kasım 2026 rehberi",
+   "teyitsiz": true,
+   "uygunluk": "kredi-karti",
+   "link": "https://kartavantaj.com/kampanya/trendyol-plus-uyelik-ucreti-iadesi-kampanyasi",
+   "kaynak": "derleme",
+   "etiketler": [
+    "abonelik",
+    "trendyol"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "İş Bankası",
+   "kampanya": "Maximum ile Pazarama'da ayda 1.000 TL+ alışverişe Pazarama Plus aylık ücreti iadesi",
+   "tur": "cashback",
+   "fayda": "Aylık Pazarama Plus ücreti (64,90 TL) iade, ayda bir kez",
+   "kosul": "Pazarama'da ay içinde toplam 1.000 TL+ alışveriş; 1 TL'lik ilk ay ve yıllık üyelik hariç. Bitiş tarihi kaynakta yok. Kaynak: Kart Avantaj Kasım 2026 rehberi",
+   "teyitsiz": true,
+   "uygunluk": "kontrol",
+   "link": "https://kartavantaj.com/kampanya/pazaramada-toplam-1-000-tl-alisverisinize-ucretsiz-aylik-pazarama-plus-uyeligi-firsati",
+   "kaynak": "derleme",
+   "etiketler": [
+    "abonelik",
+    "pazarama"
+   ],
+   "baslangic": null,
+   "bitis": null,
+   "oneCikan": false
+  },
+  {
+   "kurum": "Halkbank / Paraf",
+   "kampanya": "Paraf Platinum/Premium ile tabii Premium üyelik ücreti iadesi",
+   "tur": "cashback",
+   "fayda": "tabii Premium üyelik ücreti iade (müşteri başına bir iade hakkı)",
+   "baslangic": "2026-08-03",
+   "bitis": "2027-01-31",
+   "kosul": "Paraf Platinum, Parafly Platinum, Paraf Premium (ek/sanal dahil); ödemeden önce Paraf/Halkbank Mobil'den HEMEN KATIL; ödeme tabii.com'da kart bilgisi elle girilerek; haberde aylık mı tek seferlik mi çelişkili. Kaynak: Ekonomi Politikası, 25.11.2026",
+   "teyitsiz": true,
+   "uygunluk": "kredi-karti",
+   "link": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/paraf-premiumdan-tabii-uyeligi-hediye1.html",
+   "kaynak": "haber",
+   "etiketler": [
+    "abonelik",
+    "tabii"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "Halkbank / Paraf",
+   "kampanya": "İlk harcamaya özel faizsiz ve ücretsiz 3 taksitli nakit avans (25.000 TL'ye kadar)",
+   "tur": "faizsiz taksit",
+   "fayda": "200–25.000 TL arası nakit avans, 3 taksit, %0 faiz, ücretsiz",
+   "bitis": "2026-11-30",
+   "kosul": "Kişiye özel: kampanya SMS'i alan ya da Paraf Mobil 'Size Özel' / Halkbank Mobil'de görenler; bireysel Paraf/Parafly ile tek seferde 500 TL+ alışveriş, ardından Mobil Şube > Kart İşlemleri > Taksitli Nakit Avans. Kaynak: Ekonomi Politikası, 25.11.2026",
+   "teyitsiz": true,
+   "uygunluk": "kontrol",
+   "link": "https://www.paraf.com.tr/tr/kampanyalar/crm/2026/kasim/paraftan-ilk-harcamaniza-ozel-faizsiz-ucretsiz-taksitli-nakit-avans-kampanyasi.html",
+   "kaynak": "haber",
+   "baslangic": null,
+   "oneCikan": false
+  },
+  {
+   "kurum": "Halkbank / Paraf",
+   "kampanya": "EMLAK1: ilk Paraf kartıyla site aidatı ödemelerine 3 ay %20, toplam 3.000 TL iade",
+   "tur": "cashback",
+   "fayda": "Aylık %20, ayda en fazla 1.000 TL, 3 ayda toplam 3.000 TL",
+   "baslangic": "2026-11-03",
+   "bitis": "2027-01-31",
+   "kosul": "Daha önce Halkbank bireysel kredi kartı olmayan, Halkbank Mobil'den EMLAK1 koduyla ilk kez Paraf/Parafly başvurusu onaylanan; yalnız Emlak Yönetimi'nin hizmet verdiği sitelerin POS'unda aidat; ilk aidat en geç 28.02.2027. Kaynak: Haber Dijital, 18.11.2026",
+   "teyitsiz": true,
+   "uygunluk": "yeni-musteri",
+   "link": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/emlak-yonetimin-hizmet-verdigi-sitelerde-aidat-odemelerine-ozel-yuzde-yirmi-iade-kampanyasi.html",
+   "kaynak": "haber",
+   "etiketler": [
+    "kira"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "Halkbank / Paraf",
+   "kampanya": "Mobilya, dekorasyon ve yapı marketinde 6.000 TL'ye varan ParafPara",
+   "tur": "puan",
+   "fayda": "Tek seferde ilk 75.000–199.999 TL harcamaya 3.500 TL, 200.000 TL+ harcamaya 6.000 TL ParafPara (bir kez)",
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "kosul": "Paraf/Parafly (sanal, ek dahil); harcamadan önce Paraf Mobil/Halkbank Mobil'den HEMEN KATIL; pazar yeri siteleri hariç. Kaynak: Haber Dijital, 19.11.2026",
+   "teyitsiz": true,
+   "uygunluk": "kredi-karti",
+   "link": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/mobilya-dekorasyon-ve-yapi-marketi-alisverislerinize-6000tlye-varan-parafpara21.html",
+   "kaynak": "haber",
+   "oneCikan": false
+  },
+  {
+   "kurum": "Halkbank / Paraf",
+   "kampanya": "Yurt dışı online alışverişlere 750 TL ParafPara",
+   "tur": "puan",
+   "fayda": "Tek seferde 3.000 TL+ yurt dışı sanal POS harcamasına 150 TL, toplam 750 TL",
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "kosul": "Premium dışı Paraf/Parafly (sanal, ek dahil); harcamadan önce HEMEN KATIL; yalnız yurt dışı e-ticaret siteleri/sanal POS. Kaynak: Haber Dijital, 20.11.2026",
+   "teyitsiz": true,
+   "uygunluk": "kredi-karti",
+   "link": "https://www.paraf.com.tr/tr/kampanyalar/yurt-disi/yurt-disi-online-alisverislerinize-750-tl-parafpara1.html",
+   "kaynak": "haber",
+   "etiketler": [
+    "eticaret"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "Halkbank / Paraf",
+   "kampanya": "Tarım Kredi Koop marketlerde her 2.000 TL'ye 125 TL, toplam 1.000 TL ParafPara",
+   "tur": "puan",
+   "fayda": "2.000 TL+ her alışverişe 125 TL, en fazla 1.000 TL",
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "kosul": "Paraf/Parafly (sanal, ek dahil; Paraf Debit hariç); Paraf Mobil'den Hemen Katıl ya da TARIM yazıp 3404'e SMS; Paraf POS. Kaynak: Haber Dijital, 18.11.2026",
+   "teyitsiz": true,
+   "uygunluk": "kredi-karti",
+   "link": "https://www.paraf.com.tr/tr/kampanyalar/market/tarim-kredi-koop-marketlerde-1000tlye-varan-parafpara.html",
+   "kaynak": "haber",
+   "etiketler": [
+    "market"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "Halkbank / Paraf",
+   "kampanya": "Veteriner ve pet shop harcamalarına 600 TL ParafPara",
+   "tur": "puan",
+   "fayda": "Tek seferde 1.000 TL+ yurt içi harcamaya 150 TL, toplam 600 TL",
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "kosul": "Paraf/Parafly (sanal, ek dahil; Genç, Gençİz, banka kartı hariç); harcamadan önce HEMEN KATIL; haberde alt limit 1.000/600 TL çelişkili. Kaynak: Haber Dijital, 20.11.2026",
+   "teyitsiz": true,
+   "uygunluk": "kredi-karti",
+   "link": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/veteriner-ve-pet-shop-harcamalariniza-ozel-600tl-parafpara1.html",
+   "kaynak": "haber",
+   "oneCikan": false
+  },
+  {
+   "kurum": "VakıfBank / Vakıfkart",
+   "kampanya": "MediaMarkt'ta tek seferde 25.000 TL+ alışverişe 2.035 TL Worldpuan",
+   "tur": "puan",
+   "fayda": "2.035 TL Worldpuan (müşteri başına bir kez)",
+   "baslangic": "2026-11-21",
+   "bitis": "2026-11-29",
+   "kosul": "Bireysel VakıfBank kredi kartı (ek, sanal dahil; Bankomat hariç); VakıfBank Mobil > Kartınla Kazan > Hemen Katıl (alışverişten sonra da olur); mağazada World POS veya mediamarkt.com.tr; puan 05.12.2026. Kaynak: Haber Dijital, 21.11.2026",
+   "teyitsiz": true,
+   "uygunluk": "kredi-karti",
+   "link": "https://www.vakifkart.com.tr/kampanyalar/mediamarkttan-25000-tl-ve-uzeri-alisverisinize-2035-tl-worldpuan-41094",
+   "kaynak": "haber",
+   "etiketler": [
+    "elektronik",
+    "mediamarkt"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "VakıfBank / Vakıfkart",
+   "kampanya": "Mobil Temassız Ödeme ile her 900 TL'ye 25 TL, toplam 300 TL Worldpuan",
+   "tur": "puan",
+   "fayda": "Farklı günlerde her 900 TL+ işleme 25 TL, en fazla 300 TL",
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "kosul": "Bireysel VakıfBank kredi kartı (Bankomat hariç); Kartınla Kazan > Hemen Katıl; yalnız telefonla temassız ödeme (Android NFC); günde bir işlem. Kaynak: Haber Dijital, 19.11.2026",
+   "teyitsiz": true,
+   "uygunluk": "kredi-karti",
+   "link": "https://www.vakifkart.com.tr/kampanyalar/mobil-temassiz-odeme-ile-300-tl-worldpuan-41132",
+   "kaynak": "haber",
+   "etiketler": [
+    "tum-harcamalar"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "Ziraat Bankası",
+   "kampanya": "Süper Platform kodu ile Otomate'te 7.500 TL+ alışverişe 1.500 TL indirim",
+   "tur": "indirim",
+   "fayda": "Tek seferde 7.500 TL+ harcamaya 1.500 TL",
+   "bitis": "2026-12-31",
+   "kosul": "Ziraat Süper Platform'dan tek kullanımlık indirim kodu al; müşteri başına bir kez, stokla sınırlı, diğer kampanyalarla birleşmez.",
+   "teyitsiz": false,
+   "uygunluk": "uygun",
+   "link": "https://www.ziraatbank.com.tr/tr/super-platform/otomate-indirim-kampanyasi",
+   "kaynak": "resmi",
+   "baslangic": null,
+   "oneCikan": false
+  },
+  {
+   "kurum": "Fibabanka",
+   "kampanya": "Hızlı Kart ile Netflix, Spotify, YouTube ve Google ödemelerine %25 iade",
+   "tur": "cashback",
+   "fayda": "%25, ayda en fazla 150 TL",
+   "bitis": "2026-12-31",
+   "kosul": "Fibabanka Hızlı Kart (banka kartı; kredi ve ticari kartlar hariç). Kaynak: DonanımHaber Fibabanka ana konusu (sayfa 2; ayrıntı resmi sayfadan okunmadı)",
+   "teyitsiz": true,
+   "uygunluk": "uygun",
+   "link": "https://www.fibabanka.com.tr/kampanyalar/guncel-kampanyalar/hizli-kart-ile-eglenceye-hazir-olun",
+   "kaynak": "forum",
+   "etiketler": [
+    "abonelik",
+    "netflix",
+    "spotify",
+    "youtube",
+    "google"
+   ],
+   "baslangic": null,
+   "oneCikan": false
+  },
+  {
+   "kurum": "Fibabanka",
+   "kampanya": "Hızlı Kart ile hafta sonu online yemek siparişlerine %25 iade",
+   "tur": "cashback",
+   "fayda": "%25, ayda en fazla 250 TL",
+   "bitis": "2026-12-31",
+   "kosul": "Fibabanka Hızlı Kart; hafta sonu online yemek siparişi; ayda en az bir kez Fibabanka mobil girişi; kredi ve ticari kartlar hariç. Kaynak: DonanımHaber Fibabanka ana konusu",
+   "teyitsiz": true,
+   "uygunluk": "uygun",
+   "link": "https://www.fibabanka.com.tr/kampanyalar/guncel-kampanyalar/yemek-siparisinizi-hizli-kart-ile-odeyin",
+   "kaynak": "forum",
+   "etiketler": [
+    "yeme"
+   ],
+   "baslangic": null,
+   "oneCikan": false
   }
  ]
 }
