@@ -1,6 +1,6 @@
 {
  "surum": 1,
- "guncellendi": "2026-11-24",
+ "guncellendi": "2026-11-25",
  "not": "Tarama görevleri bu listeyi kullanır; çalışmayan URL bulunursa düzeltilir, yeni kurum bulunursa eklenir.",
  "alanlar": {
   "bankalar": [
@@ -517,7 +517,8 @@
     "url": "https://tr.okx.com/en/help/section/announcements-trading-updates",
     "diger_adlar": [
      "OKX TR Kripto Varlık Alım Satım Platformu AŞ"
-    ]
+    ],
+    "not": "Kampanya sayfaları tr.okx.com/en/campaigns/<slug> yolunda tek tek okunabiliyor; /campaigns listesi yüzeye çıkarılamadı (25.11.2026, doğrulanmadı)."
    },
    {
     "kurum": "Bybit TR",
@@ -526,7 +527,7 @@
     "diger_adlar": [
      "Bybit Kripto Varlık Alım Satım Platformu AŞ"
     ],
-    "not": "Site bybit.tr alan adına taşındı; sayfalar JS ile yükleniyor, okunamadı (24.11.2026)."
+    "not": "Site bybit.tr alan adına taşındı; sayfalar JS/robots nedeniyle okunamadı (25.11.2026). Arama sonuçlarında kampanya sayfaları www.bybit.tr/tr-TUR/promo/campaign/<slug>, duyurular announcements.bybit.tr/tr-TUR/ altında görünüyor (doğrulanmadı)."
    },
    {
     "kurum": "Bitlo",
@@ -543,17 +544,17 @@
     "diger_adlar": [
      "Icrypex Kripto Varlık Alım Satım Platformu AŞ"
     ],
-    "not": "SPK 'Tasfiye Sürecinde Olanlar' listesinde (2026-11); faaliyetini sonlandırıyor"
+    "not": "SPK 'Tasfiye Sürecinde Olanlar' listesinde (25.11.2026'da yine görüldü); faaliyetini sonlandırıyor, kampanya yok."
    },
    {
     "kurum": "Anadolu Hayat Emeklilik",
     "tip": "bes",
-    "url": "https://www.anadoluhayat.com.tr"
+    "url": "https://www.anadoluhayat.com.tr/kampanyalar"
    },
    {
     "kurum": "HDI Fiba Emeklilik",
     "tip": "bes",
-    "url": null
+    "url": "https://www.hdifibaemeklilik.com.tr/hakkimizda/kampanyalar"
    },
    {
     "kurum": "Allianz",
@@ -571,7 +572,7 @@
    {
     "kurum": "Türkiye Hayat Emeklilik",
     "tip": "bes",
-    "url": "https://www.turkiyehayatemeklilik.com.tr"
+    "url": "https://www.turkiyesigorta.com.tr/aktif-kampanyalar"
    },
    {
     "kurum": "Garanti BBVA Emeklilik",
@@ -584,7 +585,7 @@
    {
     "kurum": "AgeSA",
     "tip": "bes",
-    "url": "https://www.agesa.com.tr/bes-kampanyasi",
+    "url": "https://www.agesa.com.tr/tum-kampanyalar",
     "diger_adlar": [
      "AgeSA Hayat ve Emeklilik"
     ]
@@ -592,7 +593,7 @@
    {
     "kurum": "Türkiye Sigorta",
     "tip": "sigorta",
-    "url": null
+    "url": "https://www.turkiyesigorta.com.tr/aktif-kampanyalar"
    },
    {
     "kurum": "Anadolu Sigorta",
@@ -602,7 +603,7 @@
    {
     "kurum": "Gedik Yatırım",
     "tip": "aracikurum",
-    "url": null
+    "url": "https://gedik.com/duyurular-ve-kampanyalar/kampanyalar"
    },
    {
     "kurum": "İş Yatırım",
@@ -643,7 +644,7 @@
     "kurum": "Trexo",
     "tip": "aracikurum",
     "url": null,
-    "not": "Bu adla aracı kurum/yatırım uygulaması bulunamadı (2026-11-21); doğru ad teyit edilmeli"
+    "not": "Bu adla aracı kurum/yatırım uygulaması bulunamadı (21 ve 25.11.2026); aramada yalnız Trexo İnovasyon A.Ş. (aracı kurum değil) çıktı. Doğru ad kullanıcıdan teyit edilmeli."
    },
    {
     "kurum": "BtcTurk Hisse",
@@ -704,7 +705,7 @@
     "diger_adlar": [
      "Bitexen Kripto Varlık Alım Satım Platformu AŞ"
     ],
-    "not": "SPK 23.09.2026 kararıyla yeni müşteri kabul edemiyor"
+    "not": "SPK 23.09.2026 kararıyla yeni müşteri ve yeni kripto varlık kabul edemiyor; mevcut müşteriler işlem yapabiliyor (25.11.2026'da SPK sayfa notundan teyit)."
    },
    {
     "kurum": "Kuantist",
@@ -766,7 +767,7 @@
    {
     "kurum": "BNP Paribas Cardif Emeklilik",
     "tip": "bes",
-    "url": null,
+    "url": "https://www.bnpparibascardif.com.tr/cardif-dunyasi/kampanyalar",
     "diger_adlar": [
      "BNP Paribas Cardif",
      "Cardif Emeklilik"
@@ -800,7 +801,7 @@
    {
     "kurum": "Ata Yatırım",
     "tip": "aracikurum",
-    "url": "https://atayatirim.com.tr/landingpages/yurt-disi-borsalar",
+    "url": "https://atayatirim.com.tr/yatirimci-olun/kampanyalar",
     "diger_adlar": [
      "AtaOnline"
     ]
@@ -812,6 +813,274 @@
     "diger_adlar": [
      "Piapiri",
      "ÜNLÜ Menkul Değerler"
+    ]
+   },
+   {
+    "kurum": "Arbitex",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Arbitex Kripto Varlık Alım Satım Platformu AŞ",
+     "Arbitex Finansal Teknolojileri AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Bluex",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Bluex Kripto Varlık Alım Satım Platformu AŞ",
+     "Necen Kripto Varlık Alım Satım Platformu AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Citypay",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Citypay Kripto Varlık Alım Satım Platformu AŞ",
+     "Citypay Bilgisayar Teknolojileri Ticaret AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "CLTS",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "CLTS Kripto Varlık Alım Satım Platformu AŞ",
+     "CLTS Teknoloji AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Finnova",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Finnova Kripto Varlık Alım Satım Platformu AŞ",
+     "Finnova Teknoloji AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Futurance",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Futurance Kripto Varlık Alım Satım Platformu AŞ",
+     "Futurance Finans Teknolojileri AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Fuze",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Fuze Kripto Varlık Alım Satım Platformu AŞ",
+     "Fuze Teknoloji AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "GMS Global",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "GMS Global Kripto Varlık Alım Satım Platformu AŞ",
+     "GMS Global Teknoloji AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Gümüş Global",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Gümüş Global Kripto Varlık Alım Satım Platformu AŞ",
+     "Gümüş Global Teknoloji AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Hotto",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Hotto Kripto Varlık Alım Satım Platformu AŞ",
+     "Hotto Yazılım Ticaret AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Inveo",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Inveo Kripto Varlık Alım Satım Platformu AŞ",
+     "Misyon Kripto Varlık Alım Satım Platformu AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Kripdome",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Kripdome Kripto Varlık Alım Satım Platformu AŞ",
+     "Dome Teknoloji AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Magician of Meta",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Magician of Meta Kripto Varlık Alım Satım Platformu AŞ",
+     "Magician of Meta Teknoloji AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Onsmaster",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Onsmaster Kripto Varlık Alım Satım Platformu AŞ",
+     "Aigen Yazılım ve Teknoloji Dış Ticaret İthalat ve İhracat AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Rootech",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Rootech Kripto Varlık Alım Satım Platformu AŞ",
+     "Rootech Finansal Teknolojiler AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Safebit",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Safebit Kripto Varlık Alım Satım Platformu AŞ",
+     "Bitci Borsa Teknoloji AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Trinkex",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Trinkex Kripto Varlık Alım Satım Platformu AŞ",
+     "Loop Teknoloji Yazılım ve Danışmanlık Ticaret AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Yenkido",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Yenkido Kripto Varlık Alım Satım Platformu AŞ",
+     "Yenkido Bilişim Hizmetleri Ticaret AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Yuex",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Yuex Kripto Varlık Alım Satım Platformu AŞ",
+     "Yuex Yazılım Teknoloji AŞ"
+    ],
+    "not": "SPK 'Faaliyette Bulunanlar Listesi'nde (geçici liste, 25.11.2026'da okundu); listede yer almak yetkilendirme anlamına gelmez. Resmi sitesi/kampanyaları henüz taranmadı."
+   },
+   {
+    "kurum": "Ahlatcı Kripto",
+    "tip": "kripto",
+    "url": null,
+    "diger_adlar": [
+     "Ahlatcı Kripto Varlık Alım Satım Platformu AŞ",
+     "AHL Gold E-Ticaret"
+    ],
+    "not": "SPK 17.09.2026'da kuruluş izni verdi; 25.11.2026'da faaliyette-olanlar listesinde yok (henüz faaliyet izni/müşteri kabulü yok); kampanya beklenmez."
+   },
+   {
+    "kurum": "Yatırım Finansman",
+    "tip": "aracikurum",
+    "url": "https://www.yf.com.tr/kampanyalar",
+    "diger_adlar": [
+     "YaFi",
+     "Yatırım Finansman Menkul Değerler A.Ş."
+    ],
+    "not": "İş Bankası iştiraki; YaFi yatırım uygulaması 2026'da çıktı; kampanya sayfasında yalnız mevcut müşteriye 1 ay ücretsiz paket aktif."
+   },
+   {
+    "kurum": "Fibayatırım",
+    "tip": "aracikurum",
+    "url": "https://www.fibayatirim.com.tr/kampanyalar",
+    "diger_adlar": [
+     "Fiba Yatırım Menkul Değerler A.Ş.",
+     "Fibabanka Borsa Market",
+     "Fibayatırım Mobil"
+    ],
+    "not": "Fibabanka'nın aracı kurumu (SPK izni sonrası kuruldu); her ay yeni sürüm (Hepsiburada virman çeki, aylık %0 komisyon sürümleri) yayımlıyor; kampanyalar fibayatirim.com.tr/kampanyalar sayfasında."
+   },
+   {
+    "kurum": "Burgan Yatırım",
+    "tip": "aracikurum",
+    "url": "https://www.burganyatirim.com.tr/kampanya/kategori/aktif-kampanyalar",
+    "diger_adlar": [
+     "Burgan Yatırım Menkul Değerler",
+     "Hisse Native"
+    ],
+    "not": "Sayfalar JS ile yükleniyor/okunamadı; Burgan Bank'ın 'Hisse Senedi 0 Komisyon' kampanyası 'Burgan Bank' adıyla (bankalar listesindeki ad) yazılır."
+   },
+   {
+    "kurum": "OYAK Yatırım",
+    "tip": "aracikurum",
+    "url": "https://www.oyakyatirim.com.tr/",
+    "diger_adlar": [
+     "OYAK Yatırım Menkul Değerler A.Ş."
+    ],
+    "not": "Türkiye Finans ve Albaraka yatırım hesaplarının aracı kurumu; kendi sayfasında 25.11.2026'da aktif kampanya bulunamadı ('Her 40. müşteriye sıfır komisyon' sayfasının içeriği okunamadı; 40. yıl kampanyası olduğu için 2025'e ait olması muhtemel)."
+   },
+   {
+    "kurum": "Kuzey Menkul Değerler",
+    "tip": "aracikurum",
+    "url": "https://www.colendimenkul.com/",
+    "diger_adlar": [
+     "Colendi Menkul",
+     "Colendi Menkul Değerler",
+     "Kuzey Menkul"
+    ],
+    "not": "Colendi Menkul'ün unvanı SPK onayıyla Kuzey Menkul Değerler oldu; colendimenkul.com'un yönlendirmesi doğrulanamadı."
+   },
+   {
+    "kurum": "Paribu Yatırım Menkul Değerler",
+    "tip": "aracikurum",
+    "url": "https://www.paribu.com",
+    "diger_adlar": [
+     "Paribu Hisse"
+    ],
+    "not": "Ekim 2025'te SPK aracı kurum izni; hisse işlemi Temmuz 2026'da 'çok yakında' ve bekleme listesindeydi, kampanya yok."
+   },
+   {
+    "kurum": "Osmanlı Yatırım",
+    "tip": "aracikurum",
+    "url": "https://www.osmanlimenkul.com.tr/finansal-planlama/hesap-acilis-islemleri/ucret-ve-komisyonlar",
+    "diger_adlar": [
+     "Osmanlı Menkul Değerler"
     ]
    }
   ],
