@@ -1120,7 +1120,7 @@
    {
     "kurum": "Macellan / Paraşüt",
     "tip": "sadakat",
-    "url": null
+    "url": "https://macellan.app/en/for-you"
    },
    {
     "kurum": "Shell ClubSmart",
@@ -1225,7 +1225,7 @@
    {
     "kurum": "ETS Tur",
     "tip": "seyahat",
-    "url": null
+    "url": "https://www.etstur.com/kampanyalar"
    },
    {
     "kurum": "MediaMarkt",
@@ -1235,6 +1235,16 @@
      "Media Markt",
      "MediaMarkt CLUB"
     ]
+   },
+   {
+    "kurum": "Teknosa",
+    "tip": "eticaret",
+    "url": "https://www.teknosa.com"
+   },
+   {
+    "kurum": "PttAVM",
+    "tip": "eticaret",
+    "url": "https://www.pttavm.com"
    }
   ],
   "ekgelir": [
@@ -1476,6 +1486,14 @@
   {
    "ad": "Kuponmanya",
    "url": "https://www.kuponmanya.com/kupon-kategori/banka-kampanyalari/"
+  },
+  {
+   "ad": "Picodi",
+   "url": "https://www.picodi.com/tr"
+  },
+  {
+   "ad": "Tamindir Kasım indirimleri",
+   "url": "https://www.tamindir.com/haber/kasim-indirimleri-2026_112712/"
   }
  ],
  "forum": [

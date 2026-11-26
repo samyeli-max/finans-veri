@@ -1,6 +1,6 @@
 {
  "alan": "alisveris",
- "tarih": "2026-11-23",
+ "tarih": "2026-11-26",
  "kampanyalar": [
   {
    "kurum": "Turkcell Pasaj",
@@ -42,7 +42,7 @@
    "kurum": "Turkcell",
    "kampanya": "Arkadaşını Turkcell'e Getir: Pasaj hediye çeki",
    "tur": "arkadaşını getir",
-   "fayda": "200–300 TL Pasaj çeki (liste kartı 300 TL, sayfa adresi 200 TL diyor)",
+   "fayda": "300 TL Pasaj hediye çeki (Turkcell faturalı hat sayfasındaki kart özetine göre)",
    "baslangic": null,
    "bitis": null,
    "kosul": "Mevcut Turkcell müşterisi, arkadaşının numarasını eDevlet ile dijitalden Turkcell'e taşıtırsa hem sen hem arkadaşın kazanır. Tutar ve tarih sayfada tutarsız/yok.",
@@ -58,8 +58,8 @@
    "tur": "indirim",
    "fayda": "Fiyat 1 Aralık 23.59'a kadar düşerse fark hediye kartı olarak iade (17 Aralık'ta yansır; 500 TL üzeri üründe müşteri başına 2 adet); Prime Flaş Fırsatlar hafta içi her gün",
    "baslangic": "2026-10-30",
-   "bitis": "2026-11-30",
-   "kosul": "Aktif Prime üyeliği, satıcı Amazon.com.tr, kampanya etiketli ürün. Bitiş sayfalar arasında çelişkili (30 Kasım / 1 Aralık); erken olan alındı.",
+   "bitis": "2026-11-27",
+   "kosul": "Aktif Prime üyeliği, satıcı Amazon.com.tr, kampanya etiketli ürün. Bitiş sayfalar arasında çelişkili (30 Kasım / 1 Aralık); erken olan alındı. | 27 Kasım bitiş İşin Olsa takviminde (19.11) geçiyor, daha önceki derlemeler 30 Kasım diyor — çelişkili.",
    "teyitsiz": true,
    "uygunluk": "kontrol",
    "link": "https://indigodergisi.com/2026/10/kasim-indirimleri-2026/#amazon-gulumseten",
@@ -77,7 +77,7 @@
    "fayda": "Gıda/atıştırmalık 500 TL'ye 150 TL; güzellik 800 TL'ye 200 TL; Prime üyelerine 1.000 TL+ alışverişte %10 ek indirim; Amazon'dan DeFacto'da 1.000 TL'ye 250 TL",
    "baslangic": "2026-10-30",
    "bitis": "2026-11-30",
-   "kosul": "Kampanya dönemi içinde (ayrı bitiş yazmıyor); kupon kodu/ödeme yöntemi belirtilmemiş. Prime indirimi için aktif Prime üyeliği gerekir. 30 Ekim itibarıyla yayımlanan bilgiye dayanıyor.",
+   "kosul": "Kampanya dönemi içinde (ayrı bitiş yazmıyor); kupon kodu/ödeme yöntemi belirtilmemiş. Prime indirimi için aktif Prime üyeliği gerekir. 30 Ekim itibarıyla yayımlanan bilgiye dayanıyor. | Bitiş 27 ya da 30 Kasım olabilir (kaynaklar çelişkili).",
    "teyitsiz": true,
    "uygunluk": "kontrol",
    "link": "https://indigodergisi.com/2026/10/kasim-indirimleri-2026/#amazon-sepet",
@@ -245,7 +245,7 @@
    "fayda": "1.000 TL+ sepete 150 TL; 3.000 TL+ 250 TL; 6.000 TL+ 400 TL; 10.000 TL+ 600 TL; 15.000 TL+ 750 TL; 35.000 TL+ 2.000 TL",
    "baslangic": "2026-10-30",
    "bitis": "2026-11-30",
-   "kosul": "Kuponlar sınırlı adetli, tıklayana tanımlanır, kod yok; 'Kasım kampanyaları boyunca' her gün yenilenir (tutarlar 4 Kasım itibarıyla). Üyelik/ödeme şartı belirtilmemiş.",
+   "kosul": "Kuponlar sınırlı adetli, tıklayana tanımlanır, kod yok; 'Kasım kampanyaları boyunca' her gün yenilenir (tutarlar 4 Kasım itibarıyla). Üyelik/ödeme şartı belirtilmemiş. | İndigo (4.11) metninde kuponlar '11.11 Kupon Yağmuru' adıyla geçiyor; 11 Kasım'da bitmiş olabilir, resmi sayfadan teyit edilemedi.",
    "teyitsiz": true,
    "uygunluk": "uygun",
    "link": "https://indigodergisi.com/2026/10/kasim-indirimleri-2026/#n11-kuponlar",
@@ -402,7 +402,7 @@
    "kurum": "THY",
    "kampanya": "TKPAY ile Uzak Doğu uçuşlarında TK Para",
    "tur": "cashback",
-   "fayda": "Harcamaya göre 100, 150 veya 300 USD TK Para iadesi (üst limit 300 USD)",
+   "fayda": "Ekonomi/Business harcamasına göre 100, 150 veya 300 USD TK Para",
    "baslangic": "2026-09-21",
    "bitis": "2026-12-31",
    "kosul": "Economy veya Business bilet, TKPAY ile ödeme; harcama eşikleri sayfada yok. Dönemin satış mı seyahat mi olduğu belirsiz. Kart türü belirsiz.",
@@ -422,8 +422,8 @@
    "fayda": "KKTC gidiş-dönüş seyahatlerde %25; aynı soyadlı 3–9 yolcu için İstanbul–KKTC direkt uygun Economy ücretlerinde %25",
    "baslangic": "2026-11-01",
    "bitis": "2027-02-26",
-   "kosul": "Satış 26 Şubat 2027'ye kadar; seyahat 1 Kasım 2026 – 28 Şubat 2027. Ödeme yöntemi ve kod bilgisi sayfada yok (detay sayfası açılamadı).",
-   "teyitsiz": true,
+   "kosul": "İstanbul–KKTC (Ercan) direkt uçuşlar, Economy, aynı soyadlı 3–9 yolcu; seyahat dönemi 01.11.2026–28.02.2027. THY resmi sayfasından okundu.",
+   "teyitsiz": false,
    "uygunluk": "uygun",
    "link": "https://www.turkishairlines.com/tr-tr/ucus-firsatlari-ercan-ucuslarinda-aile-indirimi",
    "kaynak": "resmi",
@@ -439,8 +439,8 @@
    "fayda": "Amerika uçuşlarında avantajlı fiyat (oran yazmıyor)",
    "baslangic": "2026-11-23",
    "bitis": "2026-12-01",
-   "kosul": "Satış 23 Kasım – 1 Aralık; seyahat 1 Aralık 2026 – 31 Mart 2027. Kod/ödeme yöntemi sayfada yok.",
-   "teyitsiz": true,
+   "kosul": "Satış 23 Kasım – 1 Aralık; seyahat 1 Aralık 2026 – 31 Mart 2027. Kod/ödeme yöntemi sayfada yok. THY kampanya sayfasında oran belirtilmiyor, fiyat ('avantajlı fiyat') uçuşa göre değişir.",
+   "teyitsiz": false,
    "uygunluk": "uygun",
    "link": "https://www.turkishairlines.com/tr-tr/ucus-firsatlari-turkiye-den-amerika-yi-avantajli-fiyatlarla-kesfedin",
    "kaynak": "resmi",
@@ -456,8 +456,8 @@
    "fayda": "Berlin uçuşlarında web sitesine özel fiyat (oran yazmıyor)",
    "baslangic": null,
    "bitis": "2026-11-30",
-   "kosul": "Yalnız internet sitesinden; satış 30 Kasım'a kadar, seyahat 17 Mart 2027'ye kadar.",
-   "teyitsiz": true,
+   "kosul": "Yalnız internet sitesinden; satış 30 Kasım'a kadar, seyahat 17 Mart 2027'ye kadar. THY kampanya sayfasında oran belirtilmiyor, fiyat ('avantajlı fiyat') uçuşa göre değişir.",
+   "teyitsiz": false,
    "uygunluk": "uygun",
    "link": "https://www.turkishairlines.com/tr-tr/ucus-firsatlari-istanbul-cikisli-web-ozel-firsatlar",
    "kaynak": "resmi",
@@ -473,8 +473,8 @@
    "fayda": "Kahire, Mauritius, Cape Town ve diğer rotalarda avantajlı fiyat (oran yazmıyor)",
    "baslangic": "2026-11-01",
    "bitis": "2026-12-15",
-   "kosul": "Satış 1 Kasım – 15 Aralık; seyahat 31 Mayıs 2027'ye kadar.",
-   "teyitsiz": true,
+   "kosul": "Satış 1 Kasım – 15 Aralık; seyahat 31 Mayıs 2027'ye kadar. THY kampanya sayfasında oran belirtilmiyor, fiyat ('avantajlı fiyat') uçuşa göre değişir.",
+   "teyitsiz": false,
    "uygunluk": "uygun",
    "link": "https://www.turkishairlines.com/tr/ucus-firsatlari-turkiye-den-afrika-ya",
    "kaynak": "resmi",
@@ -507,7 +507,7 @@
    "fayda": "n11'de tek seferde 1.000 TL ve üzeri sepete 150 TL kupon",
    "baslangic": "2026-11-11",
    "bitis": "2026-11-30",
-   "kosul": "Obilet'ten online ödemeli otobüs veya uçak bileti alınır, kod SMS ile gelir. Belirli kart/banka şartı yok; mevcut ve yeni n11 üyeleri katılabilir (yeni üyelik 7 gün içinde aktive edilmeli).",
+   "kosul": "Obilet'ten 11–30 Kasım arasında online ödemeyle otobüs/uçak bileti alınca SMS ile gelen kupon; n11'de tek seferde 1.000 TL+ alışverişe 150 TL; kişiye özel, tek kullanımlık; dijital ürün, süpermarket, bebek bezi vb. hariç. Kart şartı yok.",
    "teyitsiz": false,
    "uygunluk": "uygun",
    "link": "https://www.obilet.com/kampanyalar/n11-indirim-kodu-kampanyasi",
@@ -544,7 +544,7 @@
    "fayda": "Yemeksepeti'nde 400 TL+ siparişe 260 TL indirim (300.000 kodla sınırlı)",
    "baslangic": "2026-11-01",
    "bitis": "2026-11-30",
-   "kosul": "İlk kez Yemeksepeti kullananlara; otobüs (veya Obilet mobilden uçak) bileti alana verilir; banka şartı yok.",
+   "kosul": "Obilet uygulamasından otobüs (veya uçak) bileti aldıktan sonra Yemeksepeti'ne ilk kez 400 TL+ siparişte 260 TL indirim; 300.000 kodla sınırlı. 01–30 Kasım.",
    "teyitsiz": false,
    "uygunluk": "uygun",
    "link": "https://www.obilet.com/kampanyalar/yemeksepeti-otobus-bileti-indirimi",
@@ -752,9 +752,9 @@
    "fayda": "Tek seferde 2.000 TL+ ilk uçak/otobüs/otel/araç işlemine 150 TL chip-para (kişi başı 1 kez; feribot hariç)",
    "baslangic": "2026-11-01",
    "bitis": "2026-11-30",
-   "kosul": "Akbank kartı şart (sayfa Axess, Wings, Free ve ticari kredi kartlarını sayıyor; 'kredi veya banka kartları' ifadesi geçiyor ama banka (debit) kartının kapsamı belirsiz). Harcamadan önce SMS ('OBILET' yazıp 4566'ya) veya Juzdan'dan 'Hemen Katıl'. Chip-para obilet.com'da değil Axess üye işyerlerinde kullanılır.",
+   "kosul": "Axess (kredi kartı) ile tek seferde 2.000 TL+ ilk uçak/otobüs/otel/araç kiralama işlemi; banka kartı geçerliliği belirtilmemiş. 01–30 Kasım.",
    "teyitsiz": false,
-   "uygunluk": "kontrol",
+   "uygunluk": "kredi-karti",
    "link": "https://www.obilet.com/kampanyalar/akbank-chip-para-kampanyasi",
    "kaynak": "resmi",
    "oneCikan": false,
@@ -950,6 +950,508 @@
     "yemeksepeti",
     "seyahat"
    ]
+  },
+  {
+   "kurum": "MediaMarkt",
+   "kampanya": "Şahane Kasım'a Özel 2 Kat CLUB Puan",
+   "tur": "puan",
+   "fayda": "Normal CLUB puanının 2 katı yüklenir",
+   "baslangic": "2026-11-13",
+   "bitis": "2026-11-27",
+   "kosul": "MediaMarkt CLUB üyeliği; mağaza, web ve mobil uygulamada, yalnız MediaMarkt satıcılı ürünlerde; puan alışverişten 28 gün sonra kullanılabilir. Ödeme yöntemi kısıtı belirtilmemiş.",
+   "uygunluk": "uygun",
+   "link": "https://www.mediamarkt.com.tr/tr/specials/sahane-kasima-ozel-2-kat-club-puan",
+   "kaynak": "resmi",
+   "etiketler": [
+    "elektronik"
+   ],
+   "teyitsiz": false,
+   "oneCikan": false
+  },
+  {
+   "kurum": "Turkcell",
+   "kampanya": "Otomatik ödeme talimatı verene aylık 5 GB hediye",
+   "tur": "diğer",
+   "fayda": "Aylık 5 GB hediye internet",
+   "bitis": "2026-12-31",
+   "kosul": "Bireysel faturalı/rahat ses hattı ve faturalı data hattı; daha önce otomatik ödeme kampanyasına katılmamış olmak; otomatik ödeme talimatı verilir, hak Hediye Havuzu'ndan 30 gün içinde aktifleştirilir. Sayfada 'ilk kez Turkcell müşterisi' ifadesi de geçiyor (tutarsız).",
+   "uygunluk": "kontrol",
+   "link": "https://www.turkcell.com.tr/kampanyalar/mobil-hat-data-hatti-kampanyalari/mevcut-musteri/turkcell-otomatik-odeme-talimati-kampanyasi",
+   "kaynak": "resmi",
+   "etiketler": [
+    "fatura"
+   ],
+   "teyitsiz": false,
+   "oneCikan": false,
+   "baslangic": null
+  },
+  {
+   "kurum": "Turkcell",
+   "kampanya": "ETi Mutlu Kutu: Turkcell'lilere 300 hediye puan",
+   "tur": "puan",
+   "fayda": "300 hediye puan (ETi puanı; TL değeri sayfada yok)",
+   "bitis": "2026-12-31",
+   "kosul": "Turkcell'lilere özel, katılım ücretsiz; kod/ödeme/min. tutar sayfada belirtilmemiş.",
+   "uygunluk": "kontrol",
+   "link": "https://www.turkcell.com.tr/kampanyalar/marka-kampanyalari/marka-kampanyalari/eti-kampanyasi",
+   "kaynak": "resmi",
+   "teyitsiz": false,
+   "oneCikan": false,
+   "baslangic": null
+  },
+  {
+   "kurum": "Turkcell",
+   "kampanya": "Rahat Migros Çeki: Rahat paketini yükseltene 400 TL Migros hediye çeki",
+   "tur": "diğer",
+   "fayda": "400 TL Migros hediye çeki",
+   "teyitsiz": true,
+   "kosul": "Turkcell Rahat paket yükseltme şartı; cepten-internet sayfasında kart olarak listeleniyor, tarih ve ayrıntı detay sayfası açılamadığı için doğrulanamadı.",
+   "uygunluk": "kontrol",
+   "link": "https://www.turkcell.com.tr/kampanyalar/mobil-hat-data-hatti-kampanyalari/cepten-internet/rahat-migros-ceki-kampanyasi",
+   "kaynak": "resmi",
+   "etiketler": [
+    "market",
+    "migros"
+   ],
+   "oneCikan": false,
+   "baslangic": null,
+   "bitis": null
+  },
+  {
+   "kurum": "Turkcell",
+   "kampanya": "GNÇ: Uber Eats / Trendyol Go'da 200 TL indirim",
+   "tur": "indirim",
+   "fayda": "200 TL indirim",
+   "teyitsiz": true,
+   "kosul": "Turkcell GNÇ (gençlik) uygulaması; faturalı hat sayfasında kart olarak geçiyor, tarih ve koşullar doğrulanamadı.",
+   "uygunluk": "kontrol",
+   "link": "https://www.turkcell.com.tr/kampanyalar/mobil-hat-data-hatti-kampanyalari/faturali-hat",
+   "kaynak": "resmi",
+   "etiketler": [
+    "yeme",
+    "eticaret"
+   ],
+   "oneCikan": false,
+   "baslangic": null,
+   "bitis": null
+  },
+  {
+   "kurum": "Vodafone",
+   "kampanya": "Vodafone Happy ile Super Duolingo 3 ay ücretsiz üyelik",
+   "tur": "ücretsiz hizmet",
+   "fayda": "3 ay Super Duolingo ücretsiz (haberde müşteri başına ~700 TL değer)",
+   "bitis": "2026-11-30",
+   "kosul": "Vodafone müşterisi olmak (faturalı/faturasız/ev interneti); Vodafone Yanımda uygulamasında Happy üzerinden. Haberde 'Kasım sonuna kadar' deniyor (kesin gün yok).",
+   "uygunluk": "kontrol",
+   "link": "https://www.foreks.com/haber/detay/6aacedb724008d7d43733874/FRKS/tr/vodafone-dijital-sadakat-platformu-happy-uzerinden-duolingo-ile-ozel-bir-isbirligine-imza-atti-18-09-26/",
+   "kaynak": "haber",
+   "etiketler": [
+    "abonelik"
+   ],
+   "teyitsiz": false,
+   "oneCikan": false,
+   "baslangic": null
+  },
+  {
+   "kurum": "Qumpara",
+   "kampanya": "QumPuan'ı Pegasus BolPuan'a çevir",
+   "tur": "puan",
+   "fayda": "1 QumPuan = 10 BolPuan (en az 100 QumPuan)",
+   "baslangic": "2025-01-08",
+   "bitis": "2026-12-31",
+   "kosul": "Pegasus BolBol üyeliği; Qumpara'ya kayıtlı numara BolBol hesabındaki numarayla aynı olmalı; yalnız Qumpara mobil uygulaması. Kod/ödeme kısıtı yok. Pegasus sayfası 31.12.2026 gösteriyor.",
+   "uygunluk": "uygun",
+   "link": "https://www.flypgs.com/kampanyali-ucak-biletleri/pegasus-bolbol-qumpara-is-birligi",
+   "kaynak": "resmi",
+   "etiketler": [
+    "seyahat"
+   ],
+   "teyitsiz": false,
+   "oneCikan": false
+  },
+  {
+   "kurum": "Pegasus",
+   "kampanya": "Yeni Pronet aboneliğine 50.000–100.000 BolPuan",
+   "tur": "puan",
+   "fayda": "Pronet Plus'ta 100.000, diğer paketlerde 50.000 BolPuan",
+   "baslangic": "2026-09-01",
+   "bitis": "2026-12-31",
+   "kosul": "BolBol üyesi olup yeni Pronet (alarm/kamera) aboneliği; 24–60 ay taahhüt, montaj ve ilk bedel tahsili şart; BolPuan 14 iş günü içinde yüklenir; kişi başı 1 kez. Sayfada başlangıç 01.09 / 03.09 çelişkili.",
+   "uygunluk": "uygun",
+   "link": "https://www.flypgs.com/kampanyali-ucak-biletleri/pegasus-bolbol-pronet-is-birligi-2026",
+   "kaynak": "resmi",
+   "teyitsiz": false,
+   "oneCikan": false
+  },
+  {
+   "kurum": "Pegasus",
+   "kampanya": "BolBol Extra: %50 bagaj indirimi, ücretsiz iptal, 2 kat BolPuan",
+   "tur": "puan",
+   "fayda": "Ek bagajda %50 indirim, ücretsiz iptal hakkı, uçuşlardan 2 kat BolPuan",
+   "baslangic": "2026-07-29",
+   "bitis": "2026-12-31",
+   "kosul": "BolBol Extra üyeliği (takvim yılında 15 Pin); bilet alırken üyelikteki telefon girilir; bagaj indirimi flypgs.com ve mobil uygulamada. Ödeme kısıtı yok.",
+   "uygunluk": "kontrol",
+   "link": "https://www.flypgs.com/kampanyali-ucak-biletleri/bolbol-extralilar-icin-50-indirimli-bagaj-ucretsiz-iptal-hakki-ve-2-kat-bolpuan-kazanma-imkani",
+   "kaynak": "resmi",
+   "etiketler": [
+    "seyahat"
+   ],
+   "teyitsiz": false,
+   "oneCikan": false
+  },
+  {
+   "kurum": "THY",
+   "kampanya": "Marakez Piramitler Yarı Maraton: Mısır uçuşlarında %10–15 indirim (TKRUNCAI26)",
+   "tur": "indirim",
+   "fayda": "Baz ücret üzerinden Ekonomi %10, Business %15",
+   "bitis": "2026-12-01",
+   "kosul": "TKRUNCAI26 kodu; satış son günü 01.12.2026, seyahat 01–20 Aralık 2026; Avrupa, Afrika, Türkiye ve bazı Asya çıkışlı Mısır uçuşları.",
+   "uygunluk": "uygun",
+   "link": "https://www.turkishairlines.com/tr/ucus-firsatlari-misir-varisli-ucuslarda-avantajli-firsatlar",
+   "kaynak": "resmi",
+   "etiketler": [
+    "seyahat"
+   ],
+   "teyitsiz": false,
+   "oneCikan": false,
+   "baslangic": null
+  },
+  {
+   "kurum": "THY",
+   "kampanya": "Avis / Budget online kiralamada %35 indirim + 4.000 Mile'a kadar mil",
+   "tur": "indirim",
+   "fayda": "%35 indirim ve 4.000'e kadar mil",
+   "teyitsiz": true,
+   "kosul": "Online araç kiralama; Miles&Smiles üyeliği; THY kampanya sayfasında tarih yok.",
+   "uygunluk": "kontrol",
+   "link": "https://www.turkishairlines.com/tr-int/kampanyalar/",
+   "kaynak": "resmi",
+   "etiketler": [
+    "seyahat"
+   ],
+   "oneCikan": false,
+   "baslangic": null,
+   "bitis": null
+  },
+  {
+   "kurum": "Enuygun",
+   "kampanya": "CarrefourSA'da 1.000 TL+ alışveriş yapan CSA Kartlılara uçak/otobüs biletinde %10 indirim",
+   "tur": "indirim",
+   "fayda": "%10 indirim, en fazla 500 TL (uçak) / 1.000 TL (otobüs)",
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "kosul": "Bireysel CarrefourSA Kart ile tek seferde 1.000 TL+ alışveriş; kod fişte/SMS ile verilir, tek kullanımlık; yalnız yeni müşteri, yalnız Enuygun mobil uygulaması; alkol, tütün, cep telefonu, beyaz eşya vb. hariç.",
+   "uygunluk": "yeni-musteri",
+   "link": "https://www.enuygun.com/kampanyalar/carrefoursadan-1-000-tl-ve-uzeri-alisveris-yapan-csa-kartlilara-ozel-enuygundan-ucak-veya-otobus-biletinde-10-indirim/",
+   "kaynak": "resmi",
+   "etiketler": [
+    "seyahat",
+    "market"
+   ],
+   "teyitsiz": false,
+   "oneCikan": false
+  },
+  {
+   "kurum": "Enuygun",
+   "kampanya": "Money'lilere özel uçak, otobüs, otel ve araç kiralamada %10 indirim",
+   "tur": "indirim",
+   "fayda": "%10 indirim, en fazla 500 TL (uçak) / 1.000 TL (otobüs, otel, araç)",
+   "baslangic": "2026-08-01",
+   "bitis": "2026-12-31",
+   "kosul": "İlk alışverişe özel, yalnız Enuygun mobil uygulaması; ödeme adımında indirim kodu girilir (kodun nereden alınacağı sayfada yok; 'Money'lilere özel'); Metro, Avis, Budget, Rent Go hariç.",
+   "uygunluk": "yeni-musteri",
+   "link": "https://www.enuygun.com/kampanyalar/moneylilere-ozel-ucak-otobus-otel-ve-arac-kiralamada-10-indirim/",
+   "kaynak": "resmi",
+   "etiketler": [
+    "seyahat"
+   ],
+   "teyitsiz": false,
+   "oneCikan": false
+  },
+  {
+   "kurum": "ETS Tur",
+   "kampanya": "Maximum ile yurt dışı ve cruise turlarında 7.500 TL'ye varan MaxiPuan",
+   "tur": "puan",
+   "fayda": "45.000 TL+ rezervasyonda 2.500, 70.000 TL+ 5.500, 120.000 TL+ 7.500 TL MaxiPuan (kişi başı en fazla 7.500 TL, 1 kez)",
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "kosul": "Maximum Mobil/İşCep'ten KATIL; Maximum, Maximiles, Privia kredi kartları ve Bankamatik (Maximum özellikli POS) geçerli; yalnız peşin ödeme, taksit geçmez; puan 15.12'de yüklenir. Ticari kart, MaxiPara, MaxiPuan ile ödeme hariç.",
+   "uygunluk": "uygun",
+   "oneCikan": true,
+   "link": "https://www.etstur.com/Kampanyalar/Maximum-ile-Yurt-Disi-ve-Cruise-Turlarinda-7.500-TL-ye-Varan-MaxiPuan-Firsati-Kampanyasi",
+   "kaynak": "resmi",
+   "etiketler": [
+    "seyahat"
+   ],
+   "teyitsiz": false
+  },
+  {
+   "kurum": "ETS Tur",
+   "kampanya": "Yeni üyelere özel 1.500 TL indirim kuponu",
+   "tur": "yeni müşteri bonusu",
+   "fayda": "1.500 TL indirim kuponu",
+   "teyitsiz": true,
+   "kosul": "ETS Tur kampanya listesinde başlık olarak görünüyor; tarih/koşul detay sayfası açılamadığı için okunamadı.",
+   "uygunluk": "yeni-musteri",
+   "link": "https://www.etstur.com/kampanyalar",
+   "kaynak": "resmi",
+   "etiketler": [
+    "seyahat"
+   ],
+   "oneCikan": false,
+   "baslangic": null,
+   "bitis": null
+  },
+  {
+   "kurum": "ETS Tur",
+   "kampanya": "Seçili otellerde 2.750 TL'ye varan indirim kuponu",
+   "tur": "indirim",
+   "fayda": "2.750 TL'ye varan indirim kuponu",
+   "teyitsiz": true,
+   "kosul": "Kampanya listesinde başlık olarak görünüyor; tarih/koşul okunamadı.",
+   "uygunluk": "kontrol",
+   "link": "https://www.etstur.com/kampanyalar",
+   "kaynak": "resmi",
+   "etiketler": [
+    "seyahat"
+   ],
+   "oneCikan": false,
+   "baslangic": null,
+   "bitis": null
+  },
+  {
+   "kurum": "ETS Tur",
+   "kampanya": "İlk kez Maximum kart kullanacaklara 10.000 TL'ye varan MaxiPuan",
+   "tur": "yeni müşteri bonusu",
+   "fayda": "10.000 TL'ye varan MaxiPuan",
+   "teyitsiz": true,
+   "kosul": "Yeni Maximum kart kullanıcısı (İş Bankası); listede başlık olarak görünüyor, tarih ve kademeler okunamadı.",
+   "uygunluk": "kredi-karti",
+   "link": "https://www.etstur.com/kampanyalar",
+   "kaynak": "resmi",
+   "etiketler": [
+    "seyahat"
+   ],
+   "oneCikan": false,
+   "baslangic": null,
+   "bitis": null
+  },
+  {
+   "kurum": "ETS Tur",
+   "kampanya": "Maximum'a özel %8'e varan ek indirim (otel)",
+   "tur": "indirim",
+   "fayda": "%8'e varan ek indirim (şehir otellerinde %8)",
+   "teyitsiz": true,
+   "kosul": "Maximum kart; listede başlık olarak görünüyor, tarih/koşul okunamadı.",
+   "uygunluk": "kontrol",
+   "link": "https://www.etstur.com/kampanyalar",
+   "kaynak": "resmi",
+   "etiketler": [
+    "seyahat"
+   ],
+   "oneCikan": false,
+   "baslangic": null,
+   "bitis": null
+  },
+  {
+   "kurum": "ETS Tur",
+   "kampanya": "Otel rezervasyonu yapana Ucuzabilet'te 500 TL'ye varan uçak indirimi kuponu",
+   "tur": "indirim",
+   "fayda": "500 TL'ye varan uçak bileti indirimi",
+   "teyitsiz": true,
+   "kosul": "Listede başlık olarak görünüyor; tarih/koşul okunamadı.",
+   "uygunluk": "uygun",
+   "link": "https://www.etstur.com/kampanyalar",
+   "kaynak": "resmi",
+   "etiketler": [
+    "seyahat"
+   ],
+   "oneCikan": false,
+   "baslangic": null,
+   "bitis": null
+  },
+  {
+   "kurum": "A101 Kapıda / A101 uygulama",
+   "kampanya": "A101 kullanıcılarına Sigortam.net'ten TSS poliçesinde indirim (trafik %4, kasko %6, sağlık %8)",
+   "tur": "indirim",
+   "fayda": "Trafik %4, kasko %6, sağlık %8 indirim",
+   "bitis": "2026-12-31",
+   "kosul": "Kod A101 uygulaması/web kampanyalar alanından ücretsiz alınır ve Sigortam.net ödeme adımında girilir; ilk kez alınan poliçe, yenilemede geçmez; indirim 7 iş günü içinde satın alınan KREDİ KARTINA iade edilir (banka kartı için açıklama yok); 180 gün içinde iptalde geri alınır.",
+   "uygunluk": "kredi-karti",
+   "link": "https://www.sigortam.net/a101-kullanicilarina-ozel-indirimler",
+   "kaynak": "resmi",
+   "teyitsiz": false,
+   "oneCikan": false,
+   "baslangic": null
+  },
+  {
+   "kurum": "CarrefourSA Kart",
+   "kampanya": "Üni Kart ile üniversitelilere alışverişin %10'u kadar CarrefourSA Puanı",
+   "tur": "puan",
+   "fayda": "%10 puan (1 puan = 1 TL), ayda en fazla 2.000 TL puan",
+   "teyitsiz": true,
+   "kosul": "Üniversite öğrencisi, CarrefourSA Üni Kart başvurusu (öğrenci belgesi); banka kartı şartı yok; alkol, tütün, kuyum, telefon, beyaz eşya vb. hariç; sayfa süresiz diyor ama yayın tarihi 20.12.2024 — güncelliği doğrulanamadı.",
+   "uygunluk": "kontrol",
+   "link": "https://www.youthall.com/tr/ayricaliklar/carrefoursa-universitelilere-alisverislerinin-10u-kadar-tl-puan-hediye/",
+   "kaynak": "derleme",
+   "etiketler": [
+    "market"
+   ],
+   "oneCikan": false,
+   "baslangic": null,
+   "bitis": null
+  },
+  {
+   "kurum": "Macellan / Paraşüt",
+   "kampanya": "Macellan SuperApp: seçili markalarda yükleme yapana hediye puan kampanyaları (KidZania'da İş Bankası kartına %20 puan vb.)",
+   "tur": "puan",
+   "fayda": "Markaya göre hediye puan (~29 kampanya; tutarlar marka sayfalarında)",
+   "teyitsiz": true,
+   "kosul": "'₺X yükleme' tipi koşullar; sayfada kampanya başına bitiş tarihi, ödeme yöntemi ve min. tutar yok.",
+   "uygunluk": "kontrol",
+   "link": "https://macellan.app/en/for-you",
+   "kaynak": "resmi",
+   "oneCikan": false,
+   "baslangic": null,
+   "bitis": null
+  },
+  {
+   "kurum": "Qumpara",
+   "kampanya": "Mion ürünlerinde '2 al 1 iade' (SMS ile katıl, 100 QumPuan)",
+   "tur": "puan",
+   "fayda": "Forum üyesi 100 QumPuan yüklendiğini bildirdi",
+   "teyitsiz": true,
+   "kosul": "Mion alımı, katılım SMS'i; DonanımHaber forum mesajı (22 Kasım 2026), Qumpara resmi duyurusu görülmedi; tutar/fiş koşulu belirsiz.",
+   "uygunluk": "uygun",
+   "link": "https://forum.donanimhaber.com/qumpara-kampanyalari--157946672-40",
+   "kaynak": "forum",
+   "oneCikan": false,
+   "baslangic": null,
+   "bitis": null
+  },
+  {
+   "kurum": "Getir",
+   "kampanya": "Getir WhatsApp kanalı çekilişi: 10 kişiye 500 TL, 10 kişiye 1.250 TL GetirBüyük hediye çeki",
+   "tur": "çekiliş",
+   "fayda": "500 TL ve 1.250 TL GetirBüyük hediye çeki (10'ar kişiye)",
+   "bitis": "2026-12-15",
+   "teyitsiz": true,
+   "kosul": "Getir WhatsApp kanalı üzerinden; katılım şartı ayrıntılı değil (Picodi derlemesi, 20 Kasım).",
+   "uygunluk": "uygun",
+   "link": "https://www.picodi.com/tr/getir",
+   "kaynak": "derleme",
+   "etiketler": [
+    "market",
+    "getir"
+   ],
+   "oneCikan": false,
+   "baslangic": null
+  },
+  {
+   "kurum": "Yemeksepeti",
+   "kampanya": "TRY300: Black Friday kodu ile 300 TL'ye varan indirim",
+   "tur": "indirim",
+   "fayda": "300 TL'ye varan indirim (kod TRY300)",
+   "bitis": "2027-01-01",
+   "teyitsiz": true,
+   "kosul": "Picodi derlemesi (19 Kasım); min. sepet, ödeme yöntemi ve kullanım şartı sayfada yok — Yemeksepeti'nde kodun çalıştığı doğrulanamadı.",
+   "uygunluk": "kontrol",
+   "link": "https://www.picodi.com/tr/yemeksepeti",
+   "kaynak": "derleme",
+   "etiketler": [
+    "yeme",
+    "yemeksepeti"
+   ],
+   "oneCikan": false,
+   "baslangic": null
+  },
+  {
+   "kurum": "Yemeksepeti",
+   "kampanya": "75 TL ve üzeri siparişlerde %10 MaxiPuan",
+   "tur": "puan",
+   "fayda": "Siparişin %10'u MaxiPuan",
+   "teyitsiz": true,
+   "kosul": "Picodi derlemesinde 'devam eden' olarak geçiyor; hangi kartla (İş Bankası Maximum) ve hangi limitle geçerli olduğu yazmıyor.",
+   "uygunluk": "kontrol",
+   "link": "https://www.picodi.com/tr/yemeksepeti",
+   "kaynak": "derleme",
+   "etiketler": [
+    "yeme",
+    "yemeksepeti"
+   ],
+   "oneCikan": false,
+   "baslangic": null,
+   "bitis": null
+  },
+  {
+   "kurum": "Trendyol",
+   "kampanya": "Efsane Günler (Black Friday) indirim haftası",
+   "tur": "indirim",
+   "fayda": "Moda, elektronik, ev-yaşam, kozmetik, kişisel bakımda ürüne göre değişen indirim (oran haberde yok)",
+   "baslangic": "2026-11-26",
+   "bitis": "2026-12-02",
+   "kosul": "İşin Olsa Black Friday takvimi (19.11): 26 Kasım–2 Aralık; kupon/taksit ayrıntısı yok. Önceki taramada Mega kuponlar ve peşin fiyatına taksit ayrı kayıtlı.",
+   "uygunluk": "uygun",
+   "link": "https://www.isinolsa.com/trendyol-26-kasimda-basliyor-amazon-27sinde-bitiriyor-black-friday-2026-takvimi/",
+   "kaynak": "haber",
+   "etiketler": [
+    "eticaret",
+    "trendyol"
+   ],
+   "teyitsiz": false,
+   "oneCikan": false
+  },
+  {
+   "kurum": "Samsung",
+   "kampanya": "Kasım Fırsatları: KASIM15 ile beyaz eşyada %15'e varan sepet indirimi + %3 Samsung Rewards",
+   "tur": "indirim",
+   "fayda": "Beyaz eşyada sepette %15'e varan indirim; kampanya ürünlerinde ek %3 Samsung Rewards puanı",
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "kosul": "samsung.com/tr; KASIM15 kodu (beyaz eşya), KILIF1 (seçili kılıf); birlikte alımda 10.000 TL'ye varan indirim; İndigo (4.11) ve Tamindir (11.11) derlemelerinden, resmi sayfa doğrulanmadı.",
+   "teyitsiz": true,
+   "uygunluk": "uygun",
+   "link": "https://www.samsung.com/tr/offer/black-friday/",
+   "kaynak": "derleme",
+   "etiketler": [
+    "elektronik"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "Arçelik",
+   "kampanya": "Kasım: yapay zeka destekli beyaz eşyalarda %40'a varan indirim",
+   "tur": "indirim",
+   "fayda": "%40'a varan indirim",
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "kosul": "arcelik.com.tr kampanya sayfasına göre İndigo derlemesi (4.11); resmi sayfa doğrulanmadı.",
+   "teyitsiz": true,
+   "uygunluk": "uygun",
+   "link": "https://www.arcelik.com.tr/kampanyalar",
+   "kaynak": "derleme",
+   "etiketler": [
+    "elektronik"
+   ],
+   "oneCikan": false
+  },
+  {
+   "kurum": "Dyson",
+   "kampanya": "Kasım Fırsatları: sepette kod ile 3.000–13.000 TL kupon",
+   "tur": "indirim",
+   "fayda": "DYSONV12S 13.000 TL, DYSONV12 8.000 TL, DYSONV10S 9.000 TL, DYSONV10 5.000 TL, DYSONHJ10 3.000 TL kupon; Supersonic'te %40 (SUPERSONIC-R)",
+   "teyitsiz": true,
+   "kosul": "Kodlar sepette girilir; vade farksız 9 taksit; İndigo derlemesi (4.11), bitiş tarihi yok, resmi sayfa doğrulanmadı.",
+   "uygunluk": "uygun",
+   "link": "https://www.dyson.com.tr/kasim-firsatlari",
+   "kaynak": "derleme",
+   "etiketler": [
+    "elektronik"
+   ],
+   "oneCikan": false,
+   "baslangic": null,
+   "bitis": null
   }
  ]
 }
