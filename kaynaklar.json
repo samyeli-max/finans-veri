@@ -1,6 +1,6 @@
 {
  "surum": 1,
- "guncellendi": "2026-11-25",
+ "guncellendi": "2026-11-26",
  "not": "Tarama görevleri bu listeyi kullanır; çalışmayan URL bulunursa düzeltilir, yeni kurum bulunursa eklenir.",
  "alanlar": {
   "bankalar": [
@@ -51,9 +51,11 @@
    {
     "kurum": "TOM Katılım",
     "tip": "katilim",
-    "url": null,
+    "url": "https://tombank.com.tr/kampanyalar.html",
     "diger_adlar": [
-     "TOM Bank"
+     "TOM Bank",
+     "TOM Bank Hadi",
+     "HADi"
     ]
    },
    {
@@ -84,7 +86,7 @@
    {
     "kurum": "Akbank",
     "tip": "mevduat",
-    "url": "https://www.axess.com.tr/kampanyalar",
+    "url": "https://www.akbank.com/kampanyalar",
     "diger_adlar": [
      "Axess",
      "Akbank / Axess",
@@ -94,7 +96,7 @@
    {
     "kurum": "Garanti BBVA",
     "tip": "mevduat",
-    "url": "https://www.bonus.com.tr/kampanyalar",
+    "url": "https://www.garantibbva.com.tr/kampanyalar",
     "diger_adlar": [
      "Bonus",
      "Garanti"
@@ -121,7 +123,7 @@
    {
     "kurum": "Enpara",
     "tip": "mevduat",
-    "url": "https://www.enpara.com"
+    "url": "https://www.enpara.com/kampanyalar"
    },
    {
     "kurum": "Halkbank",
@@ -150,7 +152,7 @@
    {
     "kurum": "TEB",
     "tip": "mevduat",
-    "url": "https://www.teb.com.tr/kampanyalar",
+    "url": "https://www.teb.com.tr/sizin-icin/kampanyalar/",
     "diger_adlar": [
      "CEPTETEB"
     ]
@@ -158,52 +160,52 @@
    {
     "kurum": "ING",
     "tip": "mevduat",
-    "url": "https://www.ing.com.tr/tr/kampanyalar"
+    "url": "https://www.ing.com.tr/tr/sizin-icin/kampanyalar"
    },
    {
     "kurum": "Şekerbank",
     "tip": "mevduat",
-    "url": null
+    "url": "https://www.sekerbank.com.tr/bireysel/kampanyalar/kart-kampanyalari"
    },
    {
     "kurum": "Anadolubank",
     "tip": "mevduat",
-    "url": "https://www.anadolubank.com.tr/kampanya"
+    "url": "https://www.anadolubank.com.tr/kampanyalar"
    },
    {
     "kurum": "Fibabanka",
     "tip": "mevduat",
-    "url": null
+    "url": "https://www.fibabanka.com.tr/kampanyalar"
    },
    {
     "kurum": "Odeabank",
     "tip": "mevduat",
-    "url": null
+    "url": "https://www.odeabank.com.tr/kampanyalar"
    },
    {
     "kurum": "Alternatif Bank",
     "tip": "mevduat",
-    "url": null
+    "url": "https://www.alternatifbank.com.tr/kampanyalar"
    },
    {
     "kurum": "Burgan Bank",
     "tip": "mevduat",
-    "url": null
+    "url": "https://www.burgan.com.tr/tr/Pages/benim-icin/size-ozel/kampanyalar.aspx"
    },
    {
     "kurum": "ICBC Turkey",
     "tip": "mevduat",
-    "url": null
+    "url": "https://www.icbc.com.tr/tr/sizin-icin/kampanya-detay/Kampanyalar/713/3443/0"
    },
    {
     "kurum": "HSBC",
     "tip": "mevduat",
-    "url": null
+    "url": "https://www.hsbc.com.tr/kartlar-ve-krediler/kampanyalar/guncel-kampanyalar"
    },
    {
     "kurum": "ON Dijital",
     "tip": "mevduat",
-    "url": "https://on.com.tr",
+    "url": "https://on.com.tr/kampanyalar",
     "diger_adlar": [
      "ON Dijital Bankacılık"
     ]
@@ -220,7 +222,7 @@
    {
     "kurum": "Hayhay",
     "tip": "mevduat",
-    "url": "https://www.hayhay.com/kampanyalar",
+    "url": "https://www.hayhay.com/Kampanyalar",
     "diger_adlar": [
      "Hahay",
      "Hayhay (Aktif Bank)"

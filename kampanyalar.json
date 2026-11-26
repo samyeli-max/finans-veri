@@ -1,55 +1,7 @@
 {
-"kaynak": "Kampanya taraması – 25.11.2026",
-"tarih": "2026-11-25",
+"kaynak": "Kampanya taraması – 26.11.2026",
+"tarih": "2026-11-26",
 "kampanyalar": [
-{
-"kurum": "Garanti BBVA",
-"kampanya": "Trendyol'da Visa kartla 4.000 TL+ alışverişe 500 TL indirim (VISA500)",
-"tur": "indirim",
-"fayda": "500 TL indirim (tek seferde 4.000 TL+ sepet, kargo hariç)",
-"baslangic": "2026-11-21",
-"bitis": "2026-11-25",
-"kosul": "Ödeme adımında VISA500 kodu; Trendyol hesabına kayıtlı Garanti BBVA Visa kredi kartı veya Paracard (banka kartı) ile ödeme; yalnız Trendyol Plus üyeleri; üye başı 1 kez, toplam 15.000 kod (kodlar biterse erken biter); sarrafiye, dijital ürün, Trendyol Go/Hızlı Market/Yemek/Milla/Dolap hariç",
-"teyitsiz": false,
-"uygunluk": "uygun",
-"link": "https://www.bonus.com.tr/kampanyalar/visa-trendyol-indirim-kampanyasi",
-"oneCikan": true,
-"kaynak": "resmi",
-"etiketler": [
-"eticaret",
-"trendyol"
-],
-"id": "e3c3f97bb3",
-"uygunlukMetni": "Uygun",
-"alan": "sosyal",
-"ka": [
-"bonus",
-"garanti",
-"garanti bbva"
-],
-"eklenme": "2026-11-24"
-},
-{
-"kurum": "Midas",
-"kampanya": "Yeni kullanıcılara kademeli ödül",
-"tur": "yeni müşteri bonusu",
-"fayda": "Net yatırıma göre ödül: 500 bin TL+ Galaxy Buds 4/Apple TV 4K/Whoop; 1 M TL+ AirPods Pro 3/Nespresso; 5 M TL+ PS5 Slim/Dyson; 10 M TL+ iPhone 18 Pro/Galaxy Fold 8; 20 M TL+ 150.000 TL Beymen çeki/iPhone Duo",
-"baslangic": "2026-10-29",
-"bitis": "2026-11-25",
-"kosul": "Kampanyada hesap açan yeni müşteri ya da kampanya başlangıcından önce hiç fonlama (nakit/hisse virmanı) yapmamış mevcut hesap; ilk fonlamadan sonra 30 gün içinde kademe tutarına (net yatırım) ulaşıp 90 gün korumak (altına düşerse ertesi gün 13:30'a kadar tamamlama, en fazla 3 kez); kontenjanlı (ilk 1.200/500/300/150/50 kişi); kaldıraçlı işlem hariç; 18 yaş altı hariç; ödül bildirimi en geç 10.04.2027; BUGÜN (25.11) son gün (sayfa 'bitiş dahil mi' belirtmiyor); yeni dönem kampanyası ilan edilebilir",
-"teyitsiz": false,
-"uygunluk": "yeni-musteri",
-"link": "https://www.getmidas.com/ayricaliklar/yeni-kullanicilara-ozel-kademeli-odul-kampanyasi-detaylari-29-ekim-25-kasim/",
-"oneCikan": true,
-"kaynak": "resmi",
-"id": "aa6664e065",
-"uygunlukMetni": "Yeni müşteri şartı",
-"alan": "yatirim",
-"ka": [
-"midas"
-],
-"eklenme": "2026-11-16"
-},
 {
 "kurum": "Amazon TR",
 "kampanya": "Gülümseten Kasım indirimleri (Prime fiyat farkı iadesi, flaş fırsatlar)",
@@ -163,6 +115,54 @@
 },
 {
 "kurum": "Akbank",
+"kampanya": "Akbanklı yakınlarını Axess'e davet et: 400–1.200 TL chip-para",
+"tur": "arkadaşını getir",
+"fayda": "Davetli ilk Axess asıl kart harcamasını yapınca davet edene seviye 1: 400, seviye 2: 800, seviye 3: 1.200 TL chip-para (+200 skor puanı); seviye başı 5 kişi; üst sınır 12.000 TL chip-para + 3.000 skor puanı",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Davetli Akbank Mobil'den davet koduyla ilk kez Axess asıl KREDİ kartı başvurusu yapıp onaylatmalı (Axess/Wings/Free sahibiyse ödül yok); banka kartı, ticari, ek, öğrenci, sanal kart kapsam dışı; ilk harcama en geç 30.11.2026; kod Akbank Mobil > Kampanyalar > Davet Et Kazan.",
+"teyitsiz": false,
+"uygunluk": "uygun",
+"link": "https://www.akbank.com/kampanyalar/akbankli-yakinlarinizi-axesse-davet-edin",
+"oneCikan": true,
+"kaynak": "resmi",
+"id": "3ee3f4da12",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"akbank",
+"akbank axess",
+"axess",
+"wings"
+],
+"eklenme": "2026-11-24"
+},
+{
+"kurum": "Akbank",
+"kampanya": "Mobilden Akbanklı olana faizsiz Taksitli Artı Para (75.000 TL'ye kadar)",
+"tur": "faizsiz kredi",
+"fayda": "%0 faizli 75.000 TL'ye kadar, 3 ay vade (100.000 TL varyantı için ek şart)",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Enuygun derlemesinden; Akbank Mobil'den uzaktan yeni müşteri; 100.000 TL varyantı için Kasım'da 1 otomatik fatura talimatı + aynı ay Akbank bireysel kartla en az 2.500 TL harcama; kredi onayına bağlı.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.enuygunfinans.com/bankalar/hesap-ac/",
+"oneCikan": true,
+"kaynak": "derleme",
+"id": "dc85e5c9e9",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"akbank",
+"akbank axess",
+"axess",
+"wings"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "Akbank",
 "kampanya": "Yakınlarını Akbanklı olmaya ve otomatik fatura talimatına davet et",
 "tur": "arkadaşını getir",
 "fayda": "Davetli başına seviyeye göre 100 / 200 / 300 TL chip-para (her seviyede 5 kişi), toplam 3.000 TL chip-para + 1.500 skor puanı",
@@ -184,30 +184,6 @@
 "wings"
 ],
 "eklenme": "2026-11-21"
-},
-{
-"kurum": "Akbank",
-"kampanya": "%0 faizli Taksitli Artı Para (75.000 TL)",
-"tur": "faizsiz kredi",
-"fayda": "Taksitli Artı Para 75.000 TL'ye kadar 3 ay %0; Kasım'da otomatik fatura talimatı + yeni Akbank kredi kartı + aynı ay 2.500 TL kart harcamasıyla 100.000 TL'ye kadar; yeni Axess TROY'a 25.000 TL %0 Taksitli Avans ile toplam 125.000 TL'ye varan",
-"baslangic": "2026-11-01",
-"bitis": "2026-11-30",
-"kosul": "1–30.11.2026'da Akbank Mobil'den Akbanklı olan yeni ya da ilk kez bu süreci tamamlayan pasif müşteriler; 75.000 TL teklifi 15 gün geçerli; en az 500 TL kullanım; kampanya dışı tutar/vadede aylık %4,25. Taksitli Avans kısmı kredi kartı ister (31.12.2026'ya kadar kullanım).",
-"teyitsiz": true,
-"uygunluk": "yeni-musteri",
-"link": "https://www.akbank.com/kampanyalar/0faiz-oraniyla-nakit-firsati",
-"oneCikan": true,
-"kaynak": "resmi",
-"id": "00389af54c",
-"uygunlukMetni": "Yeni müşteri şartı",
-"alan": "sosyal",
-"ka": [
-"akbank",
-"akbank axess",
-"axess",
-"wings"
-],
-"eklenme": "2026-11-16"
 },
 {
 "kurum": "Akbank",
@@ -331,30 +307,6 @@
 },
 {
 "kurum": "Akbank",
-"kampanya": "Akbanklı yakınına ilk Axess kartını aldır, 400–1.200 TL chip-para kazan",
-"tur": "arkadaşını getir",
-"fayda": "İlk kez Axess ana kartı alıp ilk harcamasını yapan her Akbanklı yakın için 400/800/1.200 TL chip-para (seviye 1/2/3, her seviyede 5 kişi); toplam en fazla 12.000 TL",
-"baslangic": "2026-11-01",
-"bitis": "2026-11-30",
-"kosul": "Davet eden için aktif Akbank Kart (banka kartı) yeterli. Davetli Akbanklı olmalı, Axess/Wings/Free kartı olmamalı; Akbank Mobil'de kodu girip ilk kez Axess ana kartına başvurmalı, onay almalı ve 30.11.2026'ya kadar ilk harcamasını yapmalı (Free, ek, öğrenci, sanal kart hariç). Chip-para ilk harcamadan sonra yüklenir.",
-"teyitsiz": false,
-"uygunluk": "uygun",
-"link": "https://www.akbank.com/kampanyalar/akbankli-yakinlarinizi-axesse-davet-edin",
-"oneCikan": true,
-"kaynak": "resmi",
-"id": "c5e4b0cc5b",
-"uygunlukMetni": "Uygun",
-"alan": "ekgelir",
-"ka": [
-"akbank",
-"akbank axess",
-"axess",
-"wings"
-],
-"eklenme": "2026-11-24"
-},
-{
-"kurum": "Akbank",
 "kampanya": "Obilet'te Akbanklı ol: 750 TL indirim kodu",
 "tur": "yeni müşteri bonusu",
 "fayda": "Obilet mobil uygulamasında otobüs, uçak, seçili otel ve araç için 750 TL sabit indirim kodu (minimum tutar yok)",
@@ -428,20 +380,45 @@
 },
 {
 "kurum": "DenizBank",
-"kampanya": "%0 Taksitli Kurtaran Hesap (yeni müşteri, 25.000 TL)",
-"tur": "faizsiz taksit",
-"fayda": "25.000 TL'ye kadar 3 ay %0 taksitli ek hesap",
+"kampanya": "Otomatik fatura talimatlarına 700 TL'ye varan bonus",
+"tur": "puan",
+"fayda": "1 yeni fatura talimatı 200 TL, 3 yeni fatura 400 TL, 5 yeni fatura 700 TL bonus; müşteri başına en fazla 700 TL",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Dijital kanaldan ilk kez müşteri olup DenizBank KREDİ kartı başvurusu onaylananlar; talimat başvuru sırasında verilmeli, daha önce talimat verilmemiş yeni faturalar; 01.11.2026–11.03.2027 arası fatura başına en az 2 tahsilat; ödül 11.12.2026'da yüklenir.",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.denizbank.com/kampanya/mobildeniz-firsatlari/otomatik-fatura-talimatlariniza-bonus-114201",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"fatura"
+],
+"id": "71869dda64",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"bonus flexi",
+"denizbank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "DenizBank",
+"kampanya": "Yeni müşteriye faizsiz 25.000 TL taksitli Kurtaran Hesap (3 ay)",
+"tur": "faizsiz kredi",
+"fayda": "%0 faizli 200–25.000 TL, 3 ay taksit; tahsis ücreti yok",
 "baslangic": "2026-11-17",
 "bitis": "2026-11-30",
-"kosul": "Yeni müşteri; Nakit Kurtaran Hesap açma şartı (kaynak: Enuygun Finans)",
+"kosul": "Enuygun derlemesinden; MobilDeniz ile ilk kez DenizBanklı olanlar (şubede olmaz); 1 ay içinde Nakit Kurtaran Hesap açılmalı; önceden DenizBanklı olanlar hariç.",
 "teyitsiz": true,
 "uygunluk": "yeni-musteri",
-"link": "https://www.enuygunfinans.com/bankalar/faizsiz-kredi-veren-bankalar/#denizbank-kurtaran",
+"link": "https://www.enuygunfinans.com/bankalar/faizsiz-nakit-avans-veren-bankalar/",
 "oneCikan": true,
 "kaynak": "derleme",
-"id": "79da649bc4",
+"id": "fc3be1227a",
 "uygunlukMetni": "Yeni müşteri şartı",
-"alan": "sosyal",
+"alan": "bankalar",
 "ka": [
 "bonus flexi",
 "denizbank"
@@ -565,6 +542,191 @@
 },
 {
 "kurum": "Garanti BBVA",
+"kampanya": "Yakınını Davet Et: 2.000 TL bonus (Bonus kredi kartı)",
+"tur": "arkadaşını getir",
+"fayda": "Davet eden ve davet edilen 2.000 TL Bonus; davet eden için üst sınır 50.000 TL (yılda en fazla 25 yeni müşteri)",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Davetli 18+ ve Garanti BBVA müşterisi olmamalı; Mobil'den müşteri olup davet kodunu girmeli ve Bonus KREDİ kartı almalı (banka kartı değil; Paracard ve ticari kapsam dışı); kod Mobil > Profil ve Ayarlar > Birlikte Garanti BBVA'da > Davet Kodunu Paylaş; başvuru kredi politikasına bağlı.",
+"teyitsiz": false,
+"uygunluk": "uygun",
+"link": "https://www.garantibbva.com.tr/kampanyalar/yakinini-davet-et-kampanyasi",
+"oneCikan": true,
+"kaynak": "resmi",
+"id": "2587f3d65c",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"bonus",
+"garanti",
+"garanti bbva"
+],
+"eklenme": "2026-11-24"
+},
+{
+"kurum": "Garanti BBVA",
+"kampanya": "Starbucks'ta 75 yıldız kuponu",
+"tur": "yeni müşteri bonusu",
+"fayda": "5 kupon (75 yıldız) + Bonus kredi kartıyla ilk tek seferlik 750 TL+ harcamaya 750 TL Bonus",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Yeni müşteri (Mobil'de Müşteri Olmak İstiyorum, kod 75YILDIZ); bonus için onaylı Bonus/Money Bonus/Bonus Genç KREDİ kartı; kart 30.11 öncesi alınmalı, ilk harcama 10.12.2026 öncesi; 18+.",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.garantibbva.com.tr/kampanyalar/musteri-ol-starbucks-kampanyasi",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"starbucks",
+"yeme"
+],
+"id": "e993392280",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"bonus",
+"garanti",
+"garanti bbva"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Garanti BBVA",
+"kampanya": "Uber Eats Trendyol Go yemek siparişinde 1.000 TL indirim kodu",
+"tur": "yeni müşteri bonusu",
+"fayda": "1.000 TL indirim kodu + Bonus kredi kartıyla ilk tek seferlik 1.000 TL+ harcamaya 1.000 TL Bonus",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Yeni müşteri (Mobil'de müşteri ol, kod UBEREATS); katılım 30.11'e kadar, indirim kodu 31.12.2026'ya kadar; bonus için Bonus KREDİ kartı (kart 30.11 öncesi, ilk alışveriş 10.12 öncesi); kişi başı 1 kod; 18+.",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.garantibbva.com.tr/kampanyalar/musteri-ol-trendyol-go-kampanyasi",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"trendyol",
+"yeme"
+],
+"id": "723bf96c63",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"bonus",
+"garanti",
+"garanti bbva"
+],
+"eklenme": "2026-11-25"
+},
+{
+"kurum": "Garanti BBVA",
+"kampanya": "Defacto giyim alışverişinde 750 TL indirim kodu",
+"tur": "yeni müşteri bonusu",
+"fayda": "750 TL+ alışverişte 750 TL indirim kodu + Bonus kartla ilk 1.000 TL+ harcamaya 600 TL Defacto bonusu",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Yeni müşteri (kod DFCT2026); Defacto Gift Club üyeliği gerekli; bonus için onaylı Bonus KREDİ kartı; katılım 30.11'e kadar, indirim kodu 15.12.2026'ya kadar; 18+.",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.garantibbva.com.tr/kampanyalar/musteri-ol-defacto-kampanyasi",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"defacto",
+"giyim"
+],
+"id": "f781b5f1d5",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"bonus",
+"garanti",
+"garanti bbva"
+],
+"eklenme": "2026-11-25"
+},
+{
+"kurum": "Garanti BBVA",
+"kampanya": "Dyson süpürge ve saç bakımında 4.000 TL indirim kodu",
+"tur": "yeni müşteri bonusu",
+"fayda": "dyson.com.tr'de 4.000 TL indirim kodu + Bonus kartla tek seferde 1.000 TL+ harcamaya 1.000 TL Bonus",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Yeni müşteri (Mobil'de Müşteri Olmak İstiyorum; kod 2026DYSN, sayfa afişinde DYSN2026 yazıyor, kontrol et); bonus için Bonus/Money Bonus/Bonus Genç KREDİ kartı; katılım 30.11'e kadar, indirim kodu 10.12.2026'ya kadar; kişi başı 1 kod.",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.garantibbva.com.tr/kampanyalar/musteri-ol-dyson-kampanyasi",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"dyson",
+"elektronik"
+],
+"id": "9f10d4b303",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"bonus",
+"garanti",
+"garanti bbva"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Garanti BBVA",
+"kampanya": "Turna.com uçak biletinde 750 TL indirim kodu",
+"tur": "yeni müşteri bonusu",
+"fayda": "1.000 TL+ uçak biletinde 750 TL indirim kodu + Bonus kartla ilk 1.000 TL+ harcamaya 750 TL Bonus",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Yeni müşteri (ilk kez Garanti BBVA bireysel; kod TURNA750); bonus için Bonus KREDİ kartı; katılım 30.11'e kadar, indirim kodu 20.12.2026'ya kadar (uçuş 31.12.2026'ya kadar); Turna.com üye girişi gerekli.",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.garantibbva.com.tr/kampanyalar/musteri-ol-turna-kampanyasi",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"seyahat",
+"turna"
+],
+"id": "f8789b1270",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"bonus",
+"garanti",
+"garanti bbva"
+],
+"eklenme": "2026-11-25"
+},
+{
+"kurum": "Garanti BBVA",
+"kampanya": "Karaca mutfak ürünlerinde 1.000 TL indirim kodu",
+"tur": "yeni müşteri bonusu",
+"fayda": "karaca.com ve Karaca uygulamasında 1.000 TL indirim kodu (sepet 1.001 TL+) + Bonus kartla ilk 1.000 TL+ harcamaya 1.000 TL Bonus",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Yeni müşteri (kod 26KARACA); Karaca üyeliği ve 18+; bonus için Bonus/Money Bonus/Bonus Genç KREDİ kartı; katılım 30.11'e kadar, indirim kodu 10.12.2026'ya kadar.",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.garantibbva.com.tr/kampanyalar/musteri-ol-karaca-kampanyasi",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"eticaret",
+"karaca"
+],
+"id": "811a1a1a7f",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"bonus",
+"garanti",
+"garanti bbva"
+],
+"eklenme": "2026-11-25"
+},
+{
+"kurum": "Garanti BBVA",
 "kampanya": "Yeni müşteriye %0 faizli 50.000 TL kredi + 50.000 TL taksitli avans hesap",
 "tur": "faizsiz kredi",
 "fayda": "50.000 TL'ye kadar 3 ay %0 faizli ihtiyaç kredisi + 50.000 TL'ye kadar 3 ay %0 taksitli avans hesap (min. 1.000 TL; kredi hayat sigortası primi ayrı, örnek 250 TL)",
@@ -641,33 +803,6 @@
 },
 {
 "kurum": "Garanti BBVA",
-"kampanya": "UBEREATS: Uber Eats Trendyol Go yemekte 1.000 TL indirim ve 1.000 TL bonus",
-"tur": "yeni müşteri bonusu",
-"fayda": "Uber Eats Trendyol Go Yemek'te 1.000 TL indirim kodu (1.000 TL+ sepet) + Bonus kredi kartıyla ilk harcamaya 1.000 TL bonus",
-"baslangic": "2026-11-01",
-"bitis": "2026-11-30",
-"kosul": "İlk kez Garanti BBVA Mobil'den müşteri olup Promosyon Kodu Gir alanına UBEREATS yazmak; kod 31.12.2026'ya kadar geçerli; bonus için Bonus kart 30.11'e kadar alınmalı, ilk harcama 10.12.2026'ya kadar; bonus 15.12.2026–15.01.2027 kullanılır. Kişi başı tek promosyon kodu.",
-"teyitsiz": false,
-"uygunluk": "yeni-musteri",
-"link": "https://garantibbva.com.tr/kampanyalar/musteri-ol-trendyol-go-kampanyasi",
-"oneCikan": true,
-"kaynak": "resmi",
-"etiketler": [
-"trendyol",
-"yeme"
-],
-"id": "45dd6c9be7",
-"uygunlukMetni": "Yeni müşteri şartı",
-"alan": "sosyal",
-"ka": [
-"bonus",
-"garanti",
-"garanti bbva"
-],
-"eklenme": "2026-11-25"
-},
-{
-"kurum": "Garanti BBVA",
 "kampanya": "75YILDIZ: 75 Starbucks yıldızı ve 750 TL bonus",
 "tur": "yeni müşteri bonusu",
 "fayda": "75 yıldız (≈5 kahve) kupon kodu + Bonus kartla ilk tek seferde 750 TL+ harcamaya 750 TL bonus",
@@ -684,86 +819,6 @@
 "yeme"
 ],
 "id": "65ed2d472b",
-"uygunlukMetni": "Yeni müşteri şartı",
-"alan": "sosyal",
-"ka": [
-"bonus",
-"garanti",
-"garanti bbva"
-],
-"eklenme": "2026-11-25"
-},
-{
-"kurum": "Garanti BBVA",
-"kampanya": "26KARACA: Karaca markalı ürünlerde 1.000 TL indirim ve 1.000 TL bonus",
-"tur": "yeni müşteri bonusu",
-"fayda": "Karaca markalı ürünlerde 1.000 TL indirim kodu (min. 1.001 TL sepet) + Bonus kartla ilk tek seferde 1.000 TL+ harcamaya 1.000 TL bonus",
-"baslangic": "2026-11-01",
-"bitis": "2026-11-30",
-"kosul": "İlk kez Garanti BBVA Mobil'den müşteri olup 26KARACA kodunu girmek; kod 10.12.2026'ya kadar kullanılır; Bonus kart 30.11'e kadar alınmalı, ilk harcama 10.12.2026'ya kadar; bonus 15.12'de yüklenir, 16.12.2026–16.01.2027 kullanılır. Kişi başı tek promosyon kodu.",
-"teyitsiz": false,
-"uygunluk": "yeni-musteri",
-"link": "https://www.garantibbva.com.tr/kampanyalar/musteri-ol-karaca-kampanyasi",
-"oneCikan": true,
-"kaynak": "resmi",
-"etiketler": [
-"karaca"
-],
-"id": "b8d0aeb2f3",
-"uygunlukMetni": "Yeni müşteri şartı",
-"alan": "sosyal",
-"ka": [
-"bonus",
-"garanti",
-"garanti bbva"
-],
-"eklenme": "2026-11-25"
-},
-{
-"kurum": "Garanti BBVA",
-"kampanya": "TURNA750: Turna uçak biletinde 750 TL indirim ve 750 TL bonus",
-"tur": "yeni müşteri bonusu",
-"fayda": "Turna.com'da 1.000 TL+ uçak biletinde 750 TL indirim + Bonus kartla Turna'da ilk 1.000 TL+ harcamaya 750 TL bonus (toplam 1.500 TL)",
-"baslangic": "2026-11-01",
-"bitis": "2026-11-30",
-"kosul": "İlk kez Garanti BBVA Mobil'den müşteri olup TURNA750 kodunu girmek; Turna'ya üye girişiyle, doğrudan tek yön/gidiş-dönüş biletlerde; kod 20.12.2026'ya kadar, uçuş 31.12.2026'ya kadar; Bonus kart 30.11'e kadar, ilk harcama 10.12.2026'ya kadar. Kişi başı tek promosyon kodu.",
-"teyitsiz": false,
-"uygunluk": "yeni-musteri",
-"link": "https://garantibbva.com.tr/kampanyalar/musteri-ol-turna-kampanyasi",
-"oneCikan": true,
-"kaynak": "resmi",
-"etiketler": [
-"seyahat",
-"turna"
-],
-"id": "ad849dc572",
-"uygunlukMetni": "Yeni müşteri şartı",
-"alan": "sosyal",
-"ka": [
-"bonus",
-"garanti",
-"garanti bbva"
-],
-"eklenme": "2026-11-25"
-},
-{
-"kurum": "Garanti BBVA",
-"kampanya": "DFCT2026: Defacto'da 750 TL indirim ve 600 TL bonus",
-"tur": "yeni müşteri bonusu",
-"fayda": "750 TL Defacto indirim kodu (750 TL+ alışveriş) + Bonus kartla ilk tek seferde 1.000 TL+ Defacto harcamasına 600 TL bonus",
-"baslangic": "2026-11-01",
-"bitis": "2026-11-30",
-"kosul": "İlk kez Garanti BBVA Mobil'den müşteri olup DFCT2026 kodunu girmek; Defacto Gift Club üyeliği gerekli; kod 15.12.2026'ya kadar; Bonus kart 30.11'e kadar, ilk harcama 10.12.2026'ya kadar; bonus 14.12'de yüklenir. Kişi başı tek promosyon kodu.",
-"teyitsiz": false,
-"uygunluk": "yeni-musteri",
-"link": "https://www.garantibbva.com.tr/kampanyalar/musteri-ol-defacto-kampanyasi",
-"oneCikan": true,
-"kaynak": "resmi",
-"etiketler": [
-"defacto",
-"giyim"
-],
-"id": "ac25607cb6",
 "uygunlukMetni": "Yeni müşteri şartı",
 "alan": "sosyal",
 "ka": [
@@ -1077,25 +1132,133 @@
 },
 {
 "kurum": "İş Bankası",
-"kampanya": "Yapay zekâ ödemesine (ChatGPT, Gemini, Claude vb.) 250 TL'ye varan MaxiPuan",
+"kampanya": "İşCep'ten müşteri ol, ilk fatura talimatınla 300 TL MaxiPuan",
 "tur": "puan",
-"fayda": "%10 MaxiPuan, en fazla 250 TL (tek seferde 400 TL+ harcama)",
+"fayda": "300 TL MaxiPuan (kişi başı 1 kez)",
 "baslangic": "2026-11-01",
 "bitis": "2026-11-30",
-"kosul": "İşCep > Kampanyalar > KATIL. Bireysel Bankamatik (banka kartı) ve MaxiPara da dahil; Nays, Vadematik, aidatsız ve Maximum Genç hariç. Platformlar: ChatGPT, Gemini, Claude, Perplexity, Midjourney, Canva Pro, Adobe Firefly, HeyGen/Synthesia, ElevenLabs, Runway, GitHub Copilot. Yalnız o platforma 2026'daki İLK ödeme ve yalnız bir platform ödüllenir; aracı ödeme kuruluşu/cüzdan üzerinden ödemeler sayılmaz. MaxiPuan kampanya bitiminden sonra 10 iş günü içinde yüklenir, son kullanım 31.01.2027.",
+"kosul": "İşCep'te Müşteri Olmak İstiyorum ile yeni müşteri (şubede tamamlayan yararlanamaz); müşteri olduktan sonra 1 ay içinde vadesiz TL hesaptan en az 1 otomatik fatura talimatı verilmeli, ilk ödemesi gerçekleşmeli; kredi kartı VEYA bankamatik yeterli (aidatsız kredi kartı hariç).",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.isbank.com.tr/kampanyalar/iscepten-is-bankasi-musterisi-olun-ilk-fatura-talimatiniz-ile-maxipuan-kazanin",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"fatura"
+],
+"id": "1769b56629",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"is bankasi",
+"is bankasi maximum",
+"iscep",
+"maximum",
+"maximum mobil"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "İş Bankası",
+"kampanya": "İş Bankası'nı arkadaşına öner: ikiniz de 500'er TL MaxiPuan",
+"tur": "arkadaşını getir",
+"fayda": "Davet eden ve davet edilen 500'er TL MaxiPuan",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Davet edilen daha önce müşteri olmamış, İşCep'ten görüntülü görüşmeyle müşteri olmalı (şubede olunursa ödül yok); davet eden İş Bankası bireysel müşterisi; 15.12.2026'ya kadar açık kredi kartı VEYA bankamatik (aidatsız/ek/ön ödemeli hariç); kod İşCep > Profil ve Ayarlar > Arkadaşına Öner'den üretilir; puan 15.12.2026 sonrası yüklenir.",
 "teyitsiz": false,
 "uygunluk": "uygun",
-"link": "https://www.isbank.com.tr/kampanyalar/yapay-zeka-odemenize-maxipuan",
+"link": "https://www.isbank.com.tr/kampanyalar/is-bankasini-arkadasiniza-onerin-maxipuan-kazanin",
+"oneCikan": true,
+"kaynak": "resmi",
+"id": "b71382adff",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"is bankasi",
+"is bankasi maximum",
+"iscep",
+"maximum",
+"maximum mobil"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "İş Bankası",
+"kampanya": "Her 2.000 TL'lik market alışverişine 125 TL MaxiPuan (en fazla 1.500 TL)",
+"tur": "puan",
+"fayda": "İlk market alışverişi 2.000 TL+ ile başlar; her uygun alışverişe 125 TL (TROY kartta +25 TL); en fazla 1.500 TL",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Kredi kartı VE banka kartı (Maximum, Maximiles, Privia, Bankamatik, MaxiPara) geçerli; tek seferde min. 2.000 TL market harcaması; katılım Maximum Mobil/İşCep Kampanyalar'dan; MaxiPuan 04.12.2026'da yüklenir.",
+"teyitsiz": false,
+"uygunluk": "uygun",
+"link": "https://www.isbank.com.tr/kampanyalar/market-alisverislerinizde-maxipuan-firsati",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"market"
+],
+"id": "9b857b9716",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"is bankasi",
+"is bankasi maximum",
+"iscep",
+"maximum",
+"maximum mobil"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "İş Bankası",
+"kampanya": "15.000 TL ve üzeri büyük market sepetine 1.300 TL'ye varan MaxiPuan",
+"tur": "puan",
+"fayda": "15.000 TL'de 750 TL, 25.000 TL'de 1.250 TL MaxiPuan; TROY logolu karta ek 50 TL; en fazla 1.300 TL",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Maximum/Maximiles/Privia kredi kartları ve Bankamatik/MaxiPara banka kartları geçerli; tek seferde ilk peşin market alışverişi 15.000 TL+; katılım Maximum Mobil/İşCep'ten; müşteri başına 1 kez.",
+"teyitsiz": false,
+"uygunluk": "uygun",
+"link": "https://www.isbank.com.tr/kampanyalar/market-alisverisinize-maxipuan",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"market"
+],
+"id": "1e675a7686",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"is bankasi",
+"is bankasi maximum",
+"iscep",
+"maximum",
+"maximum mobil"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "İş Bankası",
+"kampanya": "Yapay zeka (ChatGPT, Gemini, Claude) ödemene %10 MaxiPuan",
+"tur": "cashback",
+"fayda": "İlk yapay zeka ödemesinde %10 MaxiPuan; en fazla 250 TL",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Kredi kartı VE banka kartı (Maximum, Maximiles, MaxiPara ve ek kartlar; ticari/Vadematik/Aidatsız/Maximum Genç hariç); tek işlemde min. 400 TL; 2026'da o işyerindeki ilk işlem; İşCep Kampanyalar'dan KATIL; puan 10 iş günü içinde.",
+"teyitsiz": false,
+"uygunluk": "uygun",
+"link": "https://www.maximum.com.tr/kampanyalar/yapay-zeka-odemenize-maxipuan",
 "oneCikan": true,
 "kaynak": "resmi",
 "etiketler": [
 "abonelik",
-"chatgpt",
-"google"
+"chatgpt"
 ],
-"id": "76e0d093d7",
+"id": "1950d57e1d",
 "uygunlukMetni": "Uygun",
-"alan": "sosyal",
+"alan": "bankalar",
 "ka": [
 "is bankasi",
 "is bankasi maximum",
@@ -1129,31 +1292,6 @@
 "maximum mobil"
 ],
 "eklenme": "2026-11-21"
-},
-{
-"kurum": "İş Bankası",
-"kampanya": "Arkadaşına öner, 500 TL MaxiPuan",
-"tur": "arkadaşını getir",
-"fayda": "Davet eden 500 TL MaxiPuan (kampanya döneminde yalnız 1 yeni müşteri için ödül; davet sınırsız ama ödül 1 kez = 500 TL); davet edilen de 500 TL MaxiPuan",
-"baslangic": "2026-11-01",
-"bitis": "2026-11-30",
-"kosul": "İşCep > Profil ve Ayarlar > 'Arkadaşına Öner'den kodunu üret, arkadaşınla paylaş. Arkadaşın İş Bankası müşterisi olmamalı; İşCep 'Müşteri Olmak İstiyorum' akışında kodu girip görüntülü görüşmeyle 30.11.2026'ya kadar müşteri olmalı (şubede tamamlanırsa ödül yok). 15.12.2026 itibarıyla açık Bankamatik kartı (banka kartı yeterli; varsa öncelik Bankamatik) gerekir. MaxiPuan 15.12.2026'dan itibaren 5 iş günü içinde yüklenir ve 01.01.2027'de silinir: yüklenince hemen harca.",
-"teyitsiz": false,
-"uygunluk": "uygun",
-"link": "https://www.isbank.com.tr/kampanyalar/is-bankasini-arkadasiniza-onerin-maxipuan-kazanin",
-"oneCikan": true,
-"kaynak": "resmi",
-"id": "bc08f24220",
-"uygunlukMetni": "Uygun",
-"alan": "ekgelir",
-"ka": [
-"is bankasi",
-"is bankasi maximum",
-"iscep",
-"maximum",
-"maximum mobil"
-],
-"eklenme": "2026-11-16"
 },
 {
 "kurum": "İş Bankası",
@@ -1231,23 +1369,23 @@
 },
 {
 "kurum": "N Kolay",
-"kampanya": "Otomatik fatura talimatlarına 250 TL'ye varan ödül",
+"kampanya": "N Kolay ile ilk kez fatura talimatı verene 250 TL'ye varan ödül",
 "tur": "cashback",
-"fayda": "250 TL'ye varan ödül",
-"baslangic": null,
+"fayda": "Her otomatik fatura talimatı için 50 TL, toplam en fazla 250 TL N Kolay sanal karta yükleme (10.12.2026'da yüklenir)",
+"baslangic": "2026-11-01",
 "bitis": "2026-11-30",
-"kosul": "N Kolay'dan otomatik fatura ödeme talimatı; resmi sayfa başlığı var ama resmi aktif kampanya listesinde görünmedi, şart/tarih teyit edilemedi (kaynak: Avantaj Radar)",
+"kosul": "Yalnız ilk kez otomatik fatura talimatı verenler; talimat yalnız N Kolay Mobil'den; açık N Kolay sanal kart gerekli (kredi/banka kartı değil); talimat ilk 3 ay içinde iptal edilirse ödül geri alınır.",
 "teyitsiz": true,
 "uygunluk": "uygun",
-"link": "https://avantajradar.com/kampanya/nkolay-fatura-otomatik-odeme-kampanyasi",
+"link": "https://www.nkolay.com/kampanyalar/fatura-otomatik-odeme-kampanyasi",
 "oneCikan": true,
-"kaynak": "derleme",
+"kaynak": "resmi",
 "etiketler": [
 "fatura"
 ],
-"id": "5799b0fa53",
+"id": "b9db5e0797",
 "uygunlukMetni": "Uygun",
-"alan": "sosyal",
+"alan": "bankalar",
 "ka": [
 "aktif bank",
 "n kolay",
@@ -2407,6 +2545,53 @@
 "eklenme": "2026-11-16"
 },
 {
+"kurum": "Vakıf Katılım",
+"kampanya": "Vakıf Katılımlı olanlara tabii'den 1 ay Premium üyelik",
+"tur": "ücretsiz hizmet",
+"fayda": "tabii'de 1 aylık Premium üyelik kodu",
+"baslangic": "2026-05-08",
+"bitis": "2026-11-30",
+"kosul": "Mobilden TABİİ davet koduyla müşteri olmak; ilk 1.000 kişiyle sınırlı; kod tek kullanımlık, 1 ay geçerli; kart şartı yok.",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.vakifkatilim.com.tr/tr/kendim-icin/kampanyalar/detay/vakif-katilimli-olanlara-tabiiden-premium-uyelik",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"abonelik",
+"tabii"
+],
+"id": "352b0355ef",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"vakif katilim"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "VakıfBank",
+"kampanya": "İlk kredi kartı alana faizsiz, masrafsız 25.000 TL taksitli nakit avans",
+"tur": "faizsiz kredi",
+"fayda": "%0 faizli, masrafsız 25.000 TL'ye kadar 3 taksitli nakit avans (en az 500 TL, kart limitinin %25'i, tek kullanım)",
+"baslangic": "2026-07-14",
+"bitis": "2026-11-30",
+"kosul": "VakıfBank'tan ilk kez bireysel KREDİ kartı alanlar, başvurunun onaylanması (mevcut VakıfBank kredi kartı olanlar ve son 6 ayda kart alıp iptal edenler hariç); kart tesliminden sonra 1 ay içinde kullanılmalı; tam 25.000 TL için yaklaşık 100.000 TL kart limiti gerekir.",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://vakifkart.com.tr/kampanyalar/faizsiz-masrafsiz-taksitli-nakit-avans-firsati-40512",
+"oneCikan": true,
+"kaynak": "resmi",
+"id": "94bc16e21f",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"vakifbank",
+"vakifkart"
+],
+"eklenme": "2026-11-26"
+},
+{
 "kurum": "VakıfBank / Vakıfkart",
 "kampanya": "Bankomat Kart (banka kartı) ile akaryakıta 250 TL Bankomat Para",
 "tur": "cashback",
@@ -2459,27 +2644,76 @@
 },
 {
 "kurum": "Yapı Kredi",
-"kampanya": "SANSLIKASIM: Kasım doğumlu olup mobilden ilk kez müşteri olana ilk online alışverişte 2.000 TL'ye kadar iade",
-"tur": "yeni müşteri bonusu",
-"fayda": "İlk online alışverişin 2.000 TL'ye kadarı iade (2.000 TL altı alışveriş tamamen)",
+"kampanya": "Davet ettiğin yeni müşteri başına 500 TL bonus (en fazla 20.000 TL)",
+"tur": "arkadaşını getir",
+"fayda": "Davet edilen yeni müşteri başına 500 TL bonus bakiye; tavan 20.000 TL; bakiye 10.12.2026'da ekstreye yansır",
 "baslangic": "2026-11-01",
 "bitis": "2026-11-30",
-"kosul": "Kimlikte doğum ayı Kasım olan, Yapı Kredi'de hesabı/kartı olmayan kişi; Yapı Kredi Mobil'den müşteri olurken referans kodu alanına SANSLIKASIM; kredi kartı onaylanıp aktive edilmeli; ilk online alışveriş 30.11'e kadar; iade 10.12.2026'ya kadar; kişi başı bir kez, diğer banka kampanyalarıyla birleşmez.",
+"kosul": "Davetli Yapı Kredi Mobil'den ilk kez müşteri olmalı (SUPERKART kodu zorunlu) ve bireysel KREDİ kartı başvurusu yapıp kartı onaylatıp aktive etmeli (ek/ön ödemeli hariç); davet eden güncel uygulama sürümünde olmalı.",
+"teyitsiz": false,
+"uygunluk": "uygun",
+"link": "https://www.yapikredi.com.tr/kampanyalar/detay/253665",
+"oneCikan": true,
+"kaynak": "resmi",
+"id": "5470c620b1",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"world",
+"worldcard",
+"yapi kredi"
+],
+"eklenme": "2026-11-25"
+},
+{
+"kurum": "Yapı Kredi",
+"kampanya": "XPREMIUM koduyla müşteri ol: X Premium yıllık paket bedeli iade",
+"tur": "yeni müşteri bonusu",
+"fayda": "X Premium Yıllık Paketi bedelinin tamamı kredi kartına iade; tavan 1.979,99 TL",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Mevcut Yapı Kredi hesabı/kartı olmayanlar, Yapı Kredi Mobil'den XPREMIUM kodu zorunlu; paket Yapı Kredi KREDİ kartıyla alınmalı (paket alımı 30.11'e kadar, iade 10.12'ye kadar); kişi başı 1 kez.",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.yapikredi.com.tr/kampanyalar/detay/257004",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"abonelik"
+],
+"id": "4d83a9195f",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"world",
+"worldcard",
+"yapi kredi"
+],
+"eklenme": "2026-11-24"
+},
+{
+"kurum": "Yapı Kredi",
+"kampanya": "Kasım doğumlulara ilk online alışverişte 2.000 TL nakit iade",
+"tur": "yeni müşteri bonusu",
+"fayda": "İlk online alışverişte 2.000 TL nakit iade (harcama 2.000 TL altındaysa tamamı iade)",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Yapı Kredi Mobil'de ilk kez müşteri olanlar (SANSLIKASIM referans kodu zorunlu); T.C. Kimlik Kartı'nda doğum ayı Kasım olanlar; onaylı Yapı Kredi KREDİ kartı gerekir; iade en geç 10.12.2026; kişi başı 1 kez.",
 "teyitsiz": false,
 "uygunluk": "yeni-musteri",
 "link": "https://www.yapikredi.com.tr/kampanyalar/detay/257577",
 "oneCikan": true,
 "kaynak": "resmi",
-"etiketler": [
-"eticaret"
-],
-"id": "7a107dd638",
+"id": "6a5dfc8a31",
 "uygunlukMetni": "Yeni müşteri şartı",
-"alan": "sosyal",
+"alan": "bankalar",
 "ka": [
 "world",
 "worldcard",
 "yapi kredi"
+],
+"etiketler": [
+"eticaret"
 ],
 "eklenme": "2026-11-25"
 },
@@ -2503,29 +2737,6 @@
 ],
 "id": "23b35a18d9",
 "uygunlukMetni": "Yeni müşteri şartı",
-"alan": "sosyal",
-"ka": [
-"world",
-"worldcard",
-"yapi kredi"
-],
-"eklenme": "2026-11-25"
-},
-{
-"kurum": "Yapı Kredi",
-"kampanya": "SUPERKART: yakınını Yapı Kredili yap, davet başına 500 TL, 20.000 TL'ye kadar kart borcuna iade",
-"tur": "arkadaşını getir",
-"fayda": "Davetle müşteri olan her kişi için 500 TL, toplam en fazla 20.000 TL (kredi kartı ekstresine)",
-"baslangic": "2026-11-01",
-"bitis": "2026-11-30",
-"kosul": "Davet Yapı Kredi Mobil'den; davetli ilk kez müşteri olmalı, Mobil'de kayıt olurken SUPERKART kodunu girmeli ve bireysel kredi kartı onaylanıp aktive edilmeli (ek ve ön ödemeli kart hariç). 'Yakınını Getir' puanlarına ek kazanılır. Yükleme 10.12.2026.",
-"teyitsiz": false,
-"uygunluk": "uygun",
-"link": "https://www.yapikredi.com.tr/kampanyalar/detay/253665",
-"oneCikan": true,
-"kaynak": "resmi",
-"id": "90759d58cf",
-"uygunlukMetni": "Uygun",
 "alan": "sosyal",
 "ka": [
 "world",
@@ -2945,20 +3156,41 @@
 },
 {
 "kurum": "Kuveyt Türk",
-"kampanya": "Yakınlarını davet et, 5.000 TL'ye varan",
+"kampanya": "Yakınını Kuveyt Türk'e davet et, toplam 5.000 TL'ye kadar hediye",
 "tur": "arkadaşını getir",
-"fayda": "Davetle müşteri olan her kişi için 500 TL, en fazla 10 kişi = 5.000 TL (Kuveyt Türk Kampüs üyesiysen davet başına 1.000 TL, 10 kişi = 10.000 TL); davetli de ilk 500 TL+ Sağlam Nakit Kart harcamasına 500 TL iade alır",
+"fayda": "Davet başına hediye; toplam en fazla 5.000 TL",
 "baslangic": "2025-06-15",
 "bitis": "2026-12-31",
-"kosul": "Kuveyt Türk Mobil'deki davet kodunu/linkini paylaş. Davetli Kuveyt Türk Mobil veya Self Nokta'dan kodla müşteri olmalı ve Sağlam Nakit Kart (banka kartı) ile harcama yapmalı (dijital cüzdan ve mail order hariç). Ödül 5 gün içinde hesabına yatar (forumda: kazanıldığı ayı izleyen ayın ilk 5 iş günü). Kampüs (öğrenci) davet ödülü 1.000 TL/kişi, Kampüs kampanyası koşullarına tabi.",
-"teyitsiz": false,
+"kosul": "Davet edilenin yeni müşteri olması gerekir; ayrıntı koşullar detay sayfasında, sayfa okunamadı.",
+"teyitsiz": true,
 "uygunluk": "uygun",
 "link": "https://www.kuveytturk.com.tr/en/campaigns/campaign-individual/become-a-customer-campaign/invite-your-loved-ones-to-kuveyt-turk-and-earn-gifts-up-to-try-5000-in-total",
 "oneCikan": true,
 "kaynak": "resmi",
-"id": "942c511779",
+"id": "f15615e752",
 "uygunlukMetni": "Uygun",
-"alan": "ekgelir",
+"alan": "bankalar",
+"ka": [
+"kuveyt turk"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "Kuveyt Türk",
+"kampanya": "Pratik BES'e 2.000 TL hediye (Kuveyt Türk Mobil)",
+"tur": "bes ek katkı",
+"fayda": "Pratik BES'e aylık en az 2.000 TL ödeyene 2.000 TL nakit iade",
+"baslangic": "2025-11-05",
+"bitis": "2026-12-31",
+"kosul": "1 Ocak 2026 sonrası Kuveyt Türk Mobil'den müşteri olanlar; ödeme Kuveyt Türk bireysel KREDİ kartıyla; aylık en az 2.000 TL taahhüt; kişi başı 1 kez; katıl/SMS adımı yok.",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.kuveytturk.com.tr/en/campaigns/campaign-individual/become-a-customer-campaign/try-2000-gift-for-your-pratik-bes-plan-via-kuveyt-turk-mobilee",
+"oneCikan": true,
+"kaynak": "resmi",
+"id": "b7b64666ae",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
 "ka": [
 "kuveyt turk"
 ],
@@ -3096,6 +3328,29 @@
 "vakif katilim"
 ],
 "eklenme": "2026-11-24"
+},
+{
+"kurum": "Ziraat Bankası",
+"kampanya": "Ziraat Mobil'den müşteri ol: 5.000 TL'ye kadar Jest Lira + faizsiz taksitli nakit avans",
+"tur": "yeni müşteri bonusu",
+"fayda": "2.500 TL+ her alışverişe 250, 5.000 TL+ her alışverişe 500 Jest Lira (toplam 5.000 TL); ek olarak %0 faizli 25.000 TL'ye kadar taksitli nakit avans (2–3 taksit, 1 kez)",
+"baslangic": "2026-07-01",
+"bitis": "2026-12-31",
+"kosul": "Ziraat Mobil'den uzaktan ilk kez müşteri olup Bankkart KREDİ kartı onaylananlar (Başak/Business/Ücretsiz hariç); min. 2.500 TL tek işlem; katılım Bankkart Mobil'den ve alışverişten önce.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.ziraatbank.com.tr/tr/kampanyalar/ziraat-mobil-musteri-avantajlar",
+"oneCikan": true,
+"kaynak": "resmi",
+"id": "59426789a5",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"bankkart",
+"ziraat bankasi",
+"ziraat bankasi bankkart"
+],
+"eklenme": "2026-11-16"
 },
 {
 "kurum": "BtcTurk Hisse",
@@ -3390,32 +3645,6 @@
 "eklenme": "2026-11-24"
 },
 {
-"kurum": "Garanti BBVA",
-"kampanya": "Öğretmenler Günü: Bonus'ta öğretmenlere özel 3 kampanyada toplam 150 TL bonus",
-"tur": "puan",
-"fayda": "3 kampanyada toplam 150 TL bonus",
-"baslangic": "2026-11-24",
-"bitis": "2026-11-25",
-"kosul": "Öğretmenlere özel; BonusFlaş/uygulamadan kampanyalara katılım gerekiyor (harcama koşulu forumda yazılmadı). Bir kullanıcı katıldığı halde bildirim gelmediğini yazdı. Kaynak: DonanımHaber Bonus ana konu, 24.11.2026",
-"teyitsiz": true,
-"uygunluk": "kontrol",
-"link": "https://forum.donanimhaber.com/bonusun-musteri-bazinda-kampanyalari-sss--77302328-1530",
-"oneCikan": false,
-"kaynak": "forum",
-"etiketler": [
-"tum-harcamalar"
-],
-"id": "342e311a0f",
-"uygunlukMetni": "Kontrol et",
-"alan": "sosyal",
-"ka": [
-"bonus",
-"garanti",
-"garanti bbva"
-],
-"eklenme": "2026-11-25"
-},
-{
 "kurum": "Akbank",
 "kampanya": "Hepsiburada Efsane Cuma: Axess ile 30.000 TL+ alışverişe peşin fiyatına 12 taksit",
 "tur": "faizsiz taksit",
@@ -3493,6 +3722,30 @@
 "vakifkart"
 ],
 "eklenme": "2026-11-25"
+},
+{
+"kurum": "Akbank",
+"kampanya": "Axess TROY kartına ilk kez başvurana faizsiz nakit avans (25.000 TL)",
+"tur": "faizsiz kredi",
+"fayda": "%0 faizli 25.000 TL'ye kadar, 3 ay taksit; ilk yıl kart ücreti yok",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Enuygun derlemesinden; mobilden ilk kez Axess TROY asıl kart başvurusu; 1 Kasım öncesi açık Akbank bireysel kredi kartı olmayanlar; kart limitinin %25'i; işlem başı min. 200 TL; başvuru onayı son günü 30.11.2026, kullanım 31.12.2026.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.enuygunfinans.com/bankalar/hesap-ac/#axess-troy-avans",
+"oneCikan": false,
+"kaynak": "derleme",
+"id": "5f146a808c",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"akbank",
+"akbank axess",
+"axess",
+"wings"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Akbank",
@@ -3633,6 +3886,29 @@
 },
 {
 "kurum": "Akbank",
+"kampanya": "%0 faiz oranıyla 125.000 TL'ye varan nakit",
+"tur": "faizsiz taksit",
+"fayda": "100.000 TL'ye kadar 3 ay %0 Taksitli Artı Para + 25.000 TL avans",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Yeni (veya pasif) müşteri; avans kısmı kredi kartı ister",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"uygunlukMetni": "Yeni müşteri şartı",
+"link": "https://www.akbank.com/kampanyalar/0faiz-oraniyla-nakit-firsati",
+"oneCikan": false,
+"id": "6b9b7e76ad",
+"eklenme": "2026-11-16",
+"alan": "baslangic",
+"ka": [
+"akbank",
+"akbank axess",
+"axess",
+"wings"
+]
+},
+{
+"kurum": "Akbank",
 "kampanya": "%0 Faizli Taksitli Avans (yeni Axess TROY)",
 "tur": "faizsiz taksit",
 "fayda": "25.000 TL'ye kadar 3 ay %0 taksitli avans",
@@ -3678,27 +3954,29 @@
 ]
 },
 {
-"kurum": "Akbank",
-"kampanya": "Wings Mil-Puan (yeni kart)",
-"tur": "puan",
-"fayda": "75.000 TL harcamaya 750.000 Mil Puan",
+"kurum": "Albaraka",
+"kampanya": "Havalara Uçuran Kampanya: havayolu harcamasında %10 iade",
+"tur": "cashback",
+"fayda": "TROY kredi kartıyla havayolu harcamasında %10 iade; kişi başı en fazla 2.000 TL",
 "baslangic": "2026-11-01",
 "bitis": "2026-11-30",
-"kosul": "İlk kez Wings ana kart; harcama 15.12.2026'ya kadar",
-"teyitsiz": true,
-"uygunluk": "kredi-karti",
-"uygunlukMetni": "Kredi kartı gerekir",
-"link": "https://www.akbank.com/kampanyalar/wings-mil-puan-kampanyasi",
+"kosul": "Yalnız Dijital Portföy Yönetimi müşterileri; Albaraka TROY özellikli KREDİ kartı; harcamadan önce Albaraka Mobil'den katılım şart; kampanya 1.000 kişiyle sınırlı; kişi başı 1 kez; iade 5 iş günü içinde.",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://www.albaraka.com.tr/tr/kampanyalar/detay/albarakadan-ucuran-kampanya",
 "oneCikan": false,
-"id": "c8e27dab30",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
+"kaynak": "resmi",
+"etiketler": [
+"seyahat"
+],
+"id": "7c6d20c5a2",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
 "ka": [
-"akbank",
-"akbank axess",
-"axess",
-"wings"
-]
+"albaraka",
+"albaraka turk"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Albaraka",
@@ -3804,6 +4082,99 @@
 "albaraka",
 "albaraka turk"
 ]
+},
+{
+"kurum": "Alternatif Bank",
+"kampanya": "Giyim alışverişlerinizde toplam 1.000 TL Bonus",
+"tur": "puan",
+"fayda": "Toplam 1.000 TL Bonus",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Resmi liste sayfası başlığı; Bonus'lu kart (kredi kartı varsayımı); koşullar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.alternatifbank.com.tr/kampanyalar/giyim-alisverislerinizde-toplam-1-000-tl-bonus",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"giyim"
+],
+"id": "2c6b20cce6",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"alternatif bank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Alternatif Bank",
+"kampanya": "Beyaz eşya ve elektronik harcamalarına 1.750 TL'ye varan Bonus",
+"tur": "puan",
+"fayda": "1.750 TL'ye varan Bonus",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Resmi liste sayfası başlığı; Bonus'lu kart (kredi kartı varsayımı); koşullar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.alternatifbank.com.tr/kampanyalar/beyaz-esya-ve-elektronik-harcamalarina-1-750-tl-ye-varan-bonus",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"elektronik"
+],
+"id": "c3ec13df58",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"alternatif bank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Alternatif Bank",
+"kampanya": "Market alışverişlerinde 1.200 TL'ye kadar ve 1.000 TL'ye varan Bonus (iki ayrı Kasım kampanyası)",
+"tur": "puan",
+"fayda": "Toplam 1.200 TL Bonus ve 1.000 TL'ye varan Bonus (iki ayrı kampanya)",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Resmi liste sayfası başlıkları; Bonus'lu kart (kredi kartı varsayımı); koşullar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.alternatifbank.com.tr/kampanyalar/market-alisverislerinize-toplam-1-200-tl-bonus",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"market"
+],
+"id": "fad97042c7",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"alternatif bank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Alternatif Bank",
+"kampanya": "Mobilya harcamalarınıza 2.000 TL'ye varan Bonus",
+"tur": "puan",
+"fayda": "2.000 TL'ye varan Bonus",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Resmi liste sayfası başlığı; Bonus'lu kart (kredi kartı varsayımı); koşullar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.alternatifbank.com.tr/kampanyalar/mobilya-harcamalariniza-2-000-tl-ye-varan-bonus",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "b9ef49b918",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"alternatif bank"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Amazon TR",
@@ -3925,6 +4296,50 @@
 },
 {
 "kurum": "DenizBank",
+"kampanya": "Yeni müşteriye faizsiz 50.000 TL kredi (4 ay vade)",
+"tur": "faizsiz kredi",
+"fayda": "%0 faizli 50.000 TL kredi, 4 ay vade (KKB 1850–1900 bandı)",
+"baslangic": "2026-08-31",
+"bitis": "2026-11-30",
+"kosul": "Enuygun derlemesinden; MobilDeniz ile uzaktan yeni müşteri; hayat sigortası; KKB 1.849 ve altına faizsiz kredi yok; 1 ay içinde kullanım; tahsis ücreti binde 5; kişi başı 1 kampanya.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.enuygunfinans.com/bankalar/hesap-ac/",
+"oneCikan": false,
+"kaynak": "derleme",
+"id": "5b7eea945c",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"bonus flexi",
+"denizbank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "DenizBank",
+"kampanya": "DenizBank kredi kartına ilk kez başvurana faizsiz nakit avans (25.000 TL)",
+"tur": "faizsiz kredi",
+"fayda": "%0 faizli 250–25.000 TL, 3 ay vade",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Enuygun derlemesinden; yeni DenizBank müşterisi, ilk bireysel kredi kartı başvurusu onaylanmalı; açık DenizBank kredi kartı olmamalı; yalnız asıl bireysel kart; başvuru 30.11'e kadar, kullanım 15.12.2026'ya kadar.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.enuygunfinans.com/bankalar/faizsiz-nakit-avans-veren-bankalar/#denizbank-kart-avans",
+"oneCikan": false,
+"kaynak": "derleme",
+"id": "6a1dc04d5e",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"bonus flexi",
+"denizbank"
+],
+"eklenme": "2026-11-24"
+},
+{
+"kurum": "DenizBank",
 "kampanya": "Deniz Bonus ile 10.000 TL+ e-ticaret alışverişine 1.000 TL indirim",
 "tur": "indirim",
 "fayda": "Tek seferde 10.000 TL+ alışverişe 1.000 TL ekstre indirimi (en fazla 1.000 TL)",
@@ -3953,26 +4368,78 @@
 "eklenme": "2026-11-24"
 },
 {
-"kurum": "DenizBank",
-"kampanya": "Yeni kredi kartına %0 taksitli nakit avans (25.000 TL)",
+"kurum": "Dünya Katılım",
+"kampanya": "Peşin okul ödemelerine ücretsiz 6 taksit (Paraf)",
 "tur": "faizsiz taksit",
-"fayda": "25.000 TL'ye kadar 3 ay %0 taksitli nakit avans",
-"baslangic": "2026-11-01",
+"fayda": "10.000–2.500.000 TL peşin okul ödemesinde ücretsiz 6 taksit",
+"baslangic": null,
 "bitis": "2026-11-30",
-"kosul": "Yeni müşteri + ilk bireysel kredi kartı başvurusu; kart kullanım son tarihi 15.12.2026 (kaynak: Enuygun Finans)",
-"teyitsiz": true,
+"kosul": "Paraf POS, TROY logolu KREDİ kartı; OKUL1 yazıp 6066'ya SMS (bankaya kayıtlı numara); yalnız peşin okul ödemesi (kırtasiye/servis/yemek hariç); banka kartları ve ticari kartlar hariç.",
+"teyitsiz": false,
 "uygunluk": "kredi-karti",
-"link": "https://www.enuygunfinans.com/bankalar/faizsiz-kredi-veren-bankalar/#denizbank-avans",
+"link": "https://dunyakatilim.com.tr/kampanyalar/okul-odemesi",
 "oneCikan": false,
-"kaynak": "derleme",
-"id": "c996271032",
-"uygunlukMetni": "Kredi kartı gerekir",
-"alan": "sosyal",
-"ka": [
-"bonus flexi",
-"denizbank"
+"kaynak": "resmi",
+"etiketler": [
+"egitim"
 ],
-"eklenme": "2026-11-24"
+"id": "6d2ea38427",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"dunya katilim"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Dünya Katılım",
+"kampanya": "PttAVM'de peşin fiyatına 6 taksit",
+"tur": "faizsiz taksit",
+"fayda": "5.000 TL ve üzeri seçili ürünlerde peşin fiyatına 6 aya kadar taksit",
+"baslangic": null,
+"bitis": "2026-11-30",
+"kosul": "Dünya Katılım Paraf kart (kredi kartı olarak anlaşılıyor); ödeme ekranında taksit seçilmeli; ParafPara ve iade işlemleri hariç; bazı kategoriler hariç.",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://dunyakatilim.com.tr/kampanyalar/pttavm",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"eticaret",
+"pttavm"
+],
+"id": "d1d3c2863b",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"dunya katilim"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Dünya Katılım",
+"kampanya": "Vatan Bilgisayar'da peşin fiyatına 6 aya varan taksit",
+"tur": "faizsiz taksit",
+"fayda": "Vade farksız 2/3/4/6 taksit (ürün grubuna göre yasal sınırla değişir)",
+"baslangic": null,
+"bitis": "2026-11-30",
+"kosul": "Dünya Katılım Paraf kart (kredi kartı olarak anlaşılıyor); vatanbilgisayar.com ve mağazalar, Paraf POS; ParafPara ve iade işlemleri hariç.",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://dunyakatilim.com.tr/kampanyalar/vatan",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"elektronik",
+"vatan"
+],
+"id": "75938cf859",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"dunya katilim"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Dünya Katılım",
@@ -4209,29 +4676,6 @@
 "garanti bbva"
 ],
 "eklenme": "2026-11-25"
-},
-{
-"kurum": "Garanti BBVA",
-"kampanya": "Yakınını Davet Et: davetle Garanti BBVA Mobil'den müşteri olana 2.000 TL bonus (Kasım 2026)",
-"tur": "arkadaşını getir",
-"fayda": "Davet edilene 2.000 TL bonus; davet edene davet başına 2.000 TL, en fazla 25 kişi = 50.000 TL bonus",
-"baslangic": "2026-11-01",
-"bitis": "2026-11-30",
-"kosul": "Garanti BBVA'lı bir yakından davet kodu al, Mobil'den 'Müşterimiz Olun' ile müşteri ol, kodu 30 Kasım'a kadar Profil ve Ayarlar > Birlikte Garanti BBVA'da alanına gir. Ödül için davet edilenin de Bonus kredi kartı alması şart (Paracard Bonus banka kartı ve ticari kartlar hariç). 18 yaş üstü. Bonuslar Aralık ayının son iş günü yüklenir.",
-"teyitsiz": false,
-"uygunluk": "kredi-karti",
-"link": "https://www.garantibbva.com.tr/kampanyalar/yakinini-davet-et-kampanyasi/",
-"oneCikan": false,
-"kaynak": "resmi",
-"id": "fbf43c7cd2",
-"uygunlukMetni": "Kredi kartı gerekir",
-"alan": "ekgelir",
-"ka": [
-"bonus",
-"garanti",
-"garanti bbva"
-],
-"eklenme": "2026-11-24"
 },
 {
 "kurum": "Garanti BBVA",
@@ -4486,6 +4930,56 @@
 "ka": [
 "getir finans"
 ]
+},
+{
+"kurum": "Halkbank",
+"kampanya": "E-ticaret alışverişlerine 1.000 TL ParafPara",
+"tur": "puan",
+"fayda": "Tek seferde 10.000 TL ve üzeri üçüncü e-ticaret alışverişine 1.000 TL ParafPara (müşteri başına en fazla 1.000 TL)",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Paraf KREDİ kartı (Paraf, Parafly, sanal ve ek kartlar); banka kartları, Paraf Gençİz, ticari kartlar, Halkcard hariç; yalnız yurt içi sanal iş yerleri; katılım Paraf Mobil/Halkbank Mobil Hemen Katıl (SMS yok).",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/e-ticaret-alisverislerinize-1000tl-parafpara.html",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"eticaret"
+],
+"id": "30b9874629",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"halkbank",
+"paraf"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Halkbank",
+"kampanya": "Market harcamalarına ParafPara: 2.500 TL+ alışverişe 150 TL (en fazla 2.000 TL)",
+"tur": "puan",
+"fayda": "2.500 TL ve üzeri alışverişe 150 TL (QR ile 200 TL) ParafPara; en fazla 2.000 TL (25.000 TL harcama, 10 alışveriş)",
+"baslangic": null,
+"bitis": "2026-11-30",
+"kosul": "İşin Olsa haberinden (15.11.2026); yalnız bireysel KREDİ kart, banka kartı ödül vermez; katılım Paraf Mobil/Halkbank Mobil Hemen Katıl ya da GIDA yazıp 3404'e SMS.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.isinolsa.com/ziraat-vakifbank-ve-halkbankin-market-kampanyasinda-tam-odul-icin-kac-tl-harcamak-gerekiyor/",
+"oneCikan": false,
+"kaynak": "derleme",
+"etiketler": [
+"market"
+],
+"id": "a1a235d1ff",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"halkbank",
+"paraf"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Halkbank / Paraf",
@@ -4826,28 +5320,130 @@
 },
 {
 "kurum": "HSBC",
-"kampanya": "HSBC Premier kredi kartıyla ZARA mağazalarında %10 indirim (1.500 TL'ye kadar)",
-"tur": "indirim",
-"fayda": "%10, en fazla 1.500 TL (müşteri başına bir kez)",
-"baslangic": "2026-11-25",
+"kampanya": "Koton'da HSBC Premier kartla 300 TL NakitPuan",
+"tur": "puan",
+"fayda": "İlk alışverişte (min. 3.000 TL) 300 TL NakitPuan",
+"baslangic": "2026-11-05",
 "bitis": "2026-11-30",
-"kosul": "Yalnız HSBC Premier kredi kartı ve Premier segment; ZARA fiziki mağazalarında tek seferde 5.500 TL+ ilk alışveriş (online hariç); katılım gerekmez, indirim ertesi gün. Advantage, banka ve ticari kartlar hariç. Kaynak: Haber Dijital, 25.11.2026",
+"kosul": "Resmi liste özeti; HSBC Premier KREDİ kartları; Koton mağazaları veya koton.com.",
 "teyitsiz": true,
 "uygunluk": "kredi-karti",
-"link": "https://haberdijital.com.tr/hsbc-premier-kredi-kartina-zara-magazalarinda-yuzde-10-indirim/",
-"kaynak": "haber",
+"link": "https://www.hsbc.com.tr/kartlar-ve-krediler/kampanyalar/guncel-kampanyalar/koton-magazalari-veya-kotoncomda-300-tl-degerinde-nakitpuan",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"giyim",
+"koton"
+],
+"id": "51db8e25d6",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"hsbc"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "HSBC",
+"kampanya": "ZARA mağazalarında HSBC Premier kartla %10 indirim",
+"tur": "indirim",
+"fayda": "İlk alışverişte (min. 5.500 TL) %10 indirim",
+"baslangic": "2026-11-25",
+"bitis": "2026-11-30",
+"kosul": "Resmi liste özeti; HSBC Premier KREDİ kartı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.hsbc.com.tr/kartlar-ve-krediler/kampanyalar/guncel-kampanyalar/hsbc-premier-kredi-kartina-zara-magazalarinda-10-indirim-ekim",
+"oneCikan": false,
+"kaynak": "resmi",
 "etiketler": [
 "giyim",
 "zara"
 ],
-"oneCikan": false,
-"id": "c93d692fa9",
+"id": "233263c5ae",
 "uygunlukMetni": "Kredi kartı gerekir",
-"alan": "sosyal",
+"alan": "bankalar",
 "ka": [
 "hsbc"
 ],
 "eklenme": "2026-11-25"
+},
+{
+"kurum": "ING",
+"kampanya": "Market alışverişlerinde 125 TL Bonus (en fazla 1.500 TL)",
+"tur": "puan",
+"fayda": "Bonus üye iş yeri marketlerinde farklı günlerde tek seferde 2.000 TL ve üzeri her harcamaya 125 TL Bonus; toplam en fazla 1.500 TL",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "ING KREDİ kartı (ING Light ve Bonus Business hariç); fiziki POS, peşin; internet ve gıda dışı market hariç; harcamadan önce KATIL'a tıkla ya da GIDA yazıp 2205'e SMS; bonus 07.12.2026'da yansır.",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://www.ing.com.tr/tr/sizin-icin/kampanyalar/market-ing-22",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"market"
+],
+"id": "ee11ccbfd8",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"ing"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "İş Bankası",
+"kampanya": "ETS'de İşPay/İşCep Seyahatim ile ek MaxiPuan (350 / 700 / 1.000)",
+"tur": "puan",
+"fayda": "45.000 TL'de 350, 70.000 TL'de 700, 120.000 TL'de 1.000 MaxiPuan",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Liste özetinden; Bankamatik veya İş Bankası bireysel kredi kartı, İşPay ile rezervasyon; detay okunmadı.",
+"teyitsiz": true,
+"uygunluk": "uygun",
+"link": "https://www.isbank.com.tr/kampanyalar/etsde-iscep-seyahatime-ozel-ek-maxipuan-firsati",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"seyahat"
+],
+"id": "cd4ecd91a5",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"is bankasi",
+"is bankasi maximum",
+"iscep",
+"maximum",
+"maximum mobil"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "İş Bankası",
+"kampanya": "İşCep'ten yeni müşteriye faizsiz 30.000 TL ek hesap (1 ay)",
+"tur": "faizsiz kredi",
+"fayda": "30.000 TL faizsiz ek hesap (1 ay)",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "İşin Olsa haberinden (02.11.2026); İşCep'ten yeni müşteri olanlar. Enuygun derlemesi farklı yazıyor (%0,99 faizli 50.000 TL Anında Kredi/Ek Hesap, 19–30 Kasım): resmi sayfadan doğrulanmadı.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.isinolsa.com/bankalarin-faizsiz-kredi-yarisinda-sartlar-degisti-150-bin-tl-detayi/",
+"oneCikan": false,
+"kaynak": "derleme",
+"id": "ab20273cd4",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"is bankasi",
+"is bankasi maximum",
+"iscep",
+"maximum",
+"maximum mobil"
+],
+"eklenme": "2026-11-16"
 },
 {
 "kurum": "İş Bankası",
@@ -5002,78 +5598,6 @@
 "link": "https://www.maximum.com.tr/kampanyalar/bankamatik-kampanyalari",
 "oneCikan": false,
 "id": "6242fdc505",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
-"ka": [
-"is bankasi",
-"is bankasi maximum",
-"iscep",
-"maximum",
-"maximum mobil"
-]
-},
-{
-"kurum": "İş Bankası",
-"kampanya": "ETS'de İşPay/İşCep Seyahatim'e ek MaxiPuan",
-"tur": "puan",
-"fayda": "1.000 TL'ye varan",
-"baslangic": "2026-11-01",
-"bitis": "2026-11-30",
-"kosul": "İşPay veya İşCep Seyahatim'den rezervasyon",
-"teyitsiz": true,
-"uygunluk": "kontrol",
-"uygunlukMetni": "Kontrol et",
-"link": "https://www.isbank.com.tr/kampanyalar/etsde-iscep-seyahatime-ozel-ek-maxipuan-firsati",
-"oneCikan": false,
-"id": "bd949e0be9",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
-"ka": [
-"is bankasi",
-"is bankasi maximum",
-"iscep",
-"maximum",
-"maximum mobil"
-]
-},
-{
-"kurum": "İş Bankası",
-"kampanya": "İşCep'ten müşteri ol, ilk fatura talimatına 300 TL",
-"tur": "yeni müşteri bonusu",
-"fayda": "300 TL MaxiPuan",
-"baslangic": "2026-11-01",
-"bitis": "2026-11-30",
-"kosul": "İlk kez uzaktan müşteri",
-"teyitsiz": false,
-"uygunluk": "yeni-musteri",
-"uygunlukMetni": "Yeni müşteri şartı",
-"link": "https://www.isbank.com.tr/kampanyalar/iscepten-is-bankasi-musterisi-olun-ilk-fatura-talimatiniz-ile-maxipuan-kazanin",
-"oneCikan": false,
-"id": "753cb5e28e",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
-"ka": [
-"is bankasi",
-"is bankasi maximum",
-"iscep",
-"maximum",
-"maximum mobil"
-]
-},
-{
-"kurum": "İş Bankası",
-"kampanya": "İşCep'ten müşteri olana faizsiz Ek Hesap",
-"tur": "faizsiz kredi",
-"fayda": "30.000 TL'ye kadar 30 gün faizsiz",
-"baslangic": "2026-11-01",
-"bitis": "2026-11-30",
-"kosul": "Kasım'da İşCep + görüntülü görüşmeyle müşteri ol",
-"teyitsiz": false,
-"uygunluk": "yeni-musteri",
-"uygunlukMetni": "Yeni müşteri şartı",
-"link": "https://www.isbank.com.tr/kampanyalar/iscepten-isbankali-olanlar-1ay-boyunca-faizsiz-ek-hesap-ayricaligindan-yararlaniyor",
-"oneCikan": false,
-"id": "d24a01ef36",
 "eklenme": "2026-11-16",
 "alan": "baslangic",
 "ka": [
@@ -5365,6 +5889,32 @@
 },
 {
 "kurum": "N Kolay",
+"kampanya": "N Kolay Kart ile dijital oyun harcamalarında 500 TL iade",
+"tur": "cashback",
+"fayda": "Dijital oyun harcamalarında 500 TL iade",
+"baslangic": null,
+"bitis": "2026-11-30",
+"kosul": "KartAvantaj derlemesinden; kart türü ve şartlar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://kartavantaj.com/",
+"oneCikan": false,
+"kaynak": "derleme",
+"etiketler": [
+"eglence"
+],
+"id": "c7d245d620",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"aktif bank",
+"n kolay",
+"n kolay aktif bank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "N Kolay",
 "kampanya": "Giyim/kozmetik/ayakkabıya ödül",
 "tur": "cashback",
 "fayda": "3.000 TL+ harcamaya 150 TL (en fazla 600); ilk dijital kart alana 200 TL (en fazla 800)",
@@ -5454,6 +6004,31 @@
 "odeabank"
 ],
 "eklenme": "2026-11-25"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON Maximum Efsane Kasım: 30 Kasım'a kadar 1.000 TL iade",
+"tur": "cashback",
+"fayda": "1.000 TL'ye kadar iade (koşullar listede yok)",
+"baslangic": null,
+"bitis": "2026-11-30",
+"kosul": "ON liste sayfası özeti; ON Maximum KREDİ kartı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://on.com.tr/kampanyalar/on-maximum-efsane-kasim-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"tum-harcamalar"
+],
+"id": "80450a2cb4",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Paycell",
@@ -5689,6 +6264,52 @@
 },
 {
 "kurum": "QNB",
+"kampanya": "Yeni müşteriye faizsiz 100.000 TL taksitli ek hesap",
+"tur": "faizsiz kredi",
+"fayda": "%0 faizli 100.000 TL'ye kadar taksitli ek hesap (tek seferlik, 3 ay)",
+"baslangic": null,
+"bitis": "2026-11-30",
+"kosul": "İşin Olsa ve Enuygun derlemelerinden; görüntülü görüşmeyle yeni müşteri, QNB Mobil'den Ek Hesap başvurusu onaylanmalı, müşteri olduktan sonra 30 gün içinde; bitiş tarihi haber özetinden.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.isinolsa.com/bankalarin-faizsiz-kredi-yarisinda-sartlar-degisti-150-bin-tl-detayi/",
+"oneCikan": false,
+"kaynak": "derleme",
+"id": "4a73af5915",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"cardfinans",
+"qnb",
+"qnb finansbank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "QNB",
+"kampanya": "QNB kredi kartına ilk kez başvurana faizsiz nakit avans (25.000 TL)",
+"tur": "faizsiz kredi",
+"fayda": "%0 faizli 25.000 TL'ye kadar taksitli nakit avans (3 ay, sigortalı seçimle; 500–25.000 TL)",
+"baslangic": null,
+"bitis": "2026-11-30",
+"kosul": "İşin Olsa ve Enuygun derlemelerinden; QNB Kredi Kartı/Xtra başvurusu (1–31 Ekim onaylıları, kullanım 30.11'e kadar); 1 Eylül 2025 öncesi açık QNB kartı olanlar hariç; GO, Trendyol, Fix, Miles&Smiles ve ticari kartlar hariç.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.isinolsa.com/bankalarin-faizsiz-kredi-yarisinda-sartlar-degisti-150-bin-tl-detayi/#qnb-kart-avans",
+"oneCikan": false,
+"kaynak": "derleme",
+"id": "9e8d5f8fd2",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"cardfinans",
+"qnb",
+"qnb finansbank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "QNB",
 "kampanya": "Yeni kredi kartına %0 taksitli nakit avans",
 "tur": "faizsiz taksit",
 "fayda": "25.000 TL'ye kadar 3 ay %0",
@@ -5905,6 +6526,31 @@
 "samsung"
 ],
 "eklenme": "2026-11-24"
+},
+{
+"kurum": "TEB",
+"kampanya": "Kasım e-ticaret nakit iadesi: 3.000 TL+ her harcamaya 250 TL (en fazla 500 TL)",
+"tur": "cashback",
+"fayda": "3.000 TL ve üzeri her tek e-ticaret harcamasına 250 TL; toplam en fazla 500 TL",
+"baslangic": "2026-11-09",
+"bitis": "2026-11-30",
+"kosul": "KartAvantaj derlemesinden; TEB bireysel BANKA kartları; ilk harcamadan önce CEPTETEB Mobil'de Hemen Katıl; sanal POS/internet harcamaları dahil, fiziki hariç; aynı gün aynı işyerinde yalnız ilk harcama; fatura, otomatik ödeme, sanal cüzdan yüklemesi, kredi/ticari/sanal kart hariç.",
+"teyitsiz": true,
+"uygunluk": "uygun",
+"link": "https://www.teb.com.tr/sizin-icin/debit-iade-e-ticaret/",
+"oneCikan": false,
+"kaynak": "derleme",
+"etiketler": [
+"eticaret"
+],
+"id": "bdab203288",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"cepteteb",
+"teb"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "TEB / CEPTETEB",
@@ -6125,7 +6771,9 @@
 "uygunlukMetni": "Kredi kartı gerekir",
 "alan": "sosyal",
 "ka": [
+"hadi",
 "tom bank",
+"tom bank hadi",
 "tom katilim"
 ],
 "eklenme": "2026-11-21"
@@ -6155,7 +6803,9 @@
 "uygunlukMetni": "Kredi kartı gerekir",
 "alan": "sosyal",
 "ka": [
+"hadi",
 "tom bank",
+"tom bank hadi",
 "tom katilim"
 ],
 "eklenme": "2026-11-25"
@@ -6257,6 +6907,27 @@
 ]
 },
 {
+"kurum": "Türkiye Finans",
+"kampanya": "TL Katılım Hesabı Tanışma Kampanyası (azami 90/10 kâr payı)",
+"tur": "diğer",
+"fayda": "TL katılım hesabında azami 90/10 kâr payı oranı; açılış 10.000–10.000.000 TL, vade 31–35 gün",
+"baslangic": "2025-12-31",
+"bitis": "2026-11-30",
+"kosul": "Son 3 ayda TL birikimi olmayan ve son 3 ay toplam TL mevduatı 10.000 TL altında olan bireysel müşteriler; açılış şube, Mobil veya İnternet Şube'den.",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://www.turkiyefinans.com.tr/tr-tr/kampanyalar/Sayfalar/katilim-hesabi-kampanyasi.aspx",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "4184863a69",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"turkiye finans"
+],
+"eklenme": "2026-11-26"
+},
+{
 "kurum": "Vakıf Katılım",
 "kampanya": "Fatura talimatına 1 ay tabii Premium",
 "tur": "ücretsiz hizmet",
@@ -6275,6 +6946,31 @@
 "ka": [
 "vakif katilim"
 ]
+},
+{
+"kurum": "VakıfBank",
+"kampanya": "Market harcamalarına Worldpuan: her 2.000 TL'ye 100 TL (en fazla 1.200 TL)",
+"tur": "puan",
+"fayda": "2.000 TL ve üzeri her 2.000 TL'lik alışverişe 100 TL Worldpuan (ilk alışveriş puan vermez); en fazla 1.200 TL",
+"baslangic": null,
+"bitis": "2026-11-30",
+"kosul": "İşin Olsa haberinden (15.11.2026); yalnız bireysel KREDİ kart, banka kartı ödül vermez; katılım VakıfBank Mobil Hemen Katıl ya da GIDA + kart son 6 hane yazıp 5724'e SMS.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.isinolsa.com/ziraat-vakifbank-ve-halkbankin-market-kampanyasinda-tam-odul-icin-kac-tl-harcamak-gerekiyor/",
+"oneCikan": false,
+"kaynak": "derleme",
+"etiketler": [
+"market"
+],
+"id": "065944b59e",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"vakifbank",
+"vakifkart"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "VakıfBank / Vakıfkart",
@@ -6428,6 +7124,111 @@
 },
 {
 "kurum": "Yapı Kredi",
+"kampanya": "Yapı Kredi kartıyla dizi-film platformlarında aylık ödediğin tutar kadar iade",
+"tur": "cashback",
+"fayda": "Aylık ödenen platform tutarı kadar iade (1 platform 200 TL, 2 platform 400 TL...); 3 ayda toplam 2.400 TL'ye kadar",
+"baslangic": null,
+"bitis": "2026-11-30",
+"kosul": "Cashbackverenler derlemesinden; Yapı Kredi KREDİ kartı, 50 TL ve üzeri ödeme; başvuru bitişi 30.11.2026; resmi sayfa okunamadı (robots).",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.yapikredi.com.tr/kampanyalar/detay/257116",
+"oneCikan": false,
+"kaynak": "derleme",
+"etiketler": [
+"abonelik"
+],
+"id": "93b326c6d3",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"world",
+"worldcard",
+"yapi kredi"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Yapı Kredi",
+"kampanya": "World'ün 35. yılına özel Jo Malone London'da 1.035 TL'ye varan Worldpuan",
+"tur": "puan",
+"fayda": "3.500 TL harcamaya 350 TL, 7.000 TL harcamaya 1.000 TL + 35 TL ek Worldpuan",
+"baslangic": "2026-11-07",
+"bitis": "2026-11-30",
+"kosul": "Worldcard sayfasındaki Öne Çıkan kenar listesinden; kart türü (kredi/banka) ve şartlar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.worldcard.com.tr/kampanyalar/worldun-35-yilina-ozel-jo-malone-londonda-1035-tlye-varan-worldpuan-kasim-2026",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"giyim"
+],
+"id": "46575f3830",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"world",
+"worldcard",
+"yapi kredi"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Yapı Kredi",
+"kampanya": "World'ün 35. yılına özel idefix'te 235 TL Worldpuan + 6 taksit",
+"tur": "puan",
+"fayda": "3.500 TL ve üzeri alışverişe 235 TL Worldpuan ve 6 taksit",
+"baslangic": null,
+"bitis": "2026-11-30",
+"kosul": "Worldcard sayfasındaki Öne Çıkan kenar listesinden; idefix web/mobil; kart türü ve şartlar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.worldcard.com.tr/kampanyalar/worldun-35-yilina-ozel-wwwidefixcomda-ve-idefix-mobil-uygulamasinda-235-tl-worldpuan-ustelik-6-taksi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"eticaret",
+"idefix"
+],
+"id": "3a84c9d12d",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"world",
+"worldcard",
+"yapi kredi"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Yapı Kredi",
+"kampanya": "World'ün 35. yılı çekilişi: her 350 TL harcamaya 1 hak",
+"tur": "çekiliş",
+"fayda": "Her 350 TL harcama için 1 çekiliş hakkı (Maserati Grecale GT, Alfa Romeo Tonale, iPhone 18 Pro, Apple Watch)",
+"baslangic": null,
+"bitis": "2026-11-30",
+"kosul": "Worldcard sayfasındaki Öne Çıkan kenar listesinden; kart türü ve katılım şartları okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.worldcard.com.tr/kampanyalar/worldun-35-yilina-ozel-maserati-grecale-alfa-romeo-tonale-iphone-18-pro-apple-watch-kazanma-sansi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"tum-harcamalar"
+],
+"id": "a191e3ede8",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"world",
+"worldcard",
+"yapi kredi"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Yapı Kredi",
 "kampanya": "Emekli promosyonu (Kasım 2026)",
 "tur": "emekli promosyonu",
 "fayda": "Nakit 6.250 / 10.000 / 12.500 / 15.000 TL (maaş kademesine göre); ek ödüllerle 30.000 TL'ye varan",
@@ -6465,32 +7266,6 @@
 "id": "fa38febed9",
 "uygunlukMetni": "Kredi kartı gerekir",
 "alan": "yatirim",
-"ka": [
-"world",
-"worldcard",
-"yapi kredi"
-],
-"eklenme": "2026-11-24"
-},
-{
-"kurum": "Yapı Kredi",
-"kampanya": "XPREMIUM: Yapı Kredi Mobil'den ilk kez müşteri olana X Premium yıllık paket iadesi",
-"tur": "yeni müşteri bonusu",
-"fayda": "X Premium yıllık paket bedeli kadar, en fazla 1.979,99 TL kredi kartına iade (paket bedava olur)",
-"baslangic": "2026-11-01",
-"bitis": "2026-11-30",
-"kosul": "Yapı Kredi Mobil'den ilk kez müşteri olurken Referans Kodu alanına XPREMIUM yaz, bireysel kredi kartı onaylatıp X Premium yıllık paketi 30 Kasım'a kadar bu kartla al. İade 10.12.2026'ya kadar karta yüklenir. Banka kartı geçmez.",
-"teyitsiz": false,
-"uygunluk": "kredi-karti",
-"link": "https://www.yapikredi.com.tr/kampanyalar/detay/257004",
-"oneCikan": false,
-"kaynak": "resmi",
-"etiketler": [
-"abonelik"
-],
-"id": "93a24e5b10",
-"uygunlukMetni": "Kredi kartı gerekir",
-"alan": "ekgelir",
 "ka": [
 "world",
 "worldcard",
@@ -6981,6 +7756,32 @@
 },
 {
 "kurum": "Ziraat Bankası",
+"kampanya": "Bankkart ile market alışverişlerine toplam 1.500 TL Jest Lira",
+"tur": "puan",
+"fayda": "2.500 TL ve üzeri tek seferde alışverişe 100 TL Jest Lira; en fazla 1.500 TL (15 alışveriş)",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "İşin Olsa haberinden (15.11.2026); yalnız bireysel Bankkart KREDİ kartı (Jest, Prestij, Prestij Plus, Genç; Başak/Business/Jest Ücretsiz hariç), banka kartı ödül vermez; internet alışverişi hariç; katılım alışverişten önce Bankkart Mobil, bankkart.com.tr veya MARKET1500 yazıp 4757'ye SMS.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/market-alisverislerinize-toplam-1500-tl-jest-lira",
+"oneCikan": false,
+"kaynak": "derleme",
+"etiketler": [
+"market"
+],
+"id": "dc29548968",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"bankkart",
+"ziraat bankasi",
+"ziraat bankasi bankkart"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "Ziraat Bankası",
 "kampanya": "Bankkart kredi kartıyla tüm marketlerde her 2.500 TL'ye 100 TL Jest Lira",
 "tur": "puan",
 "fayda": "2.500 TL+ her market alışverişine 100 TL; toplam 1.500 TL Jest Lira",
@@ -7120,28 +7921,6 @@
 "ziraat bankasi bankkart"
 ],
 "eklenme": "2026-11-25"
-},
-{
-"kurum": "Ziraat Bankası",
-"kampanya": "A101'de 1.500 TL Jest Lira",
-"tur": "puan",
-"fayda": "2.500 TL+ her alışverişe 125 TL, toplam 1.500 TL",
-"baslangic": "2026-11-01",
-"bitis": "2026-11-30",
-"kosul": "Bankkart Mobil'den önceden katıl; yalnızca kredi kartı, banka kartı geçmez",
-"teyitsiz": false,
-"uygunluk": "kredi-karti",
-"uygunlukMetni": "Kredi kartı gerekir",
-"link": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/a101-marketlerde-1500-tl-jest-lira",
-"oneCikan": false,
-"id": "2c6e3e1901",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
-"ka": [
-"bankkart",
-"ziraat bankasi",
-"ziraat bankasi bankkart"
-]
 },
 {
 "kurum": "Ziraat Bankası",
@@ -7387,6 +8166,30 @@
 ]
 },
 {
+"kurum": "Ziraat Katılım",
+"kampanya": "TROY banka kartıyla market alışverişine 500 TL iade",
+"tur": "cashback",
+"fayda": "2.500 TL ve üzeri tek seferde market harcamasına 500 TL iade (kişi başı en fazla 500 TL); iade 21.12.2026",
+"baslangic": "2026-11-17",
+"bitis": "2026-12-07",
+"kosul": "DonanımHaber forumundaki Ziraat Katılım konusunun özetinden (resmi sayfa okunamadı): BANKA kartıyla geçerli; önceden katılım gerekli (Ziraat Katılım Mobil/web/İnternet Şube); e-ticaret hariç; yalnız asıl kart sahipleri.",
+"teyitsiz": true,
+"uygunluk": "uygun",
+"link": "https://forum.donanimhaber.com/ziraat-katilim-bankkart-troy-kart-google-play-kampanyasi--161944250",
+"oneCikan": false,
+"kaynak": "forum",
+"etiketler": [
+"market"
+],
+"id": "1db727332f",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"ziraat katilim"
+],
+"eklenme": "2026-11-26"
+},
+{
 "kurum": "THY",
 "kampanya": "Öğrencilere %15'e varan indirim",
 "tur": "indirim",
@@ -7484,6 +8287,33 @@
 "binance turkey kripto varlik alim satim platformu as"
 ],
 "eklenme": "2026-11-25"
+},
+{
+"kurum": "Akbank",
+"kampanya": "Wings Mil-Puan: 75.000 TL harcamaya 750.000 Mil Puan",
+"tur": "puan",
+"fayda": "İlk kez Wings asıl kart alıp 75.000 TL harcayana 750.000 Mil Puan (yurt dışı ~15.000 TL, yurt içi ~7.500 TL uçak bileti değeri); ilk yıl kart ücreti yok",
+"baslangic": "2026-11-01",
+"bitis": "2026-12-15",
+"kosul": "Akbank bireysel kredi kartı olmayanlar; başvuru onayı son günü 30.11.2026, harcama/katılım son günü 15.12.2026; harcamadan önce Juzdan'dan Hemen Katıl veya MILKAZAN yazıp 4566'ya SMS; nakit çekim, transfer, fatura/vergi ödemesi hariç.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.akbank.com/kampanyalar/wings-mil-puan-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"seyahat"
+],
+"id": "e6c1969b85",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"akbank",
+"akbank axess",
+"axess",
+"wings"
+],
+"eklenme": "2026-11-16"
 },
 {
 "kurum": "Qumpara",
@@ -7654,6 +8484,68 @@
 },
 {
 "kurum": "Akbank",
+"kampanya": "Üniversiteli Akbanklı: dijital platform üyeliklerinde %50 iade",
+"tur": "cashback",
+"fayda": "Netflix, Spotify, YouTube Premium, Disney+, BluTV, Gain, tabii gibi platform ödemelerinde %50 iade; aylık en fazla 100 TL, toplam 100 TL'ye kadar",
+"baslangic": null,
+"bitis": "2026-12-31",
+"kosul": "18–26 yaş öğrenciler; Akbank Mobil'de Üniversiteli Akbanklı'ya Katıl gerekir; Axess, Wings, Axess Öğrenci ve Akbank kartları (ticari hariç); kişi başı ayda bir; chip-para ve uygulama mağazası ödemeleri hariç; iade ertesi ayın ilk 10 iş gününde.",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://www.akbank.com/kampanyalar/dijital-platform-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"abonelik",
+"blutv",
+"disney",
+"gain",
+"netflix",
+"spotify",
+"tabii",
+"youtube"
+],
+"id": "57c0e8b1aa",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"akbank",
+"akbank axess",
+"axess",
+"wings"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Akbank",
+"kampanya": "Üniversiteli Akbanklılara KYK yurt ödemelerinde %50 iade",
+"tur": "cashback",
+"fayda": "KYK yurt ödemelerinde %50 iade (başlıktan)",
+"baslangic": null,
+"bitis": "2026-12-31",
+"kosul": "Akbank liste sayfasından (bitiş 31.12.2026); detay okunmadı; Üniversiteli Akbanklı programı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.akbank.com/kampanyalar",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"egitim",
+"kira"
+],
+"id": "b1bae1921b",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"akbank",
+"akbank axess",
+"axess",
+"wings"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Akbank",
 "kampanya": "Netflix ve dijital platform üyeliklerine %50 iade",
 "tur": "cashback",
 "fayda": "%50, en fazla 100 TL",
@@ -7778,25 +8670,97 @@
 },
 {
 "kurum": "Albaraka",
-"kampanya": "Yakınını Davet Et",
+"kampanya": "Yakınını Davet Et: davet eden ve edilene 500'er TL Worldpuan",
 "tur": "arkadaşını getir",
-"fayda": "Davetli başına 500 TL Worldpuan, en fazla 10 kişi = 5.000 TL; davetli de 500 TL Worldpuan alır",
+"fayda": "Her başarılı davet için ikisine de 500 TL Worldpuan; toplam en fazla 5.000 TL (10 davet)",
 "baslangic": "2024-04-14",
 "bitis": "2026-12-31",
-"kosul": "Albaraka Mobil > Profil ve Ayarlar > 'Yakınını Davet Et'ten kodu paylaş. Davet edenin kampanya süresince aktif World markalı KREDİ KARTI olmalı. Davetli 18+ ve Albaraka müşterisi olmamalı; görüntülü görüşmeyle müşteri olmalı, kodu müşteri olduktan sonra 10 gün içinde ve en geç 31.12.2026'ya kadar girmeli.",
+"kosul": "Davet edilen: daha önce Albaraka müşterisi olmamış, 18 yaş üstü, Albaraka Mobil'de görüntülü görüşmeyle müşteri olmalı (diğer kanallar ödül dışı). Davet eden: World özellikli aktif KREDİ kartı. Kod müşteri olunca 10 gün içinde girilir; min. harcama yok.",
 "teyitsiz": false,
-"uygunluk": "kredi-karti",
+"uygunluk": "uygun",
 "link": "https://www.albaraka.com.tr/tr/kampanyalar/detay/yakinini-davet-et-kampanyasi",
 "oneCikan": false,
 "kaynak": "resmi",
-"id": "37256f0518",
-"uygunlukMetni": "Kredi kartı gerekir",
-"alan": "ekgelir",
+"id": "455cebffd0",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
 "ka": [
 "albaraka",
 "albaraka turk"
 ],
 "eklenme": "2026-11-16"
+},
+{
+"kurum": "Albaraka",
+"kampanya": "Dijital müşterilere özel Pratik Finansman Kart (hoş geldin finansmanı)",
+"tur": "diğer",
+"fayda": "250–40.000 TL arası aylık %1,99 kâr oranı, 3 ay ödemesiz + 3 taksit; 40.001–125.000 TL arası farklı oranlar (kâr payı oranlı, faizsiz değil)",
+"baslangic": null,
+"bitis": "2026-12-31",
+"kosul": "Albaraka Mobil'den görüntülü görüşmeyle ilk kez müşteri olanlar; 25 yaş ve üstü, gelir şartı; kişi başı 1 kez; şubeden müşteri olanlar hariç. Sayfa başlığında başlangıç 09.09.2026, gövde metninde 01.01.2026: tarihler çelişiyor.",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.albaraka.com.tr/tr/kampanyalar/detay/dijital-musterilere-ozel-pratik-finansman-kart",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "22aabf8fe0",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"albaraka",
+"albaraka turk"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Albaraka",
+"kampanya": "HGS talimatı verene 500 TL Worldpuan",
+"tur": "puan",
+"fayda": "HGS talimatı verene 500 TL Worldpuan (başlıktan)",
+"baslangic": null,
+"bitis": "2026-12-31",
+"kosul": "Resmi liste sayfasında 'son gün 31 Aralık' yazıyor, yıl belirtilmemiş (2026 varsayıldı); detay sayfası okunamadı; World kredi kartı gerekebilir.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.albaraka.com.tr/en/campaigns/detail/earn-500-tl-worldpoints-with-your-hgs-instruction",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"ulasim"
+],
+"id": "dbbd25eca4",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"albaraka",
+"albaraka turk"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Albaraka",
+"kampanya": "Albaraka müşterilerine özel ücretsiz İSPARK kampanyası",
+"tur": "ücretsiz hizmet",
+"fayda": "İSPARK otopark ödemelerinde ücretsiz/avantajlı kullanım (ayrıntı okunamadı)",
+"baslangic": null,
+"bitis": "2026-12-31",
+"kosul": "Resmi liste sayfasında 'son gün 31 Aralık' yazıyor, yıl belirtilmemiş (2026 varsayıldı); detay sayfası okunamadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.albaraka.com.tr/en/campaigns/detail/special-free-ispark-campaign-for-albaraka-customers",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"ulasim"
+],
+"id": "23774a5e90",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"albaraka",
+"albaraka turk"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Albaraka",
@@ -7902,6 +8866,27 @@
 "allianz"
 ],
 "eklenme": "2026-11-21"
+},
+{
+"kurum": "Alternatif Bank",
+"kampanya": "VOV Kart ile her ay 500 TL cebinizde",
+"tur": "diğer",
+"fayda": "Her ay 500 TL (başlıktan)",
+"baslangic": "2026-11-01",
+"bitis": "2026-12-31",
+"kosul": "Resmi liste sayfası başlığı; VOV Kart (kart türü ve koşullar okunmadı).",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.alternatifbank.com.tr/kampanyalar/vov-kart-ile-her-ay-500-tl-cebinizde",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "9fe3d9963f",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"alternatif bank"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Alternatif Menkul",
@@ -8250,6 +9235,27 @@
 },
 {
 "kurum": "Dünya Katılım",
+"kampanya": "Yeni müşterilere altına altın hediye (fiziki altın siparişi)",
+"tur": "yeni müşteri bonusu",
+"fayda": "Fiziki altın siparişine hediye altın: 1 gr için 0,10 gr, çeyrek 0,17 gr, yarım/2,5 gr 0,20 gr, tam ve bilezik 0,25 gr; kişi başı en fazla 0,25 gr",
+"baslangic": "2026-09-01",
+"bitis": "2026-12-31",
+"kosul": "Dünya Katılım'a yeni müşteri olan gerçek kişiler; Mobil veya İnternet Şube'den fiziki altın siparişi; hediye altın teslimattan sonra Altın Kesem'e geçer.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://dunyakatilim.com.tr/kampanyalar/altina-altin",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "689ba29bf5",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"dunya katilim"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "Dünya Katılım",
 "kampanya": "Birikimlerinize Güneş Açsın (Güneş Katılma Hesabı)",
 "tur": "hoş geldin faizi",
 "fayda": "İlk Güneş hesabına 30 gün yüksek kar payı",
@@ -8267,6 +9273,155 @@
 "ka": [
 "dunya katilim"
 ]
+},
+{
+"kurum": "Enpara",
+"kampanya": "Netflix, Spotify ve YouTube Premium harcamalarının %50'si Enpara'dan",
+"tur": "cashback",
+"fayda": "Aylık 300 TL'ye kadar platform harcamasının %50'si; aylık en fazla 150 TL, toplam 1.650 TL",
+"baslangic": "2026-02-01",
+"bitis": "2026-12-31",
+"kosul": "Enpara KREDİ kartı (sanal dahil); Ayın Enparalısı olmak yeterli; platformların web/mobil kanalları; telekom faturalandırma hariç; yeni müşteri/katıl şartı belirtilmemiş.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.enpara.com/kampanyalar/netflix-spotify-youtube-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"abonelik",
+"netflix",
+"spotify",
+"youtube"
+],
+"id": "b9146ded4a",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"enpara"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "Enpara",
+"kampanya": "Oyun harcamalarında (PlayStation, Steam, Epic, Xbox) 150 TL iade",
+"tur": "cashback",
+"fayda": "Ayda tek seferde 750 TL ve üzeri ilk harcamada 150 TL iade; aylık en fazla 150 TL, toplam 1.650 TL",
+"baslangic": "2026-02-01",
+"bitis": "2026-12-31",
+"kosul": "Enpara KREDİ kartı (sanal dahil); PlayStation Store, Steam, Epic Games, Microsoft Store (Xbox) web/mobil; telekom faturalandırma hariç; Ayın Enparalısı.",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://www.enpara.com/kampanyalar/oyun-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"eglence",
+"microsoft",
+"playstation",
+"steam"
+],
+"id": "fe30045a57",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"enpara"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Enpara",
+"kampanya": "Trendyol Plus üyelik ücreti Enpara'dan",
+"tur": "cashback",
+"fayda": "Trendyol Plus üyelik ücreti iadesi (oran/üst sınır sayfada belirtilmemiş)",
+"baslangic": "2026-10-01",
+"bitis": "2026-12-31",
+"kosul": "Enpara KREDİ kartı (sanal dahil); Ayın Enparalısı; yalnız üyelik ücreti ödemesi; iade ertesi ayın 7'sinde Vadesiz TL'ye.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.enpara.com/kampanyalar/trendyol-plus-uyelik-ucretiniz-bizden",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"abonelik",
+"trendyol"
+],
+"id": "61d794c925",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"enpara"
+],
+"eklenme": "2026-11-25"
+},
+{
+"kurum": "Enpara",
+"kampanya": "Yurt dışı çıkış harcının %20'si Enpara'dan (en fazla 250 TL/ay)",
+"tur": "cashback",
+"fayda": "Ayın ilk yurt dışı çıkış harcı ödemesinin %20'si; aylık en fazla 250 TL, toplam 2.750 TL",
+"baslangic": "2026-02-01",
+"bitis": "2026-12-31",
+"kosul": "Enpara KREDİ kartı; yalnız Cep Şubesi üzerinden ödemeler; Ayın Enparalısı.",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://www.enpara.com/kampanyalar/yurt-disi-cikis-harci-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"seyahat"
+],
+"id": "cf7ca1bba3",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"enpara"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Enpara",
+"kampanya": "Kitapyurdu alışverişinde 250 TL iade + 1 hediye kitap",
+"tur": "cashback",
+"fayda": "Tek seferde 750 TL+ ilk alışverişte 250 TL iade ve 1 kitap; aylık 250 TL ve 1 kitap, toplam 2.750 TL ve 6 kitap",
+"baslangic": "2026-02-01",
+"bitis": "2026-12-31",
+"kosul": "Enpara KREDİ kartı veya Encard (sanal dahil); Kitapyurdu web/mobil; EFT/havale ve kapıda ödeme hariç; Ayın Enparalısı.",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://www.enpara.com/kampanyalar/kitapyurdu-alisveris-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"eticaret",
+"kitapyurdu"
+],
+"id": "409d3c0967",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"enpara"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Enpara",
+"kampanya": "Faizsiz taksitli nakit avans: 25.000 TL'ye kadar (3 ay üst üste Ayın Enparalısı)",
+"tur": "faizsiz kredi",
+"fayda": "%0 faizli 25.000 TL'ye kadar taksitli nakit avans; kampanya boyunca en fazla 3 kez",
+"baslangic": "2026-02-01",
+"bitis": "2026-12-31",
+"kosul": "Enpara KREDİ kartı (açık, gecikmiş borç yok); 3 ay üst üste Ayın Enparalısı; 4. ayın 25'inde hak tanımlanır, o gün kullanılmazsa kaybolur.",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://www.enpara.com/kampanyalar/tna-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "4adca518bb",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"enpara"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Enpara",
@@ -8294,31 +9449,6 @@
 "enpara"
 ],
 "eklenme": "2026-11-21"
-},
-{
-"kurum": "Enpara",
-"kampanya": "Enpara kredi kartıyla Trendyol Plus üyelik ücreti iadesi",
-"tur": "cashback",
-"fayda": "Trendyol Plus aylık üyelik ücreti (75 TL) iade",
-"baslangic": "2026-10-01",
-"bitis": "2026-12-31",
-"kosul": "Enpara kredi kartı ya da sanal kartla ödeme; ödeme ayının sonuna kadar 'Ayın Enparalısı' olmak; iade ertesi ayın 7'sinde vadesiz hesaba; 1 TL'lik ilk tahsilat hariç. Kaynak: Kart Avantaj Kasım 2026 rehberi",
-"teyitsiz": true,
-"uygunluk": "kredi-karti",
-"link": "https://kartavantaj.com/kampanya/trendyol-plus-uyelik-ucreti-iadesi-kampanyasi",
-"kaynak": "derleme",
-"etiketler": [
-"abonelik",
-"trendyol"
-],
-"oneCikan": false,
-"id": "7c394f02b4",
-"uygunlukMetni": "Kredi kartı gerekir",
-"alan": "sosyal",
-"ka": [
-"enpara"
-],
-"eklenme": "2026-11-25"
 },
 {
 "kurum": "Enpara",
@@ -8451,6 +9581,29 @@
 "fibabanka"
 ],
 "eklenme": "2026-11-25"
+},
+{
+"kurum": "Garanti BBVA",
+"kampanya": "Müşteri Ol Yılbaşı Çekilişi: Mercedes, BMW motosiklet, iPhone, PS5",
+"tur": "çekiliş",
+"fayda": "42 ikramiye (Mercedes-Benz CLA, BMW CE 04, 10 iPhone Duo, 10 iPhone 18 Pro, 20 PS5); çekiliş 22.01.2027",
+"baslangic": "2026-11-01",
+"bitis": "2026-12-31",
+"kosul": "Yalnız Garanti BBVA Mobil'den ilk kez bireysel müşteri olanlar; Profil ve Ayarlar > Promosyon Kodu Gir: ODUL2027; müşteri başına 1 hak.",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.garantibbva.com.tr/kampanyalar/musteri-ol-cekilis-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "cdf1ed0aa2",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"bonus",
+"garanti",
+"garanti bbva"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Garanti BBVA",
@@ -8618,6 +9771,27 @@
 "eklenme": "2026-11-25"
 },
 {
+"kurum": "Hayat Finans",
+"kampanya": "Döviz, altın ve gümüş işlemlerinde dar makas + %0,1 Hayat Pay iadesi",
+"tur": "komisyon indirimi",
+"fayda": "Dar makas: döviz %0,3, altın %0,7, gümüş %0,8; ayrıca işlem hacminin %0,1'i Hayat Pay cüzdanına iade (ayda en fazla 200 TL)",
+"baslangic": "2026-09-18",
+"bitis": "2026-12-31",
+"kosul": "Tüm bireysel müşteriler, ek başvuru yok; dar makas yalnızca mesai saatlerinde.",
+"teyitsiz": false,
+"uygunluk": "uygun",
+"link": "https://hayatfinans.com.tr/kampanyalar/doviz-islemlerinde-ekstra-avantaj",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "e895866012",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"hayat finans"
+],
+"eklenme": "2026-11-26"
+},
+{
 "kurum": "Hopi",
 "kampanya": "KazandıRio'da kodu gir, Paracık çarkını çevir (100 veya 500 Paracık)",
 "tur": "puan",
@@ -8644,6 +9818,51 @@
 },
 {
 "kurum": "HSBC",
+"kampanya": "JACK&JONES mağazalarında HSBC Premier kartla 500 TL NakitPuan",
+"tur": "puan",
+"fayda": "İlk alışverişte (min. 5.000 TL) 500 TL NakitPuan",
+"baslangic": "2026-11-20",
+"bitis": "2026-12-31",
+"kosul": "Resmi liste özeti; HSBC Premier KREDİ kartları.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.hsbc.com.tr/kartlar-ve-krediler/kampanyalar/guncel-kampanyalar/jackvejones-magazalarinda-500-tl-degerinde-nakitpuan",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"giyim"
+],
+"id": "839f0fdc63",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"hsbc"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "HSBC",
+"kampanya": "HSBC Premier'e Davet Et Kazan",
+"tur": "arkadaşını getir",
+"fayda": "Davet eden ve davet edilene Premier Miles puan (miktar okunamadı)",
+"baslangic": null,
+"bitis": "2026-12-31",
+"kosul": "Resmi liste özeti; HSBC Premier müşteri kriterleri gerekir; yeni müşteri/kart ayrıntıları okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.hsbc.com.tr/kartlar-ve-krediler/kampanyalar/guncel-kampanyalar/hsbc-premiere-davet-et-kazan",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "d0a31509d1",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"hsbc"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "HSBC",
 "kampanya": "Premier referans kampanyası: davetle Premier müşterisi olana Premier Miles puan",
 "tur": "arkadaşını getir",
 "fayda": "Davet edilene Premier Miles kredi kartı onaylanırsa 2.500 puan (10 milyon TL+ varlıkta 5.000); davet edene kişi başı 2.500–10.000 puan, en fazla 50.000",
@@ -8662,6 +9881,31 @@
 "hsbc"
 ],
 "eklenme": "2026-11-24"
+},
+{
+"kurum": "ING",
+"kampanya": "Kredi kartı harcamalarına faizsiz, masrafsız taksit (kamu, sağlık, eğitim, sigorta)",
+"tur": "faizsiz taksit",
+"fayda": "Ekstre başına 3.000–10.000 TL arası 3 harcamayı faizsiz ve masrafsız taksitlendirme; aylık toplam 30.000 TL'ye kadar",
+"baslangic": null,
+"bitis": "2026-12-31",
+"kosul": "ING KREDİ kartı (Pegasus BolBol, Classic, Premium, Bonus, Light; Bonus Business hariç); bireysel müşteri; kalan hak ekstreler arası devretmez.",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://www.ing.com.tr/tr/sizin-icin/kampanyalar/kktaksit",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"egitim",
+"saglik"
+],
+"id": "dc263de167",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"ing"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "İş Bankası",
@@ -8738,24 +9982,115 @@
 },
 {
 "kurum": "Kuveyt Türk",
-"kampanya": "Mobil'den Pratik BES'e 2.000 TL",
-"tur": "cashback",
-"fayda": "2.000 TL nakit iade (bir kez)",
-"baslangic": "2025-11-05",
+"kampanya": "Mobilden müşteri olana toplam 6.000 TL hediye",
+"tur": "yeni müşteri bonusu",
+"fayda": "Toplam 6.000 TL hediye (kampanya başlığı ve tarih aralığı resmi liste sayfasından)",
+"baslangic": "2024-02-01",
 "bitis": "2026-12-31",
-"kosul": "Katılım Emeklilik Pratik Emeklilik Planı; 01.01.2026 sonrası Kuveyt Türk Mobil'den müşteri olmuş olmak (yeni banka müşterisi); Mobil'den Pratik Emeklilik Planı (Katılım Emeklilik) kurmak; aylık en az 2.000 TL; ödeme Kuveyt Türk bireysel kredi kartıyla",
-"teyitsiz": false,
-"uygunluk": "kredi-karti",
-"link": "https://www.kuveytturk.com.tr/en/campaigns/campaign-individual/become-a-customer-campaign/try-2000-gift-for-your-pratik-bes-plan-via-kuveyt-turk-mobilee",
+"kosul": "Kuveyt Türk Mobil'den müşteri olanlara. Hediyenin dağılımı ve harcama/ürün şartları detay sayfasında; sayfa okunamadı. Forum ipucu (DonanımHaber, 2025 tarihli, doğrulanmadı): müşteri olduktan sonra banka (debit) kartıyla yapılan harcamalar ödül için sayılıyor; ödül gelmezse fiziki kartla market alışverişi öneriliyor.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.kuveytturk.com.tr/en/campaigns/campaign-individual/become-a-customer-campaign/total-of-try-6000-gift-for-those-who-become-kuveyt-turk-customers-via-mobile",
 "oneCikan": false,
 "kaynak": "resmi",
-"id": "0a872542ee",
-"uygunlukMetni": "Kredi kartı gerekir",
-"alan": "yatirim",
+"id": "e19ed4d896",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
 "ka": [
 "kuveyt turk"
 ],
-"eklenme": "2026-11-16"
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Kuveyt Türk",
+"kampanya": "Kuveyt Türk Campus'a katılana toplam 7.250 TL ödül",
+"tur": "yeni müşteri bonusu",
+"fayda": "Toplam 7.250 TL ödül (referans kodu, kart harcaması ve ilk e-ticaret alışverişi alt kampanyalarıyla)",
+"baslangic": "2025-06-23",
+"bitis": "2026-12-31",
+"kosul": "Campus (öğrenci/genç) programına katılanlara; ayrıntılı şartlar detay sayfasında, sayfa okunamadı.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.kuveytturk.com.tr/en/campaigns/campaign-individual/become-a-customer-campaign/a-total-of-try-7250-in-rewards-for-those-joining-kuveyt-turk-campus",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "f6faf45903",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"kuveyt turk"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Kuveyt Türk",
+"kampanya": "Miles&Smiles Kuveyt Türk kartıyla yurt dışı restoranda %15 indirim",
+"tur": "indirim",
+"fayda": "%15 indirim/iade; kart başına ayda en fazla 23 USD",
+"baslangic": "2026-01-01",
+"bitis": "2026-12-31",
+"kosul": "Miles&Smiles Kuveyt Türk KREDİ kartı; kartın sayfadaki bağlantıdan kaydedilmesi gerekir; tek işlemde en az 150 USD yurt dışı restoran/kafe harcaması; KKTC ve GKRY hariç.",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://www.kuveytturk.com.tr/en/campaigns/campaign-individual/card-campaign/get-15-off-your-restaurant-expenses-abroad-with-kuveyt-turk",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"seyahat",
+"yeme"
+],
+"id": "ada941b1d4",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"kuveyt turk"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Kuveyt Türk",
+"kampanya": "Eğitim harcamalarında 5 taksit imkânı",
+"tur": "diğer",
+"fayda": "Eğitim harcamalarında 5 taksit (faizsiz olup olmadığı liste sayfasında belirtilmemiş)",
+"baslangic": "2024-02-12",
+"bitis": "2026-12-31",
+"kosul": "Kuveyt Türk kartıyla (kart türü varsayım: kredi kartı); detay sayfası okunamadı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.kuveytturk.com.tr/en/campaigns/campaign-individual/card-campaign/5-installment-opportunity-for-your-education-expenses",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"egitim"
+],
+"id": "b14fa9a8c7",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"kuveyt turk"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Kuveyt Türk",
+"kampanya": "Yeni üyelere İhtiyaç Kartı'nda %1,99 kâr payı oranlı finansman",
+"tur": "diğer",
+"fayda": "100.000 TL'ye kadar %1,99 oranlı finansman, 2 ay erteleme, 12 aya kadar taksit (kâr payı oranlı; faizsiz değil)",
+"baslangic": "2025-10-22",
+"bitis": "2026-12-31",
+"kosul": "Sayfada 'yeni üyeler' ifadesi var; detay sayfası okunamadı, koşullar doğrulanmadı.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.kuveytturk.com.tr/en/campaigns/campaign-individual/financing-campaign/special-199-rate-opportunity-on-ihtiyac-card-for-new-members",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "5ef7dca03f",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"kuveyt turk"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Kuveyt Türk",
@@ -9027,24 +10362,45 @@
 "eklenme": "2026-11-23"
 },
 {
-"kurum": "ON Dijital",
-"kampanya": "Otomatik fatura talimatına %50 iade",
-"tur": "cashback",
-"fayda": "%50 (üst limit kaynakta yok)",
-"baslangic": null,
+"kurum": "Odeabank",
+"kampanya": "Arkadaşını davet et: davetli başına 2.500 TL nakit (en fazla 37.500 TL)",
+"tur": "arkadaşını getir",
+"fayda": "Davet edilen kişi başına 2.500 TL nakit; en fazla 15 kişi, toplam 37.500 TL",
+"baslangic": "2026-01-01",
 "bitis": "2026-12-31",
-"kosul": "Otomatik fatura ödeme talimatı; üst limit ve kart koşulu okunamadı. Resmi sayfa on.com.tr/kampanyalar/otomatik-fatura-talimati-kampanyasi. Kaynak: cashbackverenler.com",
+"kosul": "Davetli yeni müşteri olmalı, kodu müşteri olduktan en fazla 30 gün içinde Odea Mobil'de girmeli; ödül için davetlinin 30 gün ortalama ve 30. gün sonunda 100.000 TL varlık bakiyesi tutması gerekir; kart şartı yok.",
+"teyitsiz": false,
+"uygunluk": "uygun",
+"link": "https://www.odeabank.com.tr/kampanyalar/yakinini-odeaya-davet-et-kampanyasi-26791",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "8ccc72293e",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"odeabank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "Otomatik fatura talimatlarında %50 nakit iade (fatura başı en fazla 100 TL)",
+"tur": "cashback",
+"fayda": "%50 nakit iade; fatura başına en fazla 100 TL, aylık en fazla 3 talimat için 300 TL",
+"baslangic": "2026-01-22",
+"bitis": "2026-12-31",
+"kosul": "ON Dijital'de Hemen Katıl ile katılım zorunlu; talimat ON vadesiz hesaptan (kart değil) verilmeli; 'ON Dijital'in belirlediği kitle' (yeni müşteri şartı yok); mevcut talimatlar kapsam dışı; ödeme gününde bakiye yetersizse veya fatura talimat tarihinden önce ödenirse iade yok.",
 "teyitsiz": true,
 "uygunluk": "kontrol",
-"link": "https://www.cashbackverenler.com/",
+"link": "https://on.com.tr/kampanyalar/otomatik-fatura-talimati-kampanyasi",
 "oneCikan": false,
-"kaynak": "derleme",
+"kaynak": "resmi",
 "etiketler": [
 "fatura"
 ],
-"id": "357ee2a793",
+"id": "9f2b2a91e3",
 "uygunlukMetni": "Kontrol et",
-"alan": "sosyal",
+"alan": "bankalar",
 "ka": [
 "on dijital",
 "on dijital bankacilik"
@@ -9053,24 +10409,105 @@
 },
 {
 "kurum": "ON Dijital",
-"kampanya": "Dijital üyeliklerde %50 iade",
+"kampanya": "Dijital üyelik ödemelerinde %50 iade (aylık 250 TL'ye kadar)",
 "tur": "cashback",
-"fayda": "Netflix, Spotify, YouTube, Prime, Disney+; aylık 250 TL, toplam 2.000 TL",
+"fayda": "%50 iade; aylık en fazla 250 TL, yıllık 2.000 TL",
 "baslangic": null,
 "bitis": "2026-12-31",
-"kosul": "Banka kartı/sanal kart geçerli",
+"kosul": "ON liste sayfası ve Cashbackverenler derlemesi; ON kartlarıyla ödeme (kart türü okunmadı).",
 "teyitsiz": true,
-"uygunluk": "uygun",
-"uygunlukMetni": "Uygun",
-"link": "https://www.enuygunfinans.com/kampanyalar/kredi-karti/dijital-uyeliklerde-50-iade-onda/",
+"uygunluk": "kontrol",
+"link": "https://on.com.tr/dijital-uyeliklerde-50-iade-onda",
 "oneCikan": false,
-"id": "73d119d7eb",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
+"kaynak": "resmi",
+"etiketler": [
+"abonelik"
+],
+"id": "cf1d58327b",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
 "ka": [
 "on dijital",
 "on dijital bankacilik"
-]
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON Kredi Kartı ile otomatik fatura ödemede 150 TL'ye varan iade",
+"tur": "cashback",
+"fayda": "150 TL'ye varan iade",
+"baslangic": null,
+"bitis": "2026-12-31",
+"kosul": "ON liste sayfası özeti; ON Kredi Kartı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://on.com.tr/on-kredi-karti-otomatik-fatura-odeme-kampanyasi-2921",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"fatura"
+],
+"id": "304c899d4b",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON Dijital trafik sigortası kampanyası: 500 TL yakıt hediye",
+"tur": "diğer",
+"fayda": "Petrol Ofisi'nden 500 TL değerinde depo yakıt",
+"baslangic": "2026-07-01",
+"bitis": "2026-12-31",
+"kosul": "ON Dijital (Burgan Bank) üzerinden trafik sigortası yaptıranlar; kart türü ve SMS şartı belirtilmemiş; detay okunmadı.",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://on.com.tr/kampanyalar/trafik-sigortasi-akaryakit-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"akaryakit",
+"po"
+],
+"id": "ceb232c1aa",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON Dijital kasko kampanyası: Petrol Ofisi'nden 2.500 TL değerinde depo yakıtı",
+"tur": "diğer",
+"fayda": "Petrol Ofisi'nden 2.500 TL değerinde depo yakıt",
+"baslangic": "2026-07-01",
+"bitis": "2026-12-31",
+"kosul": "ON Dijital (Burgan Bank) üzerinden kasko yaptıranlar; kart türü ve SMS şartı belirtilmemiş; detay okunmadı.",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://on.com.tr/kasko-akaryakit-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"akaryakit",
+"po"
+],
+"id": "52314e0d69",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Paribu",
@@ -9466,6 +10903,31 @@
 "eklenme": "2026-11-24"
 },
 {
+"kurum": "TEB",
+"kampanya": "CEPTETEB dijital platform üyeliklerinde %50 bonus (aylık 300 TL)",
+"tur": "cashback",
+"fayda": "Dijital platform üyelik ödemelerinde %50 bonus; aylık 300 TL'ye kadar",
+"baslangic": null,
+"bitis": "2026-12-31",
+"kosul": "Cashbackverenler derlemesinden; CEPTETEB kartı (kart türü okunmadı); resmi sayfa okunamadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.cepteteb.com.tr/kampanyalar/cepteteb-kampanyalari/dijital-uyelik",
+"oneCikan": false,
+"kaynak": "derleme",
+"etiketler": [
+"abonelik"
+],
+"id": "74f0b98cf9",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"cepteteb",
+"teb"
+],
+"eklenme": "2026-11-26"
+},
+{
 "kurum": "TEB / CEPTETEB",
 "kampanya": "Netflix, Spotify, YouTube Premium, ChatGPT, Gain, Exxen, BluTV ödemelerine %50 bonus",
 "tur": "puan",
@@ -9680,6 +11142,73 @@
 "turkcell"
 ],
 "eklenme": "2026-11-24"
+},
+{
+"kurum": "Türkiye Finans",
+"kampanya": "Yakınını Mobil Şubeye Davet Et: davet başına 500 TL bonus",
+"tur": "arkadaşını getir",
+"fayda": "Davet edilen her yeni müşteri için 500 TL bonus; en fazla 10 kişi, toplam 5.000 TL",
+"baslangic": "2026-08-01",
+"bitis": "2026-12-31",
+"kosul": "Davetlinin mobilden yeni müşteri olup Happy Bonus kredi kartıyla en az 1 harcama yapması; davet kodu Mobil Şube'den üretilir (10 gün geçerli); kodla ilk harcama arası en fazla 30 gün; bonus 1 ay içinde yüklenir.",
+"teyitsiz": false,
+"uygunluk": "uygun",
+"link": "https://www.turkiyefinans.com.tr/tr-tr/kampanyalar/sayfalar/yakininizi-davet-edin.aspx",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "60ac9f895c",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"turkiye finans"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Türkiye Finans",
+"kampanya": "Faturaları Unutun: Happy Bonus ile 4.000 TL'ye varan bonus",
+"tur": "puan",
+"fayda": "Harcama bonusu 2.000 TL + otomatik fatura talimatı bonusu 2.000 TL (talimat başı 500 TL, en fazla 4 talimat) = toplam 4.000 TL",
+"baslangic": "2026-10-01",
+"bitis": "2026-12-31",
+"kosul": "Yeni Happy Bonus kredi kartı başvurusu ve onayı (mevcut Happy Bonus sahipleri ve ek kartlar hariç); mobilden başvuru; ilk harcamadan önce YENIKART + kart son 6 hane yazıp 2442'ye SMS ya da Mobil'de Kampanyaya Katıl; fatura talimatları 6 ay kalmalı, iptalde bonus geri alınır.",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://www.turkiyefinans.com.tr/tr-tr/kampanyalar/Sayfalar/fatura-bonus-kampanyasi.aspx",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"fatura",
+"tum-harcamalar"
+],
+"id": "83cd56564d",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"turkiye finans"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Türkiye Finans",
+"kampanya": "Mobilden Türkiye Finanslı ol: 50.000 TL'ye kadar %0 kâr payı",
+"tur": "faizsiz kredi",
+"fayda": "50.000 TL'ye kadar ihtiyaç finansmanı; sigortalı 3 ay vadede %0 kâr payı (Findeks 1800+); diğer vade/skorlarda %1,99–%3,99",
+"baslangic": "2026-08-24",
+"bitis": "2026-12-31",
+"kosul": "Görüntülü görüşmeyle yeni müşteri; tahsis ücreti %0,5 + BSMV; kişi başı 1 kez. Resmi 'Okula Dönüş Finansmanı' sayfası 31.10.2026'da bitti diyor; 31.12.2026 bitişi Enuygun derlemesinden, uzatılmış olabilir.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.turkiyefinans.com.tr/tr-tr/kampanyalar/sayfalar/dijital-bankacilik-kampanyalari.aspx",
+"oneCikan": false,
+"kaynak": "derleme",
+"id": "88b14f05e0",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"turkiye finans"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Türkiye Hayat Emeklilik",
@@ -9918,6 +11447,129 @@
 },
 {
 "kurum": "Vakıf Katılım",
+"kampanya": "TROY'la eğitimde vade farksız 5 taksit",
+"tur": "faizsiz taksit",
+"fayda": "Eğitim harcamasında vade farksız (%0) 5 taksit; 2.000–700.000 TL arası, en fazla 3 işlem",
+"baslangic": "2026-01-02",
+"bitis": "2026-12-31",
+"kosul": "Yalnız bireysel TROY KREDİ kartları (VKart Mastercard/Business/Debit hariç); TROYEGT2026 yazıp 3881'e SMS ya da Mobil'de Katıl; müşteri değilseniz mobilden müşteri olunabilir.",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://www.vakifkatilim.com.tr/tr/kendim-icin/kampanyalar/detay/troyla-egitimde-vade-farksiz-5-taksit",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"egitim"
+],
+"id": "a9a44d5c9b",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"vakif katilim"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Vakıf Katılım",
+"kampanya": "Sağlık harcamalarında VKart ile vade farksız 5 taksit (SAGLIK2026)",
+"tur": "faizsiz taksit",
+"fayda": "Sağlık harcamasında vade farksız (%0) 5 taksit; 2.000–100.000 TL arası, en fazla 3 işlem",
+"baslangic": "2026-01-02",
+"bitis": "2026-12-31",
+"kosul": "Bireysel KREDİ kartı (ek ve sanal dahil; VKart Business/Debit hariç); SAGLIK2026 yazıp 3881'e SMS ya da Mobil'de Katıl.",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://www.vakifkatilim.com.tr/tr/kendim-icin/kampanyalar/detay/vkartla-saglikta-vade-farksiz-5-taksit",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"saglik"
+],
+"id": "a781e01ab5",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"vakif katilim"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Vakıf Katılım",
+"kampanya": "Sevimli dostlarımızın (veteriner) harcamalarına 5 taksit",
+"tur": "faizsiz taksit",
+"fayda": "Veteriner harcamasında vade farksız (%0) 5 taksit; 2.000–100.000 TL arası, en fazla 3 işlem",
+"baslangic": "2026-05-25",
+"bitis": "2026-12-31",
+"kosul": "Bireysel Vakıf Katılım KREDİ kartı (ek ve sanal dahil; VKart Business/Debit hariç); MCC 742; VETERINER yazıp 3881'e SMS ya da Mobil'de Katıl.",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://www.vakifkatilim.com.tr/tr/kendim-icin/kampanyalar/detay/sevimli-dostlarimizin-harcamalarina-5-taksit",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"saglik"
+],
+"id": "59a11ca52f",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"vakif katilim"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Vakıf Katılım",
+"kampanya": "AVVA'da tüm indirimlere ek %10 indirim",
+"tur": "indirim",
+"fayda": "Mevcut indirimlere ek %10 indirim (avva.com.tr ve mağazalar); min. alışveriş yok",
+"baslangic": "2026-08-18",
+"bitis": "2026-12-31",
+"kosul": "Vakıf Katılım müşterisi; mobil şubede İndirim Kodu Oluştur; kod tek kullanımlık; diğer indirim çeki ve sadakat kampanyalarıyla birleşmez.",
+"teyitsiz": true,
+"uygunluk": "uygun",
+"link": "https://www.vakifkatilim.com.tr/tr/kendim-icin/kampanyalar/detay/avvada-tum-indirimlere-ek-10-indirim",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"avva",
+"giyim"
+],
+"id": "2e1dc69db1",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"vakif katilim"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "Vakıf Katılım",
+"kampanya": "Arzum'da %15 indirim",
+"tur": "indirim",
+"fayda": "arzum.com.tr'de %15 indirim (sepette en fazla 2 ürün)",
+"baslangic": "2026-03-13",
+"bitis": "2026-12-31",
+"kosul": "Vakıf Katılım müşterisi; mobil şubede İndirim Kodu Oluştur; arzum.com.tr'de üye girişi gerekli; diğer kampanyalarla birleşmez.",
+"teyitsiz": false,
+"uygunluk": "uygun",
+"link": "https://www.vakifkatilim.com.tr/tr/kendim-icin/kampanyalar/detay/arzumda-15-indirim",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"arzum",
+"elektronik",
+"eticaret"
+],
+"id": "a54e60a7a5",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"vakif katilim"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Vakıf Katılım",
 "kampanya": "Mobilden müşteri olana Espressolab'dan 2 hediye kahve (KAHVE kodu)",
 "tur": "yeni müşteri bonusu",
 "fayda": "2 Espressolab hediye kahve kodu (tahmini ~300 TL değerinde)",
@@ -9936,26 +11588,6 @@
 "vakif katilim"
 ],
 "eklenme": "2026-11-24"
-},
-{
-"kurum": "Vakıf Katılım",
-"kampanya": "AVVA'da ek %10",
-"tur": "indirim",
-"fayda": "Ek %10, alt limit yok",
-"baslangic": "2026-08-18",
-"bitis": "2026-12-31",
-"kosul": "Mobil şubeden kod",
-"teyitsiz": true,
-"uygunluk": "uygun",
-"uygunlukMetni": "Uygun",
-"link": "https://www.vakifkatilim.com.tr/tr/kendim-icin/kampanyalar/detay/avvada-tum-indirimlere-ek-10-indirim",
-"oneCikan": false,
-"id": "e010cb944f",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
-"ka": [
-"vakif katilim"
-]
 },
 {
 "kurum": "Vakıf Katılım",
@@ -10161,28 +11793,6 @@
 "ziraat bankasi bankkart"
 ],
 "eklenme": "2026-11-23"
-},
-{
-"kurum": "Ziraat Bankası",
-"kampanya": "Ziraat Mobil'den müşteri olana Süper Şube avantajları",
-"tur": "ücretsiz hizmet",
-"fayda": "Ziraat içi ücretsiz havale, EFT/FAST",
-"baslangic": null,
-"bitis": "2026-12-31",
-"kosul": "İlk kez uzaktan müşteri olanlar",
-"teyitsiz": true,
-"uygunluk": "yeni-musteri",
-"uygunlukMetni": "Yeni müşteri şartı",
-"link": "https://www.ziraatbank.com.tr/tr/kampanyalar/ziraat-mobil-musteri-avantajlar",
-"oneCikan": false,
-"id": "88061566c8",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
-"ka": [
-"bankkart",
-"ziraat bankasi",
-"ziraat bankasi bankkart"
-]
 },
 {
 "kurum": "Ziraat Bankası",
@@ -10445,6 +12055,30 @@
 "eklenme": "2026-11-21"
 },
 {
+"kurum": "Enpara",
+"kampanya": "Encard Genç ile harcamalarda %10 iade (500 TL/ay'a kadar)",
+"tur": "cashback",
+"fayda": "Çocuğun Encard Genç kartıyla ayda en az 10 işlem yapılırsa toplam harcamanın %10'u; aylık en fazla 500 TL, toplam 5.000 TL",
+"baslangic": "2026-09-01",
+"bitis": "2027-06-30",
+"kosul": "10–17 yaş çocuk için Cep Şubesi'nden oluşturulan Encard Genç; iade Encard Genç hesabına yatırılır.",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://www.enpara.com/kampanyalar/encard-genc-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"tum-harcamalar"
+],
+"id": "2a32039e76",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"enpara"
+],
+"eklenme": "2026-11-26"
+},
+{
 "kurum": "Anadolu Hayat Emeklilik",
 "kampanya": "İş Kültür Yayınları %35 indirim",
 "tur": "indirim",
@@ -10541,6 +12175,31 @@
 "eklenme": "2026-11-16"
 },
 {
+"kurum": "Kuveyt Türk",
+"kampanya": "Eğitim ve sağlık harcamalarında %0 faizle 5 taksit",
+"tur": "faizsiz taksit",
+"fayda": "Eğitim ve sağlık harcamalarında faizsiz 5 taksit (liste metnine göre)",
+"baslangic": "2024-06-21",
+"bitis": "2027-12-31",
+"kosul": "Kuveyt Türk kartıyla (kart türü varsayım: kredi kartı); detay sayfası okunamadı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.kuveytturk.com.tr/en/campaigns/campaign-individual/card-campaign/5-installment-opportunity-for-your-education-and-health-expenses",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"egitim",
+"saglik"
+],
+"id": "4b67070dab",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"kuveyt turk"
+],
+"eklenme": "2026-11-26"
+},
+{
 "kurum": "Qumpara",
 "kampanya": "QumPuan'ı Pegasus BolPuan'a çevir",
 "tur": "diğer",
@@ -10580,6 +12239,58 @@
 "turkiye hayat emeklilik"
 ],
 "eklenme": "2026-11-25"
+},
+{
+"kurum": "Akbank",
+"kampanya": "Mobilin Akbanklısı ile ücretsiz YouTube üyeliği",
+"tur": "ücretsiz hizmet",
+"fayda": "Ücretsiz YouTube üyeliği (başlıktan)",
+"baslangic": null,
+"bitis": null,
+"kosul": "Akbank liste sayfası başlığı; 'Mobilin Akbanklısı' seviye programına bağlı olabilir; tarih ve koşullar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.akbank.com/kampanyalar",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"abonelik",
+"youtube"
+],
+"id": "647a2aff18",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"akbank",
+"akbank axess",
+"axess",
+"wings"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Akbank",
+"kampanya": "Mobilin Akbanklısı ücretsiz havale ve limit üstü para çekme avantajı",
+"tur": "ücretsiz hizmet",
+"fayda": "Ücretsiz havale ve ücretsiz limit üstü para çekme (başlıklardan)",
+"baslangic": null,
+"bitis": null,
+"kosul": "Akbank liste sayfası başlıkları; seviye programına bağlı; tarih ve koşullar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.akbank.com/kampanyalar",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "3cc2deaa3f",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"akbank",
+"akbank axess",
+"axess",
+"wings"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Akbank",
@@ -10711,12 +12422,34 @@
 },
 {
 "kurum": "Albaraka",
+"kampanya": "Albaraka Türk Yeni Müşteri Hediye Kampanyası",
+"tur": "yeni müşteri bonusu",
+"fayda": "Yeni müşteriye hediye (tutar ve şartlar okunamadı)",
+"baslangic": null,
+"bitis": null,
+"kosul": "Resmi kampanya sayfası arama sonucunda göründü ancak okunamadı (sayfa hatası); tarih ve koşullar doğrulanmadı.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.albaraka.com.tr/tr/kampanyalar/detay/albaraka-turk-yeni-musteri-hediye-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "6a76a0ad7b",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"albaraka",
+"albaraka turk"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Albaraka",
 "kampanya": "QR kodlu ödemelerde 300 TL'ye varan Worldpuan",
 "tur": "puan",
 "fayda": "300 TL'ye varan Worldpuan (başlıktan)",
 "baslangic": null,
 "bitis": null,
-"kosul": "Resmi sayfa okunamadı (WebFetch onayı alınamadı); bilgi arama sonucu başlığından. Worldpuan genelde Albaraka kredi kartıyla kazanılır; banka kartıyla geçerli mi, tarih ve şartlar doğrulanamadı.",
+"kosul": "Önceki taramadan taşındı; 26.11.2026'da yeniden doğrulanamadı. Worldpuan genelde Albaraka kredi kartıyla kazanılır; banka kartıyla geçerli mi, tarih ve şartlar belirsiz.",
 "teyitsiz": true,
 "uygunluk": "kontrol",
 "link": "https://www.albaraka.com.tr/en/campaigns/detail/earn-up-to-300-tl-in-world-points-on-your-qr-code-payments",
@@ -10885,23 +12618,173 @@
 },
 {
 "kurum": "Anadolubank",
-"kampanya": "Studio Plus 3 aylık ücretsiz abonelik",
-"tur": "ücretsiz hizmet",
-"fayda": "3 ay ücretsiz Studio Plus aboneliği",
+"kampanya": "Restoran harcamalarında %20 iade",
+"tur": "cashback",
+"fayda": "Restoran harcamalarında %20 iade (başlıktan)",
 "baslangic": null,
 "bitis": null,
-"kosul": "Anadolubank müşterilerine; kart türü ve tarih okunamadı. Kaynak: ekonomipolitikasi.com.tr",
+"kosul": "Resmi liste sayfası başlığı (95 kampanya listeleniyor, tarih/koşul yok); kart türü ve şartlar okunmadı.",
 "teyitsiz": true,
 "uygunluk": "kontrol",
-"link": "https://ekonomipolitikasi.com.tr/anadolubank-studio-plus-3-aylik-ucretsiz-abonelik/",
+"link": "https://www.anadolubank.com.tr/kampanyalar",
 "oneCikan": false,
-"kaynak": "haber",
+"kaynak": "resmi",
 "etiketler": [
-"abonelik"
+"yeme"
 ],
-"id": "53df526211",
+"id": "8885c1e13f",
 "uygunlukMetni": "Kontrol et",
-"alan": "sosyal",
+"alan": "bankalar",
+"ka": [
+"anadolubank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Anadolubank",
+"kampanya": "Evidea'da TROY karta 1.500 TL'ye 300 TL indirim",
+"tur": "indirim",
+"fayda": "1.500 TL alışverişe 300 TL indirim",
+"baslangic": null,
+"bitis": null,
+"kosul": "Resmi liste sayfası başlığı; tarih/koşul okunmadı; TROY logolu Anadolubank kartı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.anadolubank.com.tr/kampanyalar",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"eticaret",
+"evidea"
+],
+"id": "a7f4556a8f",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"anadolubank"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "Anadolubank",
+"kampanya": "LC Waikiki'de TROY karta 3.000 TL'ye 300 TL indirim",
+"tur": "indirim",
+"fayda": "3.000 TL alışverişe 300 TL indirim",
+"baslangic": null,
+"bitis": null,
+"kosul": "Arama sonucu başlığı (resmi sayfa okunamadı); TROY logolu Anadolubank kartı; tarih belirsiz.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.anadolubank.com.tr/kampanya/lc-waikiki-de-anadolubank-troy-karta-3-000-tl-ye-300-tl-indirim-firsati",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"giyim",
+"lcwaikiki"
+],
+"id": "f6596b7824",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"anadolubank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Anadolubank",
+"kampanya": "Anadolubank banka kartıyla yemek sepetinde 100 TL indirim",
+"tur": "indirim",
+"fayda": "Yemek sepetinde 100 TL indirim",
+"baslangic": null,
+"bitis": null,
+"kosul": "Arama sonucu başlığı: BANKA kartıyla geçerli görünüyor (resmi sayfa okunamadı); tarih ve şartlar belirsiz.",
+"teyitsiz": true,
+"uygunluk": "uygun",
+"link": "https://www.anadolubank.com.tr/kampanya/anadolubank-banka-kartin-ile-yemek-sepetinde-100-tl-indirim",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"yeme"
+],
+"id": "e763b4f739",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"anadolubank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Anadolubank",
+"kampanya": "Masterpass'li Mastercard ile Pamukkale otobüs biletinde 400 TL'ye varan indirim",
+"tur": "indirim",
+"fayda": "Otobüs biletinde 400 TL'ye varan indirim",
+"baslangic": null,
+"bitis": null,
+"kosul": "Resmi liste sayfası başlığı; tarih/koşul okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.anadolubank.com.tr/kampanyalar",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"pamukkale",
+"seyahat",
+"ulasim"
+],
+"id": "0e77b74f19",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"anadolubank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Anadolubank",
+"kampanya": "obilet'te Yunan Adaları feribot biletlerinde 250 TL indirim",
+"tur": "indirim",
+"fayda": "Yunan Adaları feribot biletlerinde 250 TL indirim",
+"baslangic": null,
+"bitis": null,
+"kosul": "Resmi liste sayfası başlığı; tarih/koşul okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.anadolubank.com.tr/kampanyalar",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"obilet",
+"seyahat"
+],
+"id": "2635eb967f",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"anadolubank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Anadolubank",
+"kampanya": "Studio Plus 3 ay ücretsiz abonelik",
+"tur": "ücretsiz hizmet",
+"fayda": "3 ay ücretsiz abonelik",
+"baslangic": null,
+"bitis": null,
+"kosul": "Resmi liste sayfası başlığı; tarih/koşul okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.anadolubank.com.tr/kampanyalar",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"abonelik",
+"eglence"
+],
+"id": "7d06263c6d",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
 "ka": [
 "anadolubank"
 ],
@@ -10909,23 +12792,28 @@
 },
 {
 "kurum": "Anadolubank",
-"kampanya": "Evidea'da TROY karta 300 TL",
+"kampanya": "Flipy Market'ten %25 indirim",
 "tur": "indirim",
-"fayda": "1.500 TL'ye 300 TL",
+"fayda": "%25 indirim",
 "baslangic": null,
 "bitis": null,
-"kosul": "TROY kampanyasının banka versiyonu",
+"kosul": "Resmi liste sayfası başlığı; tarih/koşul okunmadı.",
 "teyitsiz": true,
 "uygunluk": "kontrol",
-"uygunlukMetni": "Kontrol et",
-"link": "https://www.anadolubank.com.tr/kampanya/evidea-da-anadolubank-troy-karta-1-500-tl-ye-300-tl-indirim-firsati",
+"link": "https://www.anadolubank.com.tr/kampanyalar",
 "oneCikan": false,
-"id": "2e17453548",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
+"kaynak": "resmi",
+"etiketler": [
+"flipy",
+"market"
+],
+"id": "e8d75f2ee9",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
 "ka": [
 "anadolubank"
-]
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Bana Bak",
@@ -11157,20 +13045,20 @@
 },
 {
 "kurum": "Dünya Katılım",
-"kampanya": "Davet Et, Altın Kazan",
+"kampanya": "Davet Et, Altın Kazan: her davet için 0,1 gr altın",
 "tur": "arkadaşını getir",
-"fayda": "Davetli başına 0,1 gr altın, en fazla 10 kişi = 1 gr altın (Mayıs 2026 forum hesabıyla 0,1 gr ≈ 650 TL; 1 gr ≈ 6.500 TL)",
+"fayda": "Başarılı her yeni müşteri davetinde 0,1 gr altın; en fazla 10 davet, toplam 1 gr",
 "baslangic": null,
 "bitis": null,
-"kosul": "Davet edenin de Paraf Kart (kredi kartı) başvurusu olmalı. Davetli uzaktan (mobil) müşteri olurken kodu girmeli ve Paraf Kart başvurusu yapmalı; altın, davetlinin müşteriliği ve Paraf Kart'ı aktif olunca mobil şubedeki Altın Kese'ye yüklenir. Altın Kese 1 grama ulaşmadan kullanılamaz/transfer edilemez. Banka kartının yeterli olup olmadığı sayfada yazmıyor.",
+"kosul": "Davet eden ve edilen Paraf Kart başvurusu yapmalı; davet edilen uzaktan müşteri olup davet kodunu girmeli (şubeden olanlar hariç); 1 gr dolmadan altın kullanılamaz/transfer edilemez; bitiş tarihi sayfada belirtilmemiş.",
 "teyitsiz": true,
-"uygunluk": "kredi-karti",
+"uygunluk": "uygun",
 "link": "https://dunyakatilim.com.tr/kampanyalar/davetetkazan",
 "oneCikan": false,
 "kaynak": "resmi",
-"id": "81ced733db",
-"uygunlukMetni": "Kredi kartı gerekir",
-"alan": "ekgelir",
+"id": "9bea2f4e43",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
 "ka": [
 "dunya katilim"
 ],
@@ -11190,26 +13078,6 @@
 "link": "https://dunyakatilim.com.tr/kampanyalar/dogalgaz",
 "oneCikan": false,
 "id": "43db4c9635",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
-"ka": [
-"dunya katilim"
-]
-},
-{
-"kurum": "Dünya Katılım",
-"kampanya": "Fiziki altın alana altın hediye",
-"tur": "diğer",
-"fayda": "Altın hediye",
-"baslangic": null,
-"bitis": null,
-"kosul": "Yalnız başlık görüldü",
-"teyitsiz": true,
-"uygunluk": "kontrol",
-"uygunlukMetni": "Kontrol et",
-"link": "https://dunyakatilim.com.tr/kampanyalar/altina-altin",
-"oneCikan": false,
-"id": "c2f610fe84",
 "eklenme": "2026-11-16",
 "alan": "baslangic",
 "ka": [
@@ -11259,6 +13127,27 @@
 },
 {
 "kurum": "Emlak Katılım",
+"kampanya": "Mobilya, dekorasyon ve yapı marketi alışverişine 1.250 TL'ye varan ParafPara",
+"tur": "puan",
+"fayda": "1.250 TL'ye varan ParafPara (başlıktan)",
+"baslangic": null,
+"bitis": null,
+"kosul": "Resmi kampanya sayfası arama sonucunda göründü ancak okunamadı (sayfa hatası); Paraf kartla (kart türü varsayım: kredi kartı); tarih ve koşullar doğrulanmadı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.emlakkatilim.com.tr/tr/bireysel/kampanyalar/kampanya/mobilya-dekorasyon-ve-yapi-marketi-alisverisinize-1250-tlye-varan-parafpara",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "982c388c34",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"emlak katilim"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Emlak Katılım",
 "kampanya": "Hediye Paraf Para",
 "tur": "yeni müşteri bonusu",
 "fayda": "1.000 TL'ye varan",
@@ -11276,6 +13165,27 @@
 "ka": [
 "emlak katilim"
 ]
+},
+{
+"kurum": "Enpara",
+"kampanya": "Enpara tavsiye kampanyası: 250 TL + 250 TL",
+"tur": "arkadaşını getir",
+"fayda": "Bireysel müşteri davetinde 250 TL + 250 TL (ticari için 500 TL)",
+"baslangic": null,
+"bitis": null,
+"kosul": "DonanımHaber Tüm Bankaların Davet Kampanyaları konusunun özeti (tarih belirtilmemiş); referanslı bağlantıyla müşteri olma, 1 TL gönderme ve kredi kartıyla en az 1 TL harcama şartı; resmi sayfadan doğrulanmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://forum.donanimhaber.com/tum-bankalarin-davet-kampanyalari-50-geri-odeme-yapiyorum--162108566",
+"oneCikan": false,
+"kaynak": "forum",
+"id": "bfad6ce806",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"enpara"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Enpara",
@@ -11551,6 +13461,52 @@
 "fiverr"
 ],
 "eklenme": "2026-11-24"
+},
+{
+"kurum": "Garanti BBVA",
+"kampanya": "Müşteri Ol 1.000 TL Bonus Kampanyası",
+"tur": "yeni müşteri bonusu",
+"fayda": "1.000 TL Bonus (başlıktan)",
+"baslangic": null,
+"bitis": null,
+"kosul": "Arama sonucu başlığı; resmi sayfa okunamadı (robots); tarih ve şartlar doğrulanmadı.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.garantibbva.com.tr/kampanyalar/musteri-ol-bonus-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "7c605721c3",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"bonus",
+"garanti",
+"garanti bbva"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Garanti BBVA",
+"kampanya": "Yeni müşteriye faizsiz 50.000 TL kredi + 50.000 TL taksitli avans hesap",
+"tur": "faizsiz kredi",
+"fayda": "%0 faizli 50.000 TL kredi (3 ay, hayat sigortalı) + %0 faizli 50.000 TL Taksitli Avans Hesap = 100.000 TL",
+"baslangic": "2026-11-01",
+"bitis": null,
+"kosul": "Bitiş kaynaklarda çelişiyor: İşin Olsa (02.11) 1–15 Kasım ve bitti diyor, Enuygun 01–30 Kasım yazıyor. İlk kez Garanti BBVA'lı olanlar, yalnız Mobil/İnternet (şube olmaz); müşteri olduktan sonra 10 gün içinde başvuru; kredi onayına bağlı.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.enuygunfinans.com/bankalar/faizsiz-nakit-avans-veren-bankalar/",
+"oneCikan": false,
+"kaynak": "derleme",
+"id": "7fb525c972",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"bonus",
+"garanti",
+"garanti bbva"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Garanti BBVA",
@@ -11941,6 +13897,86 @@
 "hayat pay"
 ],
 "eklenme": "2026-11-24"
+},
+{
+"kurum": "Hayhay",
+"kampanya": "Petrol Ofisi'nde akaryakıt harcamasına %4 nakit iade",
+"tur": "cashback",
+"fayda": "Benzin, motorin, dizel alımlarında %4 anında nakit iade (Hayhay cüzdanına); üst sınır belirtilmemiş",
+"baslangic": null,
+"bitis": null,
+"kosul": "Hayhay üyeliği; Akaryakıt menüsünden başvuru, Hayhay akaryakıt kartı; ödeme kayıtlı KREDİ kartıyla (banka kartı belirtilmemiş); LPG'li araçlar hariç; bitiş tarihi sayfada yok.",
+"teyitsiz": false,
+"uygunluk": "kredi-karti",
+"link": "https://www.hayhay.com/kampanyalar/akaryakit-harcamana-4-nakit-iade",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"akaryakit",
+"po"
+],
+"id": "4736c838c3",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"hahay",
+"hayhay",
+"hayhay aktif bank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Hayhay",
+"kampanya": "Anlaşmalı giyim ve ayakkabı markalarında anında %5–%10 cüzdana iade",
+"tur": "cashback",
+"fayda": "Koton, Kiğılı, FLO, Ayakkabı Dünyası, U.S. Polo Assn., Network, Pierre Cardin, Hotiç ve diğer markalarda %4–%10 anında cüzdana iade",
+"baslangic": null,
+"bitis": null,
+"kosul": "Hayhay liste sayfasından (tarih/koşul listede yok; çoğu marka için bitiş görünmüyor); Hayhay üyeliği ve cüzdan; ödeme yöntemi okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.hayhay.com/Kampanyalar",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"giyim"
+],
+"id": "22d81148d8",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"hahay",
+"hayhay",
+"hayhay aktif bank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "Hayhay",
+"kampanya": "CarrefourSA ve Yunus Market harcamalarında anında %5 cüzdana iade",
+"tur": "cashback",
+"fayda": "CarrefourSA ve Yunus Market harcamalarında %5 anında cüzdana iade",
+"baslangic": null,
+"bitis": null,
+"kosul": "Hayhay liste sayfasından (tarih/koşul listede yok); Hayhay üyeliği ve cüzdan.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.hayhay.com/Kampanyalar",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"carrefoursa",
+"market"
+],
+"id": "b2ba9f5b5f",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"hahay",
+"hayhay",
+"hayhay aktif bank"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Hayhay (Aktif Bank)",
@@ -12604,6 +14640,164 @@
 ]
 },
 {
+"kurum": "HSBC",
+"kampanya": "Yurt dışı restoran harcamalarında %15 indirim (Silver logolu Premier)",
+"tur": "indirim",
+"fayda": "Yurt dışı restoran harcamalarında %15 indirim",
+"baslangic": null,
+"bitis": null,
+"kosul": "Resmi liste özeti; Silver logolu HSBC Premier KREDİ kartı; min. 150 USD; bitiş belirtilmemiş.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.hsbc.com.tr/kartlar-ve-krediler/kampanyalar/guncel-kampanyalar/yurt-disi-restoran-harcamalarinda-15-indirim",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"seyahat",
+"yeme"
+],
+"id": "bf7ae1f5d1",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"hsbc"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "HSBC",
+"kampanya": "Duty Free mağazalarında Silver logolu Premier kartla %15 indirim",
+"tur": "indirim",
+"fayda": "Yurt dışı Duty Free harcamalarında %15 indirim",
+"baslangic": null,
+"bitis": null,
+"kosul": "Resmi liste özeti; Silver logolu HSBC Premier KREDİ kartı; min. 150 USD; bitiş belirtilmemiş.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.hsbc.com.tr/kartlar-ve-krediler/kampanyalar/guncel-kampanyalar/yurt-disi-duty-free-harcamalarinda-15-indirim",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"seyahat"
+],
+"id": "2b1bd774a6",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"hsbc"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ICBC Turkey",
+"kampanya": "Diğer banka ATM'lerinden ücretsiz para çekme/yatırma",
+"tur": "ücretsiz hizmet",
+"fayda": "Diğer banka ATM'lerinde ücretsiz para çekme/yatırma; her başarılı mobil girişte 30 gün ücret muafiyeti",
+"baslangic": null,
+"bitis": null,
+"kosul": "Resmi sayfa özeti; banka kartı ve kredi kartı geçerli; 200 TL ve üzeri işlem, mobil şube girişi, mevduat hesabı; taksitli nakit avans hariç; tarih belirtilmemiş.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.icbc.com.tr/tr/sizin-icin/kampanya-detay/Kampanyalar/713/3443/0",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "23228131cc",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"icbc turkey"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ING",
+"kampanya": "Yeni ING'lilere 5.000 TL'ye varan nakit promosyon",
+"tur": "yeni müşteri bonusu",
+"fayda": "ING Mobil'den müşteri olup bankacılığını ING'ye taşıyana 5.000 TL'ye varan nakit promosyon",
+"baslangic": null,
+"bitis": null,
+"kosul": "Resmi liste sayfası başlığı; tarih ve ayrıntı koşullar okunmadı (forum: davet kodlu müşteri olanlara 3 ay boyunca aylık 22.000 TL EFT/FAST yatırma şartı, 2026 Temmuz paylaşımı, doğrulanmadı).",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.ing.com.tr/tr/sizin-icin/kampanyalar",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "1885731c5d",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"ing"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ING",
+"kampanya": "Sevdiklerini ING'e getir: her biri için 2.500 TL nakit hediye",
+"tur": "arkadaşını getir",
+"fayda": "Getirilen her kişi için 2.500 TL nakit",
+"baslangic": null,
+"bitis": null,
+"kosul": "Resmi liste sayfası başlığı; tarih ve ayrıntı koşullar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "uygun",
+"link": "https://www.ing.com.tr/tr/sizin-icin/kampanyalar",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "54444bdb30",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"ing"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ING",
+"kampanya": "Aidatsız kredi kartı: ING Bonus Card aidatsız (ayda 5.000 TL harcama şartıyla)",
+"tur": "ücretsiz hizmet",
+"fayda": "ING Bonus Card yıllık aidat muafiyeti",
+"baslangic": null,
+"bitis": null,
+"kosul": "Resmi liste sayfası özeti; yıl boyunca ayda en az 5.000 TL harcama şartı; tarih okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://www.ing.com.tr/tr/sizin-icin/kampanyalar",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "98a6ab487f",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"ing"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ING",
+"kampanya": "Evidea'da ING TROY kartla 1.500 TL+ alışverişe anında 300 TL indirim",
+"tur": "indirim",
+"fayda": "Tek seferde 1.500 TL ve üzeri alışverişte anında 300 TL indirim",
+"baslangic": null,
+"bitis": null,
+"kosul": "Resmi liste sayfası özeti; kart türü ve katılım koşulu okunmadı; tarih belirtilmemiş.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.ing.com.tr/tr/sizin-icin/kampanyalar",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"eticaret",
+"evidea"
+],
+"id": "4fc8eb3378",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"ing"
+],
+"eklenme": "2026-11-26"
+},
+{
 "kurum": "ING",
 "kampanya": "Faizsiz taksitli nakit avans (25.000 TL'ye kadar) + 2.000 TL bonus",
 "tur": "faizsiz kredi",
@@ -12691,6 +14885,92 @@
 },
 {
 "kurum": "İş Bankası",
+"kampanya": "Size özel otomatik fatura ödemelerinde aylık 1.000 TL'ye varan iade",
+"tur": "cashback",
+"fayda": "Aylık 1.000 TL'ye varan iade (başlıktan)",
+"baslangic": null,
+"bitis": null,
+"kosul": "Önceki taramadan taşındı; 26.11.2026'da yeniden doğrulanamadı. Başlıkta 'size özel' geçiyor: kişiye/hedef kitleye özel olabilir; otomatik fatura ödeme talimatı şartı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.isbank.com.tr/kampanyalar/size-ozel-otomatik-fatura-odemelerinizde-aylik-bin-turk-lirasina-varan-iade",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"fatura"
+],
+"id": "ca5092e7af",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"is bankasi",
+"is bankasi maximum",
+"iscep",
+"maximum",
+"maximum mobil"
+],
+"eklenme": "2026-11-23"
+},
+{
+"kurum": "İş Bankası",
+"kampanya": "Bir fatura talimatı daha verene 3 ay ücretsiz Pazarama Plus üyeliği",
+"tur": "ücretsiz hizmet",
+"fayda": "3 ay ücretsiz Pazarama Plus üyeliği (başlıktan)",
+"baslangic": null,
+"bitis": null,
+"kosul": "Önceki taramadan taşındı; 26.11.2026'da yeniden doğrulanamadı. Ek bir fatura talimatı verme şartı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.isbank.com.tr/kampanyalar/bir-fatura-talimati-daha-verin-3-ay-ucretsiz-pazarama-plus-uyeligi-kazanin",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"abonelik",
+"fatura",
+"pazarama"
+],
+"id": "db62c527a5",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"is bankasi",
+"is bankasi maximum",
+"iscep",
+"maximum",
+"maximum mobil"
+],
+"eklenme": "2026-11-23"
+},
+{
+"kurum": "İş Bankası",
+"kampanya": "Fatura talimatlarına 750 MaxiPuan ödül (iki talimat yetmiyor, altı ödeme şartı)",
+"tur": "puan",
+"fayda": "750 TL MaxiPuan (haber başlığından)",
+"baslangic": null,
+"bitis": null,
+"kosul": "İşin Olsa haberi; önceki taramadan taşındı, 26.11.2026'da resmi sayfadan doğrulanamadı; ödeme şartı ve tarih belirsiz.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.isinolsa.com/is-bankasi-musterilerine-750-tl-maxipuan-2-fatura-talimatina-odeme-var/",
+"oneCikan": false,
+"kaynak": "derleme",
+"etiketler": [
+"fatura"
+],
+"id": "455d09f981",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"is bankasi",
+"is bankasi maximum",
+"iscep",
+"maximum",
+"maximum mobil"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "İş Bankası",
 "kampanya": "Maximum ile Pazarama'da ilk 3.000 TL+ alışverişe 350 PazaramaPuan",
 "tur": "puan",
 "fayda": "3.000 TL+ ilk alışverişe 350 TL PazaramaPuan",
@@ -12746,92 +15026,6 @@
 "maximum mobil"
 ],
 "eklenme": "2026-11-25"
-},
-{
-"kurum": "İş Bankası",
-"kampanya": "Size özel otomatik fatura ödemelerinde aylık 1.000 TL'ye varan iade",
-"tur": "cashback",
-"fayda": "Aylık 1.000 TL'ye varan iade (başlıktan)",
-"baslangic": null,
-"bitis": null,
-"kosul": "Resmi sayfa okunamadı (WebFetch onayı alınamadı); bilgi arama sonucu başlığından. Başlıkta 'size özel' geçiyor: kişiye/hedef kitleye özel olabilir; otomatik fatura ödeme talimatı şartı. Tarih, tutar ve şartları sayfadan kontrol et.",
-"teyitsiz": true,
-"uygunluk": "kontrol",
-"link": "https://www.isbank.com.tr/kampanyalar/size-ozel-otomatik-fatura-odemelerinizde-aylik-bin-turk-lirasina-varan-iade",
-"oneCikan": false,
-"kaynak": "resmi",
-"etiketler": [
-"fatura"
-],
-"id": "ca5092e7af",
-"uygunlukMetni": "Kontrol et",
-"alan": "bankalar",
-"ka": [
-"is bankasi",
-"is bankasi maximum",
-"iscep",
-"maximum",
-"maximum mobil"
-],
-"eklenme": "2026-11-23"
-},
-{
-"kurum": "İş Bankası",
-"kampanya": "Bir fatura talimatı daha verene 3 ay ücretsiz Pazarama Plus üyeliği",
-"tur": "ücretsiz hizmet",
-"fayda": "3 ay ücretsiz Pazarama Plus üyeliği (başlıktan)",
-"baslangic": null,
-"bitis": null,
-"kosul": "Resmi sayfa okunamadı (WebFetch onayı alınamadı); bilgi arama sonucu başlığından. Ek bir fatura talimatı verme şartı; tarih ve diğer koşullar doğrulanamadı.",
-"teyitsiz": true,
-"uygunluk": "kontrol",
-"link": "https://www.isbank.com.tr/kampanyalar/bir-fatura-talimati-daha-verin-3-ay-ucretsiz-pazarama-plus-uyeligi-kazanin",
-"oneCikan": false,
-"kaynak": "resmi",
-"etiketler": [
-"abonelik",
-"fatura",
-"pazarama"
-],
-"id": "db62c527a5",
-"uygunlukMetni": "Kontrol et",
-"alan": "bankalar",
-"ka": [
-"is bankasi",
-"is bankasi maximum",
-"iscep",
-"maximum",
-"maximum mobil"
-],
-"eklenme": "2026-11-23"
-},
-{
-"kurum": "İş Bankası",
-"kampanya": "Fatura talimatlarına 750 TL ödül (altı ödeme şartı)",
-"tur": "diğer",
-"fayda": "750 TL ödül (başlıktan; ödül türü doğrulanamadı)",
-"baslangic": null,
-"bitis": null,
-"kosul": "Haber başlığına göre iki talimat yetmiyor, altı ödeme şartı var; resmi sayfa okunamadı, ödül türü ve tarih doğrulanamadı.",
-"teyitsiz": true,
-"uygunluk": "kontrol",
-"link": "https://www.isinolsa.com/?p=74319",
-"oneCikan": false,
-"kaynak": "derleme",
-"etiketler": [
-"fatura"
-],
-"id": "aa5dba82a2",
-"uygunlukMetni": "Kontrol et",
-"alan": "bankalar",
-"ka": [
-"is bankasi",
-"is bankasi maximum",
-"iscep",
-"maximum",
-"maximum mobil"
-],
-"eklenme": "2026-11-23"
 },
 {
 "kurum": "İstanbulkart",
@@ -13003,6 +15197,29 @@
 "mavi"
 ],
 "eklenme": "2026-11-25"
+},
+{
+"kurum": "N Kolay",
+"kampanya": "N Kolay'a müşteri ol, Passo sanal banka kartıyla ilk alışverişin %50'si (1.000 TL'ye kadar)",
+"tur": "yeni müşteri bonusu",
+"fayda": "İlk alışverişin %50'si, en fazla 1.000 TL",
+"baslangic": null,
+"bitis": null,
+"kosul": "DonanımHaber Tüm Bankaların Davet Kampanyaları konusundan; müşteri olma ve Passo Sanal Banka kartına başvuru şartı; tarih belirtilmemiş, resmi sayfadan doğrulanmadı.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://forum.donanimhaber.com/tum-bankalarin-davet-kampanyalari-50-geri-odeme-yapiyorum--162108566",
+"oneCikan": false,
+"kaynak": "forum",
+"id": "e63df54ca3",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"aktif bank",
+"n kolay",
+"n kolay aktif bank"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "N Kolay",
@@ -13235,6 +15452,380 @@
 },
 {
 "kurum": "ON Dijital",
+"kampanya": "ON Kredi Kartı ile ChatGPT ödemesinde %50 iade (en fazla 250 TL)",
+"tur": "cashback",
+"fayda": "%50 iade; en fazla 250 TL",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası başlığı; ON Kredi Kartı; tarih ve şartlar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://on.com.tr/kampanyalar/on-kredi-karti-chatgpt-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"abonelik",
+"chatgpt"
+],
+"id": "98fd6b5a7f",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON Banka Kartı: market ve akaryakıt harcamalarının 4.'sünde 400 TL nakit iade",
+"tur": "cashback",
+"fayda": "Tek seferde 1.500 TL ve üzeri market ya da akaryakıt harcamalarında 4. harcamaya 400 TL nakit iade",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası özeti; ON BANKA kartı; tarih ve katılım şartı okunmadı.",
+"teyitsiz": true,
+"uygunluk": "uygun",
+"link": "https://on.com.tr/on-banka-karti-market-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"akaryakit",
+"market"
+],
+"id": "507125e1e4",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON Maximum kartla Migros Online ve Migros Yemek harcamalarının %50'si iade",
+"tur": "cashback",
+"fayda": "Migros Online ve Migros Yemek harcamalarının %50'si iade (üst sınır listede yok)",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası özeti; ON'lu olurken ON'un sayfasında yayımladığı kampanya davet kodu (MERHABAON / MIGROSYEMEKON) ve ON Maximum KREDİ kartı; detay sayfaları okunamadı.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://on.com.tr/kampanyalar/migros-online-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"market",
+"migros",
+"yeme"
+],
+"id": "895e208044",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON Maximum kartla Pluxee, Biletinial ve Apsiyon (aidat) ödemelerinde %50 iade",
+"tur": "cashback",
+"fayda": "Pluxee bakiye yükleme, Biletinial ve Apsiyon aidat ödemelerinin %50'si iade (üst sınır listede yok)",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası özeti; ON'lu olurken kampanya davet kodu (PLUXEEON / BILETINIALON / APSIYON) ve ON Maximum KREDİ kartı; detay okunmadı.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://on.com.tr/kampanyalar/apsiyon-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"eglence",
+"yeme"
+],
+"id": "997418a94e",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "Yeni ON'lulara 5 hediye Starbucks kahvesi (75 yıldız)",
+"tur": "yeni müşteri bonusu",
+"fayda": "5 hediye kahve (75 yıldız)",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası özeti; STARON kampanya koduyla ON'lu olanlara; detay okunamadı.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://on.com.tr/kampanyalar/starbucks-kampanyasi-1",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"starbucks",
+"yeme"
+],
+"id": "55cc4ca1a4",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON'lulara özel n11 hediye çeki (150–350 TL)",
+"tur": "indirim",
+"fayda": "150 TL ve 350 TL hediye çeki (iki ayrı n11 kampanyası)",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası özeti; 'ON'lulara özel' (mevcut ON müşterileri); detay okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://on.com.tr/kampanyalar/n11-kampanyasi-3502",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"eticaret",
+"n11"
+],
+"id": "22e94a0d7e",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON'a Davet Kampanyası: 20.000 TL'ye varan ödül",
+"tur": "arkadaşını getir",
+"fayda": "20.000 TL'ye varan ödül (davet)",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası başlığı; detay koşulları okunmadı.",
+"teyitsiz": true,
+"uygunluk": "uygun",
+"link": "https://on.com.tr/ona-davet-kampanyasi-3279",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "a1824c09a1",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON banka ve kredi kartıyla Pamukkale Seyahat'te 400 TL'ye varan indirim",
+"tur": "indirim",
+"fayda": "Otobüs biletinde 400 TL'ye varan indirim",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası özeti: kredi ve banka kartı; tarih ve şartlar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "uygun",
+"link": "https://on.com.tr/kampanyalar/on-kredi-karti-pamukkale-seyahat-indirim-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"pamukkale",
+"seyahat"
+],
+"id": "2d7a6281f4",
+"uygunlukMetni": "Uygun",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON Kredi Kartı ile elektrikli araç şarjında %20 iade (500 TL'ye kadar)",
+"tur": "cashback",
+"fayda": "Her ödemede %20, toplam 500 TL'ye varan iade",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası özeti; ON Kredi Kartı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://on.com.tr/on-kredi-karti-elektrikli-arac-sarj-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"ulasim"
+],
+"id": "392197dbd7",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON Kredi Kartı ile İstanbulkart, İzmir ve Ankara ulaşım yüklemelerinde 100 TL iade",
+"tur": "cashback",
+"fayda": "500 TL ve üzeri ulaşım kartı yüklemesinde 100 TL iade",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası özeti; ON Kredi Kartı; tarih okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://on.com.tr/on-kredi-karti-istanbulkart-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"ulasim"
+],
+"id": "ddf3ca0a83",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON Kredi Kartı ile sinema ve tiyatro biletinde 250 TL'ye varan iade",
+"tur": "cashback",
+"fayda": "Sinema/tiyatro biletinde 250 TL'ye varan iade",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası özeti; ON Kredi Kartı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://on.com.tr/on-kredi-karti-sinema-ve-tiyatro-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"eglence"
+],
+"id": "d1447f8c36",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON Maximum kartla oyun platformu harcamalarında 300 TL",
+"tur": "cashback",
+"fayda": "Oyun harcamalarında 300 TL",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası özeti; ON Maximum KREDİ kartı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://on.com.tr/kampanyalar/oyun-platformu-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"eglence"
+],
+"id": "88f50c5c05",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON Kredi Kartı ile market: ikinci 1.500 TL+ harcamaya 200 TL iade",
+"tur": "cashback",
+"fayda": "2. tek seferlik 1.500 TL ve üzeri market harcamasında 200 TL iade",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası özeti; ON Kredi Kartı.",
+"teyitsiz": true,
+"uygunluk": "kredi-karti",
+"link": "https://on.com.tr/kampanyalar/on-kredi-karti-market-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"market"
+],
+"id": "f3705463f7",
+"uygunlukMetni": "Kredi kartı gerekir",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "ON'da masrafsız Havale/EFT/FAST",
+"tur": "ücretsiz hizmet",
+"fayda": "Masrafsız havale, EFT ve FAST",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası başlığı; koşullar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://on.com.tr/kampanyalar/onda-masrafsiz-havale-eft-fast-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "fb39873442",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
+"kampanya": "Hisse senedi işlemlerinde yıl boyu %0 komisyon",
+"tur": "komisyon indirimi",
+"fayda": "Yıl boyu hisse senedi işlemlerinde %0 komisyon",
+"baslangic": null,
+"bitis": null,
+"kosul": "ON liste sayfası başlığı; ON Dijital üzerinden hisse işlemi; koşullar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://on.com.tr/kampanyalar/0-komisyon-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "a3e9dc01cc",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"on dijital",
+"on dijital bankacilik"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "ON Dijital",
 "kampanya": "Migros harcamalarına %50 nakit iade (1.000 TL'ye kadar)",
 "tur": "cashback",
 "fayda": "%50, en fazla 1.000 TL",
@@ -13283,27 +15874,6 @@
 "on dijital bankacilik"
 ],
 "eklenme": "2026-11-24"
-},
-{
-"kurum": "ON Dijital",
-"kampanya": "ON kredi kartıyla İstanbulkart'a 100 TL",
-"tur": "indirim",
-"fayda": "500 TL yüklemeye 100 TL",
-"baslangic": null,
-"bitis": null,
-"kosul": "ON kredi kartı",
-"teyitsiz": true,
-"uygunluk": "kredi-karti",
-"uygunlukMetni": "Kredi kartı gerekir",
-"link": "https://on.com.tr/on-kredi-karti-istanbulkart-kampanyasi",
-"oneCikan": false,
-"id": "acac509a1a",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
-"ka": [
-"on dijital",
-"on dijital bankacilik"
-]
 },
 {
 "kurum": "Opinion World",
@@ -13545,6 +16115,55 @@
 },
 {
 "kurum": "QNB",
+"kampanya": "Fatura talimatlarına 1.000 TL ParaPuan (5 talimat yetmiyor, 2027 şartı var)",
+"tur": "puan",
+"fayda": "1.000 TL ParaPuan (başlıktan)",
+"baslangic": null,
+"bitis": null,
+"kosul": "İşin Olsa haberi; önceki taramadan taşındı, 26.11.2026'da yeniden doğrulanamadı. Haber başlığına göre 5 fatura talimatı yeterli değil, 2027'ye uzanan ek şart var.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.isinolsa.com/qnbden-1000-tl-parapuan-5-fatura-talimati-yetmiyor-2027-sarti-var/",
+"oneCikan": false,
+"kaynak": "derleme",
+"etiketler": [
+"fatura"
+],
+"id": "59b2ffac07",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"cardfinans",
+"qnb",
+"qnb finansbank"
+],
+"eklenme": "2026-11-23"
+},
+{
+"kurum": "QNB",
+"kampanya": "QNB First: Arkadaşını Getir Kazan (5.000 Mil / QNB First Puan)",
+"tur": "arkadaşını getir",
+"fayda": "5.000 Mil veya 5.000 QNB First Puan hediye (başlıktan)",
+"baslangic": null,
+"bitis": null,
+"kosul": "QNB resmi sayfa başlığı (arama sonucu); QNB First (öncelikli bankacılık) müşterilerine yönelik; tarih ve şartlar okunmadı.",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.qnb.com.tr/qnbfirst/bankacilik/qnb-first/bankacilik-kampanyalari/5000-qnb-first-puan-hediyeli-arkadasini-getir-kazan-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "d2c9bb1ab2",
+"uygunlukMetni": "Kontrol et",
+"alan": "bankalar",
+"ka": [
+"cardfinans",
+"qnb",
+"qnb finansbank"
+],
+"eklenme": "2026-11-26"
+},
+{
+"kurum": "QNB",
 "kampanya": "GSPara kredi kartına ilk alışverişte 750 TL ParaPuan + faizsiz 25.000 TL nakit avans",
 "tur": "puan",
 "fayda": "750 TL ParaPuan + 25.000 TL'ye kadar faizsiz (%0) nakit avans",
@@ -13565,32 +16184,6 @@
 "qnb finansbank"
 ],
 "eklenme": "2026-11-24"
-},
-{
-"kurum": "QNB",
-"kampanya": "Fatura talimatlarına 1.000 TL ParaPuan (5 talimat yetmiyor, 2027 şartı var)",
-"tur": "puan",
-"fayda": "1.000 TL ParaPuan (başlıktan)",
-"baslangic": null,
-"bitis": null,
-"kosul": "Haber başlığına göre 5 fatura talimatı yeterli değil, 2027'ye uzanan ek şart var; resmi sayfa okunamadı, tarih ve tam koşullar doğrulanamadı.",
-"teyitsiz": true,
-"uygunluk": "kontrol",
-"link": "https://www.isinolsa.com/qnbden-1000-tl-parapuan-5-fatura-talimati-yetmiyor-2027-sarti-var/",
-"oneCikan": false,
-"kaynak": "derleme",
-"etiketler": [
-"fatura"
-],
-"id": "59b2ffac07",
-"uygunlukMetni": "Kontrol et",
-"alan": "bankalar",
-"ka": [
-"cardfinans",
-"qnb",
-"qnb finansbank"
-],
-"eklenme": "2026-11-23"
 },
 {
 "kurum": "QNB",
@@ -13810,6 +16403,28 @@
 "eklenme": "2026-11-24"
 },
 {
+"kurum": "TEB",
+"kampanya": "CEPTETEB'e yeni müşteriye faizsiz 25.000 TL taksitli nakit avans",
+"tur": "faizsiz kredi",
+"fayda": "%0 faizli 25.000 TL, 3 taksit",
+"baslangic": null,
+"bitis": null,
+"kosul": "Enuygun derlemesi (pencere 23.05.2024–31.12.2026); İşin Olsa (02.11.2026) ise başvurunun 31.10.2026'da bittiğini yazıyor: bitiş çelişkili, resmi sayfa robots nedeniyle okunamadı. Yeni müşteri, 18–70 yaş, CEPTETEB Mobil görüntülü görüşme; 14 gün içinde TEB bireysel kredi kartı başvurusu ve onayı; kişi başı 1 kez.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.enuygunfinans.com/bankalar/faizsiz-nakit-avans-veren-bankalar/",
+"oneCikan": false,
+"kaynak": "derleme",
+"id": "3b750f2d67",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"cepteteb",
+"teb"
+],
+"eklenme": "2026-11-26"
+},
+{
 "kurum": "TEB / CEPTETEB",
 "kampanya": "Banka kartıyla akaryakıta 500 TL iade",
 "tur": "cashback",
@@ -14026,7 +16641,9 @@
 "eklenme": "2026-11-16",
 "alan": "baslangic",
 "ka": [
+"hadi",
 "tom bank",
+"tom bank hadi",
 "tom katilim"
 ]
 },
@@ -14172,6 +16789,27 @@
 "turkcell"
 ],
 "eklenme": "2026-11-23"
+},
+{
+"kurum": "Türkiye Finans",
+"kampanya": "Yeni yatırım hesabına sıfır komisyon (yurt içi hisse senedi)",
+"tur": "komisyon indirimi",
+"fayda": "Yurt içi hisse senedi işlemlerinde sıfır komisyon oranı",
+"baslangic": null,
+"bitis": null,
+"kosul": "Yeni yatırım hesabı açılması; yalnızca liste özeti okundu, detay sayfası okunmadı; tarih belirsiz.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.turkiyefinans.com.tr/tr-tr/kampanyalar/sayfalar/yatirim-kampanyalari.aspx",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "9effe7f27a",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"turkiye finans"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Türkiye Finans",
@@ -14373,6 +17011,29 @@
 "yandex tasks"
 ],
 "eklenme": "2026-11-24"
+},
+{
+"kurum": "Yapı Kredi",
+"kampanya": "Yapı Kredi Dünyası Hoş Geldin Paketi: 10.000 TL'ye varan nakit ödül",
+"tur": "yeni müşteri bonusu",
+"fayda": "10.000 TL'ye varan nakit ödül (başlıktan)",
+"baslangic": null,
+"bitis": null,
+"kosul": "Arama sonucu başlığı; resmi sayfa okunamadı; tarih ve şartlar doğrulanmadı.",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.yapikredi.com.tr/kampanyalar/detay/257241",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "0f5dd5d911",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "bankalar",
+"ka": [
+"world",
+"worldcard",
+"yapi kredi"
+],
+"eklenme": "2026-11-26"
 },
 {
 "kurum": "Yapı Kredi / Worldcard",

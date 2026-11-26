@@ -1,378 +1,372 @@
 {
  "alan": "bankalar",
- "tarih": "2026-11-23",
+ "tarih": "2026-11-26",
  "kaynaklar": [
   {
    "ad": "Kuveyt Türk",
-   "url": "https://www.kuveytturk.com.tr/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "url": "https://www.kuveytturk.com.tr/en/campaigns/campaign-individual",
+   "durum": "ok",
+   "bulunan": 8
   },
   {
    "ad": "Albaraka",
-   "url": "https://www.albaraka.com.tr/tr/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 1
+   "url": "https://www.albaraka.com.tr/en/campaigns",
+   "durum": "ok",
+   "bulunan": 7
   },
   {
    "ad": "Türkiye Finans",
-   "url": "https://www.turkiyefinans.com.tr/tr-tr/kampanyalar/Sayfalar/default.aspx",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "url": "https://www.turkiyefinans.com.tr/tr-tr/kampanyalar/sayfalar/dijital-bankacilik-kampanyalari.aspx",
+   "durum": "ok",
+   "bulunan": 5
   },
   {
    "ad": "Vakıf Katılım",
    "url": "https://www.vakifkatilim.com.tr/tr/kendim-icin/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "durum": "ok",
+   "bulunan": 6
   },
   {
    "ad": "Ziraat Katılım",
    "url": "https://www.ziraatkatilim.com.tr/kampanyalar",
    "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "sebep": "arama-sonucsuz",
+   "bulunan": 1
   },
   {
    "ad": "Emlak Katılım",
-   "url": "https://www.emlakkatilim.com.tr/kampanyalar",
+   "url": "https://www.emlakkatilim.com.tr/tr/bireysel/kampanyalar",
    "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "sebep": "site-hatasi",
+   "bulunan": 1
   },
   {
    "ad": "Dünya Katılım",
    "url": "https://dunyakatilim.com.tr/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "durum": "ok",
+   "bulunan": 5
   },
   {
    "ad": "Hayat Finans",
-   "url": "https://www.hayatfinans.com.tr",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "url": "https://hayatfinans.com.tr/kampanyalar",
+   "durum": "ok",
+   "bulunan": 1
   },
   {
    "ad": "TOM Katılım",
-   "url": null,
-   "durum": "taranmadi",
-   "sebep": "yalnız arama denendi (sonuçsuz); resmi sayfa açılamadı: adres belirsiz ve WebFetch onayı yok",
+   "url": "https://tombank.com.tr/kampanyalar.html",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi",
    "bulunan": 0
   },
   {
    "ad": "Ziraat Bankası / Bankkart",
    "url": "https://www.bankkart.com.tr/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "durum": "ok",
+   "bulunan": 2
   },
   {
    "ad": "Ziraat Dinamik",
    "url": "https://www.ziraatdinamik.com.tr",
    "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
+   "sebep": "arama-sonucsuz",
    "bulunan": 0
   },
   {
    "ad": "İş Bankası / Maximum",
    "url": "https://www.maximum.com.tr/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 3
+   "durum": "ok",
+   "bulunan": 10
   },
   {
    "ad": "Akbank / Axess",
-   "url": "https://www.axess.com.tr/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "url": "https://www.akbank.com/kampanyalar",
+   "durum": "ok",
+   "bulunan": 8
   },
   {
    "ad": "Garanti BBVA / Bonus",
-   "url": "https://www.bonus.com.tr/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "url": "https://www.garantibbva.com.tr/kampanyalar",
+   "durum": "ok",
+   "bulunan": 10
   },
   {
    "ad": "Yapı Kredi / World",
    "url": "https://www.worldcard.com.tr/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "durum": "ok",
+   "bulunan": 8
   },
   {
    "ad": "QNB / CardFinans",
    "url": "https://www.qnbcard.com.tr/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 1
+   "durum": "ok",
+   "bulunan": 4
   },
   {
    "ad": "Enpara",
-   "url": "https://www.enpara.com",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "url": "https://www.enpara.com/kampanyalar",
+   "durum": "ok",
+   "bulunan": 8
   },
   {
    "ad": "Halkbank / Paraf",
    "url": "https://www.paraf.com.tr/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "durum": "ok",
+   "bulunan": 2
   },
   {
    "ad": "VakıfBank / Vakıfkart",
    "url": "https://www.vakifkart.com.tr/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "durum": "ok",
+   "bulunan": 2
   },
   {
    "ad": "DenizBank",
    "url": "https://www.denizbank.com/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "durum": "ok",
+   "bulunan": 4
   },
   {
    "ad": "TEB / CEPTETEB",
-   "url": "https://www.teb.com.tr/kampanyalar",
+   "url": "https://www.teb.com.tr/sizin-icin/kampanyalar/",
    "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "sebep": "robots",
+   "bulunan": 3
   },
   {
    "ad": "ING",
-   "url": "https://www.ing.com.tr/tr/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "url": "https://www.ing.com.tr/tr/sizin-icin/kampanyalar",
+   "durum": "ok",
+   "bulunan": 6
   },
   {
    "ad": "Şekerbank",
-   "url": "https://www.sekerbank.com.tr",
+   "url": "https://www.sekerbank.com.tr/bireysel/kampanyalar/kart-kampanyalari",
    "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
-  },
-  {
-   "ad": "ON Dijital",
-   "url": "https://on.com.tr",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
-  },
-  {
-   "ad": "N Kolay",
-   "url": "https://www.nkolay.com/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
-  },
-  {
-   "ad": "Hayhay",
-   "url": "https://www.hayhay.com/kampanyalar",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
+   "sebep": "robots",
    "bulunan": 0
   },
   {
    "ad": "Anadolubank",
-   "url": "https://www.anadolubank.com.tr/kampanya",
-   "durum": "taranmadi",
-   "sebep": "yalnız arama denendi (sonuçsuz); resmi sayfa WebFetch ile denenmedi (önceki 7 istek onay zaman aşımına uğradı)",
-   "bulunan": 0
+   "url": "https://www.anadolubank.com.tr/kampanyalar",
+   "durum": "ok",
+   "bulunan": 8
   },
   {
    "ad": "Fibabanka",
-   "url": "https://www.fibabanka.com.tr",
-   "durum": "taranmadi",
-   "sebep": "yalnız arama denendi (sonuçsuz); resmi sayfa WebFetch ile denenmedi (önceki 7 istek onay zaman aşımına uğradı)",
+   "url": "https://www.fibabanka.com.tr/kampanyalar",
+   "durum": "kampanya-yok",
    "bulunan": 0
   },
   {
    "ad": "Odeabank",
-   "url": "https://www.odeabank.com.tr",
-   "durum": "taranmadi",
-   "sebep": "yalnız arama denendi (sonuçsuz); resmi sayfa WebFetch ile denenmedi (önceki 7 istek onay zaman aşımına uğradı)",
-   "bulunan": 0
+   "url": "https://www.odeabank.com.tr/kampanyalar",
+   "durum": "ok",
+   "bulunan": 1
   },
   {
    "ad": "Alternatif Bank",
-   "url": "https://www.alternatifbank.com.tr",
-   "durum": "taranmadi",
-   "sebep": "yalnız arama denendi (sonuçsuz); resmi sayfa WebFetch ile denenmedi (önceki 7 istek onay zaman aşımına uğradı)",
-   "bulunan": 0
+   "url": "https://www.alternatifbank.com.tr/kampanyalar",
+   "durum": "ok",
+   "bulunan": 5
   },
   {
    "ad": "Burgan Bank",
-   "url": null,
-   "durum": "taranmadi",
-   "sebep": "yalnız arama denendi (sonuçsuz); resmi sayfa WebFetch ile denenmedi (önceki 7 istek onay zaman aşımına uğradı)",
-   "bulunan": 0
+   "url": "https://www.burgan.com.tr/tr/Pages/benim-icin/size-ozel/kampanyalar.aspx",
+   "durum": "ok",
+   "bulunan": 2
   },
   {
    "ad": "ICBC Turkey",
-   "url": null,
-   "durum": "taranmadi",
-   "sebep": "hiç denenmedi (zaman/bütçe)",
-   "bulunan": 0
+   "url": "https://www.icbc.com.tr/tr/sizin-icin/kampanya-detay/Kampanyalar/713/3443/0",
+   "durum": "ok",
+   "bulunan": 1
   },
   {
    "ad": "HSBC",
-   "url": "https://www.hsbc.com.tr",
-   "durum": "taranmadi",
-   "sebep": "yalnız arama denendi (sonuçsuz); resmi sayfa WebFetch ile denenmedi (önceki 7 istek onay zaman aşımına uğradı)",
-   "bulunan": 0
+   "url": "https://www.hsbc.com.tr/kartlar-ve-krediler/kampanyalar/guncel-kampanyalar",
+   "durum": "ok",
+   "bulunan": 6
+  },
+  {
+   "ad": "ON Dijital",
+   "url": "https://on.com.tr/kampanyalar",
+   "durum": "ok",
+   "bulunan": 21
+  },
+  {
+   "ad": "N Kolay",
+   "url": "https://www.nkolay.com/kampanyalar",
+   "durum": "ok",
+   "bulunan": 3
+  },
+  {
+   "ad": "Hayhay",
+   "url": "https://www.hayhay.com/Kampanyalar",
+   "durum": "ok",
+   "bulunan": 3
   },
   {
    "ad": "Colendi Bank",
    "url": null,
-   "durum": "taranmadi",
-   "sebep": "yalnız arama denendi (sonuçsuz); resmi sayfa WebFetch ile denenmedi (önceki 7 istek onay zaman aşımına uğradı)",
+   "durum": "ulasilamadi",
+   "sebep": "arama-sonucsuz",
    "bulunan": 0
   },
   {
    "ad": "Fups Bank",
    "url": null,
-   "durum": "taranmadi",
-   "sebep": "yalnız arama denendi (sonuçsuz); resmi sayfa WebFetch ile denenmedi (önceki 7 istek onay zaman aşımına uğradı)",
+   "durum": "ulasilamadi",
+   "sebep": "arama-sonucsuz",
    "bulunan": 0
   },
   {
    "ad": "Hesap.com (derleme)",
    "url": "https://hesap.com",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
+   "durum": "taranmadi",
+   "sebep": "yalnız arama sonucunda göründü (ürün sayfaları); kampanya sayfası açılmadı",
    "bulunan": 0
   },
   {
    "ad": "Hesapkurdu (derleme)",
    "url": "https://www.hesapkurdu.com",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
+   "durum": "kampanya-yok",
    "bulunan": 0
   },
   {
    "ad": "HangiKredi (derleme)",
    "url": "https://www.hangikredi.com",
    "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
+   "sebep": "site-hatasi",
    "bulunan": 0
   },
   {
    "ad": "Teklifimgelsin (derleme)",
    "url": "https://www.teklifimgelsin.com",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
+   "durum": "taranmadi",
+   "sebep": "yalnız arama sonucunda göründü; sayfa açılmadı",
    "bulunan": 0
   },
   {
    "ad": "Enuygun Finans (derleme)",
-   "url": "https://www.enuygun.com/finans",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "url": "https://www.enuygunfinans.com",
+   "durum": "ok",
+   "bulunan": 14
   },
   {
    "ad": "Avantaj Radar (derleme)",
    "url": "https://avantajradar.com",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
+   "durum": "taranmadi",
+   "sebep": "yalnız arama sonucunda göründü; sayfa açılmadı",
    "bulunan": 0
   },
   {
    "ad": "Kartcini (derleme)",
    "url": "https://kartcini.com",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
+   "durum": "taranmadi",
+   "sebep": "hiç denenmedi (bütçe/zaman)",
    "bulunan": 0
   },
   {
    "ad": "Kart Asistanım (derleme)",
    "url": "https://kartasistanim.com",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
+   "durum": "taranmadi",
+   "sebep": "yalnız arama sonucunda göründü; sayfa açılmadı",
    "bulunan": 0
   },
   {
    "ad": "Kart Avantaj (derleme)",
    "url": "https://kartavantaj.com",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "durum": "ok",
+   "bulunan": 2
   },
   {
    "ad": "Kartsever (derleme)",
    "url": "https://kartsever.com",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
+   "durum": "taranmadi",
+   "sebep": "hiç denenmedi (bütçe/zaman)",
    "bulunan": 0
   },
   {
    "ad": "Bi Kod Vardı (derleme)",
    "url": "https://bikodvardi.com",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
+   "durum": "taranmadi",
+   "sebep": "hiç denenmedi (bütçe/zaman)",
    "bulunan": 0
   },
   {
    "ad": "Memur365 (derleme)",
    "url": "https://memur365.com",
    "durum": "taranmadi",
-   "sebep": "hiç denenmedi (zaman/bütçe; WebFetch onayı alınamıyordu)",
+   "sebep": "hiç denenmedi (bütçe/zaman)",
    "bulunan": 0
   },
   {
    "ad": "Youthall (derleme)",
    "url": "https://www.youthall.com",
    "durum": "taranmadi",
-   "sebep": "hiç denenmedi (zaman/bütçe; WebFetch onayı alınamıyordu)",
+   "sebep": "hiç denenmedi (bütçe/zaman)",
    "bulunan": 0
   },
   {
    "ad": "İndigo Dergisi (derleme)",
    "url": "https://indigodergisi.com",
    "durum": "taranmadi",
-   "sebep": "hiç denenmedi (zaman/bütçe; WebFetch onayı alınamıyordu)",
+   "sebep": "hiç denenmedi (bütçe/zaman)",
    "bulunan": 0
   },
   {
    "ad": "Ekonomi Politikası (derleme)",
    "url": "https://www.ekonomipolitikasi.com.tr",
    "durum": "taranmadi",
-   "sebep": "hiç denenmedi (zaman/bütçe; WebFetch onayı alınamıyordu)",
+   "sebep": "hiç denenmedi (bütçe/zaman)",
    "bulunan": 0
   },
   {
    "ad": "Haber Dijital (derleme)",
    "url": "https://haberdijital.com.tr",
    "durum": "taranmadi",
-   "sebep": "hiç denenmedi (zaman/bütçe; WebFetch onayı alınamıyordu)",
+   "sebep": "hiç denenmedi (bütçe/zaman)",
    "bulunan": 0
   },
   {
    "ad": "Cashback Verenler (derleme)",
    "url": "https://www.cashbackverenler.com",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
-   "bulunan": 0
+   "durum": "ok",
+   "bulunan": 3
   },
   {
    "ad": "İşin Olsa (derleme)",
    "url": "https://www.isinolsa.com",
-   "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
+   "durum": "ok",
+   "bulunan": 8
+  },
+  {
+   "ad": "Kuponmanya (derleme)",
+   "url": "https://www.kuponmanya.com/kupon-kategori/banka-kampanyalari/",
+   "durum": "taranmadi",
+   "sebep": "hiç denenmedi (bütçe/zaman)",
+   "bulunan": 0
+  },
+  {
+   "ad": "DonanımHaber Forum",
+   "url": "https://forum.donanimhaber.com",
+   "durum": "ok",
    "bulunan": 3
+  },
+  {
+   "ad": "DonanımArşivi Forum",
+   "url": "https://forum.donanimarsivi.com",
+   "durum": "kampanya-yok",
+   "bulunan": 0
+  },
+  {
+   "ad": "Technopat Sosyal",
+   "url": "https://www.technopat.net/sosyal",
+   "durum": "ulasilamadi",
+   "sebep": "site-hatasi",
+   "bulunan": 0
   }
  ],
- "not": "BU TARAMA BÜYÜK ÖLÇÜDE BAŞARISIZ: resmi sayfaları okumak için başlatılan 7 WebFetch ajanının hepsi (kurum + derleme sitelerinin ~40 adresi) 'PROVENANCE_REQUIRED – izin isteği zamanında yanıtlanmadı' hatası aldı; zamanlanmış çalışmada kimse alan adı onayı veremedi (sebep: onay-zaman-asimi). Bu yüzden hiçbir kampanya sayfası okunamadı; yalnız WebSearch kullanıldı ve arama yalnız başlık+URL döndürüyor (özet/tarih yok). Başlığında somut fayda geçen 5 kampanya teyitsiz ve tarihsiz eklendi (İş Bankası x3, QNB, Albaraka). VakıfBank'ın 25.000 TL faizsiz haberi sosyal parçadaki kayıtla aynı olduğundan ayrıca eklenmedi. Enpara'nın GTA 6 için 1.000 TL iade kampanyası haberlere göre bitmiş, eklenmedi. alan=baslangic parçasındaki banka kampanyaları (173 kayıt; çoğu Kasım sonu biten) bu taramada yeniden doğrulanamadı ve bankalar.json'a taşınmadı; sonraki başarılı tarama bunları resmi sayfalardan yeniden doğrulayıp taşımalı (tarihsiz olanlar 07.12.2026'da otomatik düşer). Sonraki taramada önce 'taranmadi' ve 'onay-zaman-asimi' kaynaklarına bak; WebFetch alan adı onayı (ör. önceden izinli alan adları) verilmeden aynı sonuç tekrarlanır. kaynaklar.json'da URL'si boş olan Dünya Katılım, N Kolay, ON Dijital, Anadolubank için mevcut kampanya bağlantılarından çıkarılan adresler yazıldı, Vakıf Katılım ve Hayhay adresleri düzeltildi (canlı doğrulanmadı)."
+ "not": "26.11.2026 taraması. Okuma yolu: kurum başına resmi alan adı kısıtlı arama + arama sonucunda çıkan URL'lerin sayfa okuma ajanıyla açılması. Depodan gelen (arama sonucunda geçmeyen) URL'ler yine onay zaman aşımına düştü (TOM HADi sayfası, İşin Olsa ?p=74319 gibi); arama sonucunda geçen URL'ler büyük ölçüde okundu. robots engeli: Albaraka tr liste, Şekerbank, TEB, Garanti kampanya listesi, Yapı Kredi bazı detaylar, Vakıfkart liste sayfası. Sayfa okuma aracı uzun sayfaların bir kısmını özetledi (İş Bankası, Akbank, Garanti, Yapı Kredi, HSBC, ICBC, Anadolubank, ON liste); bu satırlar resmi sayfa olsa da özet olduğundan listeler teyitsiz işaretlendi. Kapsam dışı bırakılanlar: geleneksel bankaların hoş geldin/vadeli mevduat faizi ve faizli kredileri (Alternatif VOV hesap, Burgan hoş geldin mevduatı, ON vadeli hesap/Extra, TEB hoş geldin kredisi vb.), bitmiş kampanyalar (Okula Dönüş 31.10, Garanti Boyner, Odea yeni kart/Yemeksepeti/hisse, Vakıf Katılım şarj/hediyelik, Paraf market Ekim, VakıfBank Bankomat Ekim, QNB CardFinans sayfaları 2023-2024, Fibabanka geçmiş listesi), kişiye özel teklifler (Bankkart Combo). Emekli promosyonu kampanyaları bu taramada ayrıntılı taranmadı (haber başlıkları göründü). Çelişkili tarihler teyitsiz yazıldı: Garanti faizsiz 100.000 TL (15 mı 30 Kasım mı), TEB faizsiz nakit avans (31.10 mu 31.12 mi), İş Bankası ek hesap (%0 mı %0,99 mu), Albaraka Pratik Finansman başlangıcı. Önceki taramadan taşınan ve yeniden doğrulanamayan 5 teyitsiz kayıt (İş Bankası x3, QNB, Albaraka QR) tarihsiz olduğundan 21 gün içinde düşer. Sonraki taramada önce: TOM HADi (tombankhadi.com.tr/hadi-kazan/kampanyalar), Ziraat Katılım resmi sayfası, TEB/Şekerbank (robots), Garanti kampanya listesi, taranmadi derleme siteleri, Ziraat Bankası Bankkart liste, Yapı Kredi kategori listesi."
 }
