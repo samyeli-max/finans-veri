@@ -1,6 +1,6 @@
 {
-"kaynak": "Kampanya taraması – 26.11.2026",
-"tarih": "2026-11-26",
+"kaynak": "Kampanya taraması – 27.11.2026",
+"tarih": "2026-11-27",
 "kampanyalar": [
 {
 "kurum": "Amazon TR",
@@ -1064,7 +1064,7 @@
 "fayda": "%3 getirpara (1 getirpara = 1 TL); ayda en fazla 1.250 getirpara",
 "baslangic": null,
 "bitis": "2026-11-30",
-"kosul": "Getirfinans kartıyla peşin harcama; iptal/iade edilen harcamanın getirparası geri alınır; minimum harcama ve yeni müşteri şartı yok; Getirfinanslı olmak için uygulamadan hesap açmak gerekir",
+"kosul": "Getirfinans kartıyla peşin harcama; iptal/iade edilen harcamanın getirparası geri alınır; minimum harcama ve yeni müşteri şartı yok; Getirfinanslı olmak için uygulamadan hesap açmak gerekir. Resmi sayfada 'son gün 30 Kasım 2026' yazıyor (27.11.2026'da yeniden okundu)",
 "teyitsiz": false,
 "uygunluk": "uygun",
 "link": "https://www.getirfinans.com/kampanyalar/getirde-getirpara",
@@ -1658,6 +1658,54 @@
 },
 {
 "kurum": "Paycell",
+"kampanya": "Fatura talimatına 300 TL'ye varan iade",
+"tur": "cashback",
+"fayda": "Ardışık faturalarda 1. faturaya 50, 2.'ye 100, 3.'ye 150, 4.'ye 200, 5.'ye 300 TL nakit iade (en fazla 300 TL)",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Paycell Kart ile otomatik ödeme talimatı + 'HEMEN KATIL' (katılmadan talimat veren ödül alamaz); fatura başına en az 250 TL; talimat verildikten sonra iptal edilip yeniden verilirse geçersiz; kampanya 2.000 kişi ile sınırlı, müşteri başına bir kez; ödül 4 Aralık 2026'da Paycell Kart'a yatırılır; Ödemeler > Fatura Ödeme > Yeni Talimat ver",
+"teyitsiz": false,
+"uygunluk": "uygun",
+"link": "https://paycell.com.tr/kampanyalar/fatura-talimatlarina-nakit-iade-kampanyasi",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"fatura"
+],
+"id": "8db81a0ff6",
+"uygunlukMetni": "Uygun",
+"alan": "fintech",
+"ka": [
+"paycell"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "Paycell",
+"kampanya": "Biletinial'da %20 indirim",
+"tur": "indirim",
+"fayda": "Biletinial'da seçili etkinliklerde %20 indirim kuponu (üst sınır yazmıyor)",
+"baslangic": "2026-11-04",
+"bitis": "2026-11-30",
+"kosul": "Tüm Paycell müşterileri; Paycell uygulamasında 'HEMEN KATIL', kupon Fırsatlar > Hediye Dünyası > Kuponlarım'da; kupon ödeme aşamasında 'Kupon Kodu' alanına girilir; stoklarla sınırlı; başka kupon/kampanyayla birleşmez; minimum tutar yok",
+"teyitsiz": false,
+"uygunluk": "uygun",
+"link": "https://paycell.com.tr/kampanyalar/biletinial-da-yuzde-20-indirim",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"eglence"
+],
+"id": "0e6f06e121",
+"uygunlukMetni": "Uygun",
+"alan": "fintech",
+"ka": [
+"paycell"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "Paycell",
 "kampanya": "PlayStation Network ödemelerine anında %20 nakit iade",
 "tur": "cashback",
 "fayda": "%20, en fazla 300 TL",
@@ -1893,28 +1941,53 @@
 },
 {
 "kurum": "Tami",
-"kampanya": "Netflix üyeliğine %50 nakit iade (yeni müşteri, Kasım)",
+"kampanya": "Spotify üyeliğine %50 nakit iade (Kasım)",
 "tur": "cashback",
-"fayda": "%50, en fazla 150 TL",
+"fayda": "%50 nakit iade (üst sınır sayfada yok)",
 "baslangic": null,
 "bitis": "2026-11-30",
-"kosul": "Yeni Tami müşterileri. Resmi sayfa tami.com.tr/kampanya/netflix-uyeliginde-50-oraninda-nakit-iade-kasim-26. Kaynak: cashbackverenler.com",
+"kosul": "Tami resmi 'Aktif Kampanyalar' listesinde (27.11.2026) 'Son Gün' olarak görünüyor; detay sayfasında koşul metni yok (başlık dışında bilgi yok): Tami Kart ile ödeme beklenir, yeni müşteri/ilk abonelik şartı olup olmadığını uygulamadan kontrol et",
 "teyitsiz": true,
-"uygunluk": "yeni-musteri",
-"link": "https://www.cashbackverenler.com/#tami-netflix-50",
+"uygunluk": "kontrol",
+"link": "https://www.tami.com.tr/kampanya/spotify-uyeliginde-50-oraninda-nakit-iade-kasim-26",
 "oneCikan": true,
-"kaynak": "derleme",
+"kaynak": "resmi",
 "etiketler": [
 "abonelik",
-"netflix"
+"spotify"
 ],
-"id": "2d59a2b2cf",
-"uygunlukMetni": "Yeni müşteri şartı",
-"alan": "sosyal",
+"id": "fa8d4f7495",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
 "ka": [
 "tami"
 ],
 "eklenme": "2026-11-21"
+},
+{
+"kurum": "Tami",
+"kampanya": "ENUYGUN'da toplam 250 TL nakit iade (Kasım)",
+"tur": "cashback",
+"fayda": "Toplam 250 TL nakit iade",
+"baslangic": null,
+"bitis": "2026-11-30",
+"kosul": "Tami resmi 'Aktif Kampanyalar' listesinde (27.11.2026) 'Son Gün' olarak görünüyor; detay sayfasında koşul metni yok (başlık dışında bilgi yok): Tami Kart ile ödeme beklenir, yeni müşteri/ilk abonelik şartı olup olmadığını uygulamadan kontrol et",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://www.tami.com.tr/kampanya/enuygunda-toplam-250-tl-nakit-iade-hediye-firsati-kasim-26",
+"oneCikan": true,
+"kaynak": "resmi",
+"etiketler": [
+"enuygun",
+"seyahat"
+],
+"id": "5e685e6787",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"tami"
+],
+"eklenme": "2026-11-24"
 },
 {
 "kurum": "Tami",
@@ -2006,30 +2079,6 @@
 "market"
 ],
 "id": "a4c8b4989a",
-"uygunlukMetni": "Uygun",
-"alan": "sosyal",
-"ka": [
-"tami"
-],
-"eklenme": "2026-11-24"
-},
-{
-"kurum": "Tami",
-"kampanya": "Kafe ve restoranlarda QR ile ödemeye toplam 250 TL nakit iade (Kasım)",
-"tur": "cashback",
-"fayda": "Toplam 250 TL nakit iade",
-"baslangic": null,
-"bitis": "2026-11-30",
-"kosul": "Tami uygulamasıyla QR ödeme, kafe/restoran; alt limit detay sayfasında okunamadı",
-"teyitsiz": false,
-"uygunluk": "uygun",
-"link": "https://www.tami.com.tr/kampanya/kafe-ve-restoranlarda-qr-ile-ode-toplam-250-tl-nakit-iade-kasim-26",
-"oneCikan": true,
-"kaynak": "resmi",
-"etiketler": [
-"yeme"
-],
-"id": "388a4239b0",
 "uygunlukMetni": "Uygun",
 "alan": "sosyal",
 "ka": [
@@ -2461,9 +2510,11 @@
 "ka": [
 "thy",
 "thy miles smiles",
+"tk pay",
 "tkpay",
 "tkpay thy",
-"turk hava yollari"
+"turk hava yollari",
+"turk hava yollari elektronik para ve odeme hizmetleri"
 ],
 "eklenme": "2026-11-21"
 },
@@ -2489,9 +2540,11 @@
 "ka": [
 "thy",
 "thy miles smiles",
+"tk pay",
 "tkpay",
 "tkpay thy",
-"turk hava yollari"
+"turk hava yollari",
+"turk hava yollari elektronik para ve odeme hizmetleri"
 ],
 "eklenme": "2026-11-25"
 },
@@ -3669,58 +3722,6 @@
 "eklenme": "2026-11-24"
 },
 {
-"kurum": "Akbank",
-"kampanya": "Hepsiburada Efsane Cuma: Axess ile 30.000 TL+ alışverişe peşin fiyatına 12 taksit",
-"tur": "faizsiz taksit",
-"fayda": "Peşin fiyatına 12 taksit",
-"baslangic": "2026-11-22",
-"bitis": "2026-11-26",
-"kosul": "Axess kredi kartıyla 30.000 TL+ alışveriş; seçili satıcı ve ürünler, stokla sınırlı; 26.11.2026 16:59'a kadar. Kaynak: ShiftDelete, 23.11.2026",
-"teyitsiz": true,
-"uygunluk": "kredi-karti",
-"link": "https://promotion.hepsiburada.com/shop/lp/efsane-cuma-indirimleri",
-"kaynak": "haber",
-"etiketler": [
-"eticaret",
-"hepsiburada"
-],
-"oneCikan": false,
-"id": "74730e8450",
-"uygunlukMetni": "Kredi kartı gerekir",
-"alan": "sosyal",
-"ka": [
-"akbank",
-"akbank axess",
-"axess",
-"wings"
-],
-"eklenme": "2026-11-25"
-},
-{
-"kurum": "Türk Telekom",
-"kampanya": "Türk Telekom Prime ile Mavi'de %20 indirim",
-"tur": "indirim",
-"fayda": "%20 indirim",
-"baslangic": null,
-"bitis": "2026-11-26",
-"kosul": "Türk Telekom Prime üyesi (TT hattı); bitiş 'son 1 gün' etiketinden (~26.11). Kaynak: Bi Kod Vardı, 25.11.2026",
-"teyitsiz": true,
-"uygunluk": "kontrol",
-"link": "https://bikodvardi.com/kampanya/turk-telekom-prime-la-mavi-de-20-i-ndirim",
-"oneCikan": false,
-"kaynak": "derleme",
-"etiketler": [
-"giyim"
-],
-"id": "10ef2189fa",
-"uygunlukMetni": "Kontrol et",
-"alan": "sosyal",
-"ka": [
-"turk telekom"
-],
-"eklenme": "2026-11-25"
-},
-{
 "kurum": "MediaMarkt",
 "kampanya": "Şahane Kasım'a Özel 2 Kat CLUB Puan",
 "tur": "puan",
@@ -3772,6 +3773,27 @@
 "vakifkart"
 ],
 "eklenme": "2026-11-25"
+},
+{
+"kurum": "AHL Pay",
+"kampanya": "Efsane Kasım: fiziki altın siparişlerinde hediye bakiye",
+"tur": "diğer",
+"fayda": "Hediye bakiye (tutar/oran kaynakta yok; 'kazanılabilecek hediye bakiye için üst limit yoktur')",
+"baslangic": "2026-11-02",
+"bitis": "2026-11-30",
+"kosul": "Kaynak: DonanımHaber AHL Pay konusunda 10.11.2026 tarihli kullanıcı paylaşımı (resmi sayfa ahlpay.com.tr/kampanya/efsane-kasim okunmadı). AHL Pay bakiyesi veya kredi kartıyla ödenen fiziki altın siparişleri; 50 gr ve 100 gr gümüş hariç; minimum tutar ve kod yok; birden fazla kez kullanılabilir; hediye bakiye nakde çevrilemez ve transfer edilemez",
+"teyitsiz": true,
+"uygunluk": "uygun",
+"link": "https://forum.donanimhaber.com/ahl-pay-ana-konu-ahlatci-odeme--158301056-8",
+"oneCikan": false,
+"kaynak": "forum",
+"id": "c6c33b3343",
+"uygunlukMetni": "Uygun",
+"alan": "fintech",
+"ka": [
+"ahl pay"
+],
+"eklenme": "2026-11-27"
 },
 {
 "kurum": "Akbank",
@@ -5308,6 +5330,163 @@
 "eklenme": "2026-11-25"
 },
 {
+"kurum": "Hayat Pay",
+"kampanya": "500 TL yükle, 500 hayatpara kazan",
+"tur": "puan",
+"fayda": "500 hayatpara (TL karşılığı sayfada yok; Hediye Market'te ürün/GB paketi; 1 GB = 500 hayatpara)",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "IBAN ile Hayat Pay cüzdanına tek seferde 500 TL ve üzeri yükleme (30.11.2026 23:59'a kadar); ilk 10.000 kişi; sayfada '01.09.2026'dan itibaren kaydolan kullanıcılar' ifadesi var (yeni üye şartı mı kayıt tarihi tavanı mı belirsiz); 'TL yükle hayatpara kazan' ve doğum günü kampanyasından yararlananlar katılamaz; Standart/Gold hesapta aylık cüzdan limiti 5.500 TL (dolunca hediye aktarılamaz)",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://hayatpay.com.tr/kampanya/500-tl-yukle-500-hayatpara-kazan",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "7babe49fc9",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"hayat pay"
+],
+"eklenme": "2026-11-27"
+},
+{
+"kurum": "Hayat Pay",
+"kampanya": "Doğum gününe özel 2.000 hayatpara hediye",
+"tur": "puan",
+"fayda": "2.000 hayatpara (TL karşılığı sayfada yok)",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Kasım ayında doğmuş ve 01.11.2026'dan önce Hayat Pay'e kayıtlı kullanıcılar; IBAN ile tek seferde 1.000 TL ve üzeri yükleme; kişi başı bir kez; ilk 5.000 kişi; '500 TL yükle' ve 'TL yükle hayatpara kazan' kampanyalarından yararlananlar katılamaz",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://hayatpay.com.tr/kampanya/dogumgunu-kampanyasi",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "2520653cf5",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"hayat pay"
+],
+"eklenme": "2026-11-27"
+},
+{
+"kurum": "Hayat Pay",
+"kampanya": "EnUygun'da %10 indirim",
+"tur": "indirim",
+"fayda": "EnUygun'da %10 indirim",
+"baslangic": "2026-10-01",
+"bitis": "2026-11-30",
+"kosul": "Hayat Pay resmi kampanya listesinde (27.11.2026) görünüyor; detay sayfası bu taramada açılmadı, koşullar uygulamadan kontrol edilmeli",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://hayatpay.com.tr/kampanya",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"enuygun",
+"seyahat"
+],
+"id": "7a8bd7bf8e",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"hayat pay"
+],
+"eklenme": "2026-11-27"
+},
+{
+"kurum": "Hayat Pay",
+"kampanya": "ArabamON oto yıkama hizmetinde %15 indirim",
+"tur": "indirim",
+"fayda": "Oto yıkama hizmetinde %15 indirim",
+"baslangic": "2026-11-17",
+"bitis": "2026-11-30",
+"kosul": "Hayat Pay resmi kampanya listesinde (27.11.2026) görünüyor; detay sayfası bu taramada açılmadı, koşullar uygulamadan kontrol edilmeli",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://hayatpay.com.tr/kampanya",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "38b0434a02",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"hayat pay"
+],
+"eklenme": "2026-11-27"
+},
+{
+"kurum": "Hayat Pay",
+"kampanya": "Bingo Tek Fısta fişinle 1 GB değerinde hayatpara kazan",
+"tur": "puan",
+"fayda": "1 GB değerinde hayatpara (1 GB = 500 hayatpara)",
+"baslangic": "2026-10-05",
+"bitis": "2026-11-30",
+"kosul": "Hayat Pay resmi kampanya listesinde (27.11.2026) görünüyor; detay sayfası bu taramada açılmadı, koşullar uygulamadan kontrol edilmeli",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://hayatpay.com.tr/kampanya",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"market"
+],
+"id": "94655cbafa",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"hayat pay"
+],
+"eklenme": "2026-11-27"
+},
+{
+"kurum": "Hayat Pay",
+"kampanya": "Premium hesaba hoş geldin kampanyası",
+"tur": "puan",
+"fayda": "Hayatpara (tutar listede yok)",
+"baslangic": "2026-11-16",
+"bitis": "2026-11-30",
+"kosul": "Hayat Pay resmi kampanya listesinde (27.11.2026) görünüyor; detay sayfası bu taramada açılmadı, koşullar uygulamadan kontrol edilmeli",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://hayatpay.com.tr/kampanya/premiumhesaba-hosgeldin",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "7654d699d1",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"hayat pay"
+],
+"eklenme": "2026-11-27"
+},
+{
+"kurum": "Hayat Pay",
+"kampanya": "Fatura öde, hayatpara kazan",
+"tur": "puan",
+"fayda": "Hayatpara (tutar listede yok)",
+"baslangic": "2026-11-01",
+"bitis": "2026-11-30",
+"kosul": "Hayat Pay resmi kampanya listesinde (27.11.2026) görünüyor; detay sayfası bu taramada açılmadı, koşullar uygulamadan kontrol edilmeli",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://hayatpay.com.tr/kampanya",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"fatura"
+],
+"id": "3defbe79c0",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"hayat pay"
+],
+"eklenme": "2026-11-27"
+},
+{
 "kurum": "Hepsiburada",
 "kampanya": "Hepsitaksit: uygun ürünlerde peşin fiyatına 3 taksit (150.000 TL'ye kadar limit)",
 "tur": "faizsiz taksit",
@@ -6105,6 +6284,52 @@
 "eklenme": "2026-11-26"
 },
 {
+"kurum": "Papara",
+"kampanya": "Gratis'te Papara Card ile %50 cashback (Kasım)",
+"tur": "cashback",
+"fayda": "%50 cashback, aylık en fazla 100 TL",
+"baslangic": null,
+"bitis": "2026-11-30",
+"kosul": "Papara cashback sayfasında dönem '1 Kasım – 30 Kasım' (yıl yazmıyor); minimum harcama yazmıyor; doğrulanmış hesap + Papara Card gerekir. Papara'nın hukuki durumu için Papara Cashback kaydındaki nota bak. Play Store ve YouTube cashback sayfaları '1 Ocak – 31 Mart' dönemini gösteriyor (güncel değil, eklenmedi)",
+"teyitsiz": true,
+"uygunluk": "uygun",
+"link": "https://www.papara.com/en/cashback/gratis",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"giyim",
+"gratis"
+],
+"id": "87b1951814",
+"uygunlukMetni": "Uygun",
+"alan": "fintech",
+"ka": [
+"papara"
+],
+"eklenme": "2026-11-27"
+},
+{
+"kurum": "Paycell",
+"kampanya": "Okulyo Kart aktivasyonuna 50 TL",
+"tur": "cashback",
+"fayda": "50 TL nakit iade (kişi başı bir kez)",
+"baslangic": "2026-10-06",
+"bitis": "2026-11-30",
+"kosul": "Yalnız Okulyo Kart sahipleri; kart Paycell uygulamasında Cüzdan'dan aktive edilmeli; 18 yaş altı kullanıcılarda Veli Beyan süreci 30.11.2026'ya kadar tamamlanmalı; yükleme süresi sayfada iki farklı yazılmış (30 dk içinde / en geç 15.12.2026). Önceki kayıttaki 31.12.2026 bitiş tarihi resmi sayfadan düzeltildi",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://paycell.com.tr/kampanyalar/okulyo-kartini-aktive-at-50-tl-kazan",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "1e4cc7648d",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"paycell"
+],
+"eklenme": "2026-11-16"
+},
+{
 "kurum": "Paycell",
 "kampanya": "Paycell'den her ihtiyaca 250 TL nakit iade",
 "tur": "cashback",
@@ -6295,46 +6520,6 @@
 "paycell"
 ],
 "eklenme": "2026-11-24"
-},
-{
-"kurum": "Paycell",
-"kampanya": "Fatura talimatına 300 TL'ye varan iade",
-"tur": "cashback",
-"fayda": "300 TL'ye kadar",
-"baslangic": null,
-"bitis": "2026-11-30",
-"kosul": "Forum notu: alt limit 250 TL, fatura başı kademeli; iade izleyen ayın 4–5'inde",
-"teyitsiz": false,
-"uygunluk": "kontrol",
-"uygunlukMetni": "Kontrol et",
-"link": "https://www.paycell.com.tr/kampanyalar",
-"oneCikan": false,
-"id": "8db81a0ff6",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
-"ka": [
-"paycell"
-]
-},
-{
-"kurum": "Paycell",
-"kampanya": "Biletinial'da %20 indirim",
-"tur": "indirim",
-"fayda": "Seçili etkinliklerde %20",
-"baslangic": null,
-"bitis": "2026-11-30",
-"kosul": "Paycell kullanıcıları",
-"teyitsiz": false,
-"uygunluk": "uygun",
-"uygunlukMetni": "Uygun",
-"link": "https://www.paycell.com.tr/kampanyalar",
-"oneCikan": false,
-"id": "0e6f06e121",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
-"ka": [
-"paycell"
-]
 },
 {
 "kurum": "QNB",
@@ -6624,6 +6809,31 @@
 "samsung"
 ],
 "eklenme": "2026-11-24"
+},
+{
+"kurum": "Tami",
+"kampanya": "YouTube'ta %10 nakit iade (Kasım)",
+"tur": "cashback",
+"fayda": "%10 nakit iade (üst sınır sayfada yok)",
+"baslangic": null,
+"bitis": "2026-11-30",
+"kosul": "Tami resmi 'Aktif Kampanyalar' listesinde (27.11.2026) 'Son Gün' olarak görünüyor; detay sayfasında koşul metni yok (başlık dışında bilgi yok): Tami Kart ile ödeme beklenir, yeni müşteri/ilk abonelik şartı olup olmadığını uygulamadan kontrol et",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://www.tami.com.tr/kampanya/youtubeta-10-oraninda-nakit-iade-kazan-kasim-26",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"abonelik",
+"youtube"
+],
+"id": "0b618d6f8f",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"tami"
+],
+"eklenme": "2026-11-27"
 },
 {
 "kurum": "TEB",
@@ -8272,21 +8482,25 @@
 "kurum": "Paycell",
 "kampanya": "Evidea'da Paycell TROY kartla 300 TL",
 "tur": "indirim",
-"fayda": "1.500 TL+ alışverişe 300 TL",
-"baslangic": null,
+"fayda": "1.500 TL ve üzeri tek seferde alışverişe 300 TL indirim (her müşteri mağazada ve webde birer kez)",
+"baslangic": "2026-10-22",
 "bitis": "2026-12-06",
-"kosul": "Paycell TROY kart gerekir",
+"kosul": "Paycell TROY logolu kart gerekir; mağazada kasada kart gösterilip kampanya istenir, web/mobil uygulamada kupon gerekmez (TROY ile ödeme yeterli); QR ödemeler dahil değil; başka Evidea kampanyasıyla birleşmez; indirim ödeme anında uygulanır",
 "teyitsiz": false,
 "uygunluk": "kontrol",
-"uygunlukMetni": "Kontrol et",
-"link": "https://www.paycell.com.tr/kampanyalar",
+"link": "https://paycell.com.tr/kampanyalar/troy-evidea-kampanyasi",
 "oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"eticaret"
+],
 "id": "adb24bb850",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
 "ka": [
 "paycell"
-]
+],
+"eklenme": "2026-11-16"
 },
 {
 "kurum": "Ziraat Katılım",
@@ -8607,6 +8821,27 @@
 "obilet"
 ],
 "eklenme": "2026-11-23"
+},
+{
+"kurum": "Midas",
+"kampanya": "Yeni kullanıcılara kademeli ödül (26 Kasım – 30 Aralık)",
+"tur": "yeni müşteri bonusu",
+"fayda": "Net yatırıma göre ürün ödülü: 500.000 TL → Galaxy Buds 4 Pro / Whoop Peak 5.0 / Fintables eğitim paketi (ilk 1.200 kişi); 1 milyon TL → Nespresso Pixie / AirPods Pro 3 / Apple TV 4K (ilk 500); 5 milyon TL → PS5 Slim / FOREO (ilk 300); 10 milyon TL → iPhone 18 Pro / Galaxy Z Fold 8 (ilk 150); 20 milyon TL → 150.000 TL Beymen çeki / iPhone Duo (ilk 50)",
+"baslangic": "2026-11-26",
+"bitis": "2026-12-30",
+"kosul": "Kampanya başlangıcına kadar hiç fonlama (nakit/hisse virmanı) yapmamış mevcut müşteri ya da yeni hesap; ilk fonlamadan itibaren 30 gün içinde barem tutturulmalı ve 90 gün gün sonu bakiye korunmalı (düşerse ertesi gün 13:30'a kadar tamamlanır, en çok 3 hak); Midas içi virmanlar sayılmaz; kişi başı 1 ödül; ödül nakit değil ürün; en düşük barem 500.000 TL. Bildirim en geç 15.05.2027, teslim hedefi 16.08.2027",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.getmidas.com/ayricaliklar/",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "3c0d981311",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "fintech",
+"ka": [
+"midas"
+],
+"eklenme": "2026-11-27"
 },
 {
 "kurum": "A101 Kapıda / A101 uygulama",
@@ -10012,6 +10247,106 @@
 "eklenme": "2026-11-26"
 },
 {
+"kurum": "Hayat Pay",
+"kampanya": "Opet'le doldur Hayat Pay ile kazan",
+"tur": "puan",
+"fayda": "Hayatpara (Hediye Market'te Bingo, Papia, Familia, Molfix, Molped ürünleri; TL karşılığı yok)",
+"baslangic": "2026-06-01",
+"bitis": "2026-12-31",
+"kosul": "Opet uygulamasında en az 200 TL akaryakıt ödül puanı toplayınca 'Doldur Kazan' alanından kod alınır; Hayat Pay'de Kazan > 'Hediye Kodu Gir Kazan' alanına 31.12.2026'ya kadar girilir; hayatpara 1 yıl geçerli",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://hayatpay.com.tr/kampanya/opetle-doldur-hayatpay-ile-kazan",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"akaryakit",
+"opet"
+],
+"id": "130b844324",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"hayat pay"
+],
+"eklenme": "2026-11-27"
+},
+{
+"kurum": "Hayat Pay",
+"kampanya": "Çiçeksepeti rozetli ürünlerde %15 indirim kodu",
+"tur": "indirim",
+"fayda": "Çiçeksepeti alışverişinde %15 indirim",
+"baslangic": "2026-04-01",
+"bitis": "2026-12-31",
+"kosul": "Hayat Pay resmi listesinde 'ÇiçekSepeti alışverişinde %15 indirim' (1 Nisan – 31 Aralık 2026) olarak görünüyor; önceki kayıt (Kartcini) rozetli ürünlerde kod gerektiğini yazıyordu; detay sayfası okunmadı, koşulları uygulamadan kontrol et",
+"teyitsiz": true,
+"uygunluk": "uygun",
+"link": "https://hayatpay.com.tr/kampanya",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"ciceksepeti",
+"eticaret"
+],
+"id": "c80e847c79",
+"uygunlukMetni": "Uygun",
+"alan": "fintech",
+"ka": [
+"hayat pay"
+],
+"eklenme": "2026-11-24"
+},
+{
+"kurum": "Hayat Pay",
+"kampanya": "FLO alışverişinde 500 TL indirim",
+"tur": "indirim",
+"fayda": "FLO'da 500 TL indirim",
+"baslangic": "2026-10-01",
+"bitis": "2026-12-31",
+"kosul": "Hayat Pay resmi kampanya listesinde (27.11.2026) görünüyor; detay sayfası bu taramada açılmadı, koşullar uygulamadan kontrol edilmeli",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://hayatpay.com.tr/kampanya",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"flo",
+"giyim"
+],
+"id": "270752542e",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"hayat pay"
+],
+"eklenme": "2026-11-27"
+},
+{
+"kurum": "Hayat Pay",
+"kampanya": "QCAR Mobilite'de araç kiralamada %40 indirim",
+"tur": "indirim",
+"fayda": "Araç kiralamada %40 indirim",
+"baslangic": "2026-06-08",
+"bitis": "2026-12-31",
+"kosul": "Hayat Pay resmi kampanya listesinde (27.11.2026) görünüyor; detay sayfası bu taramada açılmadı, koşullar uygulamadan kontrol edilmeli",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://hayatpay.com.tr/kampanya",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"qcar",
+"seyahat"
+],
+"id": "64802eb2a1",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"hayat pay"
+],
+"eklenme": "2026-11-27"
+},
+{
 "kurum": "Hopi",
 "kampanya": "KazandıRio'da kodu gir, Paracık çarkını çevir (100 veya 500 Paracık)",
 "tur": "puan",
@@ -10796,6 +11131,77 @@
 },
 {
 "kurum": "Paycell",
+"kampanya": "Netflix aboneliğinin yarısı bizden: %50 nakit iade",
+"tur": "cashback",
+"fayda": "Netflix ödemesinde %50 nakit iade, kullanıcı başına en fazla 129,99 TL",
+"baslangic": "2026-10-01",
+"bitis": "2026-12-31",
+"kosul": "Netflix aylık abonelik ödemesi Paycell Kart (sanal/fiziksel) ile yapılmalı; Paycell uygulamasında 'HEMEN KATIL' şart (katıldıktan sonra kampanya süresince her ay %50 otomatik yüklenir); tüm Paycell müşterileri katılabilir, yeni müşteri şartı ve minimum tutar yok; müşteri başına bir kez; başka kampanyayla birleşmez. İade Paycell Kart'a yüklenir; 02.06.2026'dan beri nakit iadeler ATM'den çekilemez ve başka hesaba aktarılamaz",
+"teyitsiz": false,
+"uygunluk": "uygun",
+"link": "https://paycell.com.tr/kampanyalar/netflix-aboneliginin-yarisi-bizden",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"abonelik",
+"netflix"
+],
+"id": "ae610e281b",
+"uygunlukMetni": "Uygun",
+"alan": "fintech",
+"ka": [
+"paycell"
+],
+"eklenme": "2026-11-27"
+},
+{
+"kurum": "Paycell",
+"kampanya": "Sticker Kart aktivasyonunda kart ücreti iade",
+"tur": "cashback",
+"fayda": "200 TL nakit iade (kişi başı en fazla 200 TL)",
+"baslangic": "2026-10-06",
+"bitis": "2026-12-31",
+"kosul": "Yalnız Paycell Sticker Kart sahipleri; kart Cüzdanım > 'Paycell Kartını Aktive Et' bölümünden eklenmeli; müşteri başına bir kez; 'Hemen Katıl' ve minimum tutar yok; kart eklendikten sonra 30 dakika içinde Sticker Kart'a yüklenir",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://paycell.com.tr/kampanyalar/sticker-kart-ini-aktive-edene-kart-ucreti-iade",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "86537a6657",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"paycell"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "Paycell",
+"kampanya": "Harcadıkça Puan Kazan",
+"tur": "puan",
+"fayda": "Paycell Kart harcamasında harcama kadar puan (aylık en fazla 50.000 puan); Faturana Yansıt harcamasında 2 katı (aylık 20.000); kurum faturası/kredi kartı borç ödemesinde tutar kadar puan (aylık 10.000)",
+"baslangic": null,
+"bitis": "2026-12-31",
+"kosul": "Paycell Kart gerekir; puanlar 90 gün geçerli, Hediye Dünyası'nda internet paketi/indirim koduna çevrilir (TL karşılığı yok); altın alım-satımı, EFT/Havale, kart/cüzdan yüklemeleri ve bazı Faturana Yansıt kalemleri dahil değil; tek seferde 10.000 TL ve üzeri fatura/borç ödemeleri puan vermez",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://paycell.com.tr/kampanyalar/harcadikca-puan-kazan",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"fatura",
+"tum-harcamalar"
+],
+"id": "a271309971",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"paycell"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "Paycell",
 "kampanya": "TR Karekod ödemelerine 100 TL nakit iade",
 "tur": "cashback",
 "fayda": "100 TL nakit iade",
@@ -10842,66 +11248,6 @@
 "paycell"
 ],
 "eklenme": "2026-11-25"
-},
-{
-"kurum": "Paycell",
-"kampanya": "Sticker Kart aktivasyonunda kart ücreti iade",
-"tur": "cashback",
-"fayda": "Kart ücreti iade",
-"baslangic": null,
-"bitis": "2026-12-31",
-"kosul": "Uygulamadan Sticker Kart aktive et",
-"teyitsiz": false,
-"uygunluk": "uygun",
-"uygunlukMetni": "Uygun",
-"link": "https://www.paycell.com.tr/kampanyalar",
-"oneCikan": false,
-"id": "86537a6657",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
-"ka": [
-"paycell"
-]
-},
-{
-"kurum": "Paycell",
-"kampanya": "Okulyo Kart aktivasyonuna 50 TL",
-"tur": "cashback",
-"fayda": "50 TL",
-"baslangic": null,
-"bitis": "2026-12-31",
-"kosul": "Okulyo Kart aktive et",
-"teyitsiz": false,
-"uygunluk": "kontrol",
-"uygunlukMetni": "Kontrol et",
-"link": "https://www.paycell.com.tr/kampanyalar",
-"oneCikan": false,
-"id": "1e4cc7648d",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
-"ka": [
-"paycell"
-]
-},
-{
-"kurum": "Paycell",
-"kampanya": "Harcadıkça Puan Kazan",
-"tur": "puan",
-"fayda": "Harcamada puan",
-"baslangic": null,
-"bitis": "2026-12-31",
-"kosul": "Oran detay sayfasında",
-"teyitsiz": false,
-"uygunluk": "kontrol",
-"uygunlukMetni": "Kontrol et",
-"link": "https://www.paycell.com.tr/kampanyalar",
-"oneCikan": false,
-"id": "a271309971",
-"eklenme": "2026-11-16",
-"alan": "baslangic",
-"ka": [
-"paycell"
-]
 },
 {
 "kurum": "Payfour",
@@ -11156,7 +11502,7 @@
 "fayda": "Trafik %3, Kasko %5, TSS %7, Seyahat Sağlık %10 (TL üst limit belirtilmemiş)",
 "baslangic": null,
 "bitis": "2026-12-31",
-"kosul": "Tami uygulamasındaki Kampanyalar bölümünden Sigortam.net kuponu alınır; poliçe yenilemeleri hariç; indirim tutarı satın alımın yapıldığı karta 7 iş günü içinde iade edilir (kart türü kısıtı yazmıyor; banka kartıyla ödemede geçerli mi kontrol et); diğer indirimlerle birleşmez; 180 gün içinde iptalde geri alınır",
+"kosul": "Tami uygulamasındaki Kampanyalar bölümünden Sigortam.net kuponu alınır; poliçe yenilemeleri hariç; indirim tutarı satın alımın yapıldığı karta 7 iş günü içinde iade edilir (kart türü kısıtı yazmıyor; banka kartıyla ödemede geçerli mi kontrol et); diğer indirimlerle birleşmez; 180 gün içinde iptalde geri alınır. Sayfa güncellemesi 02.03.2026, 27.11.2026'da yeniden okundu (bitiş 31.12.2026)",
 "teyitsiz": false,
 "uygunluk": "kontrol",
 "link": "https://www.sigortam.net/tami-kullanicilarina-ozel-indirimler",
@@ -11169,6 +11515,31 @@
 "tami"
 ],
 "eklenme": "2026-11-24"
+},
+{
+"kurum": "Tami",
+"kampanya": "PlayStation Store ödemelerine %10 iade, en fazla 100 TL (Aralık)",
+"tur": "cashback",
+"fayda": "%10 iade, en fazla 100 TL (başlıkta 'toplam 100 TL')",
+"baslangic": null,
+"bitis": "2026-12-31",
+"kosul": "Tami resmi 'Aktif Kampanyalar' listesinde (27.11.2026) 'Son Gün' olarak görünüyor; detay sayfasında koşul metni yok (başlık dışında bilgi yok): Tami Kart ile ödeme beklenir, yeni müşteri/ilk abonelik şartı olup olmadığını uygulamadan kontrol et",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://www.tami.com.tr/kampanya/playstationda-10-oraninda-100-tlye-varan-nakit-iade-kazan-aralik-26",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"eglence",
+"playstation"
+],
+"id": "a6dd65e2f4",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"tami"
+],
+"eklenme": "2026-11-27"
 },
 {
 "kurum": "TEB",
@@ -11319,9 +11690,11 @@
 "ka": [
 "thy",
 "thy miles smiles",
+"tk pay",
 "tkpay",
 "tkpay thy",
-"turk hava yollari"
+"turk hava yollari",
+"turk hava yollari elektronik para ve odeme hizmetleri"
 ]
 },
 {
@@ -11657,6 +12030,28 @@
 },
 {
 "kurum": "UPT",
+"kampanya": "Hesaba Al yapan yeni müşterilere 200 TL nakit iade",
+"tur": "yeni müşteri bonusu",
+"fayda": "200 TL nakit iade (kişi başı bir kez)",
+"baslangic": null,
+"bitis": "2026-12-31",
+"kosul": "Yalnız yeni müşteriler; üyelik başladıktan sonraki 30 gün içinde Hesaba Al işlemi yapılmalı; tutar isme gönderilen tutardır; başka kampanyayla birleşmez; bloke/kısıtlı hesaplar alamaz; işlem iptal/iadesinde nakit iade geri alınır. 24.11.2026'da resmi sayfadan okundu; bu taramada sayfa açılamadı (onay zaman aşımı), yeniden doğrulanmadı",
+"teyitsiz": false,
+"uygunluk": "yeni-musteri",
+"link": "https://www.uption.com.tr/en/en-son-kampanyalar/hesaba-al-yapan-yeni-musterilere-200-tl-nakit-iade",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "8cb52b2b5f",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "fintech",
+"ka": [
+"upt",
+"uption"
+],
+"eklenme": "2026-11-24"
+},
+{
+"kurum": "UPT",
 "kampanya": "Uption Kart ile Hepsiburada Premium üyeliğine %100 nakit iade",
 "tur": "cashback",
 "fayda": "Üyelik bedelinin tamamı (aylık 69,90 TL)",
@@ -11680,28 +12075,6 @@
 "uption"
 ],
 "eklenme": "2026-11-25"
-},
-{
-"kurum": "UPT",
-"kampanya": "Hesaba Al yapan yeni müşterilere 200 TL nakit iade",
-"tur": "yeni müşteri bonusu",
-"fayda": "200 TL nakit iade (kişi başı bir kez)",
-"baslangic": null,
-"bitis": "2026-12-31",
-"kosul": "Yalnız yeni müşteriler; üyelik başladıktan sonraki 30 gün içinde Hesaba Al işlemi yapılmalı; tutar isme gönderilen tutardır; başka kampanyayla birleşmez; bloke/kısıtlı hesaplar alamaz; işlem iptal/iadesinde nakit iade geri alınır",
-"teyitsiz": false,
-"uygunluk": "yeni-musteri",
-"link": "https://www.uption.com.tr/en/en-son-kampanyalar/hesaba-al-yapan-yeni-musterilere-200-tl-nakit-iade",
-"oneCikan": false,
-"kaynak": "resmi",
-"id": "8cb52b2b5f",
-"uygunlukMetni": "Yeni müşteri şartı",
-"alan": "fintech",
-"ka": [
-"upt",
-"uption"
-],
-"eklenme": "2026-11-24"
 },
 {
 "kurum": "UPTION (MetropolCard)",
@@ -11949,7 +12322,7 @@
 "fayda": "Trafik 500 TL, Kasko 800 TL, TSS 1.200 TL nakit iade kuponu (toplam en fazla 2.500 TL)",
 "baslangic": null,
 "bitis": "2026-12-31",
-"kosul": "Mevcut veya yeni Vodafone Pay kullanıcısı; yalnız kampanya bağlantısı ya da Sigortam.net web/uygulaması üzerinden ilk kez poliçe (yenileme ve tele-satış hariç); alımda kampanya seçilmezse sonradan katılınamaz; kupon kodu SMS ile gelir, Vodafone Pay'de Kampanya Kodu alanına girilir; 180 gün içinde iptalde geri alınır. Sayfada Vodafone hattı şartı yazmıyor; hat gerekip gerekmediğini kontrol et",
+"kosul": "Mevcut veya yeni Vodafone Pay kullanıcısı; yalnız kampanya bağlantısı ya da Sigortam.net web/uygulaması üzerinden ilk kez poliçe (yenileme ve tele-satış hariç); alımda kampanya seçilmezse sonradan katılınamaz; kupon kodu SMS ile gelir, Vodafone Pay'de Kampanya Kodu alanına girilir; 180 gün içinde iptalde geri alınır. Sayfa güncellemesi 22.04.2026, 27.11.2026'da yeniden okundu (bitiş 31.12.2026). Sayfada Vodafone hattı şartı yazmıyor; hat gerekip gerekmediğini kontrol et",
 "teyitsiz": false,
 "uygunluk": "kontrol",
 "link": "https://www.sigortam.net/vodafone-pay-kullanicilarina-ozel-sigortam-net-ten-toplamda-2500-tl-nakit-iade",
@@ -12157,7 +12530,7 @@
 "fayda": "Her bakiye yükleme işlemi için 10 TL (üst limit belirtilmemiş)",
 "baslangic": "2026-05-08",
 "bitis": "2026-12-31",
-"kosul": "ZiraatPay uygulamasında Para Yükle > Banka/Kredi Kartı ile Yükle; yüklenen bakiye Mastercard ZiraatPay Kart (fiziksel/dijital) ile harcanmalı. Kaynak: forum alıntısı (17.07.2026); resmi Ziraat sayfasından teyit edilemedi; forumda ödülün düşük bulunduğu yazılıyor",
+"kosul": "ZiraatPay uygulamasında Para Yükle > Banka/Kredi Kartı ile Yükle; yüklenen bakiye Mastercard ZiraatPay Kart (fiziksel/dijital) ile harcanmalı. Kaynak: forum alıntısı (17.07.2026); resmi Ziraat sayfasından bu taramada da teyit edilemedi; forumda ödülün düşük bulunduğu yazılıyor",
 "teyitsiz": true,
 "uygunluk": "kontrol",
 "link": "https://forum.donanimhaber.com/ziraatpay-ana-konu--160788672-3",
@@ -12342,6 +12715,31 @@
 "paraf"
 ],
 "eklenme": "2026-11-25"
+},
+{
+"kurum": "Hayat Pay",
+"kampanya": "Espressolab online mağazasında %20 indirim",
+"tur": "indirim",
+"fayda": "Espressolab online mağazasında %20 indirim",
+"baslangic": "2026-10-19",
+"bitis": "2027-01-31",
+"kosul": "Hayat Pay resmi kampanya listesinde (27.11.2026) görünüyor; detay sayfası bu taramada açılmadı, koşullar uygulamadan kontrol edilmeli",
+"teyitsiz": false,
+"uygunluk": "kontrol",
+"link": "https://hayatpay.com.tr/kampanya",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"espressolab",
+"yeme"
+],
+"id": "f66e213b3d",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"hayat pay"
+],
+"eklenme": "2026-11-27"
 },
 {
 "kurum": "THY",
@@ -12557,6 +12955,27 @@
 "turkiye hayat emeklilik"
 ],
 "eklenme": "2026-11-25"
+},
+{
+"kurum": "AHL Pay",
+"kampanya": "AHL Card'ı aktive eden yeni kullanıcıya 200 TL harcama bakiyesi",
+"tur": "yeni müşteri bonusu",
+"fayda": "200 TL harcama bakiyesi (kart başvuru ücreti 99,90 TL)",
+"baslangic": null,
+"bitis": null,
+"kosul": "AHL Pay SSS sayfası: başvuru ücreti 99,90 TL, aktivasyon sonrası hesaba 200 TL harcama bakiyesi yatırılır; ekonomim haberi de ilk kez AHL Card alıp aktive edene 200 TL hediye diyor. İki sayfada da tarih yok, geçerlilik doğrulanamadı; net kazanç ≈100 TL",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://www.ahlpay.com.tr/en/frequently-asked-questions",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "21d04bbbea",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "fintech",
+"ka": [
+"ahl pay"
+],
+"eklenme": "2026-11-27"
 },
 {
 "kurum": "Akbank",
@@ -14357,30 +14776,6 @@
 "alan": "ekgelir",
 "ka": [
 "hayat finans"
-],
-"eklenme": "2026-11-24"
-},
-{
-"kurum": "Hayat Pay",
-"kampanya": "Çiçeksepeti rozetli ürünlerde %15 indirim kodu",
-"tur": "indirim",
-"fayda": "%15 indirim (alt limit yok)",
-"baslangic": null,
-"bitis": null,
-"kosul": "Hayat Pay üyeleri, Çiçeksepeti'nde rozetli ürünler; tarih görülemedi (kaynak: Kartcini)",
-"teyitsiz": true,
-"uygunluk": "uygun",
-"link": "https://www.kartcini.com/",
-"oneCikan": false,
-"kaynak": "derleme",
-"etiketler": [
-"eticaret"
-],
-"id": "c80e847c79",
-"uygunlukMetni": "Uygun",
-"alan": "sosyal",
-"ka": [
-"hayat pay"
 ],
 "eklenme": "2026-11-24"
 },
@@ -16429,6 +16824,27 @@
 },
 {
 "kurum": "Papara",
+"kampanya": "Papara Cashback",
+"tur": "cashback",
+"fayda": "Marka bazlı nakit iade (örn. Gratis %50, aylık 100 TL'ye kadar; Hop %20 – 50 TL, Uber %20); oran ve limit markaya göre değişir",
+"baslangic": null,
+"bitis": null,
+"kosul": "Doğrulanmış Papara hesabı + Papara Card ile ödeme. SSS 'son 1 ay ve içinde bulunulan ayda toplam 500 TL Papara Kart harcaması' şartını yazıyor, cashback marka sayfaları minimum harcama yazmıyor (çelişki). DURUM: TCMB iptal kararı (30.10.2025) 21.01.2026'da kaldırıldı; şirket Emlak Katılım'a devredildi (SPK 16.04.2026, Rekabet Kurulu 07.05.2026); kart/ödeme hizmetlerinin 15.09.2026'da yeniden açıldığı tek haber kaynağına (Timeturk) dayanıyor. Güncel oranlar uygulamadaki Cashback sayfasından teyit edilmeli",
+"teyitsiz": true,
+"uygunluk": "uygun",
+"link": "https://www.papara.com/en/cashback-lp",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "73e710fadc",
+"uygunlukMetni": "Uygun",
+"alan": "fintech",
+"ka": [
+"papara"
+],
+"eklenme": "2026-11-16"
+},
+{
+"kurum": "Papara",
 "kampanya": "Steam ödemelerine %50 cashback",
 "tur": "cashback",
 "fayda": "%50, en fazla 150 TL",
@@ -16472,27 +16888,6 @@
 "papara"
 ],
 "eklenme": "2026-11-24"
-},
-{
-"kurum": "Papara",
-"kampanya": "Papara Cashback",
-"tur": "cashback",
-"fayda": "Marka bazlı nakit iade (örn. Hop %20 – 50 TL, Uber %20); oran ve limit markaya göre değişir",
-"baslangic": null,
-"bitis": null,
-"kosul": "Papara Card ile ödeme, doğrulanmış hesap; mağaza açıklamasına göre son 2 ayda toplam 500 TL+ harcama şartı. RİSK: Papara TMSF kayyımı altında; TCMB'nin iptal kararı (31.10.2025) mahkemece durduruldu ve hizmetlerin 15.09.2026'da yeniden açıldığı tek haber kaynağına dayanıyor. Güncel oranlar resmi sayfadan teyit edilemedi",
-"teyitsiz": true,
-"uygunluk": "uygun",
-"link": "https://www.papara.com/en/cashback-lp",
-"oneCikan": false,
-"kaynak": "resmi",
-"id": "73e710fadc",
-"uygunlukMetni": "Uygun",
-"alan": "fintech",
-"ka": [
-"papara"
-],
-"eklenme": "2026-11-16"
 },
 {
 "kurum": "Papara",
@@ -17160,6 +17555,37 @@
 "eklenme": "2026-11-26"
 },
 {
+"kurum": "TKPAY (THY)",
+"kampanya": "TKPAY Kart harcamalarında TK Para kazanımı",
+"tur": "puan",
+"fayda": "Yurt içi harcamada %3, yurt dışı harcamada %5 TK Para (TK Para yalnız THY bileti/ek hizmetinde kullanılır, nakde çevrilemez, 2 yıl geçerli)",
+"baslangic": null,
+"bitis": null,
+"kosul": "Yalnız Miles&Smiles üyeleri (üye başına bir cüzdan); THY sayfasında tarih ve üst sınır yok, kampanya sayfası (tkpay.com/tr/all-campaigns) okunamadı; sayfada Türkiye için '300 Euro'ya varan nakit iade' ifadesi de geçiyor (tarih/koşul yok). Hizmeti TCMB izinli Türk Hava Yolları Elektronik Para ve Ödeme Hizmetleri A.Ş. sunuyor",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://www.turkishairlines.com/tr-int/tkpay-cuzdan/",
+"oneCikan": false,
+"kaynak": "resmi",
+"etiketler": [
+"seyahat",
+"thy"
+],
+"id": "238fce193e",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"thy",
+"thy miles smiles",
+"tk pay",
+"tkpay",
+"tkpay thy",
+"turk hava yollari",
+"turk hava yollari elektronik para ve odeme hizmetleri"
+],
+"eklenme": "2026-11-27"
+},
+{
 "kurum": "Toluna",
 "kampanya": "Toluna Influencers: anket doldur, puanı hediye çekine çevir",
 "tur": "anket/görev",
@@ -17206,25 +17632,25 @@
 },
 {
 "kurum": "Tosla",
-"kampanya": "Arkadaşını davet et: ikinize 20 TL Tosback",
-"tur": "arkadaşını getir",
-"fayda": "Davet başına 20 TL Tosback (davetliye de 20 TL); üst limit belirtilmemiş",
+"kampanya": "Tosla Kart alışverişlerinde 450 TL'ye varan Tosback",
+"tur": "cashback",
+"fayda": "450 TL'ye kadar Tosback (oran belirtilmemiş)",
 "baslangic": null,
 "bitis": null,
-"kosul": "Tosla > Profil > Arkadaşlarını davet et bölümünden davet linkini paylaş; Tosla'yı ilk kez kuran arkadaşın bu davetle kaydolunca ikinize 20 TL Tosback yatar. Tutar dönemden döneme değişmiş (forumda 5–25 TL); kaynaklar 2023 tarihli, güncel tutarı uygulamada kontrol et.",
+"kosul": "Uygulama mağazası açıklamasındaki genel ifade: Tosla Kart ile alışveriş; oran, tarih ve koşullar uygulamadaki Kampanyalar bölümünden teyit edilmeli. 27.11.2026'da tosla.com için arama sonuç vermedi, resmi kampanya sayfası okunamadı; Tosla'nın kapandığına dair haber bulunamadı (Technopat 'Tosla bitti mi?' konusu okunamadı)",
 "teyitsiz": true,
 "uygunluk": "uygun",
 "link": "https://tosla.com",
 "oneCikan": false,
-"kaynak": "derleme",
-"id": "178839bf82",
-"uygunlukMetni": "Uygun",
-"alan": "ekgelir",
-"ka": [
-"tosla"
-],
+"kaynak": "resmi",
 "etiketler": [
 "tum-harcamalar"
+],
+"id": "9b5d53b15e",
+"uygunlukMetni": "Uygun",
+"alan": "fintech",
+"ka": [
+"tosla"
 ],
 "eklenme": "2026-11-24"
 },
@@ -17465,10 +17891,10 @@
 "kurum": "UPT",
 "kampanya": "Arkadaşını davet et",
 "tur": "arkadaşını getir",
-"fayda": "Davet edilen arkadaş başına 100 TL (sayfa başlığında 500 TL de geçiyor; tutar teyit edilemedi)",
+"fayda": "Davet edilen arkadaş başına 100 TL (sayfa başlığında 500 TL de geçiyor; tutar teyit edilmeli)",
 "baslangic": null,
 "bitis": null,
-"kosul": "UPT uygulamasındaki davet linkini paylaş; arkadaşın UPT'ye üye olup ilk işlemini yapınca ödül yatar. Resmi sayfa bu taramada açılamadı (onay zaman aşımı); tutar ve koşulları uygulamada kontrol et.",
+"kosul": "Kampanya listesinden biliniyor; detay sayfası bu taramada da açılamadı (onay zaman aşımı); tarih ve koşullar bilinmiyor. UPT'nin Nisan–Haziran 2026 kampanyalarının tümü bitmiş durumda; bu sayfanın güncelliğini uygulamadan kontrol et",
 "teyitsiz": true,
 "uygunluk": "kontrol",
 "link": "https://www.uption.com.tr/en/en-son-kampanyalar/arkadasini-davet-et",
@@ -17476,12 +17902,78 @@
 "kaynak": "resmi",
 "id": "b80335936a",
 "uygunlukMetni": "Kontrol et",
-"alan": "ekgelir",
+"alan": "fintech",
 "ka": [
 "upt",
 "uption"
 ],
 "eklenme": "2026-11-24"
+},
+{
+"kurum": "UPT",
+"kampanya": "Yeni üye ol, yurt dışı transfer yap: 50 TL kazan (15–30 Kasım)",
+"tur": "yeni müşteri bonusu",
+"fayda": "50 TL (sayfa başlığında $50 de geçiyor)",
+"baslangic": null,
+"bitis": null,
+"kosul": "Sayfada yıl yok: 15–30 Kasım arasında üye olup üyelik belgelerini tamamlamak ve uygulamadaki 'Transfer Abroad' / 'Transfer to European Account' menüsünden yurt dışı transfer yapmak (transfer alıcıya ulaşmalı); ödül 3 iş günü içinde yüklenir. Yılın 2026 olduğu sayfadan doğrulanamadı (2024/2025'e ait olabilir)",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://uption.com.tr/en/en-son-kampanyalar/50-tl-kazan",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "1bf9134fbe",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "fintech",
+"ka": [
+"upt",
+"uption"
+],
+"eklenme": "2026-11-27"
+},
+{
+"kurum": "UPT",
+"kampanya": "Ria ile gelen paraya Hesaba Al: her işlemde 25 TL (2–31 Aralık)",
+"tur": "cashback",
+"fayda": "Her Ria 'Hesaba Al' işleminde 25 TL (sayfa başlığında $25 de geçiyor)",
+"baslangic": null,
+"bitis": null,
+"kosul": "Sayfada yıl yok: 2–31 Aralık arasında Ria ile Türkiye'ye gönderilen para UPTION hesabına 'Hesaba Al' menüsünden referans numarasıyla alınmalı; alıcının TL hesabı olmalı; ödül 3 iş günü içinde yüklenir. Yılın 2026 olduğu sayfadan doğrulanamadı",
+"teyitsiz": true,
+"uygunluk": "kontrol",
+"link": "https://uption.com.tr/en/en-son-kampanyalar/uption-hesabina-aldikca-kazan",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "a96c164e01",
+"uygunlukMetni": "Kontrol et",
+"alan": "fintech",
+"ka": [
+"upt",
+"uption"
+],
+"eklenme": "2026-11-27"
+},
+{
+"kurum": "UPT",
+"kampanya": "Yeni yıl hediyen UPTION'dan: ilk yurt dışı transfer ücreti iadesi (25–31 Aralık)",
+"tur": "ücretsiz hizmet",
+"fayda": "İlk yurt dışı transfer ücretinin iadesi (TL/% üst sınır yazmıyor)",
+"baslangic": null,
+"bitis": null,
+"kosul": "Sayfada yıl yok: 25–31 Aralık arasında üye olup üyelik belgelerini tamamlamak; yalnız ücretli uluslararası transferler, transfer alıcıya ulaşmalı; iade 7 Ocak'a kadar UPTION hesabına yapılır. Yılın 2026 olduğu sayfadan doğrulanamadı",
+"teyitsiz": true,
+"uygunluk": "yeni-musteri",
+"link": "https://uption.com.tr/en/en-son-kampanyalar/yeni-yil-hediyen-uptiondan",
+"oneCikan": false,
+"kaynak": "resmi",
+"id": "1f7953cccc",
+"uygunlukMetni": "Yeni müşteri şartı",
+"alan": "fintech",
+"ka": [
+"upt",
+"uption"
+],
+"eklenme": "2026-11-27"
 },
 {
 "kurum": "Vakıf Katılım",

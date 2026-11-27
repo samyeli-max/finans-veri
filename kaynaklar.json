@@ -1,6 +1,6 @@
 {
  "surum": 1,
- "guncellendi": "2026-11-26",
+ "guncellendi": "2026-11-27",
  "not": "Tarama görevleri bu listeyi kullanır; çalışmayan URL bulunursa düzeltilir, yeni kurum bulunursa eklenir.",
  "alanlar": {
   "bankalar": [
@@ -244,23 +244,25 @@
     "kurum": "Papara",
     "tip": "fintech",
     "url": "https://www.papara.com/kampanyalar",
-    "not": "TCMB iznini 30.10.2025'te iptal etti (RG 31.10.2025); Ankara 25. İdare Mahkemesi 09.12.2025'te yürütmeyi durdurdu; şirket TMSF kayyımı altında. Milli Gazete (17.09.2026) 15.09.2026'da Papara Card/para yatırma/transfer hizmetlerinin yeniden açıldığını yazıyor (tek kaynak, resmi duyuru okunamadı). Kampanyalar teyitsiz; /kampanyalar sayfası onay zaman aşımı, https://www.papara.com/en/cashback-lp okunabildi."
+    "not": "LİSANS/DURUM (27.11.2026): TCMB iptal kararı (30.10.2025, RG 31.10.2025) 21.01.2026'da kaldırıldı (Timeturk/DonanımHaber; TCMB faal e-para listesinde 'Papara Elektronik Para A.Ş.' görünüyor). TMSF 22.01.2026'da PPR Holding'i satışa çıkardı, ihaleyi Emlak Katılım kazandı (SPK 16.04.2026; Rekabet Kurulu 07.05.2026). Kart/ödeme hizmetleri 15.09.2026'da yeniden açıldı (Timeturk; resmi duyuru okunamadı). Kampanyalar teyitsiz. papara.com/kampanyalar onay zaman aşımı; okunabilen: papara.com/en/cashback-lp, /en/cashback/<marka> (gratis, play-store, youtube), /en/faq/cashback/what-is-papara-cashback."
    },
    {
     "kurum": "Paycell",
     "tip": "fintech",
-    "url": "https://www.paycell.com.tr/kampanyalar"
+    "url": "https://paycell.com.tr/kampanyalar",
+    "not": "Resmi kampanya listesi (www'suz alan adı) arama sonucundan okundu; liste 8 sayfa ama sayfalama bağlantıları '#' olduğundan yalnız 1. sayfa okunabildi. Detay adresleri paycell.com.tr/kampanyalar/<ad>. Not: Okulyo Kart 50 TL gerçek bitişi 30.11.2026'dır (önceki kayıtta 31.12 yazıyordu)."
    },
    {
     "kurum": "Tosla",
     "tip": "fintech",
-    "url": "https://tosla.com"
+    "url": "https://tosla.com",
+    "not": "27.11.2026: tosla.com için arama sonuç vermedi; Technopat 'Tosla bitti mi?' konusu okunamadı (site hatası); Tosla'nın iptal/kapanma haberi bulunamadı. Kampanyalar teyitsiz."
    },
    {
     "kurum": "Param",
     "tip": "fintech",
     "url": "https://param.com.tr/avantajlar",
-    "not": "TMSF KAYYIM: TCMB 30.04.2026'da izinleri geçici durdurdu; mahkeme yürütmeyi durdurunca 04.05.2026'da hizmetler açıldı; 13.07.2026'da yürütmeyi durdurma kalktı ve PARAM ve grup şirketlerine TMSF kayyım atandı (7145 sayılı Kanun Geç. 2). Bireysel Param Cüzdan bakiye ödemeleri 27.10.2026'da başladı (TMSF duyurusuna atfen, dolaylı kaynak). Avantajlar sayfası JS ile yükleniyor, metin alınamadı."
+    "not": "TMSF KAYYIM sürüyor (13.07.2026; 7145 sayılı Kanun Geç. 2). param.com.tr ana sayfasında kayyım duyurusu var (27.11.2026). TCMB faal listesinde 'Turk Elektronik Para A.Ş.' (kod 827) yer alıyor. Bireysel ParamCüzdan bakiye ödemeleri 27.10.2026'da başladı (TMSF duyurusuna atfen hukuk bürosu yazısı; Kasım güncellemesi bulunamadı). /avantajlar ve /en/advantages/* sayfaları ana sayfaya yönleniyor, kampanya okunamadı; kayyım altında yeni kampanya beklenmez."
    },
    {
     "kurum": "Papel",
@@ -276,8 +278,8 @@
    {
     "kurum": "Hepsipay",
     "tip": "fintech",
-    "url": null,
-    "not": "Resmi kampanya sayfası bulunamadı; forum (DonanımHaber Hepsipay konusu) Temmuz 2026'ya kadar tarihli kampanya göstermiyor."
+    "url": "https://www.hepsipay.com/bireysel/kampanyalar",
+    "not": "Resmi sayfa bulundu: hepsipay.com/bireysel/kampanyalar/<ay>-<marka>-kampanyasi (Mart/Nisan/Ağustos mağaza kampanyaları; okunan sayfa sunucu hatası verdi, güncel liste görülemedi). Forum (DonanımHaber, son mesaj 10.08.2026) güncel kampanya göstermiyor."
    },
    {
     "kurum": "ZiraatPay",
@@ -293,54 +295,64 @@
      "UPTION",
      "Uption"
     ],
-    "not": "Kampanya detay sayfaları /en/en-son-kampanyalar/<ad> adresinde; sayfalarda yayın tarihi yok, bitiş tarihi kampanya metninde."
+    "not": "Kampanya detay sayfaları /en/en-son-kampanyalar/<ad> adresinde ve yalnız arama sonucunda çıkınca okunabiliyor (liste sayfası /en/campaigns ve netflix sayfası onay zaman aşımı verdi). 27.11.2026: Nisan–Haziran 2026 kampanyalarının tamamı bitmiş (hoş geldin 200 TL, MetropolCard %10, Spotify/Hepsiburada Premium 30 TL, RIA 50 TL). Yıl yazmayan 3 sayfa (50 TL kazan 15–30 Kasım; Ria Hesaba Al 25 TL 2–31 Aralık; Yeni yıl hediyen) teyitsiz eklendi."
    },
    {
     "kurum": "iyzico",
     "tip": "fintech",
-    "url": null
+    "url": null,
+    "not": "DonanımHaber iyzico konusunda okunan kampanyalar 2024'te bitmiş; Techolay '1000/500 TL cashback' konusu okunamadı (site hatası). TCMB listesinde 'İyzi Ödeme ve Elektronik Para Hizmetleri A.Ş.' (kod 864) faal."
    },
    {
     "kurum": "Tami",
     "tip": "fintech",
-    "url": null
+    "url": "https://www.tami.com.tr/kampanyalar/tami-kart",
+    "not": "Resmi liste 27.11.2026'da okundu: 26 'Aktif Kampanya' (25'i 30.11.2026'da, PlayStation Aralık 31.12.2026'da bitiyor). Detay sayfalarında yalnız başlık var (koşul/başlangıç/üst sınır metni yok); slug'lardaki tutarlar (ör. '40-tlye-varan') sayfada doğrulanamadı. Detay adresleri tami.com.tr/kampanya/<ad>-kasim-26 (ya da -aralik-26)."
    },
    {
     "kurum": "AHL Pay",
     "tip": "fintech",
-    "url": null
+    "url": "https://www.ahlpay.com.tr",
+    "not": "Ahlatcı Ödeme ve Elektronik Para Hizmetleri A.Ş. (TCMB faal liste kodu 894); hizmet açık. Kasım kampanyası 'Efsane Kasım' (02–30.11.2026) resmi sayfadan değil forumdan biliniyor."
    },
    {
     "kurum": "Jüzdan",
     "tip": "fintech",
-    "url": null
+    "url": null,
+    "not": "Genç Akbanklı QR %10 (21.09–31.10.2026, Jüzdan/Akbank Mobil) bitti; Jüzdan iPhone ve 4. yaş çekiliş sayfaları genel Akbank listesine yönleniyor (bankalar alanı)."
    },
    {
     "kurum": "Hayat Pay",
     "tip": "fintech",
-    "url": "https://hayatfinans.com.tr/en/application-market/hayatpay",
-    "not": "Ürün sayfasında kampanya yok; forumda (DonanımHaber 'Hayat Pay Fırsatları') Ekim 2026'da %5 cashback'in kalktığı yazılıyor. /campaigns/bring-your-friend adresi 404."
+    "url": "https://hayatpay.com.tr/kampanya",
+    "not": "Resmi kampanya sayfası hayatpay.com.tr/kampanya (27.11.2026'da okundu; 15 kampanya listeli, çoğu 30.11.2026'da bitiyor; 'Hayat Finans', 'GastroClub', 'Geçmiş Kampanyalar' sekmeleri okunmadı). Forum (DonanımHaber Hayat Pay Fırsatları, 01–02.10.2026): cashback'in kalktığı ve kartla yüklemede komisyon getirildiği yazılıyor (kullanıcı beyanı). Arkadaşını getir kampanyası 19.08.2026'da bitti ve kişisel davet kodlu olduğu için eklenmez. Hayatpara TL değildir (Hediye Market'te ürün/GB paketi)."
    },
    {
     "kurum": "DenizPay",
     "tip": "fintech",
-    "url": null
+    "url": null,
+    "not": "TCMB faal listesinde Denizöde Elektronik Para ve Ödeme Hizmetleri A.Ş. (kod 891) var (DenizPay ile eşleşmesi teyitsiz). Arama DenizBank PDF'lerini gösterdi, ilgisiz; App Store sayfası onay zaman aşımı verdi."
    },
    {
     "kurum": "Payfour",
     "tip": "fintech",
     "url": "https://apps.apple.com/tr/app/payfour/id6651841329",
-    "not": "Resmi kampanya sayfası yok; kampanyalar forumdan (DonanımHaber CarrefourSA Payfour konusu) izleniyor."
+    "not": "Resmi kampanya sayfası yok; kampanyalar forumdan (DonanımHaber CarrefourSA Payfour konusu) izleniyor. 27.11.2026: Pegasus BolBol x Payfour iş birliği (08–31.10.2026) bitti; forum (30.06.2026) 'yaz koduyla 1000 TL'ye 500 TL' beyanı kişisel/kod dolu olduğundan eklenmedi."
    },
    {
     "kurum": "Vodafone Pay",
     "tip": "fintech",
-    "url": null
+    "url": "https://www.vodafonepay.com.tr/kampanyalar",
+    "not": "Resmi detay sayfaları vodafonepay.com.tr/kampanyalar/<ad> adresinde (liste sayfası arama sonucunda çıkmadı, adres doğrulanmadı). 27.11.2026: Kolay Paket %20, telefon faturası %10, İstanbulkart %10 ve ev interneti faturası kampanyaları 01.09–31.10.2026'da bitmiş; Kasım kampanyaları resmi sayfadan doğrulanamadı. DonanımHaber Vodafone Pay konusunda (26.11.2026) 'fatura cashback'i kalktı sanırım' yorumu var (kullanıcı beyanı)."
    },
    {
     "kurum": "Moneytolia",
     "tip": "fintech",
-    "url": null
+    "url": null,
+    "diger_adlar": [
+     "AS Ödeme Hizmetleri ve Elektronik Para"
+    ],
+    "not": "AS Ödeme ve Elektronik Para (TCMB faal liste kodu 911; marka eşleşmesi DonanımHaber konusunun meta açıklamasına dayanıyor). Moneyback %10 kampanyası bitmiş (kullanıcı beyanı: 21.11.2025 / en geç Mart 2026; destek hattı 'tüm kampanyalar sonlandı' demiş); 23.08.2026'da IBAN transferine 10 TL işlem ücreti şikayeti var. moneytolia.com resmi site olarak doğrulanmadı."
    },
    {
     "kurum": "Paratim",
@@ -356,7 +368,7 @@
     "kurum": "MorPara",
     "tip": "fintech",
     "url": "https://www.morpara.com/en/campaigns/",
-    "not": "LİSANS İPTAL: MorPara kampanya sayfaları TCMB'nin 10.11.2026 tarihli kararıyla iznin iptal edildiğini ve tüm ödeme/e-para hizmetlerinin durduğunu duyuruyor (şirketin kendi notu; TCMB kararındaki unvanla eşleşmesi teyitsiz). Aktif kampanya yok."
+    "not": "LİSANS İPTAL: MorPara kampanya sayfaları TCMB'nin 10.11.2026 tarihli kararıyla iznin iptal edildiğini ve tüm ödeme/e-para hizmetlerinin durduğunu duyuruyor (şirketin kendi notu; TCMB kararındaki unvanla eşleşmesi teyitsiz). Aktif kampanya yok. TCMB iptal listesinde 'MorPara' adı geçmiyor (listede A Ödeme ve Ozan var); eşleşme hâlâ teyitsiz."
    },
    {
     "kurum": "Zip Finansman",
@@ -366,12 +378,14 @@
    {
     "kurum": "Oliz",
     "tip": "fintech",
-    "url": null
+    "url": null,
+    "not": "Oliz = Arçelik'in fırsat uygulaması (OlizPay nakit iadesi); App Store metninde tutar/tarih yok; tarihli kampanya bulunamadı."
    },
    {
     "kurum": "Pokus",
     "tip": "fintech",
-    "url": null
+    "url": "https://apps.apple.com/tr/app/pokus/id1532737959",
+    "not": "TT Ödeme ve Elektronik Para Hizmetleri A.Ş. hizmeti (TCMB faal liste kodu 870; Türk Telekom ile bağı mağaza metninde 'Türk Telekom mobil faturan' ifadesiyle geçiyor). Forumdaki kampanyalar (Ekspres Hesap 250 TL, Çiçeksepeti %15) 2025'te bitmiş; 30.06.2026'dan itibaren kullanılmayan hesaplardan 19,90 TL aylık ücret alınacağı SMS'i paylaşılmış (kullanıcı beyanı)."
    },
    {
     "kurum": "OldubiL",
@@ -386,12 +400,14 @@
    {
     "kurum": "Midas",
     "tip": "fintech",
-    "url": "https://www.getmidas.com"
+    "url": "https://www.getmidas.com",
+    "not": "26.11–30.12.2026 yeni kullanıcı kademeli ödül dönemi başladı; iPhone 18 Pro çekilişi 16.11–06.12.2026 (3 haftalık dönem, çekilişler 11/18/25.12). Ayrıcalıklar listesi (getmidas.com/ayricaliklar/) doğrudan açılamıyor (onay zaman aşımı); kampanya detay sayfaları arama sonucundaki ?p=<id> adreslerinden okunuyor."
    },
    {
     "kurum": "Colendi",
     "tip": "fintech",
-    "url": null
+    "url": null,
+    "not": "Colendi Bank dijital banka olduğundan kampanyaları bankalar alanında izlenir."
    },
    {
     "kurum": "Pttcell / PTT",
@@ -401,7 +417,8 @@
    {
     "kurum": "TROY",
     "tip": "fintech",
-    "url": "https://www.troyodeme.com/en/personal/campaigns-and-offers"
+    "url": "https://www.troyodeme.com/tr/bireysel/kampanya-ve-firsatlar",
+    "not": "Türkçe liste sayfası okundu (27.11.2026): 3 'Devam Eden' (D&R 1.000 TL/TROY200, Evidea 300 TL, TROY'la Öde %20) ve 34 'Tamamlanan' kampanya; devam edenlerin detayı açılmadı, mevcut kayıtlar (baslangic/sosyal parçaları) korundu."
    },
    {
     "kurum": "SağlamPay",
@@ -477,6 +494,153 @@
      "Junomoney Elektronik Para ve Ödeme Hizmetleri"
     ],
     "not": "LİSANS İPTAL: TCMB 21.08.2026 kararı, RG 26.08.2026. Kampanya aranmaz."
+   },
+   {
+    "kurum": "TKPAY (THY)",
+    "tip": "fintech",
+    "url": "https://www.turkishairlines.com/tr-int/tkpay-cuzdan/",
+    "diger_adlar": [
+     "TKPAY",
+     "TK Pay",
+     "Türk Hava Yolları Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "YENİ LİSANS: Türk Hava Yolları Elektronik Para ve Ödeme Hizmetleri A.Ş. (haber 28.03.2025, Paratic; TCMB kodu 932). Miles&Smiles üyelerine cüzdan + ön ödemeli kart; yalnız THY ödemesi. Kampanya sayfası tkpay.com/tr/all-campaigns okunamadı."
+   },
+   {
+    "kurum": "İşPay",
+    "tip": "fintech",
+    "url": "https://www.isbank.com.tr/kampanyalar",
+    "diger_adlar": [
+     "IsPay",
+     "İş Pay"
+    ],
+    "not": "İş Bankası dijital cüzdanı. 'İşPay bakiyenizi yükleyin, harcadıkça kazanın' (01–30.11.2026, 1.000 TL+ harcamada %5 para iadesi) bakiye yüklemesi ihtiyaç kredisi/taksitli ek hesapla yapıldığı için (faizli kredi) kapsam dışı bırakıldı."
+   },
+   {
+    "kurum": "Yemekpay",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Yemekpay Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "YENİ LİSANS: Yemekpay Elektronik Para ve Ödeme Hizmetleri A.Ş. (TCMB faal liste kodu 923). Marka/uygulama ve kampanya bulunamadı (27.11.2026 arama kampanya göstermedi)."
+   },
+   {
+    "kurum": "Vakıf Elektronik Para",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Vakıf Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "YENİ LİSANS: Vakıf Elektronik Para ve Ödeme Hizmetleri A.Ş. (TCMB faal liste kodu 921). Marka ve kampanya bulunamadı."
+   },
+   {
+    "kurum": "Halk Elektronik Para",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Halk Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "YENİ LİSANS: Halk Elektronik Para ve Ödeme Hizmetleri A.Ş. (TCMB faal liste kodu 924). Marka ve kampanya bulunamadı."
+   },
+   {
+    "kurum": "Garanti Ödeme ve Elektronik Para",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Garanti Ödeme ve Elektronik Para Hizmetleri"
+    ],
+    "not": "YENİ LİSANS: Garanti Ödeme ve Elektronik Para Hizmetleri A.Ş. (TCMB faal liste kodu 925). Marka ve kampanya bulunamadı."
+   },
+   {
+    "kurum": "Hayhay Elektronik Para",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Hayhay Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "YENİ LİSANS: Hayhay Elektronik Para ve Ödeme Hizmetleri A.Ş. (haber 28.03.2025; TCMB kodu 931). Bankalar listesindeki Hayhay ile ilişkisi teyitsiz; kampanya bulunamadı."
+   },
+   {
+    "kurum": "Dinamik Elektronik Para",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Dinamik Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "TCMB faal e-para listesinde Dinamik Elektronik Para ve Ödeme Hizmetleri A.Ş. (kod 920; yeni kod aralığı: 2025-26 lisansı olabilir, tarih teyit edilmedi). Tüketici ürünü/kampanyası bulunamadı."
+   },
+   {
+    "kurum": "Qpay",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Qpay Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "TCMB faal e-para listesinde Qpay Elektronik Para ve Ödeme Hizmetleri A.Ş. (kod 928; yeni kod aralığı: 2025-26 lisansı olabilir, tarih teyit edilmedi). Tüketici ürünü/kampanyası bulunamadı."
+   },
+   {
+    "kurum": "Fintlix",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Fintlix Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "TCMB faal e-para listesinde Fintlix Elektronik Para ve Ödeme Hizmetleri A.Ş. (kod 929; yeni kod aralığı: 2025-26 lisansı olabilir, tarih teyit edilmedi). Tüketici ürünü/kampanyası bulunamadı."
+   },
+   {
+    "kurum": "Moneymate",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Moneymate Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "TCMB faal e-para listesinde Moneymate Elektronik Para ve Ödeme Hizmetleri A.Ş. (kod 930; yeni kod aralığı: 2025-26 lisansı olabilir, tarih teyit edilmedi). Tüketici ürünü/kampanyası bulunamadı."
+   },
+   {
+    "kurum": "Loop Ödeme",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Loop Ödeme Hizmetleri ve Elektronik Para"
+    ],
+    "not": "TCMB faal e-para listesinde Loop Ödeme Hizmetleri ve Elektronik Para A.Ş. (kod 935; yeni kod aralığı: 2025-26 lisansı olabilir, tarih teyit edilmedi). Tüketici ürünü/kampanyası bulunamadı."
+   },
+   {
+    "kurum": "Vizyon Elektronik Para",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Vizyon Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "LİSANS İPTAL: TCMB (haber 01.02.2026, AA/Uzmanpara; karar/RG tarihi sayfada yok). Kampanya aranmaz."
+   },
+   {
+    "kurum": "BSM Ödeme",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "BSM Ödeme Hizmetleri ve Elektronik Para"
+    ],
+    "not": "LİSANS İPTAL: TCMB (haber 01.02.2026). Kampanya aranmaz."
+   },
+   {
+    "kurum": "Vepara",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Vepara Elektronik Para ve Ödeme Hizmetleri"
+    ],
+    "not": "LİSANS İPTAL: TCMB (haber 01.02.2026). Kampanya aranmaz."
+   },
+   {
+    "kurum": "Mypayz",
+    "tip": "fintech",
+    "url": null,
+    "diger_adlar": [
+     "Mypayz Ödeme Kuruluşu"
+    ],
+    "not": "Tasfiye Halinde Mypayz Ödeme Kuruluşu A.Ş.: 01.02.2026 haberinde izin iptali sayılmış; TCMB e-para iptal listesinde yok (ödeme kuruluşu). Kampanya aranmaz."
    }
   ],
   "yatirim": [

@@ -1,7 +1,6 @@
 {
  "alan": "fintech",
- "tarih": "2026-11-24",
- "not": "İLK fintech taraması (önceki parça/kapsama yoktu). YÖNTEM NOTU: WebFetch ajanları kaynaklar.json'daki adresleri (papara.com/kampanyalar, tosla.com, paycell.com.tr/kampanyalar, param.com.tr/avantajlar, uption.com.tr) açamadı (onay-zaman-asimi: alan adı onayı zamanında yanıtlanmadı), ancak WebSearch sonuçlarında çıkan adresler sorunsuz okundu. Sonraki taramada önce arama yapıp çıkan resmi adresleri okutun; 'taranmadi' ve 'onay-zaman-asimi' kaynaklardan başlayın. LİSANS / DURUM DEĞİŞİKLİKLERİ (TCMB/TMSF, haber kaynaklı): (1) PAPEL — TCMB 18.09.2026 kararıyla (RG 23.09.2026) faaliyet iznini İPTAL etti. (2) PARAM (Turk Elektronik Para A.Ş.) — TMSF kayyımı altında: TCMB 30.04.2026'da izinleri geçici durdurdu, mahkeme yürütmeyi durdurunca 04.05.2026'da hizmetler açıldı, 13.07.2026'da bu karar kalktı ve PARAM ile grup şirketlerine TMSF kayyım atandı; ParamPOS hak edişleri kısmen ödendi, bireysel Param Cüzdan bakiye ödemeleri 27.10.2026'da başladı (dolaylı kaynak); ParamKart kampanya sayfaları okunamadı (JS). (3) PAPARA — TCMB iptali 30.10.2025 (RG 31.10.2025), Ankara 25. İdare Mahkemesi yürütmeyi 09.12.2025'te durdurdu, kayyım altında; Milli Gazete 17.09.2026 haberine göre kart/para yatırma/transfer 15.09.2026'da yeniden açıldı (tek kaynak, teyitsiz) — Papara kampanyaları 'teyitsiz' ve riskli. (4) MORPARA — kendi sitesi TCMB'nin 10.11.2026 tarihli kararıyla iznin iptal edildiğini, hizmetlerin durduğunu duyuruyor. (5) Diğer iptaller: A Ödeme ve Elektronik Para Hizmetleri AŞ (karar 10.11.2026, RG 11.11.2026; marka belirtilmemiş), Ozan Elektronik Para AŞ (RG 11.11.2026), Parakolay Elektronik Para AŞ (RG 10.10.2026), Payco ve Junomoney (karar 21.08.2026, RG 26.08.2026). YENİ LİSANSLAR (kaynaklar.json'a eklendi): SağlamPay (Kuveyt Türk iştiraki; karar 12.06.2026, RG 18.06.2026), NXT Elektronik Para ve Ödeme Hizmetleri AŞ (karar 29.09.2026, RG 03.10.2026), Hangipara Elektronik Para ve Ödeme Hizmetleri AŞ ile Logo Ödeme Hizmetleri AŞ (RG 25.02.2026); Paratika'nın izin kapsamı genişletildi. Hiçbirinde tüketici kampanyası bulunamadı. DOĞRULANAMAYAN MEVCUT KAYITLAR: alan=sosyal ve baslangic parçalarındaki fintech kayıtları (Tami ~16, Paycell ~15, Getir Finans 6, Hayat Pay 2, Vodafone Pay 1, Papara 2, MoneyPay, Hepsipay, MARS, Oliz, Payfour) bu taramada resmi sayfadan yeniden doğrulanamadı (Tami/Paycell/Hayat Pay/MoneyPay resmi sayfaları okunamadı); olduğu gibi bırakıldı. Paycell'in Turkcell sayfalarındaki 'TR Karekod 400 TL' ve 'App Store 50 TL' kampanyaları 'Kampanya Bitti' etiketli, eklenmedi. Forum ipucu: Hayat Pay'de %5 cashback Ekim 2026'da kalkmış, kartla yüklemede komisyon var. Midas (yatirim parçasındaki 3 kayıt) resmi sayfadan doğrulandı: kademeli ödül 25.11.2026'da, iPhone 18 Pro çekilişi 06.12.2026'da bitiyor; 02-22.11 çekilişi bitti. TROY: Evidea 300 TL (06.12.2026) ve MATİK %20 (sayfada 30.12/31.12 tutarsız) geçerli; Pazarama 250 TL 22.11.2026'da bitti. UPT: Gain/ChatGPT/Disney/HBO Max/Shahid/YouTube/Hop/Havaş/otopark/Martı vb. 11+ kampanya bitmiş; Netflix, Spotify, Hepsiburada Premium, Nepal sayfaları açılamadı (büyük olasılıkla 30.06.2026'da bitmiş). Yapı Kredi/Akbank/Ziraat Bankası sayfalarındaki banka kampanyaları (Jest Lira, faizsiz nakit avans, SANSLIKASIM vb.) bankalar alanına aittir, eklenmedi.",
+ "tarih": "2026-11-27",
  "kaynaklar": [
   {
    "ad": "Papara (kampanyalar sayfası)",
@@ -11,40 +10,56 @@
    "bulunan": 0
   },
   {
-   "ad": "Papara (cashback sayfası + App Store + haberler)",
+   "ad": "Papara (cashback marka sayfaları + SSS + haberler + DonanımHaber)",
    "url": "https://www.papara.com/en/cashback-lp",
    "durum": "ok",
-   "bulunan": 1
+   "sebep": "Cashback LP ve SSS ile marka sayfaları (gratis, play-store, youtube) okundu; app-store, claude, carrefoursa sayfaları 4xx verdi; Play Store/YouTube sayfaları eski dönemi (1 Ocak–31 Mart) gösteriyor, eklenmedi",
+   "bulunan": 2
   },
   {
-   "ad": "Paycell (resmi kampanyalar sayfası)",
-   "url": "https://www.paycell.com.tr/kampanyalar",
+   "ad": "Papara blog (Altın Cuma)",
+   "url": "https://blog.papara.com/papara-altin-cuma/",
    "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
+   "sebep": "robots",
    "bulunan": 0
   },
   {
-   "ad": "Paycell (Turkcell kampanya sayfaları + App Store)",
-   "url": "https://www.turkcell.com.tr/kampanyalar/mobil-hat-data-hatti-kampanyalari/diger-kampanyalarimiz/paycell-tr-karekod-ekosistem-kampanyasi-nakit-iade",
+   "ad": "Paycell (resmi kampanya listesi + 9 detay sayfası)",
+   "url": "https://paycell.com.tr/kampanyalar",
+   "durum": "ok",
+   "sebep": "Allowed_domains aramasıyla çıkan adresler okundu; liste 8 sayfa, yalnız 1. sayfa okunabildi (sayfalama bağlantıları '#'); Spotify/ChatGPT/Apple/market/akaryakıt kampanyası görülmedi ama sayfa 2–8 okunamadığı için bilinmiyor",
+   "bulunan": 7
+  },
+  {
+   "ad": "Paycell (Turkcell DCB App Store 50 TL + App Store sayfası)",
+   "url": "https://www.turkcell.com.tr/kampanyalar/mobil-hat-data-hatti-kampanyalari/diger-kampanyalarimiz/paycell-dcb-app-store-mass-kampanya",
    "durum": "kampanya-yok",
-   "sebep": "iki sayfa 'Kampanya Bitti'; App Store açıklamasında sayısal kampanya yok",
+   "sebep": "tarihsiz; sayfada hem 'Kampanya Katılım' hem 'Kampanya Bitti' metni var; mevcut sosyal kaydı (App Store 75/100 TL) korundu",
    "bulunan": 0
   },
   {
    "ad": "Tosla (resmi site)",
    "url": "https://tosla.com",
    "durum": "ulasilamadi",
-   "sebep": "onay-zaman-asimi",
+   "sebep": "arama-sonucsuz",
    "bulunan": 0
   },
   {
-   "ad": "Tosla (App Store açıklaması)",
+   "ad": "Tosla (App Store açıklaması kaydı)",
    "url": "https://apps.apple.com/ly/app/tosla/id1463160775",
-   "durum": "ok",
+   "durum": "taranmadi",
+   "sebep": "önceki taramadaki teyitsiz kayıt korundu; bu taramada App Store sayfası yeniden açılmadı",
    "bulunan": 1
   },
   {
-   "ad": "Param",
+   "ad": "Tosla (Technopat 'Tosla bitti mi?' konusu)",
+   "url": "https://www.technopat.net/sosyal/konu/tosla-bitti-mi.2188569/",
+   "durum": "ulasilamadi",
+   "sebep": "site-hatasi",
+   "bulunan": 0
+  },
+  {
+   "ad": "Param (ana sayfa + kampanya sayfaları)",
    "url": "https://param.com.tr/avantajlar",
    "durum": "ulasilamadi",
    "sebep": "site-hatasi",
@@ -54,182 +69,204 @@
    "ad": "Papel",
    "url": "https://papel.com.tr",
    "durum": "kampanya-yok",
-   "sebep": "LİSANS İPTAL: TCMB 18.09.2026, RG 23.09.2026",
+   "sebep": "LİSANS İPTAL: TCMB 18.09.2026, RG 23.09.2026 (TCMB iptal listesinde yer alıyor)",
    "bulunan": 0
   },
   {
    "ad": "MoneyPay / Migros Money",
    "url": "https://www.migros.com.tr/moneypay",
-   "durum": "ulasilamadi",
-   "sebep": "site-hatasi",
+   "durum": "kampanya-yok",
+   "sebep": "okunan Migros Money sayfaları bitmiş (3–5.08.2026, 2021); 5 sayfa HTTP 4xx, 2 sayfada kampanya metni yok; App Store sayfasında kampanya yok; mevcut baslangic kayıtları korundu",
    "bulunan": 0
   },
   {
    "ad": "Hepsipay",
-   "url": null,
+   "url": "https://www.hepsipay.com/bireysel/kampanyalar",
    "durum": "kampanya-yok",
-   "sebep": "resmi sayfa bulunamadı; forum (06.07.2026'ya kadar) tarihli kampanya göstermiyor; Yapı Kredi sayfası sunucu hatası verdi",
+   "sebep": "resmi sayfa bulundu (ay-marka mağaza kampanyaları) ama okunan sayfa sunucu hatası verdi; Hepsiburada genel kampanya sayfasında Hepsipay kampanyası yok; forum (10.08.2026) güncel kampanya göstermiyor",
    "bulunan": 0
   },
   {
    "ad": "ZiraatPay",
    "url": "https://www.ziraatpay.com.tr",
    "durum": "ok",
-   "sebep": "resmi sayfa denenmedi (WebFetch onayı yok); kampanya DonanımHaber ZiraatPay konusundan (17.07.2026) alındı",
+   "sebep": "arama yeni resmi sayfa göstermedi; forum alıntısındaki teyitsiz kayıt korundu",
    "bulunan": 1
   },
   {
-   "ad": "UPT (UPTION)",
-   "url": "https://www.uption.com.tr/en/campaigns",
+   "ad": "UPT (UPTION kampanya detay sayfaları)",
+   "url": "https://www.uption.com.tr/en/en-son-kampanyalar/",
    "durum": "ok",
-   "bulunan": 2
+   "sebep": "13 detay sayfası okundu: Nisan–Haziran 2026 ve eski kampanyaların hepsi bitmiş; yıl yazmayan 3 sayfa teyitsiz eklendi; 2 kayıt önceki taramadan korundu",
+   "bulunan": 5
+  },
+  {
+   "ad": "UPT (liste sayfası, Netflix, hesaba-al-yapan-yeni-musterilere ve arkadasini-davet-et sayfaları)",
+   "url": "https://www.uption.com.tr/en/campaigns",
+   "durum": "ulasilamadi",
+   "sebep": "onay-zaman-asimi",
+   "bulunan": 0
   },
   {
    "ad": "iyzico",
    "url": null,
-   "durum": "taranmadi",
-   "sebep": "arama iyzico.com/en/personal/mastercard-tikla-gelsin ve mastercard-enuygun sayfalarını ve Techolay 'iyzico'da ilk ödemeye özel 1000/500 TL cashback' konusunu gösterdi; okunmadı (bütçe)",
+   "durum": "kampanya-yok",
+   "sebep": "DonanımHaber konusundaki kampanyalar 2024'te bitmiş; Techolay konusu okunamadı (site hatası)",
    "bulunan": 0
   },
   {
-   "ad": "Tami",
-   "url": null,
+   "ad": "Tami (resmi aktif kampanya listesi + 13 detay sayfası + Sigortam.net)",
+   "url": "https://www.tami.com.tr/kampanyalar/tami-kart",
    "durum": "ok",
-   "sebep": "resmi Tami kampanya sayfası bulunamadı; Sigortam.net sayfası okundu; DonanımHaber Tami konusu (06.01.2026) eski",
-   "bulunan": 1
+   "sebep": "26 aktif kampanya listelendi (25'i 30.11.2026'da, PlayStation Aralık'ta biter); detay sayfalarında koşul metni yok",
+   "bulunan": 7
   },
   {
    "ad": "AHL Pay",
-   "url": null,
-   "durum": "kampanya-yok",
-   "sebep": "DonanımHaber konusu 11.02.2026'ya kadar; güncel kampanya yok (eski fiziki altın/gümüş bakiye kampanyası)",
-   "bulunan": 0
+   "url": "https://www.ahlpay.com.tr",
+   "durum": "ok",
+   "sebep": "SSS + haber + DonanımHaber son sayfa okundu; 'Efsane Kasım' resmi sayfadan değil forumdan",
+   "bulunan": 2
   },
   {
    "ad": "Jüzdan",
    "url": null,
-   "durum": "taranmadi",
-   "sebep": "arama akbank.com/kampanyalar/juzdan-iphone-cekilis-kampanyasi ve juzdan-ile-cebindeki-cuzdan-simdi-dijitalde adreslerini gösterdi; okunan juzdan-4-yas-cekilis-kampanyasi genel kampanya listesine yönlendi; ilk ikisi okunmadı",
+   "durum": "kampanya-yok",
+   "sebep": "Genç Akbanklı QR bitti (31.10.2026); iPhone ve 4. yaş çekiliş sayfaları genel Akbank listesine yönleniyor",
    "bulunan": 0
   },
   {
-   "ad": "Hayat Pay",
-   "url": "https://hayatfinans.com.tr/en/application-market/hayatpay",
-   "durum": "kampanya-yok",
-   "sebep": "ürün sayfasında kampanya yok; bring-your-friend adresi 404; forum (04.11.2026'ya kadar) cashback'in kalktığını yazıyor",
-   "bulunan": 0
+   "ad": "Hayat Pay (resmi kampanya listesi + 7 detay sayfası)",
+   "url": "https://hayatpay.com.tr/kampanya",
+   "durum": "ok",
+   "sebep": "15 kampanya listeli; 3'ünün detayı okundu; 2 detay sayfası 4xx; kişisel davet kodlu arkadaşını getir (bitti 19.08.2026) eklenmedi",
+   "bulunan": 13
   },
   {
    "ad": "DenizPay",
    "url": null,
-   "durum": "taranmadi",
-   "sebep": "arama denizbank.com/medium/document-file-*.vsf PDF'lerini ve apps.apple.com/tr/app/denizpay/id489509999 sayfasını gösterdi; okunmadı (bütçe)",
+   "durum": "ulasilamadi",
+   "sebep": "arama-sonucsuz",
    "bulunan": 0
   },
   {
    "ad": "Payfour",
    "url": "https://apps.apple.com/tr/app/payfour/id6651841329",
    "durum": "kampanya-yok",
-   "sebep": "App Store'da sayısal kampanya yok; Akbank payfour-kampanyasi adresi genel listeye yönlendi; forum: ilk üyelik 'yaz koduyla 1000/500 TL' beyanı ve 20-22.11 meyve-sebze kampanyası (bitti) teyitsiz olduğundan eklenmedi",
+   "sebep": "Pegasus BolBol x Payfour 31.10.2026'da bitti; Akbank listesinde Payfour kampanyası yok; forum 1000/500 TL beyanı kişisel kodlu/teyitsiz olduğundan eklenmedi",
    "bulunan": 0
   },
   {
-   "ad": "Vodafone Pay",
-   "url": null,
+   "ad": "Vodafone Pay (resmi detay sayfaları + Sigortam.net + forum)",
+   "url": "https://www.vodafonepay.com.tr/kampanyalar",
    "durum": "ok",
-   "sebep": "Sigortam.net sayfası okundu; DonanımHaber konusu 08.10.2026'ya kadar ('bu ay pek kampanya yok')",
+   "sebep": "4 resmi kampanya (Kolay Paket, fatura, İstanbulkart, ev interneti) 31.10.2026'da bitmiş, 1 sayfa 4xx; Kasım kampanyaları resmi sayfadan doğrulanamadı; Sigortam.net kampanyası geçerli",
    "bulunan": 1
   },
   {
    "ad": "Moneytolia",
    "url": null,
-   "durum": "taranmadi",
-   "sebep": "arama DonanımHaber Moneytolia ana konusu (sayfa 2) gösterdi; okunmadı (bütçe)",
+   "durum": "kampanya-yok",
+   "sebep": "Moneyback kampanyası bitmiş (2025/Mart 2026); destek 'tüm kampanyalar sonlandı' demiş (kullanıcı beyanı)",
    "bulunan": 0
   },
   {
    "ad": "Paratim",
    "url": null,
-   "durum": "taranmadi",
-   "sebep": "yalnız arama denendi (sonuçsuz: yalnız Param sayfaları döndü); resmi sayfa adresi bilinmiyor",
+   "durum": "ulasilamadi",
+   "sebep": "arama-sonucsuz",
    "bulunan": 0
   },
   {
    "ad": "MARS",
    "url": "https://marsneo.com",
-   "durum": "taranmadi",
-   "sebep": "yalnız arama denendi (sonuçsuz: THY Miles&Smiles sayfaları); resmi sayfa denenmedi (kaynaklar adresleri onay almıyor)",
+   "durum": "ulasilamadi",
+   "sebep": "arama-sonucsuz",
    "bulunan": 0
   },
   {
    "ad": "MorPara",
    "url": "https://www.morpara.com/en/campaigns/",
    "durum": "kampanya-yok",
-   "sebep": "LİSANS İPTAL: site TCMB'nin 10.11.2026 kararıyla izni iptal edildiğini duyuruyor; listedeki tüm kampanyalar 'Past'",
+   "sebep": "LİSANS İPTAL: site TCMB'nin 10.11.2026 kararını duyuruyor; TCMB iptal listesinde 'MorPara' adı yok, eşleşme teyitsiz",
    "bulunan": 0
   },
   {
    "ad": "Zip Finansman",
    "url": "https://tr.zip.co",
    "durum": "taranmadi",
-   "sebep": "arama ortak kampanya PDF'lerini (Samsung Zip 3 taksit, MediaMarkt Zip alışveriş kredisi) gösterdi; resmi sayfa ve PDF'ler okunmadı",
+   "sebep": "arama yalnız MediaMarkt Zip alışveriş kredisi sayfalarını gösterdi (okunmadı); taksitli kredi ürünü olduğu için faizli/kapsam dışı olabilir",
    "bulunan": 0
   },
   {
    "ad": "Oliz",
    "url": null,
-   "durum": "taranmadi",
-   "sebep": "yalnız arama denendi (sonuçsuz); resmi sayfa adresi bilinmiyor",
+   "durum": "kampanya-yok",
+   "sebep": "Arçelik'in Oliz uygulaması; App Store metninde tutar/tarih yok",
    "bulunan": 0
   },
   {
-   "ad": "Pokus",
-   "url": null,
-   "durum": "taranmadi",
-   "sebep": "yalnız arama denendi (sonuçsuz); resmi sayfa adresi bilinmiyor",
+   "ad": "Pokus (TT Ödeme)",
+   "url": "https://apps.apple.com/tr/app/pokus/id1532737959",
+   "durum": "kampanya-yok",
+   "sebep": "forumdaki kampanyalar 2025'te bitmiş; haber7 sayfası okunamadı (site hatası)",
    "bulunan": 0
   },
   {
    "ad": "OldubiL",
    "url": null,
-   "durum": "kampanya-yok",
-   "sebep": "DonanımHaber konusu 12.11.2021'de kalmış; güncel kampanya yok",
+   "durum": "taranmadi",
+   "sebep": "bu taramada denenmedi (önceki taramada kampanya yoktu)",
    "bulunan": 0
   },
   {
    "ad": "Getir Finans",
    "url": "https://www.getirfinans.com/kampanyalar",
    "durum": "ok",
-   "sebep": "getirde-getirpara resmi sayfası okundu; enuygunfinans iki sayfası client_error verdi; diğer 6 mevcut kayıt (baslangic parçası) yeniden doğrulanmadı",
+   "sebep": "getirde-getirpara resmi sayfası yeniden okundu (%3 getirpara, 30.11.2026); yeni müşteri/arkadaşını getir bulunamadı; diğer 6 Getir kaydı (sosyal/baslangic) resmi sayfadan doğrulanamadı (sponsorlu haber 14.08.2026 %1 harcama iadesi ve abonelik iadelerini tarihsiz anlatıyor)",
    "bulunan": 1
   },
   {
    "ad": "Midas",
    "url": "https://www.getmidas.com/ayricaliklar/",
    "durum": "ok",
-   "sebep": "yatirim parçasındaki 3 kayıt resmi sayfalardan doğrulandı (tekrar yazılmadı)",
-   "bulunan": 3
+   "sebep": "yeni dönem kademeli ödül (26.11–30.12.2026) ve iPhone 18 Pro çekilişi (16.11–06.12.2026) arama sonucu adreslerinden okundu; ayricaliklar listesi onay zaman aşımı verdi; çekiliş kaydı yatirim parçasında",
+   "bulunan": 1
   },
   {
    "ad": "Colendi",
    "url": null,
-   "durum": "taranmadi",
-   "sebep": "yalnız arama denendi (sonuçsuz); resmi sayfa adresi bilinmiyor",
+   "durum": "kampanya-yok",
+   "sebep": "Colendi Bank dijital banka; bankalar alanında izlenir",
    "bulunan": 0
   },
   {
    "ad": "Pttcell / PTT",
    "url": null,
-   "durum": "taranmadi",
-   "sebep": "arama 'PTT AŞ'den yeni müşterilere özel Pttcell kampanyası' haberini (habergazetesi) ve PTT emekli nakit desteği haberlerini gösterdi; okunmadı (emekli desteği bankalar/ekgelir alanına ait)",
+   "durum": "kampanya-yok",
+   "sebep": "Pttcell yeni müşteri kampanyası telekom ürünüdür (alisveris alanı); cüzdan kampanyası bulunamadı",
    "bulunan": 0
   },
   {
    "ad": "TROY",
-   "url": "https://www.troyodeme.com/en/personal/campaigns-and-offers",
+   "url": "https://www.troyodeme.com/tr/bireysel/kampanya-ve-firsatlar",
    "durum": "ok",
-   "sebep": "liste sayfası okundu: aktif Evidea 300 TL ve MATİK %20 (mevcut kayıtlar doğrulandı); Pazarama 250 TL bitti",
-   "bulunan": 2
+   "sebep": "Türkçe liste okundu: 3 devam eden (D&R, Evidea, TROY'la Öde %20), 34 tamamlanan; devam edenlerin detayı açılmadı; D&R, Evidea ve MATİK kayıtları baslangic/sosyal parçalarında korundu",
+   "bulunan": 3
+  },
+  {
+   "ad": "TKPAY (THY) – yeni lisans",
+   "url": "https://www.turkishairlines.com/tr-int/tkpay-cuzdan/",
+   "durum": "ok",
+   "sebep": "cüzdan ve kurallar sayfası okundu; TK Para kazanımı teyitsiz eklendi",
+   "bulunan": 1
+  },
+  {
+   "ad": "İşPay (İş Bankası)",
+   "url": "https://www.isbank.com.tr/kampanyalar/ispay-bakiyenizi-yukleyin-harcadikca-kazanin",
+   "durum": "kampanya-yok",
+   "sebep": "tek kampanya (%5 iade, 01–30.11.2026) ihtiyaç kredisi/ek hesapla bakiye yüklemeyi şart koştuğu için kapsam dışı",
+   "bulunan": 0
   },
   {
    "ad": "SağlamPay (yeni lisans)",
@@ -242,7 +279,7 @@
    "ad": "NXT Elektronik Para (yeni lisans)",
    "url": null,
    "durum": "kampanya-yok",
-   "sebep": "yeni lisanslı; marka ve kampanya bilgisi haberlerde yok",
+   "sebep": "yeni lisanslı; marka ve kampanya bilgisi yok",
    "bulunan": 0
   },
   {
@@ -260,17 +297,31 @@
    "bulunan": 0
   },
   {
-   "ad": "Parakolay / A Ödeme / Ozan / Payco / Junomoney (lisansı iptal edilenler)",
+   "ad": "Yemekpay, Vakıf EP, Halk EP, Garanti EP, Hayhay EP, Dinamik, Qpay, Fintlix, Moneymate, Loop (TCMB listesinden eklenen yeni lisanslılar)",
    "url": null,
    "durum": "kampanya-yok",
-   "sebep": "LİSANS İPTAL: Parakolay RG 10.10.2026; A Ödeme RG 11.11.2026; Ozan RG 11.11.2026; Payco ve Junomoney RG 26.08.2026",
+   "sebep": "tüketici markası/kampanyası bulunamadı",
    "bulunan": 0
   },
   {
-   "ad": "Hesapkurdu (derleme: cashback rehberi, güncelleme 02.10.2026)",
-   "url": "https://www.hesapkurdu.com/kredi-karti/rehber/en-iyi-cashback-veren-uygulamalar-ve-kartlar",
+   "ad": "Parakolay / A Ödeme / Ozan / Payco / Junomoney / Vizyon / BSM / Vepara (lisansı iptal edilenler)",
+   "url": null,
    "durum": "kampanya-yok",
-   "sebep": "rehberde Papara/Tosla/Param için sayısal oran yok",
+   "sebep": "LİSANS İPTAL: kampanya aranmadı",
+   "bulunan": 0
+  },
+  {
+   "ad": "TCMB faal e-para kuruluşları listesi",
+   "url": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Temel+Faaliyetler/Odeme+Hizmetleri/Elektronik+Para+Kuruluslari",
+   "durum": "ok",
+   "sebep": "53 faal, 17 iptal kuruluş okundu (liste tarihsiz)",
+   "bulunan": 0
+  },
+  {
+   "ad": "Haber siteleri (TCMB/TMSF lisans ve kayyım haberleri)",
+   "url": "https://www.cnbce.com",
+   "durum": "ok",
+   "sebep": "lisans iptali/yeni izin bilgileri kapsama notuna yazıldı",
    "bulunan": 0
   },
   {
@@ -281,24 +332,33 @@
    "bulunan": 0
   },
   {
+   "ad": "Hesapkurdu (Getirfinans kurum sayfası)",
+   "url": "https://www.hesapkurdu.com/kurum/getirfinans",
+   "durum": "kampanya-yok",
+   "sebep": "kampanya listesi yok; sayfa kendi içinde çelişkili (altyapı Fibabanka / İş Bankası)",
+   "bulunan": 0
+  },
+  {
    "ad": "Hesap.com, HangiKredi, Teklifimgelsin ve diğer derleme siteleri (Avantaj Radar, Kartcini, Kart Asistanım, Kart Avantaj, Kartsever, Bi Kod Vardı, Cashback Verenler vb.)",
    "url": "https://hesap.com",
    "durum": "taranmadi",
-   "sebep": "bu taramada fintech kurumlarının resmi/haber/forum kaynaklarına odaklanıldı; derleme siteleri doğrudan okunmadı",
+   "sebep": "bu taramada fintech kurumlarının resmi sayfalarına odaklanıldı; derleme siteleri doğrudan okunmadı",
    "bulunan": 0
   },
   {
-   "ad": "DonanımHaber Forum (Tami, ZiraatPay, Hepsipay, Hayat Pay, Payfour, Vodafone Pay, AHL Pay, OldubiL, Getir Finans konuları)",
+   "ad": "Cashback listeleri (Technopat / DonanımArşivi 'Rehber … Cashback Listesi')",
+   "url": "https://www.technopat.net/sosyal/etiket/cashback/",
+   "durum": "kampanya-yok",
+   "sebep": "arama en yeni listeyi Ağustos 2026 olarak gösterdi; Kasım/Aralık listesi bulunamadı",
+   "bulunan": 0
+  },
+  {
+   "ad": "DonanımHaber Forum (Papara, Moneytolia, Payfour, Hayat Pay, Vodafone Pay, Tami, AHL Pay, Pokus, Hepsipay, iyzico konuları)",
    "url": "https://forum.donanimhaber.com",
    "durum": "ok",
+   "sebep": "son mesaj tarihleri kaydedildi; forum iddiaları teyitsiz sayıldı",
    "bulunan": 1
-  },
-  {
-   "ad": "Haber siteleri (TCMB/BDDK/TMSF lisans ve kayyım haberleri)",
-   "url": "https://www.cnbce.com",
-   "durum": "ok",
-   "sebep": "lisans iptali/yeni izin bilgileri kapsama notuna yazıldı",
-   "bulunan": 0
   }
- ]
+ ],
+ "not": "Fintech taraması #2 (27.11.2026). YÖNTEM: shell'den dış siteye erişim proxy'de engelli; WebFetch yalnız WebSearch sonucunda çıkan adresleri okuyabiliyor, kaynaklar.json'daki adresleri doğrudan açınca 'onay-zaman-asimi' veriyor. ÇÖZÜM (sonraki taramada ilk adım): WebSearch'e allowed_domains ile resmi alan adını ver (paycell.com.tr, hayatpay.com.tr, tami.com.tr, papara.com, troyodeme.com, vodafonepay.com.tr, hepsipay.com), çıkan adresleri oku; tosla.com aramada sonuç vermedi. LİSANS / DURUM: TCMB faal e-para listesi 27.11.2026'da okundu (53 faal; iptal bölümünde 17 kuruluş: Paybull, IQ Money, Paypole, İninal, Vizyon, BSM, Vepara, Fzypay, TTM, ParaQR, Parolapara, Junomoney, Payco, Papel, Parakolay, A Ödeme, Ozan; liste tarihsiz). 12.11.2026 sonrası yeni iptal/izin haberi bulunamadı (son olaylar 10–11.11.2026: A Ödeme ve Ozan iptali). Yeni izinler: NXT (karar 29.09.2026, RG 03.10.2026), Sağlam/SağlamPay (haber 18.06.2026), Hangipara ve Logo Ödeme (RG 25.02.2026); THY Elektronik Para (TKPAY) ve Hayhay Elektronik Para (haber 28.03.2025). 01.02.2026 haberinde Vizyon, BSM, Vepara ve Tasfiye Halinde Mypayz iptal edilmiş (Mypayz e-para iptal listesinde yok). PAPARA (önceki not düzeltildi): TCMB iptal kararı (30.10.2025) 21.01.2026'da kaldırıldı; TMSF 22.01.2026'da PPR Holding'i satışa çıkardı, ihaleyi Emlak Katılım kazandı (SPK 16.04.2026; Rekabet Kurulu 07.05.2026); kart/ödeme hizmetleri 15.09.2026'da yeniden açıldı (Timeturk, tek kaynak). PARAM: TMSF kayyımı sürüyor (13.07.2026), param.com.tr ana sayfasında duyuru var; bireysel ParamCüzdan bakiye ödemeleri 27.10.2026'da başladı (dolaylı kaynak); kampanya okunamadı. PAPEL: izin iptali (RG 23.09.2026). MORPARA: kendi sitesi 10.11.2026 iptalini duyuruyor, TCMB listesinde adı yok (teyitsiz). TOSLA: iptal/kapanma haberi bulunamadı. KAMPANYA BULGULARI: Paycell resmi sayfası ilk kez okundu: Netflix %50 (en fazla 129,99 TL, 31.12.2026), fatura talimatı 50–300 TL (30.11.2026), Sticker Kart 200 TL (31.12.2026), Okulyo 50 TL (gerçek bitiş 30.11.2026; önceki kayıt 31.12 yazıyordu). Paycell listesi 8 sayfa, yalnız 1. sayfa okunabildi. Tami resmi listesi: 26 aktif kampanya (25'i 30.11.2026'da bitiyor; PlayStation Aralık'ta). Hayat Pay resmi listesi: 15 kampanya, çoğu 30.11.2026'da bitiyor. Midas yeni kullanıcı kademeli ödül dönemi 26.11–30.12.2026 (500.000 TL net yatırım ve 90 gün bakiye şartı, ürün ödülü). KAPSAM DIŞI/EKLENMEDİ: İşPay %5 iade (ihtiyaç kredisi/ek hesapla yükleme şartı = faizli kredi); kişisel davet kodlu kampanyalar (Hayat Pay referans PR37PZ, Payfour 'yaz koduyla 1000/500 TL'); Papara Altın Cuma blogu (robots; '29 Kasım' büyük olasılıkla 2024'e ait). DOĞRULANAMAYAN MEVCUT KAYITLAR: sosyal/baslangic parçalarındaki Paycell Kasım kayıtları (Sticker Kart %20, Trendyol/DeFacto/Mavi/Watsons, PlayStation/Xbox/ChatGPT/Amazon Prime iadeleri), Getir Finans abonelik/harcama iadeleri, Vodafone Pay Kasım kampanyaları, Tami Kasım kayıtlarının koşulları (Tami resmi listesi bu kampanyaların varlığını ve 30.11.2026 bitişini doğruladı) olduğu gibi bırakıldı. MoneyPay/Migros Money'de geçerli kampanya doğrulanamadı. Tosla ve ZiraatPay kayıtları teyitsiz korundu."
 }
